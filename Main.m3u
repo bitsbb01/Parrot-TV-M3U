@@ -203,7 +203,7 @@ plugin://plugin.video.freeview.sk/?provider=ta3&channel=ta3
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/XzBpYkL/Fashion-TV.png",SK: Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/4jx6gzZ/TV-Lux.png",SK: TV Lux
-http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/fnMky9c/Senzi.png",SK: Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
 #EXTINF:-1 group-title="CZ SK" tvg-logo="ttps://i.ibb.co/wRG1nkt/TV-OSEM.png",SK: Televizia OSEM
