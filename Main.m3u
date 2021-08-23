@@ -163,16 +163,35 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/IWpevBp.jpg",CA: VBS
 https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/SccZK6g/JOJ.png",SK: JoJ
-http://nn2.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/G5VWSNM/Plus.png",SK: JoJ Plus
-http://nn2.joj.sk/hls/jojplus-540.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/MNRvsnZ/JOJ-Family.jpg",SK: JoJ Family
-http://nn.geo.joj.sk/hls/family-360.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/kmDHqy3/WAU.png",SK: Wau
-https://nn.geo.joj.sk/live/wau-index.m3u8?fluxustv.m3u8
-#EXTINF:-1, group-title="SK Channels" tvg-logo="https://i.ibb.co/3Wg9wyj/Markiza.png",SK: Markiza
-https://list.iptvcat.com/my_list/s/fc11d89f9c1bcfeb43a472f39f422970.m3u8
+
+#EXTINF:0 tvg-id="2458735488" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jednotka.png" group-title="CZ SK" tvg-name="FreeView: SK: Jednotka",FreeView: SK: Jednotka
+plugin://plugin.video.freeview.sk/?provider=rtvs&channel=jednotka
+#EXTINF:0 tvg-id="2458735552" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/dvojka.png" group-title="CZ SK" tvg-name="FreeView: SK: Dvojka",FreeView: SK: Dvojka
+plugin://plugin.video.freeview.sk/?provider=rtvs&channel=dvojka
+#EXTINF:0 tvg-id="2458840320" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/trojka.png" group-title="CZ SK" tvg-name="FreeView: SK: Trojka",FreeView: SK: Trojka
+plugin://plugin.video.freeview.sk/?provider=rtvs&channel=trojka
+#EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/rtvs.png" group-title="CZ SK" tvg-name="FreeView: SK: RTVS Online",FreeView: SK: RTVS Online
+plugin://plugin.video.freeview.sk/?provider=rtvs&channel=online
+#EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nrsr.png" group-title="CZ SK" tvg-name="FreeView: SK: NRSR Online",FreeView: SK: NRSR Online
+plugin://plugin.video.freeview.sk/?provider=rtvs&channel=nrsr
+#EXTINF:0 tvg-id="2458735680" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/joj.png" group-title="CZ SK" tvg-name="FreeView: SK: JOJ",FreeView: SK: JOJ
+plugin://plugin.video.freeview.sk/?provider=joj&channel=joj
+#EXTINF:0 tvg-id="2458735744" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/plus.png" group-title="CZ SK" tvg-name="FreeView: SK: JOJ Plus",JFreeView: SK: OJ Plus
+plugin://plugin.video.freeview.sk/?provider=joj&channel=plus
+#EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/family.png" group-title="CZ SK" tvg-name="FreeView: SK: Jojko",FreeView: SK: Jojko
+plugin://plugin.video.freeview.sk/?provider=joj&channel=family
+#EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jojko.png" group-title="CZ SK" tvg-name="FreeView: SK: Jojko",FreeView: SK: Jojko
+plugin://plugin.video.freeview.sk/?provider=joj&channel=jojko
+#EXTINF:0 tvg-id="2458735936" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/wau.png" group-title="CZ SK" tvg-name="FreeView: SK: WAU",FreeView: SK: WAU
+plugin://plugin.video.freeview.sk/?provider=joj&channel=wau
+#EXTINF:0 tvg-id="2458735616" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/markiza.png" group-title="CZ SK" tvg-name="FreeView: SK: Markíza",FreeView: SK: Markíza
+plugin://plugin.video.freeview.sk/?provider=markiza&channel=markiza
+#EXTINF:0 tvg-id="2458735808" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/doma.png" group-title="CZ SK" tvg-name="FreeView: SK: Doma",FreeView: SK: Doma
+plugin://plugin.video.freeview.sk/?provider=markiza&channel=doma
+#EXTINF:0 tvg-id="2458735872" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/dajto.png" group-title="CZ SK" tvg-name="FreeView: SK: Dajto",FreeView: SK: Dajto
+plugin://plugin.video.freeview.sk/?provider=markiza&channel=dajto
+#EXTINF:0 tvg-id="2457865600" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ta3.png" group-title="CZ SK" tvg-name="FreeView: SK: TA3",FreeView: SK: TA3
+plugin://plugin.video.freeview.sk/?provider=ta3&channel=ta3
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/XzBpYkL/Fashion-TV.png",SK: Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/WPy9w4n/Rik.png",SK: Rik
@@ -185,30 +204,58 @@ http://109.74.144.130/live/senzitest/playlist.m3u8
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/J3TT3bZ/TV-Raj.png",SK: TV Raj
 http://ottst05.flexitv.sk/2827-tv-pc.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/z4NMCjV/Nova.png",CZ: Nova
-https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/925Rmkq/Nova-2.png",CZ: Nova 2
-https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/dpSZ22v/Nova-Gold.png",CZ: Nova Gold
-https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/99VYDCc/Nova-Action.jpg",CZ: Nova Action
-https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/rkL4pnC/Nova-Cinema.png",CZ: Nova Cinema
-https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
+
+
+##EXTINF:0 tvg-id="344804928" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct1.png" group-title="CZ SK" tvg-name="FreeView: CZ: ČT1",FreeView: CZ: ČT1
+#plugin://plugin.video.freeview.sk/?provider=ct&channel=ct1
+##EXTINF:0 tvg-id="344804992" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct2.png" group-title="CZ SK" tvg-name="FreeView: CZ: ČT2",FreeView: CZ: ČT2
+#plugin://plugin.video.freeview.sk/?provider=ct&channel=ct2
+#EXTINF:0 tvg-id="343997248" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct24.png" group-title="CZ SK" tvg-name="FreeView: CZ: ČT24",FreeView: CZ: ČT24
+plugin://plugin.video.freeview.sk/?provider=ct&channel=ct24
+##EXTINF:0 tvg-id="344812096" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctsport.png" group-title="CZ SK" tvg-name="FreeView: CZ: ČT Sport",FreeView: CZ: ČT Sport
+#plugin://plugin.video.freeview.sk/?provider=ct&channel=ctsport
+#EXTINF:0 tvg-id="344805248" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctdart.png" group-title="CZ SK" tvg-name="FreeView: CZ: ČT :D/art",FreeView: CZ: ČT :D/art
+plugin://plugin.video.freeview.sk/?provider=ct&channel=ctdart
+#EXTINF:0 tvg-id="344805248" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctd.png" group-title="CZ SK" tvg-name="FreeView: CZ: ČT :D",FreeView: CZ: ČT :D
+#plugin://plugin.video.freeview.sk/?provider=ct&channel=ctd
+#EXTINF:0 tvg-id="344805248" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctart.png" group-title="CZ SK" tvg-name="FreeView: CZ: ČT art",FreeView: CZ: ČT art
+#plugin://plugin.video.freeview.sk/?provider=ct&channel=ctart
+#EXTINF:0 tvg-id="344805056" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nova.png" group-title="CZ SK" tvg-name="FreeView: CZ: Nova",FreeView: CZ: Nova
+plugin://plugin.video.freeview.sk/?provider=nova&channel=nova
+#EXTINF:0 tvg-id="344805504" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nova2.png" group-title="CZ SK" tvg-name="FreeView: CZ: Nova 2",FreeView: CZ: Nova 2
+plugin://plugin.video.freeview.sk/?provider=nova&channel=nova2
+#EXTINF:0 tvg-id="344805312" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novacinema.png" group-title="CZ SK" tvg-name="FreeView: CZ: Nova Cinema",FreeView: CZ: Nova Cinema
+plugin://plugin.video.freeview.sk/?provider=nova&channel=cinema
+#EXTINF:0 tvg-id="344805376" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novaaction.png" group-title="CZ SK" tvg-name="FreeView: CZ: Nova Action",FreeView: CZ: Nova Action
+plugin://plugin.video.freeview.sk/?provider=nova&channel=action
+#EXTINF:0 tvg-id="344805440" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novagold.png" group-title="CZ SK" tvg-name="FreeView: CZ: Nova Gold",FreeView: CZ: Nova Gold
+plugin://plugin.video.freeview.sk/?provider=nova&channel=gold
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/sRVbxTv/Elektrika-TV.jpg",CZ: Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/1fbv9Qq/Ocko.png",CZ: Óčko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:0 tvg-id="343998016" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ocko.png" group-title="CZ SK" tvg-name="FreeView: CZ: Óčko",FreeView: CZ: Óčko
+plugin://plugin.video.freeview.sk/?provider=ocko&channel=ocko
+#EXTINF:0 tvg-id="344841856" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockostar.png" group-title="CZ SK" tvg-name="FreeView: CZ: Óčko Star",FreeView: CZ: Óčko Star
+plugin://plugin.video.freeview.sk/?provider=ocko&channel=star
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/g35N1VV/Ocko-Gold.gif",CZ: Óčko Gold
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/q9pwKJC/Ocko-Expres.png",CZ: Óčko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="344906688" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockoexpress.png" group-title="CZ SK" tvg-name="FreeView: CZ: Óčko Expres",FreeView: CZ: Óčko Expres
+plugin://plugin.video.freeview.sk/?provider=ocko&channel=expres
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/8sQ8yxh/Polar.png",CZ: Polar TV
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/Fh1dHCH/Prima-Cool.png",CZ: Prima Cool
-http://92.62.234.223/104/mystream.m3u8
-#EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/syZr536/Prima-Love.png",CZ: Prima Love
-http://92.62.234.223/101/mystream.m3u8
+#EXTINF:0 tvg-id="344805120" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/prima.png" group-title="CZ SK" tvg-name="FreeView: CZ: Prima",FreeView: CZ: Prima
+plugin://plugin.video.freeview.sk/?provider=prima&channel=prima
+#EXTINF:0 tvg-id="344812416" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primacool.png" group-title="CZ SK" tvg-name="FreeView: CZ: Prima Cool",FreeView: CZ: Prima Cool
+plugin://plugin.video.freeview.sk/?provider=prima&channel=cool
+#EXTINF:0 tvg-id="344723136" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primamax.png" group-title="CZ SK" tvg-name="FreeView: CZ: Prima Max",FreeView: CZ: Prima Max
+plugin://plugin.video.freeview.sk/?provider=prima&channel=max
+#EXTINF:0 tvg-id="344854784" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primakrimi.png" group-title="CZ SK" tvg-name="FreeView: CZ: Prima Krimi",FreeView: CZ: Prima Krimi
+plugin://plugin.video.freeview.sk/?provider=prima&channel=krimi
+#EXTINF:0 tvg-id="344805632" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primalove.png" group-title="CZ SK" tvg-name="FreeView: CZ: Prima Love",FreeView: CZ: Prima Love
+plugin://plugin.video.freeview.sk/?provider=prima&channel=love
+#EXTINF:0 tvg-id="344805696" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primazoom.png" group-title="CZ SK" tvg-name="FreeView: CZ: Prima Zoom",FreeView: CZ: Prima Zoom
+plugin://plugin.video.freeview.sk/?provider=prima&channel=zoom
+#EXTINF:0 tvg-id="344913920" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/cnnprimanews.png" group-title="CZ SK" tvg-name="FreeView: CZ: CNN Prima News",FreeView: CZ: CNN Prima News
+plugin://plugin.video.freeview.sk/?provider=prima&channel=cnn
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/tzNHRp9/HunterTV.png",CZ: HunterTV
 http://www.huntertv.cz/live/4-playlist.m3u8
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/yqrcmvW/PrahaTV.png",CZ: Praha TV
@@ -219,12 +266,15 @@ https://w100.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/WxDvCry/Slagr2.png",CZ: Šlágr 2
 http://92.62.234.233/slagr2.m3u
+#EXTINF:0 tvg-id="343938944" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/retro.png" group-title="CZ SK" tvg-name="FreeView: CZ: Retro Music",FreeView: CZ: Retro Music
+plugin://plugin.video.freeview.sk/?provider=retro&channel=retro
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/K0HR49p/TV-Natura.png",CZ: TV Natura
 http://media1.tvnatura.cz/live_out/1/live.m3u8
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/ggWW1L0/VCTV.png",CZ: Východočeská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/LRfyxNG/TV-Morava.png",CZ: TV Morava
 http://stream.redigy.cz:1934/tvm.flv?checkedby:hlscat.com
+
 
 
 #EXTINF:-1 group-title="DE Channels" tvg-logo="https://bit.ly/36NAZA1",DE: Anixe HD (720p)
@@ -390,80 +440,6 @@ https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 group-title="DE Channels" tvg-logo="https://i.imgur.com/smyvTHD.jpg",DE: World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
-#EXTINF:0 tvg-id="2458735488" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jednotka.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Jednotka",Jednotka
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=jednotka
-#EXTINF:0 tvg-id="2458735552" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/dvojka.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Dvojka",Dvojka
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=dvojka
-#EXTINF:0 tvg-id="2458840320" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/trojka.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Trojka",Trojka
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=trojka
-#EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/rtvs.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: RTVS Online",RTVS Online
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=online
-#EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nrsr.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: NRSR Online",NRSR Online
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=nrsr
-#EXTINF:0 tvg-id="2458735680" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/joj.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: JOJ",JOJ
-plugin://plugin.video.freeview.sk/?provider=joj&channel=joj
-#EXTINF:0 tvg-id="2458735744" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/plus.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: JOJ Plus",JOJ Plus
-plugin://plugin.video.freeview.sk/?provider=joj&channel=plus
-#EXTINF:0 tvg-id="2458735936" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/wau.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: WAU",WAU
-plugin://plugin.video.freeview.sk/?provider=joj&channel=wau
-#EXTINF:0 tvg-id="344823488" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/family.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: JOJ Family",JOJ Family
-plugin://plugin.video.freeview.sk/?provider=joj&channel=family
-#EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jojko.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Jojko",Jojko
-plugin://plugin.video.freeview.sk/?provider=joj&channel=jojko
-#EXTINF:0 tvg-id="2458735616" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/markiza.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Markíza",Markíza
-plugin://plugin.video.freeview.sk/?provider=markiza&channel=markiza
-#EXTINF:0 tvg-id="2458735808" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/doma.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Doma",Doma
-plugin://plugin.video.freeview.sk/?provider=markiza&channel=doma
-#EXTINF:0 tvg-id="2458735872" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/dajto.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Dajto",Dajto
-plugin://plugin.video.freeview.sk/?provider=markiza&channel=dajto
-#EXTINF:0 tvg-id="2457865600" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ta3.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: TA3",TA3
-plugin://plugin.video.freeview.sk/?provider=ta3&channel=ta3
-##EXTINF:0 tvg-id="344804928" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct1.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: ČT1",ČT1
-#plugin://plugin.video.freeview.sk/?provider=ct&channel=ct1
-##EXTINF:0 tvg-id="344804992" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct2.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: ČT2",ČT2
-#plugin://plugin.video.freeview.sk/?provider=ct&channel=ct2
-#EXTINF:0 tvg-id="343997248" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct24.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: ČT24",ČT24
-plugin://plugin.video.freeview.sk/?provider=ct&channel=ct24
-##EXTINF:0 tvg-id="344812096" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctsport.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: ČT Sport",ČT Sport
-#plugin://plugin.video.freeview.sk/?provider=ct&channel=ctsport
-#EXTINF:0 tvg-id="344805248" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctdart.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: ČT :D/art",ČT :D/art
-plugin://plugin.video.freeview.sk/?provider=ct&channel=ctdart
-#EXTINF:0 tvg-id="344805248" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctd.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: ČT :D",ČT :D
-#plugin://plugin.video.freeview.sk/?provider=ct&channel=ctd
-#EXTINF:0 tvg-id="344805248" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctart.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: ČT art",ČT art
-#plugin://plugin.video.freeview.sk/?provider=ct&channel=ctart
-#EXTINF:0 tvg-id="344805056" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nova.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Nova",Nova
-plugin://plugin.video.freeview.sk/?provider=nova&channel=nova
-#EXTINF:0 tvg-id="344805504" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nova2.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Nova 2",Nova 2
-plugin://plugin.video.freeview.sk/?provider=nova&channel=nova2
-#EXTINF:0 tvg-id="344805312" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novacinema.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Nova Cinema",Nova Cinema
-plugin://plugin.video.freeview.sk/?provider=nova&channel=cinema
-#EXTINF:0 tvg-id="344805376" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novaaction.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Nova Action",Nova Action
-plugin://plugin.video.freeview.sk/?provider=nova&channel=action
-#EXTINF:0 tvg-id="344805440" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novagold.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Nova Gold",Nova Gold
-plugin://plugin.video.freeview.sk/?provider=nova&channel=gold
-#EXTINF:0 tvg-id="344805120" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/prima.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Prima",Prima
-plugin://plugin.video.freeview.sk/?provider=prima&channel=prima
-#EXTINF:0 tvg-id="344812416" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primacool.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Prima Cool",Prima Cool
-plugin://plugin.video.freeview.sk/?provider=prima&channel=cool
-#EXTINF:0 tvg-id="344723136" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primamax.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Prima Max",Prima Max
-plugin://plugin.video.freeview.sk/?provider=prima&channel=max
-#EXTINF:0 tvg-id="344854784" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primakrimi.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Prima Krimi",Prima Krimi
-plugin://plugin.video.freeview.sk/?provider=prima&channel=krimi
-#EXTINF:0 tvg-id="344805632" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primalove.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Prima Love",Prima Love
-plugin://plugin.video.freeview.sk/?provider=prima&channel=love
-#EXTINF:0 tvg-id="344805696" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primazoom.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Prima Zoom",Prima Zoom
-plugin://plugin.video.freeview.sk/?provider=prima&channel=zoom
-#EXTINF:0 tvg-id="344913920" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/cnnprimanews.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: CNN Prima News",CNN Prima News
-plugin://plugin.video.freeview.sk/?provider=prima&channel=cnn
-#EXTINF:0 tvg-id="343998016" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ocko.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Óčko",Óčko
-plugin://plugin.video.freeview.sk/?provider=ocko&channel=ocko
-#EXTINF:0 tvg-id="344906688" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockoexpress.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Óčko Expres",Óčko Expres
-plugin://plugin.video.freeview.sk/?provider=ocko&channel=expres
-#EXTINF:0 tvg-id="344841856" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockostar.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Óčko Star",Óčko Star
-plugin://plugin.video.freeview.sk/?provider=ocko&channel=star
-#EXTINF:0 tvg-id="343938944" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/retro.png" group-title="plugin.video.freeview.sk" tvg-name="FreeView: Retro Music",Retro Music
-plugin://plugin.video.freeview.sk/?provider=retro&channel=retro
 
 
 #EXTINF:-1 group-title="UK Channels" tvg-logo="https://i.imgur.com/SzaGz3D.jpg",UK: 92 News UK
