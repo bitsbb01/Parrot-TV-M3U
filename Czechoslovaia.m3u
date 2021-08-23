@@ -12,7 +12,7 @@ plugin://plugin.video.freeview.sk/?provider=rtvs&channel=online
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=nrsr
 #EXTINF:0 tvg-id="2458735680" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/joj.png" group-title="SK Channels" tvg-name="FreeView: SK: JOJ",FreeView: SK: JOJ
 plugin://plugin.video.freeview.sk/?provider=joj&channel=joj
-#EXTINF:0 tvg-id="2458735744" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/plus.png" group-title="SK Channels" tvg-name="FreeView: SK: JOJ Plus",JFreeView: SK: OJ Plus
+#EXTINF:0 tvg-id="2458735744" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/plus.png" group-title="SK Channels" tvg-name="FreeView: SK: JOJ Plus",FreeView: SK: OJ Plus
 plugin://plugin.video.freeview.sk/?provider=joj&channel=plus
 #EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/family.png" group-title="SK Channels" tvg-name="FreeView: SK: Jojko",FreeView: SK: Jojko
 plugin://plugin.video.freeview.sk/?provider=joj&channel=family
