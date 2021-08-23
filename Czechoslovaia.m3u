@@ -66,14 +66,14 @@ plugin://plugin.video.freeview.sk/?provider=nova&channel=action
 plugin://plugin.video.freeview.sk/?provider=nova&channel=gold
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/sRVbxTv/Elektrika-TV.jpg",CZ: Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="343998016" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ocko.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Óčko",FreeView: CZ: Óčko
-plugin://plugin.video.freeview.sk/?provider=ocko&channel=ocko
+#EXTINF:0 tvg-id="343998016" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ocko.png" group-title="CZ Channels" tvg-name="CZ: Óčko",CZ: Óčko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:0 tvg-id="344841856" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockostar.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Óčko Star",FreeView: CZ: Óčko Star
 plugin://plugin.video.freeview.sk/?provider=ocko&channel=star
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/g35N1VV/Ocko-Gold.gif",CZ: Óčko Gold
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="344906688" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockoexpress.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Óčko Expres",FreeView: CZ: Óčko Expres
-plugin://plugin.video.freeview.sk/?provider=ocko&channel=expres
+#EXTINF:0 tvg-id="344906688" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockoexpress.png" group-title="CZ Channels" tvg-name="CZ: Óčko Expres",CZ: Óčko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/8sQ8yxh/Polar.png",CZ: Polar TV
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:0 tvg-id="344805120" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/prima.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima",FreeView: CZ: Prima
