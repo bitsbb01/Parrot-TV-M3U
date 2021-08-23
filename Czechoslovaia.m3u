@@ -10,16 +10,16 @@ plugin://plugin.video.freeview.sk/?provider=rtvs&channel=trojka
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=online
 #EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nrsr.png" group-title="SK Channels" tvg-name="FreeView: SK: NRSR Online",FreeView: SK: NRSR Online
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=nrsr
-#EXTINF:0 tvg-id="2458735680" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/joj.png" group-title="SK Channels" tvg-name="FreeView: SK: JOJ",FreeView: SK: JOJ
-plugin://plugin.video.freeview.sk/?provider=joj&channel=joj
-#EXTINF:0 tvg-id="2458735744" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/plus.png" group-title="SK Channels" tvg-name="FreeView: SK: JOJ Plus",FreeView: SK: JOJ Plus
-plugin://plugin.video.freeview.sk/?provider=joj&channel=plus
-#EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/family.png" group-title="SK Channels" tvg-name="FreeView: SK: Jojko",FreeView: SK: Jojko
-plugin://plugin.video.freeview.sk/?provider=joj&channel=family
-#EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jojko.png" group-title="SK Channels" tvg-name="FreeView: SK: Jojko",FreeView: SK: Jojko
-plugin://plugin.video.freeview.sk/?provider=joj&channel=jojko
-#EXTINF:0 tvg-id="2458735936" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/wau.png" group-title="SK Channels" tvg-name="FreeView: SK: WAU",FreeView: SK: WAU
-plugin://plugin.video.freeview.sk/?provider=joj&channel=wau
+#EXTINF:0 tvg-id="2458735680" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/joj.png" group-title="SK Channels" tvg-name="SK: JOJ",SK: JOJ
+http://nn2.joj.sk/hls/joj-720.m3u8
+#EXTINF:0 tvg-id="2458735744" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/plus.png" group-title="SK Channels" tvg-name="SK: JOJ Plus",SK: JOJ Plus
+http://nn2.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/family.png" group-title="SK Channels" tvg-name="SK: JOJ Family",SK: JOJ Family
+http://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jojko.png" group-title="SK Channels" tvg-name="SK: Jojko / RIK",SK: Jojko / RIK
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+#EXTINF:0 tvg-id="2458735936" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/wau.png" group-title="SK Channels" tvg-name="SK: WAU",SK: WAU
+https://nn.geo.joj.sk/live/wau-index.m3u8
 #EXTINF:0 tvg-id="2458735616" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/markiza.png" group-title="SK Channels" tvg-name="FreeView: SK: Markíza",FreeView: SK: Markíza
 plugin://plugin.video.freeview.sk/?provider=markiza&channel=markiza
 #EXTINF:0 tvg-id="2458735808" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/doma.png" group-title="SK Channels" tvg-name="FreeView: SK: Doma",FreeView: SK: Doma
@@ -30,8 +30,6 @@ plugin://plugin.video.freeview.sk/?provider=markiza&channel=dajto
 plugin://plugin.video.freeview.sk/?provider=ta3&channel=ta3
 #EXTINF:-1 group-title="SK Channels" tvg-logo="https://i.ibb.co/XzBpYkL/Fashion-TV.png",SK: Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SK Channels" tvg-logo="https://i.ibb.co/WPy9w4n/Rik.png",SK: Rik
-https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 #EXTINF:-1 group-title="SK Channels" tvg-logo="https://i.ibb.co/4jx6gzZ/TV-Lux.png",SK: TV Lux
 http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
 #EXTINF:-1 group-title="SK Channels" tvg-logo="https://i.ibb.co/fnMky9c/Senzi.png",SK: Senzi TV
