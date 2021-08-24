@@ -269,7 +269,7 @@ https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 group-title="CZ SK" tvg-logo="https://i.ibb.co/z7fQ7yJ/TV-Noe.png",CZ: TV Noe
 https://w100.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist.m3u8
 
-#EXTM3U
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/YDWq6s0/Animal-Planet-NEW.jpg" group-title="CZ SK",HLS Cat: CZ: ANIMAL PLANET
 http://pascaltv.site:8080/F12611/b199b47b/83381?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://i.ibb.co/N78y7QJ/Discovery-Science.jpg" group-title="CZ SK",HLS Cat: CZ: Discovery Science
