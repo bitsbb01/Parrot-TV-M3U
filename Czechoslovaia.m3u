@@ -14,7 +14,7 @@ plugin://plugin.video.freeview.sk/?provider=rtvs&channel=nrsr
 http://nn2.joj.sk/hls/joj-720.m3u8
 #EXTINF:0 tvg-id="2458735744" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/plus.png" group-title="SK Channels" tvg-name="SK: JOJ Plus",SK: JOJ Plus
 http://nn2.joj.sk/hls/jojplus-540.m3u8
-#EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/family.png" group-title="SK Channels" tvg-name="SK: JOJ Family",SK: JOJ Family
+#EXTINF:0 tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/family.png" group-title="SK Channels" tvg-name="SK: JOJ Family",SK: JOJ Family
 http://nn.geo.joj.sk/hls/family-360.m3u8
 #EXTINF:0 tvg-id="2458739584" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jojko.png" group-title="SK Channels" tvg-name="SK: Jojko / RIK",SK: Jojko / RIK
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
@@ -96,6 +96,33 @@ http://www.huntertv.cz/live/4-playlist.m3u8
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/z7fQ7yJ/TV-Noe.png",CZ: TV Noe
 https://w100.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/YDWq6s0/Animal-Planet-NEW.jpg" group-title="CZ Channels",HLS Cat: CZ: ANIMAL PLANET
+http://pascaltv.site:8080/F12611/b199b47b/83381?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/N78y7QJ/Discovery-Science.jpg" group-title="CZ Channels",HLS Cat: CZ: Discovery Science
+http://pascaltv.site:8080/F12611/b199b47b/146933?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/bmBLTGs/DuckTV.png" group-title="CZ Channels",HLS Cat: CZ: Duck TV
+http://pascaltv.site:8080/F12611/b199b47b/46692?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/Mp33BpN/E.png" group-title="CZ Channels",HLS Cat: CZ: E!
+http://pascaltv.site:8080/F12611/b199b47b/21117?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/S6MBcjt/FBOX-Extra.png" group-title="CZ Channels",HLS Cat: CZ: FilmBox Extra FHD
+http://pascaltv.site:8080/F12611/b199b47b/46701?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/HH2vK76/Fine-Living.png" group-title="CZ Channels",HLS Cat: CZ: Fine Living
+http://pascaltv.site:8080/F12611/b199b47b/46700?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/pX3Hnfc/Golf-Channel.png" group-title="CZ Channels",HLS Cat: CZ: Golf Channel
+http://pascaltv.site:8080/F12611/b199b47b/25657?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/S7P1BzV/History.png" group-title="CZ Channels",HLS Cat: CZ: History
+http://pascaltv.site:8080/F12611/b199b47b/146940?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/k2zsCbk/Minimax.png" group-title="CZ Channels",HLS Cat: CZ: Minimax
+http://pascaltv.site:8080/F12611/b199b47b/46706?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/99VYDCc/Nova-Action.jpg" group-title="CZ Channels",HLS Cat: CZ: Nova Action FHD
+http://pascaltv.site:8080/F12611/b199b47b/18409?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/dpSZ22v/Nova-Gold.png" group-title="CZ Channels",HLS Cat: CZ: Nova Gold
+http://pascaltv.site:8080/F12611/b199b47b/21103?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/8sQ8yxh/Polar.png" group-title="CZ Channels",HLS Cat: CZ: POLAR+ FHD
+http://pascaltv.site:8080/F12611/b199b47b/42784?checkedby:iptvcat.com
+
+
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/Nx2fR74/Slagr.png",CZ: Šlágr
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/WxDvCry/Slagr2.png",CZ: Šlágr 2
