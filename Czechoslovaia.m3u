@@ -118,7 +118,8 @@ http://pascaltv.site:8080/F12611/b199b47b/18409?checkedby:iptvcat.com
 http://pascaltv.site:8080/F12611/b199b47b/21103?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://i.ibb.co/8sQ8yxh/Polar.png" group-title="CZ Channels",HLS Cat: CZ: POLAR+ FHD
 http://pascaltv.site:8080/F12611/b199b47b/42784?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nova Cinema FHD
+http://pascaltv.site:8080/F12611/b199b47b/21104?checkedby:iptvcat.com
 
 
 
