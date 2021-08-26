@@ -165,145 +165,145 @@ https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r6f5Cf7/itv1.png" group-title="UK Channels", ITV (302p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6f5Cf7/itv1.png" group-title="UK Channels",UK: ITV (302p)
 http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/km5yLHw/itv2.png" group-title="UK Channels", ITV2 (432p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/km5yLHw/itv2.png" group-title="UK Channels",UK: ITV2 (432p)
 http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/km5yLHw/itv2.png" group-title="UK Channels", ITV2 (576p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/km5yLHw/itv2.png" group-title="UK Channels",UK: ITV2 (576p) [Not 24/7]
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7fcRZ/itv3.png" group-title="UK Channels", ITV3 (432p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7fcRZ/itv3.png" group-title="UK Channels",UK: ITV3 (432p)
 http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/12pm4Cc/itv4.png" group-title="UK Channels", ITV4 (302p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12pm4Cc/itv4.png" group-title="UK Channels",UK: ITV4 (302p)
 http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="UK Channels", Afrobeats (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="UK Channels",UK: Afrobeats (720p)
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BlNMp0k.png" group-title="UK Channels", Arise News (576p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlNMp0k.png" group-title="UK Channels",UK: Arise News (576p)
 https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK Channels", BBC News (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK Channels",UK: BBC News (720p)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK Channels", BBC News (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK Channels",UK: BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="UK Channels", BBC World News (576p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="UK Channels",UK: BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="UK Channels", BBC World News (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="UK Channels",UK: BBC World News (480p)
 http://ott-cdn.ucom.am/s24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvBi1Ou.png" group-title="UK Channels", Beano TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvBi1Ou.png" group-title="UK Channels",UK: Beano TV (720p)
 https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png" group-title="UK Channels", Box Hits (576p)
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png" group-title="UK Channels",UK: Box Hits (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4RdpLfr/BTS1.png" group-title="UK Channels", BT Sport 1 (576p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RdpLfr/BTS1.png" group-title="UK Channels",UK: BT Sport 1 (576p)
 https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nwHx1dr/BTS2.jpg" group-title="UK Channels", BT Sport 2 (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nwHx1dr/BTS2.jpg" group-title="UK Channels",UK: BT Sport 2 (1080p)
 https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="UK Channels", Clubbing TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="UK Channels",UK: Clubbing TV (720p)
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK Channels", Comedy Channel (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK Channels",UK: Comedy Channel (1080p)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yjIYUim.jpg" group-title="UK Channels", Discover.Film (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yjIYUim.jpg" group-title="UK Channels",UK: Discover.Film (720p)
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6h10JDk.png"group-title="UK Channels", EDGEsport (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6h10JDk.png"group-title="UK Channels",UK: EDGEsport (1080p)
 https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
 
-#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c"group-title="UK Channels", EDGEsport (STIRR) (1080p)
+#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c"group-title="UK Channels",UK: EDGEsport (STIRR) (1080p)
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AjRCYwR.png"group-title="UK Channels", EDGEsport (US) (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjRCYwR.png"group-title="UK Channels",UK: EDGEsport (US) (720p)
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK Channels", English Club TV (480p)
+#EXTINF:-1 tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK Channels",UK: English Club TV (480p)
 http://ott-cdn.ucom.am/s37/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RIXSg4L.png" group-title="UK Channels", FailArmy (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIXSg4L.png" group-title="UK Channels",UK: FailArmy (720p)
 https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jUWffic.png" group-title="UK Channels", Filmzie (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jUWffic.png" group-title="UK Channels",UK: Filmzie (720p)
 https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg"group-title="UK Channels", FreeSports (1080p)
+#EXTINF:-1 tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg"group-title="UK Channels",UK: FreeSports (1080p)
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="UK Channels", FTF For the fans (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="UK Channels",UK: FTF For the fans (720p)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="UK Channels", GB News (1080p)
+#EXTINF:-1 tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="UK Channels",UK: GB News (1080p)
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="UK Channels", Gems TV (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="UK Channels",UK: Gems TV (360p)
 http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhdR4wa.jpg" group-title="UK Channels", Go USA (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhdR4wa.jpg" group-title="UK Channels",UK: Go USA (720p)
 https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="UK Channels", Hala London (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="UK Channels",UK: Hala London (1080p)
 https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="UK Channels", Horse and Country (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="UK Channels",UK: Horse and Country (720p)
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azSptPw.png" group-title="Lifestyle", Jewelery Maker (720p)
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" group-title="UK Channels", Moonbug Kids (1080p)
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" group-title="UK Channels",UK: Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="UK Channels", Supertoons TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="UK Channels",UK: Supertoons TV (720p)
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="UK Channels", Tastemade (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="UK Channels",UK: Tastemade (720p)
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="UK Channels", Tennis Channel (UK) (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="UK Channels",UK: Tennis Channel (UK) (720p)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="UK Channels", The Box UK (576p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="UK Channels",UK: The Box UK (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="UK Channels", The Tennis Channel (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="UK Channels",UK: The Tennis Channel (720p)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="UK Channels", Time Line (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="UK Channels",UK: Time Line (720p)
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="UK Channels", TJC (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="UK Channels",UK: TJC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PEf3Vn.jpg" group-title="Family", Toongoggles (720p)
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MWkm3no.png" group-title="UK Channels", Truly (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MWkm3no.png" group-title="UK Channels",UK: Truly (720p)
 https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="UK Channels", V2BEAT (720p)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="UK Channels",UK: V2BEAT (720p)
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nnX0NGt.png" group-title="UK Channels", William Hill BTV 1 (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnX0NGt.png" group-title="UK Channels",UK: William Hill BTV 1 (720p)
 https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_tklzcakd_1_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nnX0NGt.png" group-title="UK Channels", William Hill BTV 2 (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnX0NGt.png" group-title="UK Channels",UK: William Hill BTV 2 (720p)
 https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_3838s0ja_1_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="UK Channels", Wonder (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="UK Channels",UK: Wonder (1080p)
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="UK Channels", Wonder (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="UK Channels",UK: Wonder (720p)
 https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 
 
