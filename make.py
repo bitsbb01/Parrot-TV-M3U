@@ -4,7 +4,7 @@ from Auth.auth import *
 
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
 
-def Clear(): # CLears Terminal
+def Clear(): # Clears Terminal
     os.system("cls")
     os.system("clear")
 
