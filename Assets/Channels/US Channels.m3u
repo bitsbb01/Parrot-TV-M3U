@@ -1,0 +1,255 @@
+#EXTINF:-1 group-title="US Channels" tvg-tvg-logo="https://i.ibb.co/8PwHGR9/CBS-News.png",US: CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.ibb.co/gyM18G0/Voice-Of-America.png",US: Voice Of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.ibb.co/T09Tp95/Bowie-TV.png",US: Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.ibb.co/23rQcwV/Kool-TV.png",US: Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.ibb.co/9Tp0LFC/MLB-Network.png",US: MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.ibb.co/5rvjb9s/Weather-Channel.png",US: Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/7sJLzKi.png",US: ABC News 
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/UbUZw9E.png",US: ACC 
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8 
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/nki2HDQ.png",US: CBSN 
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8 
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/2t6Dux1.png",US: CBN Family 
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8 
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://www.cbn.com/images8/cbnnews/CBN-OG.png",US: CBN News 
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8 
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/qj7DSnR.png",US: Chef Champion 
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8 
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/A1xZDrV.png",US: Clarity 4k 
+https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8 
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/TQa7yvL.png",US: Comedy Dynamics 
+https://comedydynamics-wurl.cinedigm.com/playlist.m3u8 
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/f0FtDEI.png",US: Court TV Mystery 
+https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/uZPmFMY.png",US: Crime 360 
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/rAkIuW1.png",US: Cycle World 
+http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/4aTk45R.png",US: Danger TV 
+https://dangertv.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.ibb.co/S7P1BzV/History.png",US: History Channel 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/4Bj3h7W.png",US: Docubay 
+https://docubaylivestreams.akamaized.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004370_HLS/manifest.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/XkQPJXM.png",US: Docurama 
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/FVWqYQG.png",US: Dove Channel 
+https://dovenow.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/nUXwP5M.png",US: DryBar Comedy 
+https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/q2jim9n.png",US: Dust 
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/KtdEoox.png",US: Flashback TV 
+http://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/hc5a1YP.png",US: Fox News Now 
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/tBvEL2d.png",US: Fox Soul 
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/zkaqNkN.png",US: HSN 
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/5X0GYny.png",US: HSN 2 
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/MIUDYh0.png",US: Hungry 
+https://food.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/DkvWWbE.png",US: Hunt Channel 
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.ibb.co/PxK1yQY/InfoWars.png",US: InfoWars TV 
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/pHJm3I0.png",US: JBS 
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/0oRXnzz.png",US: KBVR TV 
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/ocMGZM6.png",US: KET 
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR"
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/ambc9le.png",US: KET PBS Kids 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR"
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/MaFtbM5.png",US: Kidoodle 
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/HY64Nhe.png",US: Law And Crime 
+https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/xePwW13.png",US: Lego Channel 
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/6osyvwh.png",US: Magellan TV 
+https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/ccJiasu.png",US: Motorvision TV 
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.ibb.co/pJMQgWV/MovieMix.png", MovieMix 
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/DTXQ3Pc.png",US: MovieSpehere TV 
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/JBEqPZP.png",US: Mithos 
+https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/LnonnQm.png",US: NASA TV 
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/FPt2WNf.png",US: NBCLX 
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/L0PC2YI.png",US: Newsmax TV 
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/Fc40om4.png",US: NewsNet 
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/Otw0sN1.png",US: Newsy 
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb"
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/QSH4Z4p.png",US: Nothing Scripted 
+http://30a-tv.com/NothingScripted.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/FUUFhoW.png",US: NRB TV 
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngGTykWDjGMeyuKjmUrYyh_PlijSZacKPUK32s94Q=s900-c-k-c0x00ffffff-no-rj",US: NTD 
+https://live.ntdimg.com/en01live900/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/G6e7Hcl.png",US: One America News 
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/VF3Mlwa.png",US: Orange TV 
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/9uz9lyg.png",US: OUR TV 
+https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/fZDrLpd.png",US: Outdoor America 
+https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/1CViR0E.png",US: Outside TV+ 
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/6DB5ChS.png",US: Peace TV 
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/iwd9Jxb.png",US: Plant-Based Network 
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/jNoOxxz.png",US: Popular Science TV 
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/TvmeXdZ.png",US: Red Bull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/K36sd0M.png",US: Prime Time Drama 
+https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/x06npU2.png",US: Samsung WildLife 
+https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/FtrMhwH.png",US: Screamfest 
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/UyIkHU3.png",US: Smart LifeStyle 
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on"
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/n38w3FD.png",US: Stadium 
+http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/LmJCRMJ.png",US: Sterling Drama 
+https://endemol-sterlingdrama-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/sw1LtJ4.png",US: Stingray Naturescape 
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/e7EDq02.png",US: Tsastemade 
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/3YwJzZg.png",US: Tag TV 
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/1pxXEtP.png",US: The Asylum 
+http://asylum-stirr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/03XLqNz.png",US: The Outdoor Cooking Channel 
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/ZzyXAKm.png",US: The Wall Street Journal 
+https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/FQCVaSR.png",US: This TV Network 
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/12Vkj60.png",US: TG Junior 
+https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/lbOPCEJ.png",US: This Old House 
+https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/o8ooqA1.png",US: Tiny House Nation 
+https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/oyIMxzM.png",US: Toon Goggles 
+https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/watchitKid/logo_small.png",US: Watch It Kid 
+http://content-ausw2.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/moVEMe0.png",US: Waypoint Outdoors 
+https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/X23p0GB.png",US: Weather Nation 
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/CNO8eQ7.png",US: Whistle TV 
+https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/QQuPjTD.png",US: Xplore 
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/c3Z5i2L.png",US: Z Living 
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+
+#EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/85LA7Zm.png",US: ZooMoo 
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+

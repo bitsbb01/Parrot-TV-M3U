@@ -1,168 +1,5 @@
-#EXTM3U
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/k9M5ydW.png",CA: 5AAB TV (720p)
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/zXWgbVk.png",CA: Amazing Discoveries TV (720p)
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/uSX4YXL.png",CA: BBC Toronto Gaunda Punjab (720p)
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/zr6KoiS.jpg",CA: Canada One (720p)
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg",CA: Canada Star TV (1080p)
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/rAZBgir.png",CA: Canadian Arab TV
-http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 group-title="CA Channels",CA: CBC News Network
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: CBC Toronto
-https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: CityTV Toronto
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/wwmapsS.png",CA: CPAC (720p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: CTV Toronto
-https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: Eawaz TV (720p)
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/HRqcIcR.png",CA: EMCI TV (1080p)
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: EWTN Canada (720p)
-https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/Rxuem4o.png",CA: EWTN Canada
-https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/bcHP3Vg.png",CA: Global British Columbia (720p)
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/ppMNSKT.png",CA: Global Calgary (720p)
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/7R10c5i.png",CA: Global Edmonton (720p)
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/mhhVQE6.png",CA: Global News (720p)
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/wlqYdqN.png",CA: Global Toronto (720p)
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/2EKCtQm.png",CA: GurSikh Sabha TV
-http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png",CA: Ici RDI (720p)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/G7hGk8y.png",CA: IIPC TV (480p)
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/4gL9GEa.png",CA: Legislative Assembly of Ontario (720p)
-https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/J9EMPjf.png",CA: NTV (540p)
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: Ovation (720p)
-https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg",CA: Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/LdGWsGj.png",CA: Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: Prime Canada TV (720p)
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/X9LBFzK.jpg",CA: QVTV (720p)
-https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/AhbJjPL.jpg",CA: Sardari TV (1080p)
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/4PA2adF.png",CA: TAG TV (1080p)
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/jSWRXdg.png",CA: Tamil Vision TV (1080p)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/jSWRXdg.png",CA: Tamil Vision TV (720p)
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png",CA: Tele-V (720p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/PkWndsv.png",CA: Toronto 360 TV (720p)
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/FlJVD8a.png",CA: TSC (720p)
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: TVO
-https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/oRigj9q.jpg",CA: Télé Culturelle Médias (720p)
-https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/7768lwn.jpg",CA: Urdu TV Toronto (720p)
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/IWpevBp.jpg",CA: VBS
-https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/k9M5ydW.png",CA: 5AAB TV (720p)
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/zXWgbVk.png",CA: Amazing Discoveries TV (720p)
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/uSX4YXL.png",CA: BBC Toronto Gaunda Punjab (720p)
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/zr6KoiS.jpg",CA: Canada One (720p)
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg",CA: Canada Star TV (1080p)
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/rAZBgir.png",CA: Canadian Arab TV
-http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 group-title="CA Channels",CA: CBC News Network
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: CBC Toronto
-https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: CityTV Toronto
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/wwmapsS.png",CA: CPAC (720p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: CTV Toronto
-https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: Eawaz TV (720p)
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/HRqcIcR.png",CA: EMCI TV (1080p)
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: EWTN Canada (720p)
-https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/Rxuem4o.png",CA: EWTN Canada
-https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/bcHP3Vg.png",CA: Global British Columbia (720p)
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/ppMNSKT.png",CA: Global Calgary (720p)
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/7R10c5i.png",CA: Global Edmonton (720p)
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/mhhVQE6.png",CA: Global News (720p)
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/wlqYdqN.png",CA: Global Toronto (720p)
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/2EKCtQm.png",CA: GurSikh Sabha TV
-http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png",CA: Ici RDI (720p)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/G7hGk8y.png",CA: IIPC TV (480p)
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/4gL9GEa.png",CA: Legislative Assembly of Ontario (720p)
-https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/J9EMPjf.png",CA: NTV (540p)
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: Ovation (720p)
-https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg",CA: Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/LdGWsGj.png",CA: Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: Prime Canada TV (720p)
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/X9LBFzK.jpg",CA: QVTV (720p)
-https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/AhbJjPL.jpg",CA: Sardari TV (1080p)
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/4PA2adF.png",CA: TAG TV (1080p)
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/jSWRXdg.png",CA: Tamil Vision TV (1080p)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/jSWRXdg.png",CA: Tamil Vision TV (720p)
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png",CA: Tele-V (720p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/PkWndsv.png",CA: Toronto 360 TV (720p)
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/FlJVD8a.png",CA: TSC (720p)
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 group-title="CA Channels",CA: TVO
-https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/oRigj9q.jpg",CA: Télé Culturelle Médias (720p)
-https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/7768lwn.jpg",CA: Urdu TV Toronto (720p)
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 group-title="CA Channels" tvg-logo="https://i.imgur.com/IWpevBp.jpg",CA: VBS
-https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
-
+#EXTM3U 
+ 
 #EXTINF:0 tvg-id="tm-4099-jednotka" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jednotka.png" group-title="SK Channels" tvg-name="FreeView: SK: Jednotka",FreeView: SK: Jednotka
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=jednotka
 #EXTINF:0 tvg-id="tm-4146-dvojka" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/dvojka.png" group-title="SK Channels" tvg-name="FreeView: SK: Dvojka",FreeView: SK: Dvojka
@@ -195,6 +32,8 @@ plugin://plugin.video.freeview.sk/?provider=ta3&channel=ta3
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="191-lux" group-title="SK Channels" tvg-logo="https://i.ibb.co/4jx6gzZ/TV-Lux.png",SK: TV Lux
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+#EXTINF:0 group-title="SK Channels" tvg-logo="https://i.ibb.co/9ZM40T4/TV-Nitricka.png",TV Nitrička
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnEQCNDsMtPlrVwCrRViaeQ/live
 #EXTINF:-1 tvg-id="833-senzi" group-title="SK Channels" tvg-logo="https://i.ibb.co/fnMky9c/Senzi.png",SK: Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
 #EXTINF:-1 tvg-id="1146-lifetv" group-title="SK Channels" tvg-logo="https://i.ibb.co/3YktrSX/Life-TV.png",SK: Life TV
@@ -203,8 +42,6 @@ https://lifetv.mpks.sk/s.m3u8
 http://ottst05.flexitv.sk/2827-tv-pc.m3u8
 #EXTINF:-1 group-title="SK Channels" tvg-logo="https://i.ibb.co/wRG1nkt/TV-OSEM.png",SK: Televizia OSEM
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-
-
 #EXTINF:0 tvg-id="2-ct1" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct1.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT1",FreeView: CZ: ČT1
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ct1
 #EXTINF:0 tvg-id="3-ct2" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct2.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT2",FreeView: CZ: ČT2
@@ -229,6 +66,18 @@ plugin://plugin.video.freeview.sk/?provider=nova&channel=cinema
 plugin://plugin.video.freeview.sk/?provider=nova&channel=action
 #EXTINF:0 tvg-id="712-nova-gold" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novagold.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova Gold",FreeView: CZ: Nova Gold
 plugin://plugin.video.freeview.sk/?provider=nova&channel=gold
+#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/sRVbxTv/Elektrika-TV.jpg",CZ: Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="tm-4499-ocko" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ocko.png" group-title="CZ Channels" tvg-name="CZ: Óčko",CZ: Óčko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:0 tvg-id="736-ocko-star" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockostar.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Óčko Star",FreeView: CZ: Óčko Star
+plugin://plugin.video.freeview.sk/?provider=ocko&channel=star
+#EXTINF:-1 tvg-id="736-ocko-star" group-title="CZ Channels" tvg-logo="https://i.ibb.co/g35N1VV/Ocko-Gold.gif",CZ: Óčko Gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="831-ocko-expres" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockoexpress.png" group-title="CZ Channels" tvg-name="CZ: Óčko Expres",CZ: Óčko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="589-polar" group-title="CZ Channels" tvg-logo="https://i.ibb.co/8sQ8yxh/Polar.png",CZ: Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:0 tvg-id="4-prima" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/prima.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima",FreeView: CZ: Prima
 plugin://plugin.video.freeview.sk/?provider=prima&channel=prima
 #EXTINF:0 tvg-id="220-prima-cool" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primacool.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Cool",FreeView: CZ: Prima Cool
@@ -243,24 +92,22 @@ plugin://plugin.video.freeview.sk/?provider=prima&channel=love
 plugin://plugin.video.freeview.sk/?provider=prima&channel=zoom
 #EXTINF:0 tvg-id="1338-cnn-prima-news" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/cnnprimanews.png" group-title="CZ Channels" tvg-name="FreeView: CZ: CNN Prima News",FreeView: CZ: CNN Prima News
 plugin://plugin.video.freeview.sk/?provider=prima&channel=cnn
-#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/sRVbxTv/Elektrika-TV.jpg",CZ: Elektrika TV
-http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="tm-4499-ocko" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ocko.png" group-title="CZ Channels" tvg-name="CZ: Óčko",CZ: Óčko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:0 tvg-id="736-ocko-star" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockostar.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Óčko Star",FreeView: CZ: Óčko Star
-plugin://plugin.video.freeview.sk/?provider=ocko&channel=star
-#EXTINF:-1 tvg-id="736-ocko-star" group-title="CZ Channels" tvg-logo="https://i.ibb.co/g35N1VV/Ocko-Gold.gif",CZ: Óčko Gold
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="831-ocko-expres" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockoexpress.png" group-title="CZ Channels" tvg-name="CZ: Óčko Expres",CZ: Óčko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="589-polar" group-title="CZ Channels" tvg-logo="https://i.ibb.co/8sQ8yxh/Polar.png",CZ: Polar TV
-https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="1441-huntertv" group-title="CZ Channels" tvg-logo="https://i.ibb.co/tzNHRp9/HunterTV.png",CZ: HunterTV
 http://www.huntertv.cz/live/4-playlist.m3u8
 #EXTINF:-1 tvg-id="tm-6113-praha-tv" group-title="CZ Channels" tvg-logo="https://i.ibb.co/yqrcmvW/PrahaTV.png",CZ: Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="114-noe" group-title="CZ Channels" tvg-logo="https://i.ibb.co/z7fQ7yJ/TV-Noe.png",CZ: TV Noe
 https://w100.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="1519-slagr" group-title="CZ Channels" tvg-logo="https://i.ibb.co/Nx2fR74/Slagr.png",CZ: Šlágr
+https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="1198-slagr-2" group-title="CZ Channels" tvg-logo="https://i.ibb.co/WxDvCry/Slagr2.png",CZ: Šlágr 2
+http://92.62.234.233/slagr2.m3u
+#EXTINF:0 tvg-id="tm-6086-retro-music-tv" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/retro.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Retro Music",FreeView: CZ: Retro Music
+plugin://plugin.video.freeview.sk/?provider=retro&channel=retro
+#EXTINF:-1 tvg-id="1244-tv-natura" group-title="CZ Channels" tvg-logo="https://i.ibb.co/K0HR49p/TV-Natura.png",CZ: TV Natura
+http://media1.tvnatura.cz/live_out/1/live.m3u8
 
 
 #EXTINF:0 tvg-id="82-amc" tvg-country="CZ" tvg-logo="https://i.ibb.co/hV0B7F0/AMC.png" group-title="CZ Channels",HLS Cat: CZ: AMC HD
@@ -362,11 +209,11 @@ http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46704
 #EXTINF:0 tvg-id="7-spektrum" tvg-country="CZ" tvg-logo="https://i.ibb.co/6mK10SN/Spectrum.jpg" group-title="CZ Channels",HLS Cat: CZ: Spektrum FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23315
 
-
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/ggWW1L0/VCTV.png",CZ: Východočeská TV
-https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/LRfyxNG/TV-Morava.png",CZ: TV Morava
-http://stream.redigy.cz:1934/tvm.flv?checkedby:hlscat.com
+http://stream.redigy.cz:1934/tvm.flv
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r6f5Cf7/itv1.png" group-title="UK Channels",UK: ITV (302p)
@@ -509,9 +356,6 @@ https://lds-wonder-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="UK Channels",UK: Wonder (720p)
 https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="US Channels" tvg-tvg-logo="https://i.ibb.co/8PwHGR9/CBS-News.png",US: CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
@@ -767,118 +611,722 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/85LA7Zm.png",US: ZooMoo 
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
-
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: BET 
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: BET 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: CMT
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: CMT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Comedy Central
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Comedy Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: MTV
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: MTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Nick Jr.
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Nick Jr.
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Nick 
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Nick 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Action
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Action Sports
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Action Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=759&deviceId=5db867744f229f0009266784&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Animals
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Animals
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Best Life
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Best Life
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=630&deviceId=5887ba337b8e94223eb121bd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Cars
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Cars
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=663&deviceId=5812b3a4249444e05d09cc46&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Celebrity
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Celebrity
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=320&deviceId=5d8bf1472907815f66a866dd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Cine
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Cine Estelar
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Cine Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Cine Terror
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=913&deviceId=5d8d180092e97a5e107638d3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Cocina
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Cocina
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=956&deviceId=5d8d0fbaa8742fa3093899da&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Comedy
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Comedy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Crime Drama
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Crime Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=350&deviceId=5f31fd1b4c510e00071c3103&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Cult Films
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Cult Films
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Documentaries
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Documentaries
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Drama Life
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Drama Life
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=332&deviceId=5f24662bebe0f0000767de32&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Fantastic
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Fantastic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Gamer
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Gamer
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=801&deviceId=5ca7f16c37b88b2694731c79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: History
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: History
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=651&deviceId=5a4d35dfa5c02e717a234f86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Horror
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Horror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Investiga
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Investiga
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=936&deviceId=5cf96b8f4f1ca3f0629f4bf1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Kids
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Kids Animation
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Kids Animation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5db0ad56edc89300090d2ebb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Lives
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Lives
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=276&deviceId=5d8beeb39b5d5d5f8c672530&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Love Stories
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Love Stories
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=147&deviceId=5f15e181520cfa000771ce79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Military
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Military
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=655&deviceId=5bb3fea0f711fd76340eebff&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Mundo
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Naturaleza
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=962&deviceId=5d8d10ce06a9665fe54bf74a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Paranormal
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Paranormal
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=669&deviceId=5adf96e3e738977e2c31cb04&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Realities ESP
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Realities ESP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=953&deviceId=5d93b4d71754e6a4298d086e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Reality
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Reality
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=275&deviceId=5d8bf0b06d2d855ee15115e3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Romance
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Sci-Fi
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Sci-Fi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=151&deviceId=5b4fc274694c027be6ed3eea&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Science
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Science
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=672&deviceId=563a970aa1a1f7fe7c9daad7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Sports
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Suspense
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Suspense
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e281b0b8840007324b55/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=149&deviceId=5f15e281b0b8840007324b55&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Terror
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Thrillers
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Thrillers
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: True Crime
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: True Crime
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=365&deviceId=5812be1c249444e05d09cc50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Tween
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Tween
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=991&deviceId=5db0ae5af8797b00095c0794&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png" group-title="Pluto TV US",Pluto TV US: Spike 
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png" group-title="Pluto TV US;US Channels",Pluto TV US: Spike 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=290&deviceId=5812bcc8237a6ff45d16c407&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="ABC" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/240px-American_Broadcasting_Company_Logo.svg.png",USTVGO: US: ABC
+https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTU6NTkgQU0maGFzaF92YWx1ZT1BeDNVWEtJRjNyN2JFVTJUVG1vUjNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="ACCN" group-title="USTVGO" tvg-logo="https://news.syr.edu/wp-content/uploads/2019/08/New-ACCNX-logo-690x489.jpg",USTVGO: US: ACC Network
+https://h3.ustvgo.la/ACCN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTU6NTkgQU0maGFzaF92YWx1ZT1BeDNVWEtJRjNyN2JFVTJUVG1vUjNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="AE" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png",USTVGO: US: AE
+https://h3.ustvgo.la/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDAgQU0maGFzaF92YWx1ZT1ucC9yOUt5bjQwZlFDaUJUVTd6cWNBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="AMC" group-title="USTVGO" tvg-logo="https://variety.com/wp-content/uploads/2020/03/amc-network-logo.jpg",USTVGO: US: AMC
+https://h3.ustvgo.la/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDAgQU0maGFzaF92YWx1ZT1ucC9yOUt5bjQwZlFDaUJUVTd6cWNBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Animal" group-title="USTVGO" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",USTVGO: US: Animal Planet
+https://h3.ustvgo.la/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDAgQU0maGFzaF92YWx1ZT1ucC9yOUt5bjQwZlFDaUJUVTd6cWNBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="BBCAmerica" group-title="USTVGO" tvg-logo="https://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2012/06/bbc_logo_1280x720.jpg",USTVGO: US: BBCAmerica
+https://h3.ustvgo.la/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDEgQU0maGFzaF92YWx1ZT1LaklnWXlhZW5UbWRKRkJqVUF5bHJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="BTN" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",USTVGO: US: Big Ten Network
+https://h3.ustvgo.la/BTN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDEgQU0maGFzaF92YWx1ZT1LaklnWXlhZW5UbWRKRkJqVUF5bHJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="BET" group-title="USTVGO" tvg-logo="https://cdn.britannica.com/82/103082-050-1B349E2F/logo-BET-Networks.jpg",USTVGO: US: BET
+https://h3.ustvgo.la/BET/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDEgQU0maGFzaF92YWx1ZT1LaklnWXlhZW5UbWRKRkJqVUF5bHJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Boomerang" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",USTVGO: US: Boomerang
+https://h3.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDIgQU0maGFzaF92YWx1ZT1ZMThXZjBqK09qTzV6dXFBM3pjNStRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Bravo" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png",USTVGO: US: Bravo
+https://h3.ustvgo.la/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDIgQU0maGFzaF92YWx1ZT1ZMThXZjBqK09qTzV6dXFBM3pjNStRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="CSPAN" group-title="USTVGO" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnixw_TlbK6C0Ze_OPwbuav1IuyXBNwcK-Tnx8icvw=s900-c-k-c0x00ffffff-no-rj",USTVGO: US: C-span
+https://h3.ustvgo.la/CSPAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDMgQU0maGFzaF92YWx1ZT1NV09CZ3pyMHlzVHYvZndobnVrbEdRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="CBS" group-title="USTVGO" tvg-logo="https://mms.businesswire.com/media/20201008005740/en/828766/23/cbs_hero_midnight_logo_092220.jpg",USTVGO: US: CBS
+https://h3.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDMgQU0maGFzaF92YWx1ZT1NV09CZ3pyMHlzVHYvZndobnVrbEdRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="CBSSN" group-title="USTVGO" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/02/cbs_sports_network.png",USTVGO: US: CBS Sports Network
+https://h3.ustvgo.la/CBSSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDQgQU0maGFzaF92YWx1ZT1QbG5ENDlKTkF2ZzNFQmxneHYyekt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Cinemax" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png",USTVGO: US: Cinemax
+https://h3.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDQgQU0maGFzaF92YWx1ZT1QbG5ENDlKTkF2ZzNFQmxneHYyekt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="CMT" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png",USTVGO: US: CMT
+https://h3.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDQgQU0maGFzaF92YWx1ZT1QbG5ENDlKTkF2ZzNFQmxneHYyekt3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="CN" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",USTVGO: US: Cartoon Network
+https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDUgQU0maGFzaF92YWx1ZT1OZzdxbEpJdDlldHJyTFZKZzJneHd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="CNBC" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",USTVGO: US: CNBC
+https://h3.ustvgo.la/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDUgQU0maGFzaF92YWx1ZT1OZzdxbEpJdDlldHJyTFZKZzJneHd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="CNN" group-title="USTVGO" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png",USTVGO: US: CNN
+https://h3.ustvgo.la/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDUgQU0maGFzaF92YWx1ZT1OZzdxbEpJdDlldHJyTFZKZzJneHd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Comedy" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/150px-Comedy_Central.svg.png",USTVGO: US: Comedy Central
+https://h3.ustvgo.la/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDYgQU0maGFzaF92YWx1ZT1pS1JLbU1uWUtGUE14VmZpOEhySUFRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="CW" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png",USTVGO: US: CW
+https://h3.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDYgQU0maGFzaF92YWx1ZT1pS1JLbU1uWUtGUE14VmZpOEhySUFRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="DA" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1200px-Destination_America_logo.svg.png",USTVGO: US: Destination America
+https://h3.ustvgo.la/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDcgQU0maGFzaF92YWx1ZT16WDBnZmI4R2R0UFNDS2JaNDFiZS9RPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Discovery" group-title="USTVGO" tvg-logo="https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png",USTVGO: US: Discovery
+https://h3.ustvgo.la/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDcgQU0maGFzaF92YWx1ZT16WDBnZmI4R2R0UFNDS2JaNDFiZS9RPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Disney" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",USTVGO: US: Disney
+https://h3.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDggQU0maGFzaF92YWx1ZT0rRUtzNzdYV3J6Z3pZS0k1OGpZMUxnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="DisneyJr" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",USTVGO: US: DisneyJr
+https://h3.ustvgo.la/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDggQU0maGFzaF92YWx1ZT0rRUtzNzdYV3J6Z3pZS0k1OGpZMUxnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="DisneyXD" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",USTVGO: US: DisneyXD
+https://h3.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDggQU0maGFzaF92YWx1ZT0rRUtzNzdYV3J6Z3pZS0k1OGpZMUxnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="DIY" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/1200px-DIY_Network_logo.svg.png",USTVGO: US: Do it yourself (DIY)
+https://h3.ustvgo.la/DIY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDkgQU0maGFzaF92YWx1ZT1VVnM5VjZ0T3JOTHIwR2JpN2kwM253PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="E" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png",USTVGO: US: E!
+https://h3.ustvgo.la/E/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MDkgQU0maGFzaF92YWx1ZT1VVnM5VjZ0T3JOTHIwR2JpN2kwM253PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="ESPN" group-title="USTVGO" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",USTVGO: US: ESPN
+https://h3.ustvgo.la/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTAgQU0maGFzaF92YWx1ZT1mbWZ3bXQ4TTFxcllJQVk0VVJXeXR3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="ESPN2" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png",USTVGO: US: ESPN2
+https://h3.ustvgo.la/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTAgQU0maGFzaF92YWx1ZT1mbWZ3bXQ4TTFxcllJQVk0VVJXeXR3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="ESPNU" group-title="USTVGO" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png",USTVGO: US: ESPNU
+https://h3.ustvgo.la/ESPNU/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTAgQU0maGFzaF92YWx1ZT1mbWZ3bXQ4TTFxcllJQVk0VVJXeXR3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="ESPNews" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png",USTVGO: US: ESPNews
+https://h3.ustvgo.la/ESPNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTEgQU0maGFzaF92YWx1ZT00SGNWQjBGMW9qalJobUJYd1VvVit3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FoodNetwork" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",USTVGO: US: FoodNetwork
+https://h3.ustvgo.la/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTEgQU0maGFzaF92YWx1ZT00SGNWQjBGMW9qalJobUJYd1VvVit3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FOX" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",USTVGO: US: FOX
+https://h3.ustvgo.la/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTIgQU0maGFzaF92YWx1ZT0vdU9NUWZMMHQrR1duWFU4eDRoWHdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FoxBusiness" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Fox_Business_Logo.svg/1280px-Fox_Business_Logo.svg.png",USTVGO: US: FoxBusiness
+https://h3.ustvgo.la/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTIgQU0maGFzaF92YWx1ZT0vdU9NUWZMMHQrR1duWFU4eDRoWHdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FoxNews" group-title="USTVGO" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg",USTVGO: US: FoxNews
+https://h3.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTIgQU0maGFzaF92YWx1ZT0vdU9NUWZMMHQrR1duWFU4eDRoWHdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Freeform" group-title="USTVGO" tvg-logo="https://image.roku.com/developer_channels/prod/25c45c30089feb96023180a823a99a8c12ff389e097e9817d98e13852f5ca340.png",USTVGO: US: Freeform
+https://h3.ustvgo.la/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTMgQU0maGFzaF92YWx1ZT1rT1kxTlBSczJrTmJNbWRSWFRXQzl3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FS1" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",USTVGO: US: Fox Sports 1 (FS1)
+https://h3.ustvgo.la/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTMgQU0maGFzaF92YWx1ZT1rT1kxTlBSczJrTmJNbWRSWFRXQzl3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FS2" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",USTVGO: US: Fox Sports 2 (FS2)
+https://h3.ustvgo.la/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTQgQU0maGFzaF92YWx1ZT1yUEM0aWJjZmR6VTZYSlpHL1lYQTd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FX" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png",USTVGO: US: FX
+https://h3.ustvgo.la/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTQgQU0maGFzaF92YWx1ZT1yUEM0aWJjZmR6VTZYSlpHL1lYQTd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FXMovie" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png",USTVGO: US: FX Movie Channel
+https://h3.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTUgQU0maGFzaF92YWx1ZT1QK3did0Y4dHVla0YydHR2R1RtUUF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FXX" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png",USTVGO: US: FXX
+https://h3.ustvgo.la/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTUgQU0maGFzaF92YWx1ZT1QK3did0Y4dHVla0YydHR2R1RtUUF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="GOLF" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",USTVGO: US: Golf Channel
+https://h3.ustvgo.la/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTUgQU0maGFzaF92YWx1ZT1QK3did0Y4dHVla0YydHR2R1RtUUF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="GSN" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png",USTVGO: US: Game Show Network
+https://h3.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTYgQU0maGFzaF92YWx1ZT1sM1hHanhKSHJpRFU0RVRHUDl3L0xRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Hallmark" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png",USTVGO: US: Hallmark Channel
+https://h3.ustvgo.la/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTYgQU0maGFzaF92YWx1ZT1sM1hHanhKSHJpRFU0RVRHUDl3L0xRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="HBO" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",USTVGO: US: HBO
+https://h3.ustvgo.la/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTcgQU0maGFzaF92YWx1ZT1TRCtlVHg3VUl2WjByYU9QaHlWd3BnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="HGTV" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png",USTVGO: US: HGTV
+https://h3.ustvgo.la/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTcgQU0maGFzaF92YWx1ZT1TRCtlVHg3VUl2WjByYU9QaHlWd3BnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="History" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",USTVGO: US: History
+https://h3.ustvgo.la/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTcgQU0maGFzaF92YWx1ZT1TRCtlVHg3VUl2WjByYU9QaHlWd3BnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="HLN" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png",USTVGO: US: HLN
+https://h3.ustvgo.la/HLN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTggQU0maGFzaF92YWx1ZT1CVFRFZ1J3T2pLaUxmQnVjS1lCQ1dRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="HMM" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png",USTVGO: US: Hallmark Movies & Mysteries
+https://h3.ustvgo.la/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTggQU0maGFzaF92YWx1ZT1CVFRFZ1J3T2pLaUxmQnVjS1lCQ1dRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="ID" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",USTVGO: US: Investigation Discovery
+https://h3.ustvgo.la/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTkgQU0maGFzaF92YWx1ZT0zT0xlVkZwY1gwa1ZDYU5oUlB1YlJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Lifetime" group-title="USTVGO" tvg-logo="https://i.pinimg.com/originals/ed/ed/a6/ededa6b1e5d4e85eb3138036396f81a3.png",USTVGO: US: Lifetime
+https://h3.ustvgo.la/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MTkgQU0maGFzaF92YWx1ZT0zT0xlVkZwY1gwa1ZDYU5oUlB1YlJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="LifetimeM" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1200px-LMN_logo_2019.svg.png",USTVGO: US: Lifetime Movie Network
+https://h3.ustvgo.la/LifetimeM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjAgQU0maGFzaF92YWx1ZT13cVJPRDFYVTdFaWJ5dHp2RGRxY2pBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="MLB" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png",USTVGO: US: MLB Network
+https://h3.ustvgo.la/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjAgQU0maGFzaF92YWx1ZT13cVJPRDFYVTdFaWJ5dHp2RGRxY2pBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="MotorTrend" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png",USTVGO: US: Motor Trend
+https://h3.ustvgo.la/MotorTrend/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjAgQU0maGFzaF92YWx1ZT13cVJPRDFYVTdFaWJ5dHp2RGRxY2pBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="MSNBC" group-title="USTVGO" tvg-logo="https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png",USTVGO: US: MSNBC
+https://h3.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjEgQU0maGFzaF92YWx1ZT1YT1J5ais4Q0l0Qjc5ak8vYlNhN1JBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="MTV" group-title="USTVGO" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/MTV-logo.png",USTVGO: US: MTV
+https://h3.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjEgQU0maGFzaF92YWx1ZT1YT1J5ais4Q0l0Qjc5ak8vYlNhN1JBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="NatGEO" group-title="USTVGO" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",USTVGO: US: National Geographic
+https://h3.ustvgo.la/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjIgQU0maGFzaF92YWx1ZT1zU29qaG53VWpXem1xYnhQME4vT1BRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="NatGEOWild" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",USTVGO: US: Nat Geo Wild
+https://h3.ustvgo.la/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjIgQU0maGFzaF92YWx1ZT1zU29qaG53VWpXem1xYnhQME4vT1BRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="NBA" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",USTVGO: US: NBA TV
+https://h3.ustvgo.la/NBA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjMgQU0maGFzaF92YWx1ZT1iOVlRL1BUb2YwWFY1TjRqbzIrSHNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="NBC" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1039px-NBC_logo.svg.png",USTVGO: US: NBC
+https://h3.ustvgo.la/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjMgQU0maGFzaF92YWx1ZT1iOVlRL1BUb2YwWFY1TjRqbzIrSHNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="NBCSN" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png",USTVGO: US: NBC Sports (NBCSN)
+https://h3.ustvgo.la/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjMgQU0maGFzaF92YWx1ZT1iOVlRL1BUb2YwWFY1TjRqbzIrSHNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="NFL" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",USTVGO: US: NFL Network
+https://h3.ustvgo.la/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjQgQU0maGFzaF92YWx1ZT0vZ1Q5K3daSWd3Wjg3VXY3cjFoVGV3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="NFLRZ" group-title="USTVGO" tvg-logo="https://unplugthetv.com/wp-content/uploads/2019/10/nfl-redzone.png",USTVGO: US: NFL Redzone
+https://h3.ustvgo.la/NFLRZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjQgQU0maGFzaF92YWx1ZT0vZ1Q5K3daSWd3Wjg3VXY3cjFoVGV3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",USTVGO: US: Nickelodeon
+https://h3.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjUgQU0maGFzaF92YWx1ZT1sVC9ta0dxNk5maWZsYjkySS8rRlBnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Nicktoons" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Nicktoons-logo655.png",USTVGO: US: Nicktoons
+https://h3.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjUgQU0maGFzaF92YWx1ZT1sVC9ta0dxNk5maWZsYjkySS8rRlBnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="OAN" group-title="USTVGO" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51DqyTKou1L.png",USTVGO: US: One America News Network
+https://h3.ustvgo.la/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjYgQU0maGFzaF92YWx1ZT1KNU5obk82S2xhMHdkRGxnZkswVEJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="OWN" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png",USTVGO: US: Oprah Winfrey Network (OWN)
+https://h3.ustvgo.la/OWN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjYgQU0maGFzaF92YWx1ZT1KNU5obk82S2xhMHdkRGxnZkswVEJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="OLY" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",USTVGO: US: Olympic Channel
+https://h3.ustvgo.la/OLY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjYgQU0maGFzaF92YWx1ZT1KNU5obk82S2xhMHdkRGxnZkswVEJRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Oxygen" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png",USTVGO: US: Oxygen
+https://h3.ustvgo.la/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjcgQU0maGFzaF92YWx1ZT1VZVc3MHZ6TTd2dE5jRTBDUGFUL3N3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Paramount" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",USTVGO: US: Paramount
+https://h3.ustvgo.la/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjcgQU0maGFzaF92YWx1ZT1VZVc3MHZ6TTd2dE5jRTBDUGFUL3N3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="PBS" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1200px-PBS_logo.svg.png",USTVGO: US: PBS
+https://h3.ustvgo.la/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjcgQU0maGFzaF92YWx1ZT1VZVc3MHZ6TTd2dE5jRTBDUGFUL3N3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="POP" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",USTVGO: US: POP
+https://h3.ustvgo.la/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjggQU0maGFzaF92YWx1ZT1FVEJ0VjhLR1FhbDZ6T0lVOCtLUENBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Science" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",USTVGO: US: Science
+https://h3.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjggQU0maGFzaF92YWx1ZT1FVEJ0VjhLR1FhbDZ6T0lVOCtLUENBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="SECN" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",USTVGO: US: SEC Network
+https://h3.ustvgo.la/SECN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjkgQU0maGFzaF92YWx1ZT0yMXNuWUFkVTdTaHVzL1hZQlloaFF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Showtime" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png",USTVGO: US: Showtime
+https://h3.ustvgo.la/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MjkgQU0maGFzaF92YWx1ZT0yMXNuWUFkVTdTaHVzL1hZQlloaFF3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="StarZ" group-title="USTVGO" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_bk_rgb.jpg",USTVGO: US: StarZ
+https://h3.ustvgo.la/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzAgQU0maGFzaF92YWx1ZT1HK3loNkw1dTlQMWRwaXNIdGNzK0NnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="SundanceTV" group-title="USTVGO" tvg-logo="https://variety.com/wp-content/uploads/2014/01/sundance-tv-logo.jpg?w=681&h=383&crop=1",USTVGO: US: SundanceTV
+https://h3.ustvgo.la/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzAgQU0maGFzaF92YWx1ZT1HK3loNkw1dTlQMWRwaXNIdGNzK0NnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="SYFY" group-title="USTVGO" tvg-logo="https://img.favpng.com/12/21/5/sci-fi-channel-logo-television-show-png-favpng-kat14QrzbhfqgSqMuyXyPTS2i.jpg",USTVGO: US: SYFY
+https://h3.ustvgo.la/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzAgQU0maGFzaF92YWx1ZT1HK3loNkw1dTlQMWRwaXNIdGNzK0NnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="TBS" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",USTVGO: US: TBS
+https://h3.ustvgo.la/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzEgQU0maGFzaF92YWx1ZT10Z1F3c2RxRmRISHg2Q25YaytMQXNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="TCM" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png",USTVGO: US: Turner Classic Movies (TCM)
+https://h3.ustvgo.la/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzEgQU0maGFzaF92YWx1ZT10Z1F3c2RxRmRISHg2Q25YaytMQXNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Telemundo" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",USTVGO: US: Telemundo
+https://h3.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzEgQU0maGFzaF92YWx1ZT10Z1F3c2RxRmRISHg2Q25YaytMQXNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Tennis" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png",USTVGO: US: Tennis Channel
+https://h3.ustvgo.la/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzIgQU0maGFzaF92YWx1ZT13VVdCVjk1L2V0aGZVeXhXZFd1eERnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="TLC" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",USTVGO: US: TLC
+https://h3.ustvgo.la/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzIgQU0maGFzaF92YWx1ZT13VVdCVjk1L2V0aGZVeXhXZFd1eERnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="TNT" group-title="USTVGO" tvg-logo="https://i.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",USTVGO: US: TNT
+https://h3.ustvgo.la/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzMgQU0maGFzaF92YWx1ZT1CUCsrWWhSbHUrTDBLd2NhT2lSRmhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Travel" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png",USTVGO: US: Travel Channel
+https://h3.ustvgo.la/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzMgQU0maGFzaF92YWx1ZT1CUCsrWWhSbHUrTDBLd2NhT2lSRmhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="TruTV" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png",USTVGO: US: truTV
+https://h3.ustvgo.la/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzQgQU0maGFzaF92YWx1ZT1mWlZVVDRzR082RVdqSDkyTXJZNUZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="TVLand" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png",USTVGO: US: TV Land
+https://h3.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzQgQU0maGFzaF92YWx1ZT1mWlZVVDRzR082RVdqSDkyTXJZNUZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="TWC" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png",USTVGO: US: The Weather Channel
+https://h3.ustvgo.la/TWC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzQgQU0maGFzaF92YWx1ZT1mWlZVVDRzR082RVdqSDkyTXJZNUZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Univision" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png",USTVGO: US: Univision
+https://h3.ustvgo.la/Univision/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzUgQU0maGFzaF92YWx1ZT1VOXJXckQ4VkIrSWRSNFF1dmhLd1N3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="USANetwork" group-title="USTVGO" tvg-logo="https://i.pinimg.com/originals/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f.jpg",USTVGO: US: USA Network
+https://h3.ustvgo.la/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzUgQU0maGFzaF92YWx1ZT1VOXJXckQ4VkIrSWRSNFF1dmhLd1N3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="VH1" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png",USTVGO: US: VH1
+https://h3.ustvgo.la/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzYgQU0maGFzaF92YWx1ZT1tUGg3cDZ5VXFkOUVFVFcraEtzT1B3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="WETV" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/1200px-We_TV_logo_2014.svg.png",USTVGO: US: We TV
+https://h3.ustvgo.la/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzYgQU0maGFzaF92YWx1ZT1tUGg3cDZ5VXFkOUVFVFcraEtzT1B3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="WWE" group-title="USTVGO" tvg-logo="https://www.denofgeek.com/wp-content/uploads/2014/01/wwenetworklogo.png",USTVGO: US: WWE Network
+https://h3.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzYgQU0maGFzaF92YWx1ZT1tUGg3cDZ5VXFkOUVFVFcraEtzT1B3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="YES" group-title="USTVGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1024px-YES_Network_logo.svg.png",USTVGO: US: YES Network
+https://h3.ustvgo.la/YES/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDY6NTY6MzcgQU0maGFzaF92YWx1ZT1iNGx5djBNVHcyN2c3L09RQ3RtVjVRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ad9bda9fd87eb3a2717cce0/colorLogoPNG.png" group-title="Pluto TV DE",Pluto TV DE: Fight
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&deviceId=5ad9bda9fd87eb3a2717cce0&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="Pluto TV DE",Pluto TV DE: Fitness
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3b0b1ee4-3c26-4c24-8a7c-1b12f2e4e536&deviceId=5e8b0c92783b3f0007a4c7df&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5c8a6bc64dc7286c6afaf4ab/colorLogoPNG.png" group-title="Pluto TV DE",Pluto TV DE: Movies+ (CH)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8a6bc64dc7286c6afaf4ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=f747754f-ee3e-4968-9e8e-779da031bce9&deviceId=5c8a6bc64dc7286c6afaf4ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="Pluto TV DE",Pluto TV DE: Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&deviceId=5ad9bb941b95267e225e59c2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5d1ce51dbaca4afdb7abfe5f/colorLogoPNG.png" group-title="Pluto TV DE",Pluto TV DE: Surf
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8b0d10e186bf0007e2b100/colorLogoPNG.png" group-title="Pluto TV DE",Pluto TV DE: Yoga
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2c143e9d-0cd6-4d02-8b92-df3471ececef&deviceId=5e8b0d10e186bf0007e2b100&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ede45451dce190007ef9ff2/colorLogoPNG.png" group-title="Pluto TV DE",Pluto TV DE: Nick Jr.
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=d1d4cf70-0714-11eb-a59f-0242ac110002&deviceId=5ede45451dce190007ef9ff2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="Pluto TV DE",Pluto TV+ DE: Nick 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=fbbb3638-0714-11eb-aeab-0242ac110002&deviceId=5ede448d3d50590007a4419e&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5f3d2b57d6c60800074cb305/colorLogoPNG.png" group-title="Pluto TV DE",Pluto TV+ DE: Nick 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2b57d6c60800074cb305/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=19a8ba6e-9713-4df0-83d9-93dd72c984f0&deviceId=5f3d2b57d6c60800074cb305&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E01 | Vesmírný pilot 3000
+https://files.fm/down.php?i=7vvmyrgj3
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E02 | Na Měsíc a dál
+https://files.fm/down.php?i=w8jsk24ta 
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E03 | Nejlepší přítel robota
+https://files.fm/down.php?i=86nknntbr
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E04 | Marná vesmírné lásky snaha	
+https://files.fm/down.php?i=xaxef4pmj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E05 | Útěk z Planety robotů
+https://files.fm/down.php?i=u4mnukbwy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E06 | Konzerva za všechny prachy
+https://files.fm/down.php?i=h2rhf22d4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E07 | Má tři slunce
+https://files.fm/down.php?i=h2rhf22d4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E08 | Drtivý odpad
+https://files.fm/down.php?i=35dsvckcy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E09 | Peklo jsou ti druzí roboti
+https://files.fm/down.php?i=j6hc8y7v2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E10 | Zkáza Titanicu
+https://files.fm/down.php?i=4kxwgabqj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E11 | Marťanská univerzita
+https://files.fm/down.php?i=ry9u2pttx
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E12 | Den závislosti
+https://files.fm/down.php?i=4n7b3gxy3
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title=" Futurama - Season 1", CZ: S01E13 | Fry a továrna na Slurm
+https://files.fm/down.php?i=4vqkcww5j
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E01 | Citové pouto
+https://files.fm/down.php?i=dmhq57wsg
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E02 | Brannigen vrací úder
+https://files.fm/down.php?i=xjs4b8mf4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E03 | Do voleb hlava nehlava
+https://files.fm/down.php?i=w5ngebsfs
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E04 | První společné V. V. ce
+https://files.fm/down.php?i=qxyqf725f
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E05 | Zamilovaný korýš
+https://files.fm/down.php?i=sq4dfmxbj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E06 | To menší zlo
+https://files.fm/down.php?i=hjbzsmha2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E07 | Mám tě po krk
+https://files.fm/down.php?i=nqe7crm37
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E08 | Zuřící Bender
+https://files.fm/down.php?i=j66b9ygy5
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E09 | O původu kyklopů
+https://files.fm/down.php?i=bv4x8h8k4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E10 | To je on, můj klon
+https://files.fm/down.php?i=5fmxhs6er
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E11 | Ve spárech byrokracie
+https://files.fm/down.php?i=qw8avkmuh
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E12 | Bájné město Atlanta
+https://files.fm/down.php?i=6djes55zb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E13 | Mafián Bender
+https://files.fm/down.php?i=dm7wwyfaf
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E14 | Den matky
+https://files.fm/down.php?i=w5e6ja9hb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E15 | Trable s poplíky
+https://files.fm/down.php?i=a6mcjtkw9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E16 | Krajně mezní příběhy I
+https://files.fm/down.php?i=k2b6dxept
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E17 | Zachraňte vojína Bendera
+https://files.fm/down.php?i=k2b6dxept
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E18 | Kvílení autodlaků
+https://files.fm/down.php?i=cegux72aa
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title=" Futurama - Season 2", CZ: S02E19 | Jak ztratit holku za 1000 let
+https://files.fm/down.php?i=wegwb6hag
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E01 | Amazonky to chtěj taky
+https://files.fm/down.php?i=fzbtzr9yk
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E02 | Vyhnání z Frye
+https://files.fm/down.php?i=4957es5xk
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E03 | Dva Santové tankují super
+https://files.fm/down.php?i=qw6s4jhpp
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E04 | Víc neštěstí než rozumu
+https://files.fm/down.php?i=qw6s4jhpp
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E05 | Bender mezi tučňáky
+https://files.fm/down.php?i=sqstq9duq
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E06 | Láska benderovská
+https://files.fm/down.php?i=t9fn48a65
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E07 | Tahle Země není pro blbý
+https://files.fm/down.php?i=8gm5g3ayx
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E08 | Humrův humor
+https://files.fm/down.php?i=tdtcgznrp
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E09 | Tucet sirotků
+https://files.fm/down.php?i=st9twv4pz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E10 | Pod kopyty bugolů
+https://files.fm/down.php?i=psfkkxg2u
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E11 | Roboti musejí být šílení
+https://files.fm/down.php?i=4d5wgsd5n
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E12 | Juniorské mistrovství zla
+https://files.fm/down.php?i=fk2m9v7wj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E13 | Zpívání všechny chmury nahání
+https://files.fm/down.php?i=fyx9k368h
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E14 | Tak skáče čas
+https://files.fm/down.php?i=dpf8npbcy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E15 | Nebezpečné roboznámosti
+https://files.fm/down.php?i=yqvp6hkbv
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E16 | Liga výjimečných břídilů
+https://files.fm/down.php?i=8nj6k3ksj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E17 | Pracant egyptský
+https://files.fm/down.php?i=tberbw54c
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E18 | Krajně mezní příběhy II
+https://files.fm/down.php?i=y7rq4h4a6
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E19 | Rozval Roswell
+https://files.fm/down.php?i=jqrxuu5vq
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E20 | Božský Bender
+https://files.fm/down.php?i=3zxvtv4dy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E21 | Burza bezcenných papírů
+https://files.fm/down.php?i=vbhfd3q87
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title=" Futurama - Season 3", CZ: S03E22 | Železný kuchař
+https://files.fm/down.php?i=wgvrwz4t3
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E01 | Zbouchnutej
+https://files.fm/down.php?i=7q2duhzep
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E02 | O původu Leely
+https://files.fm/down.php?i=mewt7u2n4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E03 | Valentýnská odysea
+https://files.fm/down.php?i=7q9t5epdz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E04 | Temný raubíř
+https://files.fm/down.php?i=ejyxrqchd
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E05 | Jak chutná svoboda
+https://files.fm/down.php?i=gmnftczad
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E06 | Bendera by měli v televizi zakázat
+https://files.fm/down.php?i=qsf3cseg9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E07 | Čtyři z rakety a pes
+https://files.fm/down.php?i=b6hfrwj87
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E08 | Nikdo to rád horké
+https://files.fm/down.php?i=aacthucch
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E09 | Leela běží o životy
+https://files.fm/down.php?i=aacthucch
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E10 | Fryův smysl života
+https://files.fm/down.php?i=hpamsnpez
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E11 | Kam se dosud žádný fanoušek nevydal
+https://files.fm/down.php?i=99kcwu2zu
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E12 | Žihadlo
+https://files.fm/down.php?i=8u9wy8gcn
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E13 | Benderové nepláčou
+https://files.fm/down.php?i=u75a8vzwd
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E14 | Ztraceno v upgradu
+https://files.fm/down.php?i=ck3nknwuc
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E15 | Krabice do neznáma
+https://files.fm/down.php?i=urpzxxcvs
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E16 | Tři sta babek
+https://files.fm/down.php?i=6thsaum77
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E17 | Afryodisiakum
+https://files.fm/down.php?i=jz34n2zu3
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title=" Futurama - Season 4", CZ: S04E18 | Smlouva s roboďáblem
+https://files.fm/down.php?i=3xc76e9zy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E01 | Benderovo parádní terno 1/4
+https://files.fm/down.php?i=xr8e2hjvc
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E02 | Benderovo parádní terno 2/4
+https://files.fm/down.php?i=5phekjh7d
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E03 | Benderovo parádní terno 3/4
+https://files.fm/down.php?i=5qcwe6d24
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E04 | Benderovo parádní terno 4/4
+https://files.fm/down.php?i=7cwptbnp8
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E05 | Milion a jedno chapadlo 1/4
+https://files.fm/down.php?i=m5h93zphz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E06 | Milion a jedno chapadlo 2/4
+https://files.fm/down.php?i=xmbb4py6t
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E07 | Milion a jedno chapadlo 3/4
+https://files.fm/down.php?i=tfegeuapx
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E08 | Milion a jedno chapadlo 4/4
+https://files.fm/down.php?i=n8nmgsd34
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E09 | Benderova hra 1/4
+https://files.fm/down.php?i=6npsy3fpa
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E10 | Benderova hra 2/4
+https://files.fm/down.php?i=3ua72366g
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E11 | Benderova hra 3/4
+https://files.fm/down.php?i=hph6kjqcy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E12 | Benderova hra 4/4
+https://files.fm/down.php?i=xhcdj345g
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E13 | Fialový trpaslík 1/4
+https://files.fm/down.php?i=7e5kwmtrs
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E14 | Fialový trpaslík 2/4
+https://files.fm/down.php?i=q2e8r6g3d
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E15 | Fialový trpaslík 3/4
+https://files.fm/down.php?i=ws35zf9wv
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title=" Futurama - Season 5", CZ: S05E16 | Fialový trpaslík 4/4
+https://files.fm/down.php?i=vnzwmnpuy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E01 | Znovuzrození
+https://files.fm/down.php?i=yzsw6s5gg
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E02 | Adam a Leela
+https://files.fm/down.php?i=3ztszmdhg
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E03 | Krutá aplikace
+https://files.fm/down.php?i=u4q3sdgpp
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E04 | Návrh Nekonečno
+https://files.fm/down.php?i=u5vyfamm3
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E05 | Šifra mistra Blbonarda
+https://files.fm/down.php?i=fnzt7e942
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E06 | Číslo pět nežije
+https://files.fm/down.php?i=9s8d3y4qf
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E07 | Lepší později než pozdě
+https://files.fm/down.php?i=zmusrbxw9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E08 | Černý Diblík, bílý kocour
+https://files.fm/down.php?i=q59w2mqtz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E09 | Přírobověda
+https://files.fm/down.php?i=4p2qs7xr8
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E10 | Tělo mého přítele
+https://files.fm/down.php?i=6c36m6425
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E11 | Ndndsmiřitelné Lrrrozdíly
+https://files.fm/down.php?i=gh2tusu4y
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E12 | Mutanti se bouří
+https://files.fm/down.php?i=sma2vnckb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E13 | Sváteční spektákl
+https://files.fm/down.php?i=35t4y5ce2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E14 | Neutopie
+https://files.fm/down.php?i=2e7ctvkmd
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E15 | Benderama
+https://files.fm/down.php?i=8zxyxcx2g
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E16 | Krotitelé roboduchů
+https://files.fm/down.php?i=cfzshfqcq
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E17 | Fryority Report
+https://files.fm/down.php?i=n4j2bdg64
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E18 | Mlčení cvakátek
+https://files.fm/down.php?i=qng9ny9qb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E19 | Malý kabelový kabaret
+https://files.fm/down.php?i=j4pdu45zh
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E20 | Čest rodiny Farnsworthů
+https://files.fm/down.php?i=pxh77yck9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E21 | Möbius Dick
+https://files.fm/down.php?i=9yh8cjrbz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E22 | Jedno vejce do skla
+https://files.fm/down.php?i=uz7qfgybr
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E23 | Léčba Zoidbergem
+https://files.fm/down.php?i=jskpa27p9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E24 | Bojovníci s rýmou
+https://files.fm/down.php?i=9ddx4ey6t
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E25 | Rychlé čipy
+https://files.fm/down.php?i=9xwja6ycu
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title=" Futurama - Season 6", CZ: S06E26 | Reinkarnace
+https://files.fm/down.php?i=uqzgh466k
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E01 | Sexuální praktiky robotů
+https://files.fm/down.php?i=a7utt67g4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E02 | Chyť mě za ruku
+https://files.fm/down.php?i=mquvntkbh
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E03 | Narodím se zítra
+https://files.fm/down.php?i=73v6hewb2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E04 | Zloděj na pytel
+https://files.fm/down.php?i=vqtfsdscb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E05 | Rozvod po mutantsku
+https://files.fm/down.php?i=5dbdhbsdj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E06 | Ostudový dotek
+https://files.fm/down.php?i=s3y5p7tp6
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E07 | V boji proti stroji
+https://files.fm/down.php?i=eky76rr3h
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E08 | Tenkrát na Oktoberfestu
+https://files.fm/down.php?i=89x2zyw57
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E09 | Honba za svobodnou vůlí
+https://files.fm/down.php?i=fmsznv4s4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E10 | Skoro poslední přání
+https://files.fm/down.php?i=x7st6w2jf
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E11 | Viva Mars Vegas
+https://files.fm/down.php?i=vqytmwbxq
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E12 | Hon na robolišku
+https://files.fm/down.php?i=epvyt6h95
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E13 | Přírodňárna
+https://files.fm/down.php?i=9r5ve425r
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E14 | Rychle a zploštile
+https://files.fm/down.php?i=7cdrchcha
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E15 | 15	Opičí úlet
+https://files.fm/down.php?i=nnb4hmjgy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E16 | Tydýt mimozemšťan
+https://files.fm/down.php?i=fzd3748un
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E17 | Píseň železničáře
+https://files.fm/down.php?i=68jt4spbz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E18 | Hrátky s ohněm
+https://files.fm/down.php?i=z75yzy86k
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E19 | Sobotní zábavné dopoledne
+https://files.fm/down.php?i=tda79gsjk
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E20 | Kalkulon 2.0
+https://files.fm/down.php?i=th7v3n362
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E21 | Zadečku, vrať se
+https://files.fm/down.php?i=e48gb4f73
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E22 | Genům navzdory
+https://files.fm/down.php?i=cehr74yqz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E23 | Hra o tóny
+https://files.fm/down.php?i=rbfv4j36r
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E24 | Vražda v Planet Expresu
+https://files.fm/down.php?i=keajqcpb2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E25 | Rozum a čich
+https://files.fm/down.php?i=mfayuvyk7
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title=" Futurama - Season 7", CZ: S07E26 | Mezitím
+https://files.fm/down.php?i=hzuh4x3xw
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/LrZ2Rcn/Spongebob-Sponge-On-The-Run.jpg" group-title="Movies",Spongebob ve Filmu: Houba Na Útěku [CZ Dabing] [2020]
+https://files.fm/down.php?i=nhumjsc9j
+
+#EXTINF:-1 tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/bzwL5b7/Spongebob-Sponge-Out-Of-Water.jpg" group-title="Movies",Spongebob ve Filmu: Houba Na Suchu [CZ Dabing] [2015]
+https://files.fm/down.php?i=etgfyb5uy
+
+#EXTINF:-1 tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/Sn2HkJc/Spongebob-Ve-Filmu-2004.jpg" group-title="Movies",Spongebob ve Filmu  [CZ Dabing] [2004]
+https://files.fm/down.php?i=k8mpkg7kd
+
