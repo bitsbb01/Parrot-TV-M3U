@@ -74,6 +74,9 @@ def Remove(): # Removes files so they can be Re-written
     if os.path.exists("EPG/ustvgo_epg.xml"):
         os.remove("EPG/ustvgo_epg.xml")
 
+    if os.path.exists("Assets/Channels/ustvgo.m3u"):
+        os.remove("Assets/Channels/ustvgo.m3u")
+
 def MakeCS(): # Makes CZ & SK Channels 
     data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = ""
   
@@ -172,17 +175,22 @@ def MakeMain(): # Makes Main Channels
     with open ('Main.m3u', 'w') as fp:
         fp.write(data)
 
+def Git():
+    os.system("git push")
+
 def Runner(): # Starts all scripts
     Remove()
     Clear()
-    #getUSTVGO()
+    getUSTVGO()
     MakeCS()
     MakeEng()
     MakeMain()
 
-def updateEPG():
+def updateEPG(): # Adds USTVGO to EPG
     os.system("wget -P EPG/ https://raw.githubusercontent.com/nomoney4me/ustvgo/main/output/ustvgo_epg.xml")
     os.system("python2 EPG/xml_merge.py EPG/EPG1.xml EPG/ustvgo_epg.xml > EPG/EPG.xml")
+
+
 
 Runner()
 
