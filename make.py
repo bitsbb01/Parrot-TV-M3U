@@ -176,6 +176,8 @@ def MakeMain(): # Makes Main Channels
         fp.write(data)
 
 def Git():
+    os.system("git add .")
+    os.system("git commit -m 'Parrot BOT: Pushed to repo!'")
     os.system("git push")
 
 def Runner(): # Starts all scripts
@@ -185,6 +187,7 @@ def Runner(): # Starts all scripts
     MakeCS()
     MakeEng()
     MakeMain()
+    Git()
 
 def updateEPG(): # Adds USTVGO to EPG
     os.system("wget -P EPG/ https://raw.githubusercontent.com/nomoney4me/ustvgo/main/output/ustvgo_epg.xml")
