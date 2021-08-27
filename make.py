@@ -175,7 +175,7 @@ def MakeMain(): # Makes Main Channels
     with open ('Main.m3u', 'w') as fp:
         fp.write(data)
 
-def Git():
+def Git(): # Commits to GitHub Repo
     os.system("git add .")
     os.system("git commit -m 'Parrot BOT: Pushed to repo!'")
     os.system("git push")
@@ -192,8 +192,6 @@ def Runner(): # Starts all scripts
 def updateEPG(): # Adds USTVGO to EPG
     os.system("wget -P EPG/ https://raw.githubusercontent.com/nomoney4me/ustvgo/main/output/ustvgo_epg.xml")
     os.system("python2 EPG/xml_merge.py EPG/EPG1.xml EPG/ustvgo_epg.xml > EPG/EPG.xml")
-
-
 
 Runner()
 
