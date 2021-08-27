@@ -28,6 +28,8 @@ plugin://plugin.video.freeview.sk/?provider=markiza&channel=doma
 plugin://plugin.video.freeview.sk/?provider=markiza&channel=dajto
 #EXTINF:0 tvg-id="42-ta3" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ta3.png" group-title="SK Channels" tvg-name="FreeView: SK: TA3",FreeView: SK: TA3
 plugin://plugin.video.freeview.sk/?provider=ta3&channel=ta3
+#EXTINF:0 group-title="SK Channels", TV Nitricka
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnEQCNDsMtPlrVwCrRViaeQ/live
 #EXTINF:-1 tvg-id="83-fashiontv" group-title="SK Channels" tvg-logo="https://i.ibb.co/XzBpYkL/Fashion-TV.png",SK: Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="191-lux" group-title="SK Channels" tvg-logo="https://i.ibb.co/4jx6gzZ/TV-Lux.png",SK: TV Lux
@@ -281,7 +283,7 @@ https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="UK Channels",UK: Horse and Country (720p)
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azSptPw.png" group-title="Lifestyle", Jewelery Maker (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azSptPw.png" group-title="UK Channels", Jewelery Maker (720p)
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" group-title="UK Channels",UK: Moonbug Kids (1080p)
@@ -308,7 +310,7 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="UK Channels",UK: TJC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8PEf3Vn.jpg" group-title="Family", Toongoggles (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PEf3Vn.jpg" group-title="US Channels", Toongoggles (720p)
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MWkm3no.png" group-title="UK Channels",UK: Truly (720p)
