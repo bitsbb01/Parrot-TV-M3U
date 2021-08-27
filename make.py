@@ -1,4 +1,8 @@
-import os, sys
+import os
+import sys
+from Auth.auth import *
+
+origin = "git remote set-url origin https://github:" + token + repo
 
 def Clear(): # CLears Terminal
     os.system("cls")
@@ -176,6 +180,7 @@ def MakeMain(): # Makes Main Channels
         fp.write(data)
 
 def Git(): # Commits to GitHub Repo
+    os.system(origin)
     os.system("git add .")
     os.system("git commit -m 'Parrot BOT: Pushed to repo!'")
     os.system("git push")
