@@ -28,12 +28,12 @@ plugin://plugin.video.freeview.sk/?provider=markiza&channel=doma
 plugin://plugin.video.freeview.sk/?provider=markiza&channel=dajto
 #EXTINF:0 tvg-id="42-ta3" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ta3.png" group-title="SK Channels" tvg-name="FreeView: SK: TA3",FreeView: SK: TA3
 plugin://plugin.video.freeview.sk/?provider=ta3&channel=ta3
-#EXTINF:0 group-title="SK Channels", TV Nitricka
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnEQCNDsMtPlrVwCrRViaeQ/live
 #EXTINF:-1 tvg-id="83-fashiontv" group-title="SK Channels" tvg-logo="https://i.ibb.co/XzBpYkL/Fashion-TV.png",SK: Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="191-lux" group-title="SK Channels" tvg-logo="https://i.ibb.co/4jx6gzZ/TV-Lux.png",SK: TV Lux
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+#EXTINF:0 group-title="SK Channels" tvg-logo="https://i.ibb.co/9ZM40T4/TV-Nitricka.png",TV Nitrička
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnEQCNDsMtPlrVwCrRViaeQ/live
 #EXTINF:-1 tvg-id="833-senzi" group-title="SK Channels" tvg-logo="https://i.ibb.co/fnMky9c/Senzi.png",SK: Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
 #EXTINF:-1 tvg-id="1146-lifetv" group-title="SK Channels" tvg-logo="https://i.ibb.co/3YktrSX/Life-TV.png",SK: Life TV
@@ -110,10 +110,7 @@ http://92.62.234.233/slagr2.m3u
 plugin://plugin.video.freeview.sk/?provider=retro&channel=retro
 #EXTINF:-1 tvg-id="1244-tv-natura" group-title="CZ Channels" tvg-logo="https://i.ibb.co/K0HR49p/TV-Natura.png",CZ: TV Natura
 http://media1.tvnatura.cz/live_out/1/live.m3u8
-#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/ggWW1L0/VCTV.png",CZ: Východočeská TV
-https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/LRfyxNG/TV-Morava.png",CZ: TV Morava
-http://stream.redigy.cz:1934/tvm.flv?checkedby:hlscat.com
+
 
 #EXTINF:0 tvg-id="82-amc" tvg-country="CZ" tvg-logo="https://i.ibb.co/hV0B7F0/AMC.png" group-title="CZ Channels",HLS Cat: CZ: AMC HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23314
@@ -189,6 +186,37 @@ http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46725
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46720
 
 
+#EXTINF:0 tvg-id="15-discovery" tvg-country="CZ" tvg-logo="https://i.ibb.co/8MvFXBh/Discovery.jpg" group-title="CZ Channels",HLS Cat: CZ: Discovery Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/23301
+#EXTINF:0 tvg-id="92-discovery-science" tvg-country="CZ" tvg-logo="https://i.ibb.co/N78y7QJ/Discovery-Science.jpg" group-title="CZ Channels",HLS Cat: CZ: Discovery Science HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146933
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/Mp33BpN/E.png" group-title="CZ Channels",HLS Cat: CZ: E!
+http://pascaltv.site:8080/F12611/b199b47b/21117
+#EXTINF:0 tvg-id="182-filmbox-extra-hd" tvg-country="CZ" tvg-logo="https://i.ibb.co/S6MBcjt/FBOX-Extra.png" group-title="CZ Channels",HLS Cat: CZ: FilmBox Extra FHD
+http://pascaltv.site:8080/F12611/b199b47b/46701
+#EXTINF:0 tvg-id="54-hbo2" tvg-country="CZ" tvg-logo="https://i.ibb.co/prCmrkc/HBO-2.png" group-title="CZ Channels",HLS Cat: CZ: HBO 2 FHD
+http://pascaltv.site:8080/F12611/b199b47b/23321
+#EXTINF:0 tvg-id="54-hbo2" tvg-country="CZ" tvg-logo="https://i.ibb.co/prCmrkc/HBO-2.png" group-title="CZ Channels",HLS Cat: CZ: HBO 2 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23321
+#EXTINF:0 tvg-id="115-hbo3" tvg-country="CZ" tvg-logo="https://i.ibb.co/hW6fbbJ/HBO-3.png" group-title="CZ Channels",HLS Cat: CZ: HBO 3 FHD
+http://pascaltv.site:8080/F12611/b199b47b/23319
+#EXTINF:0 tvg-id="115-hbo3" tvg-country="CZ" tvg-logo="https://i.ibb.co/hW6fbbJ/HBO-3.png" group-title="CZ Channels",HLS Cat: CZ: HBO 3 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23319
+#EXTINF:0 tvg-id="57-minimax" tvg-country="CZ" tvg-logo="https://i.ibb.co/k2zsCbk/Minimax.png" group-title="CZ Channels",HLS Cat: CZ: Minimax HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46706
+#EXTINF:0 tvg-id="1124-markiza-international" tvg-country="CZ" tvg-logo="https://i.ibb.co/3Wg9wyj/Markiza.png" group-title="CZ Channels",HLS Cat: CZ: Markiza International Premiera FHD
+http://pascaltv.site:8080/F12611/b199b47b/46704
+#EXTINF:0 tvg-id="1124-markiza-international" tvg-country="CZ" tvg-logo="https://i.ibb.co/3Wg9wyj/Markiza.png" group-title="CZ Channels",HLS Cat: CZ: Markiza International Premiera HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46704
+#EXTINF:0 tvg-id="7-spektrum" tvg-country="CZ" tvg-logo="https://i.ibb.co/6mK10SN/Spectrum.jpg" group-title="CZ Channels",HLS Cat: CZ: Spektrum FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23315
+
+
+
+#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/ggWW1L0/VCTV.png",CZ: Východočeská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/LRfyxNG/TV-Morava.png",CZ: TV Morava
+http://stream.redigy.cz:1934/tvm.flv?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r6f5Cf7/itv1.png" group-title="UK Channels",UK: ITV (302p)
 http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8

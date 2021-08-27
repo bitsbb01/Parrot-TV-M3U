@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0 tvg-id="15-discovery" tvg-country="CZ" tvg-logo="https://i.ibb.co/8MvFXBh/Discovery.jpg" group-title="CZ Channels",HLS Cat: CZ: Discovery Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/23301
+#EXTINF:0 tvg-id="92-discovery-science" tvg-country="CZ" tvg-logo="https://i.ibb.co/N78y7QJ/Discovery-Science.jpg" group-title="CZ Channels",HLS Cat: CZ: Discovery Science HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146933
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/Mp33BpN/E.png" group-title="CZ Channels",HLS Cat: CZ: E!
+http://pascaltv.site:8080/F12611/b199b47b/21117
+#EXTINF:0 tvg-id="182-filmbox-extra-hd" tvg-country="CZ" tvg-logo="https://i.ibb.co/S6MBcjt/FBOX-Extra.png" group-title="CZ Channels",HLS Cat: CZ: FilmBox Extra FHD
+http://pascaltv.site:8080/F12611/b199b47b/46701
+#EXTINF:0 tvg-id="54-hbo2" tvg-country="CZ" tvg-logo="https://i.ibb.co/prCmrkc/HBO-2.png" group-title="CZ Channels",HLS Cat: CZ: HBO 2 FHD
+http://pascaltv.site:8080/F12611/b199b47b/23321
+#EXTINF:0 tvg-id="54-hbo2" tvg-country="CZ" tvg-logo="https://i.ibb.co/prCmrkc/HBO-2.png" group-title="CZ Channels",HLS Cat: CZ: HBO 2 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23321
+#EXTINF:0 tvg-id="115-hbo3" tvg-country="CZ" tvg-logo="https://i.ibb.co/hW6fbbJ/HBO-3.png" group-title="CZ Channels",HLS Cat: CZ: HBO 3 FHD
+http://pascaltv.site:8080/F12611/b199b47b/23319
+#EXTINF:0 tvg-id="115-hbo3" tvg-country="CZ" tvg-logo="https://i.ibb.co/hW6fbbJ/HBO-3.png" group-title="CZ Channels",HLS Cat: CZ: HBO 3 FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23319
+#EXTINF:0 tvg-id="57-minimax" tvg-country="CZ" tvg-logo="https://i.ibb.co/k2zsCbk/Minimax.png" group-title="CZ Channels",HLS Cat: CZ: Minimax HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46706
+#EXTINF:0 tvg-id="1124-markiza-international" tvg-country="CZ" tvg-logo="https://i.ibb.co/3Wg9wyj/Markiza.png" group-title="CZ Channels",HLS Cat: CZ: Markiza International Premiera FHD
+http://pascaltv.site:8080/F12611/b199b47b/46704
+#EXTINF:0 tvg-id="1124-markiza-international" tvg-country="CZ" tvg-logo="https://i.ibb.co/3Wg9wyj/Markiza.png" group-title="CZ Channels",HLS Cat: CZ: Markiza International Premiera HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46704
+#EXTINF:0 tvg-id="7-spektrum" tvg-country="CZ" tvg-logo="https://i.ibb.co/6mK10SN/Spectrum.jpg" group-title="CZ Channels",HLS Cat: CZ: Spektrum FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23315
