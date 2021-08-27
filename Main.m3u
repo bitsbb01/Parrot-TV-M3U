@@ -239,7 +239,7 @@ plugin://plugin.video.freeview.sk/?provider=prima&channel=max
 plugin://plugin.video.freeview.sk/?provider=prima&channel=krimi
 #EXTINF:0 tvg-id="496-prima-love" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primalove.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Love",FreeView: CZ: Prima Love
 plugin://plugin.video.freeview.sk/?provider=prima&channel=love
-#EXTINF:0 tvg-id="t708-prima-zoom" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primazoom.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Zoom",FreeView: CZ: Prima Zoom
+#EXTINF:0 tvg-id="708-prima-zoom" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primazoom.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Zoom",FreeView: CZ: Prima Zoom
 plugin://plugin.video.freeview.sk/?provider=prima&channel=zoom
 #EXTINF:0 tvg-id="1338-cnn-prima-news" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/cnnprimanews.png" group-title="CZ Channels" tvg-name="FreeView: CZ: CNN Prima News",FreeView: CZ: CNN Prima News
 plugin://plugin.video.freeview.sk/?provider=prima&channel=cnn
