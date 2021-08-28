@@ -197,4 +197,4 @@ Runner()
 
 print("\n")
 
-print("Done!")
+print("[DONE] Playlist is up and running!")

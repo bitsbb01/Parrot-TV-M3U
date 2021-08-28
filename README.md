@@ -22,5 +22,8 @@ https://bit.ly/PPM3U-E
 https://bit.ly/PPM3U-CS
 ```
 
+### EPG
 
-
+```
+https://bit.ly/PP-EPG
+```
