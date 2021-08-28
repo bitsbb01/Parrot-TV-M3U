@@ -1,255 +1,166 @@
-#EXTINF:0 tvg-id="2-ct1" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct1.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT1",FreeView: CZ: ČT1
+#EXTINF:0 tvg-id="2-ct1" tvg-logo="https://i.ibb.co/9bQVLKX/ct1.png" tvg-name="FreeView: CZ: ČT1",FreeView: CZ: ČT1
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ct1
-#EXTINF:0 tvg-id="3-ct2" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct2.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT2",FreeView: CZ: ČT2
+#EXTINF:0 tvg-id="3-ct2" tvg-logo="https://i.ibb.co/kBTgqpG/ct2.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT2",FreeView: CZ: ČT2
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ct2
-#EXTINF:0 tvg-id="65-ct24" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ct24.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT24",FreeView: CZ: ČT24
+#EXTINF:0 tvg-id="65-ct24" tvg-logo="https://i.ibb.co/0KmrQfZ/ct24.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT24",FreeView: CZ: ČT24
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ct24
-#EXTINF:0 tvg-id="73-ct4-sport" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctsport.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT Sport",FreeView: CZ: ČT Sport
+#EXTINF:0 tvg-id="73-ct4-sport" tvg-logo="https://i.ibb.co/qn6v7WJ/ctsport.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT Sport",FreeView: CZ: ČT Sport
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ctsport
-#EXTINF:0 tvg-id="805-ct-:d" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctdart.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT :D/art",FreeView: CZ: ČT :D/art
+#EXTINF:0 tvg-id="805-ct-:d" tvg-logo="https://i.ibb.co/YZN4pym/ctdart.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT :D/art",FreeView: CZ: ČT :D/art
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ctdart
-#EXTINF:0 tvg-id="805-ct-:d" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctd.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT :D",FreeView: CZ: ČT :D
+#EXTINF:0 tvg-id="805-ct-:d" tvg-logo="https://i.ibb.co/HDXr4mb/ctd.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT :D",FreeView: CZ: ČT :D
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ctd
-#EXTINF:0 tvg-id="8804-ct-art" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ctart.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT art",FreeView: CZ: ČT art
+#EXTINF:0 tvg-id="8804-ct-art" tvg-logo="https://i.ibb.co/fS3Xwhb/ctart.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT art",FreeView: CZ: ČT art
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ctart
-#EXTINF:0 tvg-id="1-nova" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nova.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova",FreeView: CZ: Nova
+#EXTINF:0 tvg-id="1-nova" tvg-logo="https://i.ibb.co/D5LS1wb/nova.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova",FreeView: CZ: Nova
 plugin://plugin.video.freeview.sk/?provider=nova&channel=nova
-#EXTINF:0 tvg-id="707-nova-2" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nova2.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova 2",FreeView: CZ: Nova 2
+#EXTINF:0 tvg-id="707-nova-2" tvg-logo="https://i.ibb.co/4NxR1Q9/nova2.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova 2",FreeView: CZ: Nova 2
 plugin://plugin.video.freeview.sk/?provider=nova&channel=nova2
-#EXTINF:0 tvg-id="tm-4462-nova-cinema" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novacinema.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova Cinema",FreeView: CZ: Nova Cinema
+#EXTINF:0 tvg-id="tm-4462-nova-cinema" tvg-logo="https://i.ibb.co/k0TmPdT/novacinema.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova Cinema",FreeView: CZ: Nova Cinema
 plugin://plugin.video.freeview.sk/?provider=nova&channel=cinema
-#EXTINF:0 tvg-id="677-nova-action" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novaaction.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova Action",FreeView: CZ: Nova Action
+#EXTINF:0 tvg-id="677-nova-action" tvg-logo="https://i.ibb.co/7NRD2hX/novaaction.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova Action",FreeView: CZ: Nova Action
 plugin://plugin.video.freeview.sk/?provider=nova&channel=action
-#EXTINF:0 tvg-id="712-nova-gold" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/novagold.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova Gold",FreeView: CZ: Nova Gold
+#EXTINF:0 tvg-id="712-nova-gold" tvg-logo="https://i.ibb.co/Wpc3KRh/novagold.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova Gold",FreeView: CZ: Nova Gold
 plugin://plugin.video.freeview.sk/?provider=nova&channel=gold
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/sRVbxTv/Elektrika-TV.jpg",CZ: Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="tm-4499-ocko" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ocko.png" group-title="CZ Channels" tvg-name="CZ: Óčko",CZ: Óčko
+#EXTINF:0 tvg-id="tm-4499-ocko" tvg-logo="https://i.ibb.co/x7N6scR/ocko.png" group-title="CZ Channels" tvg-name="CZ: Óčko",CZ: Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:0 tvg-id="736-ocko-star" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockostar.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Óčko Star",FreeView: CZ: Óčko Star
-plugin://plugin.video.freeview.sk/?provider=ocko&channel=star
-#EXTINF:-1 tvg-id="736-ocko-star" group-title="CZ Channels" tvg-logo="https://i.ibb.co/g35N1VV/Ocko-Gold.gif",CZ: Óčko Gold
+#EXTINF:0 tvg-id="736-ocko-star" tvg-logo="https://i.ibb.co/cFH9rkw/ockostar.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Óčko Star",FreeView: CZ: Óčko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="831-ocko-expres" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ockoexpress.png" group-title="CZ Channels" tvg-name="CZ: Óčko Expres",CZ: Óčko Expres
+#EXTINF:0 tvg-id="831-ocko-expres" tvg-logo="https://i.ibb.co/p3hnWbg/ockoexpres.png" group-title="CZ Channels" tvg-name="CZ: Óčko Expres",CZ: Óčko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="589-polar" group-title="CZ Channels" tvg-logo="https://i.ibb.co/8sQ8yxh/Polar.png",CZ: Polar TV
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-#EXTINF:0 tvg-id="4-prima" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/prima.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima",FreeView: CZ: Prima
+#EXTINF:0 tvg-id="4-prima" tvg-logo="https://i.ibb.co/jGc326H/prima.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima",FreeView: CZ: Prima
 plugin://plugin.video.freeview.sk/?provider=prima&channel=prima
-#EXTINF:0 tvg-id="220-prima-cool" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primacool.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Cool",FreeView: CZ: Prima Cool
+#EXTINF:0 tvg-id="220-prima-cool" tvg-logo="https://i.ibb.co/MZpKc5c/primacool.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Cool",FreeView: CZ: Prima Cool
 plugin://plugin.video.freeview.sk/?provider=prima&channel=cool
-#EXTINF:0 tvg-id="1122-prima-max" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primamax.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Max",FreeView: CZ: Prima Max
+#EXTINF:0 tvg-id="1122-prima-max" tvg-logo="https://i.ibb.co/jbzXwDY/primamax.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Max",FreeView: CZ: Prima Max
 plugin://plugin.video.freeview.sk/?provider=prima&channel=max
-#EXTINF:0 tvg-id="1196-prima-krimi" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primakrimi.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Krimi",FreeView: CZ: Prima Krimi
+#EXTINF:0 tvg-id="1196-prima-krimi" tvg-logo="https://i.ibb.co/4YtYQWx/primakrimi.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Krimi",FreeView: CZ: Prima Krimi
 plugin://plugin.video.freeview.sk/?provider=prima&channel=krimi
-#EXTINF:0 tvg-id="496-prima-love" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primalove.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Love",FreeView: CZ: Prima Love
+#EXTINF:0 tvg-id="496-prima-love" tvg-logo="https://i.ibb.co/qWZJXQM/primalove.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Love",FreeView: CZ: Prima Love
 plugin://plugin.video.freeview.sk/?provider=prima&channel=love
-#EXTINF:0 tvg-id="708-prima-zoom" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/primazoom.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Zoom",FreeView: CZ: Prima Zoom
+#EXTINF:0 tvg-id="708-prima-zoom" tvg-logo="https://i.ibb.co/fxVVw0k/primazoom.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima Zoom",FreeView: CZ: Prima Zoom
 plugin://plugin.video.freeview.sk/?provider=prima&channel=zoom
-#EXTINF:0 tvg-id="1338-cnn-prima-news" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/cnnprimanews.png" group-title="CZ Channels" tvg-name="FreeView: CZ: CNN Prima News",FreeView: CZ: CNN Prima News
+#EXTINF:0 tvg-id="1338-cnn-prima-news" tvg-logo="https://i.ibb.co/QK980qy/cnnprimanews.png" group-title="CZ Channels" tvg-name="FreeView: CZ: CNN Prima News",FreeView: CZ: CNN Prima News
 plugin://plugin.video.freeview.sk/?provider=prima&channel=cnn
 #EXTINF:-1 tvg-id="1441-huntertv" group-title="CZ Channels" tvg-logo="https://i.ibb.co/tzNHRp9/HunterTV.png",CZ: HunterTV
 http://www.huntertv.cz/live/4-playlist.m3u8
-#EXTINF:-1 tvg-id="tm-6113-praha-tv" group-title="CZ Channels" tvg-logo="https://i.ibb.co/yqrcmvW/PrahaTV.png",CZ: Praha TV
+#EXTINF:-1 tvg-id="tm-6113-praha-tv" group-title="CZ Channels" tvg-logo="https://i.ibb.co/LQ7jhtM/prahatv.png",CZ: Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="114-noe" group-title="CZ Channels" tvg-logo="https://i.ibb.co/z7fQ7yJ/TV-Noe.png",CZ: TV Noe
+#EXTINF:-1 tvg-id="114-noe" group-title="CZ Channels" tvg-logo="https://i.ibb.co/N7qtShr/noetv.png",CZ: TV Noe
 https://w100.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="1519-slagr" group-title="CZ Channels" tvg-logo="https://i.ibb.co/Nx2fR74/Slagr.png",CZ: Šlágr
+#EXTINF:-1 tvg-id="1519-slagr" group-title="CZ Channels" tvg-logo="https://i.ibb.co/VLJhXyz/slagrtv.png",CZ: Šlágr
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="1198-slagr-2" group-title="CZ Channels" tvg-logo="https://i.ibb.co/WxDvCry/Slagr2.png",CZ: Šlágr 2
+#EXTINF:-1 tvg-id="1198-slagr-2" group-title="CZ Channels" tvg-logo="https://i.ibb.co/9HQ1Chc/slagr2.png",CZ: Šlágr 2
 http://92.62.234.233/slagr2.m3u
-#EXTINF:0 tvg-id="tm-6086-retro-music-tv" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/retro.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Retro Music",FreeView: CZ: Retro Music
-plugin://plugin.video.freeview.sk/?provider=retro&channel=retro
+#EXTINF:0 tvg-id="tm-6086-retro-music-tv" tvg-logo="https://i.ibb.co/QKzvBLp/retromusictv.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Retro Music",FreeView: CZ: Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="1244-tv-natura" group-title="CZ Channels" tvg-logo="https://i.ibb.co/K0HR49p/TV-Natura.png",CZ: TV Natura
 http://media1.tvnatura.cz/live_out/1/live.m3u8
 
 
-#EXTINF:0 tvg-id="82-amc" tvg-country="CZ" tvg-logo="https://i.ibb.co/hV0B7F0/AMC.png" group-title="CZ Channels",HLS Cat: CZ: AMC HD
+#EXTINF:0 tvg-id="82-amc" tvg-country="CZ" tvg-logo="https://i.ibb.co/MNtTxPx/amc.png" group-title="CZ Channels",HLS Cat: CZ: AMC HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23314
-#EXTINF:0 tvg-id="28-animalplanet" tvg-country="CZ" tvg-logo="https://i.ibb.co/YDWq6s0/Animal-Planet-NEW.jpg" group-title="CZ Channels",HLS Cat: CZ: ANIMAL PLANET HD
+#EXTINF:0 tvg-id="28-animalplanet" tvg-country="CZ" tvg-logo="https://i.ibb.co/BHkK0KD/animalplanet.png" group-title="CZ Channels",HLS Cat: CZ: ANIMAL PLANET HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/83381
-#EXTINF:0 tvg-id="55-axn" tvg-country="CZ" tvg-logo="https://i.ibb.co/MPGz3YJ/AXN.png" group-title="CZ Channels",HLS Cat: CZ: AXN HD
+#EXTINF:0 tvg-id="55-axn" tvg-country="CZ" tvg-logo="https://i.ibb.co/fqLmFjJ/axn.png" group-title="CZ Channels",HLS Cat: CZ: AXN HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21105
-#EXTINF:0 tvg-id="704-auto-motor-sport" tvg-country="CZ" tvg-logo="https://i.ibb.co/GsBdR3C/AMSP.png" group-title="CZ Channels",HLS Cat: CZ: Auto Motor Sport HD
+#EXTINF:0 tvg-id="704-auto-motor-sport" tvg-country="CZ" tvg-logo="https://i.ibb.co/89X5FCx/automotorsport.png" group-title="CZ Channels",HLS Cat: CZ: Auto Motor Sport HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/189918
-#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/zHBzLVS/BCTV.png" group-title="CZ Channels",HLS Cat: CZ: BCTV HD
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146929
-#EXTINF:0 tvg-id="66-cinemax" tvg-country="CZ" tvg-logo="https://i.ibb.co/G5SzXS5/CineMax.png" group-title="CZ Channels",HLS Cat: CZ: CineMax HD
+#EXTINF:0 tvg-id="66-cinemax" tvg-country="CZ" tvg-logo="https://i.ibb.co/cCsKwnj/cinemax.png" group-title="CZ Channels",HLS Cat: CZ: CineMax HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/121565
-#EXTINF:0 tvg-id="15-discovery" tvg-country="CZ" tvg-logo="https://i.ibb.co/8MvFXBh/Discovery.jpg" group-title="CZ Channels",HLS Cat: CZ: Discovery Channel HD
+#EXTINF:0 tvg-id="15-discovery" tvg-country="CZ" tvg-logo="https://i.ibb.co/71ydDyP/discovery.png" group-title="CZ Channels",HLS Cat: CZ: Discovery Channel HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23301
-#EXTINF:0 tvg-id="228-disney-channel" tvg-country="CZ" tvg-logo="https://i.ibb.co/Wnj2gpC/Disney-Channel.png" group-title="CZ Channels",HLS Cat: CZ: Disney Channel
+#EXTINF:0 tvg-id="228-disney-channel" tvg-country="CZ" tvg-logo="https://i.ibb.co/SQ9pbQ1/disneychannel.png" group-title="CZ Channels",HLS Cat: CZ: Disney Channel
 http://pascaltv.site:8080/F12611/b199b47b/21118
-#EXTINF:0 tvg-id="228-disney-channel" tvg-country="CZ" tvg-logo="https://i.ibb.co/Wnj2gpC/Disney-Channel.png" group-title="CZ Channels",HLS Cat: CZ: Disney Channel HD
+#EXTINF:0 tvg-id="228-disney-channel" tvg-country="CZ" tvg-logo="https://i.ibb.co/SQ9pbQ1/disneychannel.png" group-title="CZ Channels",HLS Cat: CZ: Disney Channel HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21118
-#EXTINF:0 tvg-id="150-duck.tv" tvg-country="CZ" tvg-logo="https://i.ibb.co/bmBLTGs/DuckTV.png" group-title="CZ Channels",HLS Cat: CZ: Duck TV HD
+#EXTINF:0 tvg-id="150-duck.tv" tvg-country="CZ" tvg-logo="https://i.ibb.co/6HKDKxb/ducktv.png" group-title="CZ Channels",HLS Cat: CZ: Duck TV HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46692
-#EXTINF:0 tvg-id="592-filmbox-premium" tvg-country="CZ" tvg-logo="https://i.ibb.co/2PcsfM1/Filmbox-Premium.png" group-title="CZ Channels",HLS Cat: CZ: FilmBox Premium FHD
+#EXTINF:0 tvg-id="592-filmbox-premium" tvg-country="CZ" tvg-logo="https://i.ibb.co/Y3NSrTy/filmboxpremium.png" group-title="CZ Channels",HLS Cat: CZ: FilmBox Premium FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46699
-#EXTINF:0 tvg-id="6-hbo" tvg-country="CZ" tvg-logo="https://i.ibb.co/6W3t1Xh/HBO-HD.png" group-title="CZ Channels",HLS Cat: CZ: HBO FHD
+#EXTINF:0 tvg-id="6-hbo" tvg-country="CZ" tvg-logo="https://i.ibb.co/bsBBGjv/hbo.png" group-title="CZ Channels",HLS Cat: CZ: HBO FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23326
-#EXTINF:0 tvg-id="202-history-channel" tvg-country="CZ" tvg-logo="https://i.ibb.co/S7P1BzV/History.png" group-title="CZ Channels",HLS Cat: CZ: History
+#EXTINF:0 tvg-id="202-history-channel" tvg-country="CZ" tvg-logo="https://i.ibb.co/sV1tM2j/history.png" group-title="CZ Channels",HLS Cat: CZ: History
 http://pascaltv.site:8080/F12611/b199b47b/146940
-#EXTINF:0 tvg-id="57-minimax" tvg-country="CZ" tvg-logo="https://i.ibb.co/k2zsCbk/Minimax.png" group-title="CZ Channels",HLS Cat: CZ: Minimax HD
+#EXTINF:0 tvg-id="57-minimax" tvg-country="CZ" tvg-logo="https://i.ibb.co/dM6k2BZ/minimax.png" group-title="CZ Channels",HLS Cat: CZ: Minimax HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46706
-#EXTINF:0 tvg-id="232-national-geographic-hd" tvg-country="CZ" tvg-logo="https://i.ibb.co/W2y92yL/Nat-Geo.png" group-title="CZ Channels",HLS Cat: CZ: NAT GEO FHD
+#EXTINF:0 tvg-id="232-national-geographic-hd" tvg-country="CZ" tvg-logo="https://i.ibb.co/qnDSHgB/nationalgeographic.png" group-title="CZ Channels",HLS Cat: CZ: NAT GEO FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21116
-#EXTINF:0 tvg-id="106-national-geographic-wild" tvg-country="CZ" tvg-logo="https://i.ibb.co/w6VKTVF/Nat-Geo-Wild.png" group-title="CZ Channels",HLS Cat: CZ: NAT GEO Wild FHD
+#EXTINF:0 tvg-id="106-national-geographic-wild" tvg-country="CZ" tvg-logo="https://i.ibb.co/KjRMQJN/natgeowild.png" group-title="CZ Channels",HLS Cat: CZ: NAT GEO Wild FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23311
-#EXTINF:0 tvg-id="707-nova-2" tvg-country="CZ" tvg-logo="https://i.ibb.co/925Rmkq/Nova-2.png" group-title="CZ Channels",HLS Cat: CZ: Nova 2 FHD
+#EXTINF:0 tvg-id="707-nova-2" tvg-country="CZ" tvg-logo="https://i.ibb.co/4NxR1Q9/nova2.png" group-title="CZ Channels",HLS Cat: CZ: Nova 2 FHD
 http://pascaltv.site:8080/F12611/b199b47b/23331
-#EXTINF:0 tvg-id="707-nova-2" tvg-country="CZ" tvg-logo="https://i.ibb.co/925Rmkq/Nova-2.png" group-title="CZ Channels",HLS Cat: CZ: Nova 2 FHD
+#EXTINF:0 tvg-id="707-nova-2" tvg-country="CZ" tvg-logo=https://i.ibb.co/4NxR1Q9/nova2.png"" group-title="CZ Channels",HLS Cat: CZ: Nova 2 FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23331
-#EXTINF:0 tvg-id="tm-4455-nova-action" tvg-country="CZ" tvg-logo="https://i.ibb.co/99VYDCc/Nova-Action.jpg" group-title="CZ Channels",HLS Cat: CZ: Nova Action FHD
+#EXTINF:0 tvg-id="tm-4455-nova-action" tvg-country="CZ" tvg-logo="https://i.ibb.co/7NRD2hX/novaaction.png" group-title="CZ Channels",HLS Cat: CZ: Nova Action FHD
 http://pascaltv.site:8080/F12611/b199b47b/18409
-#EXTINF:0 tvg-id="tm-4455-nova-action" tvg-country="CZ" tvg-logo="https://i.ibb.co/99VYDCc/Nova-Action.jpg" group-title="CZ Channels",HLS Cat: CZ: Nova Action FHD
+#EXTINF:0 tvg-id="tm-4455-nova-action" tvg-country="CZ" tvg-logo="https://i.ibb.co/7NRD2hX/novaaction.png" group-title="CZ Channels",HLS Cat: CZ: Nova Action FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/18409
-#EXTINF:0 tvg-id="tm-4462-nova-cinema" tvg-country="CZ" tvg-logo="https://i.ibb.co/rkL4pnC/Nova-Cinema.png" group-title="CZ Channels",HLS Cat: CZ: Nova Cinema HD
+#EXTINF:0 tvg-id="tm-4462-nova-cinema" tvg-country="CZ" tvg-logo="https://i.ibb.co/k0TmPdT/novacinema.png" group-title="CZ Channels",HLS Cat: CZ: Nova Cinema HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21104
-#EXTINF:0 tvg-id="712-nova-gold" tvg-country="CZ" tvg-logo="https://i.ibb.co/dpSZ22v/Nova-Gold.png" group-title="CZ Channels",HLS Cat: CZ: Nova Gold
+#EXTINF:0 tvg-id="712-nova-gold" tvg-country="CZ" tvg-logo="https://i.ibb.co/Wpc3KRh/novagold.png" group-title="CZ Channels",HLS Cat: CZ: Nova Gold
 http://pascaltv.site:8080/F12611/b199b47b/21103
-#EXTINF:0 tvg-id="1038-nova-sport-2" tvg-country="CZ" tvg-logo="https://i.ibb.co/YRPrZjz/Nova-Sport-2.png" group-title="CZ Channels",HLS Cat: CZ: Nova Sport 2 FHD
+#EXTINF:0 tvg-id="1038-nova-sport-2" tvg-country="CZ" tvg-logo="https://i.ibb.co/GdrHZ1R/novasport2.png" group-title="CZ Channels",HLS Cat: CZ: Nova Sport 2 FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46718
-#EXTINF:0 tvg-id="tm-6032-prima-cool" tvg-country="CZ" tvg-logo="https://i.ibb.co/Fh1dHCH/Prima-Cool.png" group-title="CZ Channels",HLS Cat: CZ: Prima Cool FHD
+#EXTINF:0 tvg-id="tm-6032-prima-cool" tvg-country="CZ" tvg-logo="https://i.ibb.co/MZpKc5c/primacool.png" group-title="CZ Channels",HLS Cat: CZ: Prima Cool FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21101
-#EXTINF:0 tvg-id="496-prima-love" tvg-country="CZ" tvg-logo="https://i.ibb.co/syZr536/Prima-Love.png" group-title="CZ Channels",HLS Cat: CZ: Prima Love FHD
+#EXTINF:0 tvg-id="496-prima-love" tvg-country="CZ" tvg-logo="https://i.ibb.co/qWZJXQM/primalove.png" group-title="CZ Channels",HLS Cat: CZ: Prima Love FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23339
-#EXTINF:0 tvg-id="tm-6064-prima-max" tvg-country="CZ" tvg-logo="https://i.ibb.co/J2dBj46/Prima-Max.png" group-title="CZ Channels",HLS Cat: CZ: Prima Max FHD
+#EXTINF:0 tvg-id="tm-6064-prima-max" tvg-country="CZ" tvg-logo="https://i.ibb.co/jbzXwDY/primamax.png" group-title="CZ Channels",HLS Cat: CZ: Prima Max FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21102
-#EXTINF:0 tvg-id="4-prima" tvg-country="CZ" tvg-logo="https://i.ibb.co/Fz92Lft/Prima.png" group-title="CZ Channels",HLS Cat: CZ: Prima Plus FHD
+#EXTINF:0 tvg-id="4-prima" tvg-country="CZ" tvg-logo="https://i.ibb.co/GsJQF98/primaplus.png" group-title="CZ Channels",HLS Cat: CZ: Prima Plus FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146952
-#EXTINF:0 tvg-id="708-prima-zoom" tvg-country="CZ" tvg-logo="https://i.ibb.co/c6jK5m8/Prima-Zoom.png" group-title="CZ Channels",HLS Cat: CZ: Prima Zoom HD
+#EXTINF:0 tvg-id="708-prima-zoom" tvg-country="CZ" tvg-logo="https://i.ibb.co/fxVVw0k/primazoom.png" group-title="CZ Channels",HLS Cat: CZ: Prima Zoom HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/83397
-#EXTINF:0 tvg-id="tm-4099-jednotka" tvg-country="CZ" tvg-logo="https://i.ibb.co/QKYLpb4/STV-1.png" group-title="CZ Channels",HLS Cat: CZ: RTVS 1 HD
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21106
-#EXTINF:0 tvg-id="716-relax" tvg-country="CZ" tvg-logo="https://i.ibb.co/3497L58/Relax.png" group-title="CZ Channels",HLS Cat: CZ: Relax HD
+#EXTINF:0 tvg-id="716-relax" tvg-country="CZ" tvg-logo="https://i.ibb.co/NxMCc7k/relax.png" group-title="CZ Channels",HLS Cat: CZ: Relax HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/83382
-#EXTINF:0 tvg-id="75-sport1" tvg-country="CZ" tvg-logo="https://i.ibb.co/NjnqHcT/sport1.png" group-title="CZ Channels",HLS Cat: CZ: Sport 1 FHD
+#EXTINF:0 tvg-id="75-sport1" tvg-country="CZ" tvg-logo="https://i.ibb.co/KxCVnPd/sport1.png" group-title="CZ Channels",HLS Cat: CZ: Sport 1 FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46724
-#EXTINF:0 tvg-id="215-barrandov" tvg-country="CZ" tvg-logo="https://i.ibb.co/nnkjbyj/Barrandov.png" group-title="CZ Channels",HLS Cat: CZ: TV Barrandov HD
+#EXTINF:0 tvg-id="215-barrandov" tvg-country="CZ" tvg-logo="https://i.ibb.co/vHkwgjT/barrandovtvt.png" group-title="CZ Channels",HLS Cat: CZ: TV Barrandov HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/198625
-#EXTINF:0 tvg-id="207-the-fishing-and-hunting" tvg-country="CZ" tvg-logo="https://i.ibb.co/BzvrZWS/Fishing-Hunting.jpg" group-title="CZ Channels",HLS Cat: CZ: The Fishing & Hunting Channel HD
+#EXTINF:0 tvg-id="207-the-fishing-and-hunting" tvg-country="CZ" tvg-logo="https://i.ibb.co/jT10B7c/fishingandhunting.png" group-title="CZ Channels",HLS Cat: CZ: The Fishing & Hunting Channel HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/54216
-#EXTINF:0 tvg-id="62-paprika" tvg-country="CZ" tvg-logo="https://i.ibb.co/YftVfBS/paprika.png" group-title="CZ Channels",HLS Cat: CZ: TV Paprika HD
+#EXTINF:0 tvg-id="62-paprika" tvg-country="CZ" tvg-logo="https://i.ibb.co/BwVj9xS/tvpaprika.png" group-title="CZ Channels",HLS Cat: CZ: TV Paprika HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46721
-#EXTINF:0 tvg-id="70-viasat-history" tvg-country="CZ" tvg-logo="https://i.ibb.co/B2Z2QCj/Viasat-History.png" group-title="CZ Channels",HLS Cat: CZ: Viasat History HD
+#EXTINF:0 tvg-id="70-viasat-history" tvg-country="CZ" tvg-logo="https://i.ibb.co/jfNnC5W/viasathistory.png" group-title="CZ Channels",HLS Cat: CZ: Viasat History HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46725
-#EXTINF:0 tvg-id="254-nickelodeon" tvg-country="CZ" tvg-logo="https://i.ibb.co/ZHnW13f/Nickelodeon.png" group-title="CZ Channels",HLS Cat: CZ: nickelodeon HD
+#EXTINF:0 tvg-id="254-nickelodeon" tvg-country="CZ" tvg-logo="https://i.ibb.co/tDQb0pG/nickelodeon.png" group-title="CZ Channels",HLS Cat: CZ: nickelodeon HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46720
 
 
-#EXTINF:0 tvg-id="15-discovery" tvg-country="CZ" tvg-logo="https://i.ibb.co/8MvFXBh/Discovery.jpg" group-title="CZ Channels",HLS Cat: CZ: Discovery Channel HD
+#EXTINF:0 tvg-id="15-discovery" tvg-country="CZ" tvg-logo="https://i.ibb.co/71ydDyP/discovery.png" group-title="CZ Channels",HLS Cat: CZ: Discovery Channel HD
 http://pascaltv.site:8080/F12611/b199b47b/23301
-#EXTINF:0 tvg-id="92-discovery-science" tvg-country="CZ" tvg-logo="https://i.ibb.co/N78y7QJ/Discovery-Science.jpg" group-title="CZ Channels",HLS Cat: CZ: Discovery Science HD
+#EXTINF:0 tvg-id="92-discovery-science" tvg-country="CZ" tvg-logo="https://i.ibb.co/wJFJH8H/discoveryscience.png" group-title="CZ Channels",HLS Cat: CZ: Discovery Science HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146933
-#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/Mp33BpN/E.png" group-title="CZ Channels",HLS Cat: CZ: E!
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/SXtNSYS/eentertainment.png" group-title="CZ Channels",HLS Cat: CZ: E!
 http://pascaltv.site:8080/F12611/b199b47b/21117
-#EXTINF:0 tvg-id="182-filmbox-extra-hd" tvg-country="CZ" tvg-logo="https://i.ibb.co/S6MBcjt/FBOX-Extra.png" group-title="CZ Channels",HLS Cat: CZ: FilmBox Extra FHD
+#EXTINF:0 tvg-id="182-filmbox-extra-hd" tvg-country="CZ" tvg-logo="https://i.ibb.co/8d8VT99/filmboxextra.png" group-title="CZ Channels",HLS Cat: CZ: FilmBox Extra FHD
 http://pascaltv.site:8080/F12611/b199b47b/46701
-#EXTINF:0 tvg-id="54-hbo2" tvg-country="CZ" tvg-logo="https://i.ibb.co/prCmrkc/HBO-2.png" group-title="CZ Channels",HLS Cat: CZ: HBO 2 FHD
+#EXTINF:0 tvg-id="54-hbo2" tvg-country="CZ" tvg-logo="https://i.ibb.co/FbhvvZy/hbo2.png" group-title="CZ Channels",HLS Cat: CZ: HBO 2 FHD
 http://pascaltv.site:8080/F12611/b199b47b/23321
-#EXTINF:0 tvg-id="54-hbo2" tvg-country="CZ" tvg-logo="https://i.ibb.co/prCmrkc/HBO-2.png" group-title="CZ Channels",HLS Cat: CZ: HBO 2 FHD
+#EXTINF:0 tvg-id="54-hbo2" tvg-country="CZ" tvg-logo="https://i.ibb.co/FbhvvZy/hbo2.png" group-title="CZ Channels",HLS Cat: CZ: HBO 2 FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23321
-#EXTINF:0 tvg-id="115-hbo3" tvg-country="CZ" tvg-logo="https://i.ibb.co/hW6fbbJ/HBO-3.png" group-title="CZ Channels",HLS Cat: CZ: HBO 3 FHD
+#EXTINF:0 tvg-id="115-hbo3" tvg-country="CZ" tvg-logo="https://i.ibb.co/vcbKG5H/hbo3.png" group-title="CZ Channels",HLS Cat: CZ: HBO 3 FHD
 http://pascaltv.site:8080/F12611/b199b47b/23319
-#EXTINF:0 tvg-id="115-hbo3" tvg-country="CZ" tvg-logo="https://i.ibb.co/hW6fbbJ/HBO-3.png" group-title="CZ Channels",HLS Cat: CZ: HBO 3 FHD
+#EXTINF:0 tvg-id="115-hbo3" tvg-country="CZ" tvg-logo="https://i.ibb.co/vcbKG5H/hbo3.png" group-title="CZ Channels",HLS Cat: CZ: HBO 3 FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23319
-#EXTINF:0 tvg-id="57-minimax" tvg-country="CZ" tvg-logo="https://i.ibb.co/k2zsCbk/Minimax.png" group-title="CZ Channels",HLS Cat: CZ: Minimax HD
+#EXTINF:0 tvg-id="57-minimax" tvg-country="CZ" tvg-logo="https://i.ibb.co/dM6k2BZ/minimax.png" group-title="CZ Channels",HLS Cat: CZ: Minimax HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46706
-#EXTINF:0 tvg-id="1124-markiza-international" tvg-country="CZ" tvg-logo="https://i.ibb.co/3Wg9wyj/Markiza.png" group-title="CZ Channels",HLS Cat: CZ: Markiza International Premiera FHD
+#EXTINF:0 tvg-id="1124-markiza-international" tvg-country="CZ" tvg-logo="https://i.ibb.co/3ymkb4W/markizainternational.png" group-title="CZ Channels",HLS Cat: CZ: Markiza International Premiera FHD
 http://pascaltv.site:8080/F12611/b199b47b/46704
-#EXTINF:0 tvg-id="1124-markiza-international" tvg-country="CZ" tvg-logo="https://i.ibb.co/3Wg9wyj/Markiza.png" group-title="CZ Channels",HLS Cat: CZ: Markiza International Premiera HD
+#EXTINF:0 tvg-id="1124-markiza-international" tvg-country="CZ" tvg-logo="https://i.ibb.co/3ymkb4W/markizainternational.png" group-title="CZ Channels",HLS Cat: CZ: Markiza International Premiera HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46704
-#EXTINF:0 tvg-id="7-spektrum" tvg-country="CZ" tvg-logo="https://i.ibb.co/6mK10SN/Spectrum.jpg" group-title="CZ Channels",HLS Cat: CZ: Spektrum FHD
+#EXTINF:0 tvg-id="7-spektrum" tvg-country="CZ" tvg-logo="https://i.ibb.co/Jjq1qQj/spektrum.png" group-title="CZ Channels",HLS Cat: CZ: Spektrum FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23315
 
-#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/ggWW1L0/VCTV.png",CZ: Východočeská TV
+#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/7jHZDsY/v1.png",CZ: Východočeská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/LRfyxNG/TV-Morava.png",CZ: TV Morava
 http://stream.redigy.cz:1934/tvm.flv
-
-
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/MPGz3YJ/AXN.png",HLS Cat: CZ: AXN CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/24053f46-20b0-4090-9c87-cf1a2b522c1c/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/LzSQbQ4/joj-cinema.png",HLS Cat: CZ: JOJ Cinema +1 FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/2fedf599-7fe3-413b-88db-719eae6fda65/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/Wnj2gpC/Disney-Channel.png",HLS Cat: CZ: Disney Channel [Multi-Lang] CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/30414e8c-1a08-4d4f-a3f9-996512427d7b/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/99VYDCc/Nova-Action.jpg",HLS Cat: CZ: Nova Action FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/36ee65e8-f781-4e2d-9085-51afbfd7153a/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/Gc5YqwQ/CT-2.jpg",HLS Cat: CZ: CT 2 FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/4136ca3d-1cd5-4c16-9dac-101059ac5c37/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/hyw6pgp/CT-24.jpg",HLS Cat: CZ: CT 24 FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/420cd25b-3ab3-4e3e-945a-4c76017bc3ca/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/wRWmzQj/Cartoon-Network.png",HLS Cat: CZ: Cartoon Network [Multi-Lang] CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/4329d0c5-bdde-4364-8065-c0993e3dd339/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/dpSZ22v/Nova-Gold.png",HLS Cat: CZ: Nova Gold CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/443f9a8a-a486-4d3b-a310-740911c4354e/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/z4NMCjV/Nova.png",HLS Cat: CZ: Nova +1 FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/490522e9-ef73-42e6-88ce-f5618a5efd22/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/c6jK5m8/Prima-Zoom.png",HLS Cat: CZ: Prima Zoom FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/49ca246a-9b36-4f93-872b-de690e8a2ef5/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/MNRvsnZ/JOJ-Family.jpg",HLS Cat: CZ: JOJ Family FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/4b465e29-b424-450f-b78d-c41ad98a380b/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/YftVfBS/paprika.png",HLS Cat: CZ: TV Paprika CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/506f179c-9073-4656-882c-cff6fa4a689c/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/wNG1QGp/Rebel.png",HLS Cat: CZ: Rebel CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/55e19ebd-5690-47da-bc3f-22296c2d1c89/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/Nx2fR74/Slagr.png",HLS Cat: CZ: Slagr 2 CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/5e29e8b0-949b-4a3d-bbaf-19664017b37d/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/z7fQ7yJ/TV-Noe.png",HLS Cat: CZ: TV Noe FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/5eb2d1a2-46ca-4e20-8a0a-69a684d88095/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/Fz92Lft/Prima.png",HLS Cat: CZ: Prima Plus FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/62e51286-abb8-4eff-8d6a-6622b35e3463/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/GsBdR3C/AMSP.png",HLS Cat: CZ: Auto Motor Sport FHD [Multi-Lang] CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/6b90c7de-2eb3-4060-bb90-c9afdef628b6/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/Fz92Lft/Prima.png",HLS Cat: CZ: Prima 1 FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/78fa5f3e-2685-4842-b344-1c578a944ad6/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/hV0B7F0/AMC.png",HLS Cat: CZ: AMC CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/802a6216-19d5-4761-ac42-4dc8baba0332/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/G5SzXS5/CineMax.png",HLS Cat: CZ: Cinemax 1 FHD [Multi-Lang] CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/87cac038-8ce5-43aa-8e15-367132720192/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/2Nr8bxJ/CSMistry.png",HLS Cat: CZ: CS Mystery CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/8a1f0b7c-9040-485a-a92f-ad8ff31cc343/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/JQF22cj/CT-1.jpg",HLS Cat: CZ: CT 1 FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/8e17a003-4ed9-4396-9235-ea6cef324c99/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/nnkjbyj/Barrandov.png",HLS Cat: CZ: Barrandov Krimi FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/92d49487-9a71-448f-b7aa-5b1cc5ec1c81/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/Fz92Lft/Prima.png",HLS Cat: CZ: Prima 1 CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/938c3dee-f6bb-429b-baf5-6545724701b2/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/mHwJrq4/Prima-MAX.png",HLS Cat: CZ: Prima Max FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/9a3f6552-4f09-4210-98d5-93713787bbbb/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/P6x66vL/CS-Film.jpg",HLS Cat: CZ: CS Film CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/9ba34f57-1714-4588-b3c7-1a8899bab9cd/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/JQF22cj/CT-1.jpg",HLS Cat: CZ: CT 1 [SM] FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/9ea31628-b2c8-4c8e-9c58-09bad60d9a40/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/0QxYtrR/Prima-Krimi.png",HLS Cat: CZ: Prima Krimi CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/9f71c28e-1e92-4288-b365-cf14e69b026c/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/RjcvfgN/CBSReality.png",HLS Cat: CZ: CBS Reality [Multi-Lang] CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/b1618f93-a023-4ff3-8d9f-9ca0d4de3111/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/JQF22cj/CT-1.jpg",HLS Cat: CZ: CT 1 [JM] FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/b632bd32-a53c-438c-bd43-531cc8412401/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/PFSdTWb/AXN-White.png",HLS Cat: CZ: AXN White [Multi-Lang] CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/b666cadc-3749-4019-aa34-0605f40c85f3/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/z4NMCjV/Nova.png",HLS Cat: CZ: Nova 1 FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/bb136b12-fd0e-4184-beb4-6e8dd2da3287/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/9NXqkLZ/CS-History.png hi",HLS Cat: CZ: CS History CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/c8d1c786-a52f-4fdb-8847-e4fb66f53b60/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/gmNCrRD/CNN-Prima-News.png",HLS Cat: CZ: CNN Prima News FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/cfd29c25-eec6-4164-9d72-af3ac77b37fc/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/kV7sJjJ/AXN-Black.png",HLS Cat: CZ: AXN Black [Multi-Lang] CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/e3d01913-8b1e-4089-bd6b-cf480074d997/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/wrpRzgq/Prima.jpg",HLS Cat: CZ: Prima +1 FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/e4cf7230-5f24-4f16-a63a-2fc98e17702b/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/LzSQbQ4/joj-cinema.png",HLS Cat: CZ: JOJ Cinema FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/f3f912aa-5af5-4b50-b934-f64dfa4e4a0e/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/Fh1dHCH/Prima-Cool.png",HLS Cat: CZ: Prima Cool FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/fa69e772-3e58-4995-abb2-e33ecd04117b/mpegts
-#EXTINF:-1 tvg-id="" group-title="CZ Channels" tvg-logo="https://i.ibb.co/925Rmkq/Nova-2.png",HLS Cat: CZ: Nova 2 FHD CZ
-http://lbproxy.com/watch/2c130fb2-95d8-4d04-9659-8862831121ee/fccf4371-4784-4722-b734-a4c39c2271da/mpegts
-
 
 
 

@@ -1,38 +1,38 @@
-#EXTINF:0 tvg-id="tm-4099-jednotka" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jednotka.png" group-title="SK Channels" tvg-name="FreeView: SK: Jednotka",FreeView: SK: Jednotka
+#EXTINF:0 tvg-id="tm-4099-jednotka" tvg-logo="https://i.ibb.co/qF2ybqj/jednotka.png" group-title="SK Channels" tvg-name="FreeView: SK: Jednotka",FreeView: SK: Jednotka
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=jednotka
-#EXTINF:0 tvg-id="tm-4146-dvojka" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/dvojka.png" group-title="SK Channels" tvg-name="FreeView: SK: Dvojka",FreeView: SK: Dvojka
+#EXTINF:0 tvg-id="tm-4146-dvojka" tvg-logo="https://i.ibb.co/zFd3dsw/dvojka.png" group-title="SK Channels" tvg-name="FreeView: SK: Dvojka",FreeView: SK: Dvojka
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=dvojka
-#EXTINF:0 tvg-id="1324-trojka" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/trojka.png" group-title="SK Channels" tvg-name="FreeView: SK: Trojka",FreeView: SK: Trojka
+#EXTINF:0 tvg-id="1324-trojka" tvg-logo="https://i.ibb.co/4tVHB1S/trojka.png" group-title="SK Channels" tvg-name="FreeView: SK: Trojka",FreeView: SK: Trojka
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=trojka
 #EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/rtvs.png" group-title="SK Channels" tvg-name="FreeView: SK: RTVS Online",FreeView: SK: RTVS Online
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=online
 #EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nrsr.png" group-title="SK Channels" tvg-name="FreeView: SK: NRSR Online",FreeView: SK: NRSR Online
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=nrsr
-#EXTINF:0 tvg-id="33-joj" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/joj.png" group-title="SK Channels" tvg-name="SK: JOJ",SK: JOJ
+#EXTINF:0 tvg-id="33-joj" tvg-logo="https://i.ibb.co/hXBQBjp/tvjoj.png" group-title="SK Channels" tvg-name="SK: JOJ",SK: JOJ
 http://nn.geo.joj.sk/hls/joj-720.m3u8
-#EXTINF:0 tvg-id="206-joj-plus" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/plus.png" group-title="SK Channels" tvg-name="SK: JOJ Plus",SK: JOJ Plus
+#EXTINF:0 tvg-id="206-joj-plus" tvg-logo="https://i.ibb.co/PCkyrcz/jojplus.png" group-title="SK Channels" tvg-name="SK: JOJ Plus",SK: JOJ Plus
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:0 tvg-id="tm-4461-joj-family" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/family.png" group-title="SK Channels" tvg-name="SK: JOJ Family",SK: JOJ Family
+#EXTINF:0 tvg-id="tm-4461-joj-family" tvg-logo="https://i.ibb.co/ZT8x75c/jojfamilyt2.png" group-title="SK Channels" tvg-name="SK: JOJ Family",SK: JOJ Family
 http://nn.geo.joj.sk/hls/family-540.m3u8
-#EXTINF:0 tvg-id="999-jojko" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/jojko.png" group-title="SK Channels" tvg-name="SK: Jojko / RIK",SK: Jojko / RIK
+#EXTINF:0 tvg-id="999-jojko" tvg-logo="https://i.ibb.co/kc6jJ1w/rik.png" group-title="SK Channels" tvg-name="SK: Jojko / RIK",SK: Jojko / RIK
 plugin://plugin.video.freeview.sk/?provider=joj&channel=jojko
-#EXTINF:0 tvg-id="718-wau" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/wau.png" group-title="SK Channels" tvg-name="SK: WAU",SK: WAU
+#EXTINF:0 tvg-id="718-wau" tvg-logo="https://i.ibb.co/ygMbFkC/wautv.png" group-title="SK Channels" tvg-name="SK: WAU",SK: WAU
 https://nn.geo.joj.sk/hls/wau-540.m3u8
-#EXTINF:0 tvg-id="8-markiza" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/markiza.png" group-title="SK Channels" tvg-name="FreeView: SK: Markíza",FreeView: SK: Markíza
+#EXTINF:0 tvg-id="8-markiza" tvg-logo="https://i.ibb.co/BK2w3xC/markiza.png" group-title="SK Channels" tvg-name="FreeView: SK: Markíza",FreeView: SK: Markíza
 plugin://plugin.video.freeview.sk/?provider=markiza&channel=markiza
-#EXTINF:0 tvg-id="225-doma" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/doma.png" group-title="SK Channels" tvg-name="FreeView: SK: Doma",FreeView: SK: Doma
+#EXTINF:0 tvg-id="225-doma" tvg-logo="https://i.ibb.co/RPyPQks/doma.png" group-title="SK Channels" tvg-name="FreeView: SK: Doma",FreeView: SK: Doma
 plugin://plugin.video.freeview.sk/?provider=markiza&channel=doma
-#EXTINF:0 tvg-id="683-tv-dajto" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/dajto.png" group-title="SK Channels" tvg-name="FreeView: SK: Dajto",FreeView: SK: Dajto
+#EXTINF:0 tvg-id="683-tv-dajto" tvg-logo="https://i.ibb.co/6y0Ypkg/dajto.png" group-title="SK Channels" tvg-name="FreeView: SK: Dajto",FreeView: SK: Dajto
 plugin://plugin.video.freeview.sk/?provider=markiza&channel=dajto
-#EXTINF:0 tvg-id="42-ta3" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/ta3.png" group-title="SK Channels" tvg-name="FreeView: SK: TA3",FreeView: SK: TA3
+#EXTINF:0 tvg-id="42-ta3" tvg-logo="https://i.ibb.co/g3PYKd1/ta3.png" group-title="SK Channels" tvg-name="FreeView: SK: TA3",FreeView: SK: TA3
 plugin://plugin.video.freeview.sk/?provider=ta3&channel=ta3
-#EXTINF:-1 tvg-id="83-fashiontv" group-title="SK Channels" tvg-logo="https://i.ibb.co/XzBpYkL/Fashion-TV.png",SK: Fashion TV
+#EXTINF:-1 tvg-id="83-fashiontv" group-title="SK Channels" tvg-logo="https://i.ibb.co/Ms4tnvj/fashiontv.png",SK: Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="191-lux" group-title="SK Channels" tvg-logo="https://i.ibb.co/4jx6gzZ/TV-Lux.png",SK: TV Lux
+#EXTINF:-1 tvg-id="191-lux" group-title="SK Channels" tvg-logo="https://i.ibb.co/Lg39pBN/tvlux.png",SK: TV Lux
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
 #EXTINF:0 group-title="SK Channels" tvg-logo="https://i.ibb.co/9ZM40T4/TV-Nitricka.png",TV Nitrička
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnEQCNDsMtPlrVwCrRViaeQ/live
-#EXTINF:-1 tvg-id="833-senzi" group-title="SK Channels" tvg-logo="https://i.ibb.co/fnMky9c/Senzi.png",SK: Senzi TV
+#EXTINF:-1 tvg-id="833-senzi" group-title="SK Channels" tvg-logo="https://i.ibb.co/SXx76Pb/senzi.png",SK: Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
 #EXTINF:-1 tvg-id="1146-lifetv" group-title="SK Channels" tvg-logo="https://i.ibb.co/3YktrSX/Life-TV.png",SK: Life TV
 https://lifetv.mpks.sk/s.m3u8
