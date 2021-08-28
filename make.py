@@ -186,9 +186,9 @@ def Git(): # Commits to GitHub Repo
     os.system("git push")
 
 def Runner(): # Starts all scripts
-    Remove()
+    #Remove()
     Clear()
-    getUSTVGO()
+   # getUSTVGO()
     MakeCS()
     MakeEng()
     MakeMain()
