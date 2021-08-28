@@ -61,7 +61,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="1244-tv-natura" group-title="CZ Channels" tvg-logo="https://i.ibb.co/K0HR49p/TV-Natura.png",CZ: TV Natura
 http://media1.tvnatura.cz/live_out/1/live.m3u8
 
-EXTINF:0 tvg-id="28-animalplanet" tvg-country="CZ" tvg-logo="https://i.ibb.co/BHkK0KD/animalplanet.png" group-title="CZ Channels",HLS Cat: CZ: ANIMAL PLANET HD
+#EXTINF:0 tvg-id="28-animalplanet" tvg-country="CZ" tvg-logo="https://i.ibb.co/BHkK0KD/animalplanet.png" group-title="CZ Channels",HLS Cat: CZ: ANIMAL PLANET HD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/83381
 #EXTINF:0 tvg-id="28-animalplanet" tvg-country="CZ" tvg-logo="https://i.ibb.co/BHkK0KD/animalplanet.png" group-title="CZ Channels",HLS Cat: CZ: ANIMAL PLANET HD
 http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7184
