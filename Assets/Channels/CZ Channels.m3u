@@ -30,7 +30,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-id="831-ocko-expres" tvg-logo="https://i.ibb.co/p3hnWbg/ockoexpres.png" group-title="CZ Channels" tvg-name="CZ: Óčko Expres",CZ: Óčko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="589-polar" group-title="CZ Channels" tvg-logo="https://i.ibb.co/8sQ8yxh/Polar.png",CZ: Polar TV
+#EXTINF:-1 tvg-id="589-polar" group-title="CZ Channels" tvg-logo="https://i.ibb.co/tZTDC8V/polar.png",CZ: Polar TV
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:0 tvg-id="4-prima" tvg-logo="https://i.ibb.co/jGc326H/prima.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Prima",FreeView: CZ: Prima
 plugin://plugin.video.freeview.sk/?provider=prima&channel=prima
