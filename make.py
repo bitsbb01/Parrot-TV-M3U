@@ -189,6 +189,7 @@ def Runner(): # Starts all scripts
     Clear()
     getUSTVGO()
     ReplaceIcons()
+    updateEPG()
     MakeCS()
     MakeEng()
     MakeMain()
