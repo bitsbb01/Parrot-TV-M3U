@@ -3,6 +3,8 @@ import sys
 from Auth.auth import *
 
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
+config_mail = "git config --global user.email " + email
+config_name = "git config --global user.name " + name
 
 def Clear(): # Clears Terminal
     os.system("cls")
@@ -49,7 +51,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
 
     s = requests.Session()
     with open('Assets/USTVGO/Channel-Info.txt') as file:
-        with open('Assets/Channels/ustvgo.m3u', 'w') as playlist:
+        with open('Assets/ChangeIcons/data.txt', 'w') as playlist:
             print('[*] Generating your playlist, please wait...\n')
             pbar = tqdm(total=total)
             for line in file:
@@ -175,6 +177,8 @@ def MakeMain(): # Makes Main Channels
         fp.write(data)
 
 def Git(): # Commits to GitHub Repo
+    os.system(config_mail)
+    os.system(config_name)
     os.system(origin)
     os.system("git add .")
     os.system("git commit -m 'Parrot BOT: Pushed to repo!'")
@@ -184,6 +188,7 @@ def Runner(): # Starts all scripts
     Remove()
     Clear()
     getUSTVGO()
+    ReplaceIcons()
     MakeCS()
     MakeEng()
     MakeMain()
@@ -192,6 +197,21 @@ def Runner(): # Starts all scripts
 def updateEPG(): # Adds USTVGO to EPG
     os.system("wget -P EPG/ https://raw.githubusercontent.com/nomoney4me/ustvgo/main/output/ustvgo_epg.xml")
     os.system("python2 EPG/xml_merge.py EPG/EPG1.xml EPG/ustvgo_epg.xml > EPG/EPG.xml")
+
+
+def ReplaceIcons():
+    findlines = open('Assets/ChangeIcons/find.txt').read().split('\n')
+    replacelines = open('Assets/ChangeIcons/replace.txt').read().split('\n')
+    find_replace = dict(zip(findlines, replacelines))
+
+    with open('Assets/ChangeIcons/data.txt') as data:
+        with open('Assets/Channels/ustvgo.m3u', 'w') as new_data:
+            for line in data:
+                for key in find_replace:
+                    if key in line:
+                        line = line.replace(key, find_replace[key])
+                new_data.write(line)
+
 
 Runner()
 
