@@ -13,7 +13,7 @@
 #EXTINF:-1 tvg-id="" group-title="USTVGO" tvg-logo=https://i.ibb.co/PgFJ7X6/CBSSN.png"",USTVGO: US: CBS Sports Network
 #EXTINF:-1 tvg-id="" group-title="USTVGO" tvg-logo="https://i.ibb.co/hVJMcnf/Cineamx.png",USTVGO: US: Cinemax
 #EXTINF:-1 tvg-id="CMT.0018" group-title="USTVGO" tvg-logo="https://i.ibb.co/4ZPp48Q/CMT.png",USTVGO: US: CMT
-#EXTINF:-1 tvg-id="" group-title="USTVGO" tvg-logo="https://i.ibb.co/xHYkq4L/CN.png",USTVGO: US: Cartoon Network
+#EXTINF:-1 tvg-id="" group-title="USTVGO" tvg-logo="https://i.ibb.co/XZLfpcf/Cartoon-Network.png",USTVGO: US: Cartoon Network
 #EXTINF:-1 tvg-id="CNBC.0019" group-title="USTVGO" tvg-logo="https://i.ibb.co/vxH3MS0/CNBC.png",USTVGO: US: CNBC
 #EXTINF:-1 tvg-id="CNN.0020" group-title="USTVGO" tvg-logo="https://i.ibb.co/R2tRTpY/CNN.png",USTVGO: US: CNN
 #EXTINF:-1 tvg-id="COMEDY.0021" group-title="USTVGO" tvg-logo="https://i.ibb.co/8cS2bKy/Comedy-Central.png",USTVGO: US: Comedy Central
