@@ -6,4 +6,6 @@ __pycache__
 *.pyc
 tvtv.us.guide.xml
 tvtv.us.guide.xml.1
-EPG8.xmlnew.xml
+EPG8.xml
+new.xml
+EPG.xml
