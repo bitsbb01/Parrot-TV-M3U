@@ -250,8 +250,6 @@ def ReplaceIcons():
                 new_data.write(line)
 
 
-
-
 def select():
     Clear()
     print("#################################################################")
@@ -271,7 +269,7 @@ def select():
 
 
 admin = os.getuid()
-admin
+
 
 if admin == 1000:
     os.system("sudo python3 make.py")
