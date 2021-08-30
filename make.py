@@ -193,18 +193,29 @@ def Git(): # Commits to GitHub Repo
     os.system("git commit -m 'Parrot BOT: Pushed to repo!'")
     os.system("git push")
 
-def Runner(): # Starts all scripts
+def Mode1(): 
     Remove()
     Clear()
     getUSTVGO()
     ReplaceIcons()
-    #updateEPG()
+    updateEPG()
     tar()
     MakeCS()
     MakeEng()
     MakeMain()
     Git()
+    done()
     
+def Mode2():
+    Remove()
+    Clear()
+    getUSTVGO()
+    ReplaceIcons()
+    MakeCS()
+    MakeEng()
+    MakeMain()
+    Git()
+    done()
 
 def tar():
     os.system("cp EPG/EPG.xml EPG.xml")
@@ -233,8 +244,37 @@ def ReplaceIcons():
                 new_data.write(line)
 
 
-Runner()
 
-print("\n")
 
-print("[DONE] Playlist is up and running!")
+def select():
+    Clear()
+    print("#################################################################")
+    print("#          1.) With EPG                                         #")
+    print("#          2.) Without EPG                                      #")
+    print("#################################################################")
+
+    mode = input("Select Mode: ")
+
+    if mode == str(1):
+        Mode1()
+    elif mode == str(2):
+        Mode2()
+    else:
+        print("An Invalid Input!")
+
+
+
+admin = os.getuid()
+admin
+
+if admin == 1000:
+    os.system("sudo python3 make.py")
+    
+elif admin == 0:
+    select()
+
+
+def done():
+    print("\n")
+
+    print("[DONE] Playlist is up and running!")
