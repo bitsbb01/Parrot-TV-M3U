@@ -264,7 +264,7 @@ def select():
     elif mode == str(2):
         Mode2()
     else:
-        print("An Invalid Input!")
+        select()
 
 
 
