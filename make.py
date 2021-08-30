@@ -8,6 +8,12 @@ origin = "git remote set-url origin https://github:" + token + repo # Gets token
 config_mail = "git config --global user.email " + email
 config_name = "git config --global user.name " + name
 
+def done():
+    print("\n")
+
+    print("[DONE] Playlist is up and running!")
+
+
 def Clear(): # Clears Terminal
     os.system("cls")
     os.system("clear")
@@ -269,12 +275,8 @@ admin
 
 if admin == 1000:
     os.system("sudo python3 make.py")
-    
+
 elif admin == 0:
     select()
 
 
-def done():
-    print("\n")
-
-    print("[DONE] Playlist is up and running!")
