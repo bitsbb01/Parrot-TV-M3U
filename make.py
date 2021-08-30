@@ -75,7 +75,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
             pbar.close()
             print('\n[SUCCESS] Playlist is generated!\n')
 
-def Remove(): # Removes files so they can be Re-written
+def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("Czechoslovaia.m3u"):
         os.remove("Czechoslovaia.m3u")
 
@@ -99,6 +99,25 @@ def Remove(): # Removes files so they can be Re-written
 
     if os.path.exists("EPG/EPG.tar.gz"):
         os.remove("EPG/EPG.tar.gz")
+        
+        
+def RemoveMode2(): # Removes files so they can be Re-written
+    if os.path.exists("Czechoslovaia.m3u"):
+        os.remove("Czechoslovaia.m3u")
+
+    if os.path.exists("English.m3u"):
+        os.remove("English.m3u")
+
+    if os.path.exists("Main.m3u"):
+        os.remove("Main.m3u")
+
+    if os.path.exists("EPG/ustvgo_epg.xml"):
+        os.remove("EPG/ustvgo_epg.xml")
+
+    if os.path.exists("Assets/Channels/ustvgo.m3u"):
+        os.remove("Assets/Channels/ustvgo.m3u")
+
+
 
 def MakeCS(): # Makes CZ & SK Channels 
     data = data2 = data3 = data4 = data5 = data6 = data7 = ""
@@ -200,7 +219,7 @@ def Git(): # Commits to GitHub Repo
     os.system("git push")
 
 def Mode1(): 
-    Remove()
+    RemoveMode1()
     Clear()
     getUSTVGO()
     ReplaceIcons()
@@ -213,7 +232,7 @@ def Mode1():
     done()
     
 def Mode2():
-    Remove()
+    RemoveMode2()
     Clear()
     getUSTVGO()
     ReplaceIcons()
