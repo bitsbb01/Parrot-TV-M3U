@@ -22,7 +22,7 @@ plugin://plugin.video.freeview.sk/?provider=nova&channel=cinema
 plugin://plugin.video.freeview.sk/?provider=nova&channel=action
 #EXTINF:0 tvg-id="712-nova-gold" tvg-logo="https://i.ibb.co/Wpc3KRh/novagold.png" group-title="CZ Channels" tvg-name="FreeView: CZ: Nova Gold",FreeView: CZ: Nova Gold
 plugin://plugin.video.freeview.sk/?provider=nova&channel=gold
-#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/sRVbxTv/Elektrika-TV.jpg",CZ: Elektrika TV
+#EXTINF:-1 group-title="CZ Channels" tvg-logo="https://i.ibb.co/2PxKMLS/Elektrika-TV.jpg",CZ: Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="tm-4499-ocko" tvg-logo="https://i.ibb.co/x7N6scR/ocko.png" group-title="CZ Channels" tvg-name="CZ: Óčko",CZ: Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
@@ -46,7 +46,7 @@ plugin://plugin.video.freeview.sk/?provider=prima&channel=love
 plugin://plugin.video.freeview.sk/?provider=prima&channel=zoom
 #EXTINF:0 tvg-id="1338-cnn-prima-news" tvg-logo="https://i.ibb.co/QK980qy/cnnprimanews.png" group-title="CZ Channels" tvg-name="FreeView: CZ: CNN Prima News",FreeView: CZ: CNN Prima News
 plugin://plugin.video.freeview.sk/?provider=prima&channel=cnn
-#EXTINF:-1 tvg-id="1441-huntertv" group-title="CZ Channels" tvg-logo="https://i.ibb.co/tzNHRp9/HunterTV.png",CZ: HunterTV
+#EXTINF:-1 tvg-id="1441-huntertv" group-title="CZ Channels" tvg-logo="https://i.ibb.co/bF0Yy6F/HunterTV.jpg",CZ: HunterTV
 http://www.huntertv.cz/live/4-playlist.m3u8
 #EXTINF:-1 tvg-id="tm-6113-praha-tv" group-title="CZ Channels" tvg-logo="https://i.ibb.co/LQ7jhtM/prahatv.png",CZ: Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
