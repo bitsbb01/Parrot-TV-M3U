@@ -1,6 +1,7 @@
 import os
 import sys
 from Auth.auth import *
+from EPG.merge import merge
 
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
 config_mail = "git config --global user.email " + email
@@ -82,6 +83,12 @@ def Remove(): # Removes files so they can be Re-written
 
     if os.path.exists("Assets/Channels/ustvgo.m3u"):
         os.remove("Assets/Channels/ustvgo.m3u")
+
+    if os.path.exists("EPG/tvtv.us.guide.xml"):
+        os.remove("EPG/tvtv.us.guide.xml")
+
+    if os.path.exists("EPG/tvtv.us.guide.xml.1"):
+        os.remove("EPG/tvtv.us.guide.xml.1")
 
 def MakeCS(): # Makes CZ & SK Channels 
     data = data2 = data3 = data4 = data5 = data6 = data7 = ""
@@ -183,10 +190,10 @@ def Git(): # Commits to GitHub Repo
     os.system("git push")
 
 def Runner(): # Starts all scripts
-    Remove()
+    #Remove()
     Clear()
-    getUSTVGO()
-    ReplaceIcons()
+    #getUSTVGO()
+    #ReplaceIcons()
     #updateEPG()
     MakeCS()
     MakeEng()
@@ -194,8 +201,8 @@ def Runner(): # Starts all scripts
     Git()
 
 def updateEPG(): # Adds USTVGO to EPG
-    os.system("wget -P EPG/ https://raw.githubusercontent.com/nomoney4me/ustvgo/main/output/ustvgo_epg.xml")
-    os.system("python2 EPG/xml_merge.py EPG/EPG1.xml EPG/ustvgo_epg.xml > EPG/EPG.xml")
+    os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
+    os.system(merge)
 
 
 def ReplaceIcons():
