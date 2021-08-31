@@ -242,6 +242,11 @@ def Mode2():
     Git()
     done()
 
+def Mode3():
+    Clear()
+    Git()
+    done()
+
 def tar():
     os.system("cp EPG/EPG.xml EPG.xml")
     os.system("tar -czvf EPG.tar.gz EPG.xml")
@@ -274,6 +279,7 @@ def select():
     print("#################################################################")
     print("#          1.) With EPG                                         #")
     print("#          2.) Without EPG                                      #")
+    print("#          3.) Push to GitHub Only                              #")                                 
     print("#################################################################")
 
     mode = input("Select Mode: ")
@@ -282,6 +288,8 @@ def select():
         Mode1()
     elif mode == str(2):
         Mode2()
+    elif mode == str(3):
+        Mode3()
     else:
         select()
 
