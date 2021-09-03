@@ -1,6 +1,9 @@
 #EXTM3U 
+<<<<<<< HEAD
 
  
+=======
+>>>>>>> 766e19585472553bc5a5413b30836807ff632c45
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r6f5Cf7/itv1.png" group-title="UK Channels",UK: ITV (302p)
@@ -8,6 +11,8 @@ http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/km5yLHw/itv2.png" group-title="UK Channels",UK: ITV2 (432p)
 http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/km5yLHw/itv2.png" group-title="UK Channels",UK: ITV2 (576p) [Not 24/7]
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
