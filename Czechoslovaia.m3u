@@ -6,6 +6,8 @@ plugin://plugin.video.freeview.sk/?provider=rtvs&channel=jednotka
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=dvojka
 #EXTINF:0 tvg-id="tm-4516-trojka" tvg-logo="https://i.ibb.co/4tVHB1S/trojka.png" group-title="SK Channels" tvg-name="FreeView: SK: Trojka",FreeView: SK: Trojka
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=trojka
+
+
 #EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/rtvs.png" group-title="SK Channels" tvg-name="FreeView: SK: RTVS Online",FreeView: SK: RTVS Online
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=online
 #EXTINF:0 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nrsr.png" group-title="SK Channels" tvg-name="FreeView: SK: NRSR Online",FreeView: SK: NRSR Online
