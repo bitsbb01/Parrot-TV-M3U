@@ -1,4 +1,5 @@
 #EXTM3U 
+
  
 #EXTINF:0 tvg-id="tm-4099-jednotka" tvg-logo="https://i.ibb.co/qF2ybqj/jednotka.png" group-title="SK Channels" tvg-name="FreeView: SK: Jednotka",FreeView: SK: Jednotka
 plugin://plugin.video.freeview.sk/?provider=rtvs&channel=jednotka
