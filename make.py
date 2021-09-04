@@ -63,7 +63,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
     s = requests.Session()
     with open('Assets/USTVGO/Channel-Info.txt') as file:
         with open('Assets/ChangeIcons/data.txt', 'w') as playlist:
-            print('[*] Generating your playlist, please wait...\n')
+            print('[' + time + '] Generating your playlist, please wait...\n')
             pbar = tqdm(total=total)
             for line in file:
                 line = line.strip()
