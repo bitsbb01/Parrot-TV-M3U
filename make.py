@@ -16,7 +16,6 @@ def done():
 
     print("[" + time + "] Playlist is up and running!")
 
-
 def Clear(): # Clears Terminal
     os.system("cls")
     os.system("clear")
@@ -102,8 +101,7 @@ def RemoveMode1(): # Removes files so they can be Re-written
 
     if os.path.exists("EPG/EPG.tar.gz"):
         os.remove("EPG/EPG.tar.gz")
-        
-        
+           
 def RemoveMode2(): # Removes files so they can be Re-written
     if os.path.exists("Czechoslovaia.m3u"):
         os.remove("Czechoslovaia.m3u")
@@ -119,7 +117,6 @@ def RemoveMode2(): # Removes files so they can be Re-written
 
     if os.path.exists("Assets/Channels/ustvgo.m3u"):
         os.remove("Assets/Channels/ustvgo.m3u")
-
 
 def MakeCS(): # Makes CZ & SK Channels 
     data = data2 = data3 = data4 = data5 = data6 = data7 = ""
@@ -232,6 +229,7 @@ def Mode1():
     MakeMain()
     Git()
     done()
+    remPYC()
     
 def Mode2():
     RemoveMode2()
@@ -249,6 +247,7 @@ def Mode3():
     Clear()
     Git()
     done()
+    remPYC()
 
 def tar():
     os.system("cp EPG/EPG.xml EPG.xml")
@@ -257,11 +256,9 @@ def tar():
     if os.path.exists("EPG.xml"):
         os.remove("EPG.xml")
 
-
 def updateEPG(): # Adds USTVGO to EPG
     os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
     os.system(merge)
-
 
 def ReplaceIcons():
     findlines = open('Assets/ChangeIcons/find.txt').read().split('\n')
@@ -275,7 +272,6 @@ def ReplaceIcons():
                     if key in line:
                         line = line.replace(key, find_replace[key])
                 new_data.write(line)
-
 
 def select():
     Clear()
@@ -296,10 +292,7 @@ def select():
     else:
         select()
 
-
-
 admin = os.getuid()
-
 
 if admin == 1000:
     os.system("sudo python3 make.py")
