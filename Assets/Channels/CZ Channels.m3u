@@ -64,6 +64,54 @@ http://media1.tvnatura.cz/live_out/1/live.m3u8
 
 
 
+#EXTINF:0 tvg-id="tm-6038-animal-planet" tvg-country="CZ" tvg-logo="https://i.ibb.co/BHkK0KD/animalplanet.png" group-title="CZ Channels",HLS Cat: CZ: ANIMAL PLANET HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/83381
+#EXTINF:0 tvg-id="704-auto-motor-sport" tvg-country="CZ" tvg-logo="https://i.ibb.co/89X5FCx/automotorsport.png" group-title="CZ Channels",Auto Motor Sport HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/189918
+#EXTINF:0 tvg-id="64-boomerang" tvg-country="CZ" tvg-logo="https://i.ibb.co/5nmdKs5/boomerang.png" group-title="CZ Channels",HLS Cat: CZ: BOOMERANG HD
+http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7171
+#EXTINF:0 tvg-id="tm-6090-cinemax" tvg-country="CZ" tvg-logo="https://i.ibb.co/cCsKwnj/cinemax.png" group-title="CZ Channels",HLS Cat: CZ: CineMax HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/121565
+#EXTINF:0 tvg-id="tm-6085-discovery-channel" tvg-country="CZ" tvg-logo="https://i.ibb.co/71ydDyP/discovery.png" group-title="CZ Channels",HLS Cat: CZ: Discovery Channel HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23301
+#EXTINF:0 tvg-id="tm-15-disney-channel" tvg-country="CZ" tvg-logo="https://i.ibb.co/SQ9pbQ1/disneychannel.png" group-title="CZ Channels",HLS Cat: CZ: Disney Channel HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21118
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/SXtNSYS/eentertainment.png" group-title="CZ Channels",HLS Cat: CZ: E!
+http://pascaltv.site:8080/F12611/b199b47b/21117
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/SXtNSYS/eentertainment.png" group-title="CZ Channels",HLS Cat: CZ: E! HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21117
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/SXtNSYS/eentertainment.png" group-title="CZ Channels",HLS Cat: CZ: E! Entertainment HD
+http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42760
+#EXTINF:0 tvg-id="tm-6020-filmbox-extra" tvg-country="CZ" tvg-logo="https://i.ibb.co/8d8VT99/filmboxextra.png" group-title="CZ Channels",HLS Cat: CZ: FilmBox Extra FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46701
+#EXTINF:0 tvg-id="tm-6062-filmbox-premium" tvg-country="CZ" tvg-logo="https://i.ibb.co/Y3NSrTy/filmboxpremium.png" group-title="CZ Channels",HLS Cat: CZ: FilmBox Premium FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46699
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/PWkdt8P/fineliving.png" group-title="CZ Channels",HLS Cat: CZ: Fine Living
+http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42767
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.ibb.co/PWkdt8P/fineliving.png" group-title="CZ Channels",HLS Cat: CZ: Fine Living HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46700
+#EXTINF:0 tvg-id="tm-6012-hbo" tvg-country="CZ" tvg-logo="https://i.ibb.co/bsBBGjv/hbo.png" group-title="CZ Channels",HLS Cat: CZ: HBO FHD
+http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42771
+#EXTINF:0 tvg-id="tm-6072-hbo3" tvg-country="CZ" tvg-logo="https://i.ibb.co/vcbKG5H/hbo3.png" group-title="CZ Channels",HLS Cat: CZ: HBO 3 FHD
+http://pascaltv.site:8080/F12611/b199b47b/23319
+#EXTINF:0 tvg-id="tm-6014-history" tvg-country="CZ" tvg-logo="https://i.ibb.co/sV1tM2j/history.png" group-title="CZ Channels",HLS Cat: CZ: History
+http://pascaltv.site:8080/F12611/b199b47b/146940
+#EXTINF:0 tvg-id="tm-6014-history" tvg-country="CZ" tvg-logo="https://i.ibb.co/sV1tM2j/history.png" group-title="CZ Channels",HLS Cat: CZ: History HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146940
+#EXTINF:0 tvg-id="tm-6014-history" tvg-country="CZ" tvg-logo="https://i.ibb.co/sV1tM2j/history.png" group-title="CZ Channels",HLS Cat: CZ: History HD
+http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42772
+#EXTINF:0 tvg-id="74-national-geographic" tvg-country="CZ" tvg-logo="https://i.ibb.co/qnDSHgB/nationalgeographic.png" group-title="CZ Channels",HLS Cat: CZ: NATIONAL GEOGRAPHIC HD
+http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7167
+#EXTINF:0 tvg-id="7-spektrum" tvg-country="CZ" tvg-logo="https://i.ibb.co/Jjq1qQj/spektrum.png" group-title="CZ Channels",HLS Cat: CZ: Spektrum FHD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23315
+#EXTINF:0 tvg-id="207-the-fishing-and-hunting" tvg-country="CZ" tvg-logo="https://i.ibb.co/jT10B7c/fishingandhunting.png" group-title="CZ Channels",HLS Cat: CZ: The Fishing & Hunting Channel HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/54216
+#EXTINF:0 tvg-id="tm-4052-nickelodeon" tvg-country="CZ" tvg-logo="https://i.ibb.co/jT10B7c/fishingandhunting.png" group-title="CZ Channels",HLS Cat: CZ: nickelodeon HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46720
+
+
+
+
 
 
 
