@@ -3,7 +3,7 @@ import sys
 from Auth.auth import *
 from Assets.python.merge import merge
 from Assets.python.commit import commit
-from Assets.python.timeNow import time
+from Assets.python.time import time
 
 
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
