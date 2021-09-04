@@ -1,7 +1,9 @@
 import os
 import sys
 from Auth.auth import *
-from EPG.merge import merge
+from Assets.python.merge import merge
+from Assets.python.commit import commit
+from Assets.python.timeNow import time
 
 
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
@@ -26,7 +28,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
         python = 'python'
 
         
-    print('[*] Checking dependencies...')
+    print('[' + time + '] Checking dependencies...')
     while True:
         try:
             import requests
@@ -34,7 +36,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
             break
         except ModuleNotFoundError as e:
             module = str(e)[17:-1]
-            print(f'[*] Installing {module} module for python')
+            print(f'[' + time + '] Installing {module} module for python')
             #os.system(f'{python} -m pip install --upgrade pip')
             try:
                 if os.system(f'{python} -m pip install {module}') != 0:
@@ -73,7 +75,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
                 pbar.update(1)
                 grab(name, code, logo)
             pbar.close()
-            print('\n[SUCCESS] Playlist is generated!\n')
+            print('\n[' + time + '] Playlist is generated!\n')
 
 def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("Czechoslovaia.m3u"):
@@ -215,7 +217,7 @@ def Git(): # Commits to GitHub Repo
     os.system(config_name)
     os.system(origin)
     os.system("git add .")
-    os.system("git commit -m 'Parrot BOT: Pushed to repo!'")
+    os.system(commit)
     os.system("git push")
 
 def Mode1(): 
