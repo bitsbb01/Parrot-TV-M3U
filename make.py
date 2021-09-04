@@ -4,6 +4,7 @@ from Auth.auth import *
 from Assets.python.merge import merge
 from Assets.python.commit import commit
 from Assets.python.time import time
+from Assets.python.remPYC import remPYC
 
 
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
@@ -13,7 +14,7 @@ config_name = "git config --global user.name " + name
 def done():
     print("\n")
 
-    print("[DONE] Playlist is up and running!")
+    print("[" + time + "] Playlist is up and running!")
 
 
 def Clear(): # Clears Terminal
@@ -118,7 +119,6 @@ def RemoveMode2(): # Removes files so they can be Re-written
 
     if os.path.exists("Assets/Channels/ustvgo.m3u"):
         os.remove("Assets/Channels/ustvgo.m3u")
-
 
 
 def MakeCS(): # Makes CZ & SK Channels 
@@ -243,6 +243,7 @@ def Mode2():
     MakeMain()
     Git()
     done()
+    remPYC()
 
 def Mode3():
     Clear()
