@@ -3,18 +3,18 @@ import sys
 from Auth.auth import *
 from Assets.python.merge import merge
 from Assets.python.commit import commit
-from Assets.python.time import *
+from Assets.python.time import tz
 from Assets.python.remPYC import remPYC
-
-
+from datetime import datetime
 
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
 config_mail = "git config --global user.email " + email
 config_name = "git config --global user.name " + name
 
-
 def done():
     print("\n")
+    now = datetime.now(tz)
+    time = now.strftime("%H:%M:%S")
     print("[" + time + "] Playlist is up and running!")
 
 def Clear(): # Clears Terminal
@@ -28,7 +28,8 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
         windows = True
         python = 'python'
 
-        
+    now = datetime.now(tz)
+    time = now.strftime("%H:%M:%S")
     print('[' + time + '] Checking dependencies...')
     while True:
         try:
@@ -63,6 +64,8 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
     s = requests.Session()
     with open('Assets/USTVGO/Channel-Info.txt') as file:
         with open('Assets/ChangeIcons/data.txt', 'w') as playlist:
+            now = datetime.now(tz)
+            time = now.strftime("%H:%M:%S")
             print('[' + time + '] Generating your playlist, please wait...\n')
             pbar = tqdm(total=total)
             for line in file:
@@ -76,6 +79,8 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
                 pbar.update(1)
                 grab(name, code, logo)
             pbar.close()
+            now = datetime.now(tz)
+            time = now.strftime("%H:%M:%S")
             print('\n[' + time + '] Playlist is generated!\n')
 
 def RemoveMode1(): # Removes files so they can be Re-written
@@ -210,9 +215,6 @@ def MakeMain(): # Makes Main Channels
     with open ('Main.m3u', 'w') as fp:
         fp.write(data)
 
-def RT():
-    recheckTime()
-
 def Git(): # Commits to GitHub Repo
     os.system(config_mail)
     os.system(config_name)
@@ -237,15 +239,12 @@ def Mode1():
     
 def Mode2():
     RemoveMode2()
-    RT()
     Clear()
     getUSTVGO()
-    RT()
     ReplaceIcons()
     MakeCS()
     MakeEng()
     MakeMain()
-    RT()
     Git()
     done()
     remPYC()
