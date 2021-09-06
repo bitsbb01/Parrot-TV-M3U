@@ -3,9 +3,11 @@ import pytz
 
 tz = pytz.timezone('Etc/GMT-11')
 
-
-now = datetime.now(tz)
-time = now.strftime("%H:%M")
-
 def recheckTime():
-    print("\n")
+    now = datetime.now(tz)
+    global time
+    time = now.strftime("%H:%M")
+
+recheckTime()
+
+
