@@ -8,6 +8,8 @@ def recheckTime():
     global time
     time = now.strftime("%H:%M:%S")
 
+
 recheckTime()
+print(time)
 
 
