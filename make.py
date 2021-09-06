@@ -12,7 +12,6 @@ config_mail = "git config --global user.email " + email
 config_name = "git config --global user.name " + name
 
 def done():
-    print("\n")
     now = datetime.now(tz)
     time = now.strftime("%H:%M:%S")
     print("[" + time + "] Playlist is up and running!")
@@ -54,7 +53,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
         playlist.write(f'\n{m3u}')
 
     total = 0
-    with open('Assets/USTVGO/Channel-Info.txt') as file:
+    with open('Assets/USTVGO.txt') as file:
         for line in file:
             line = line.strip()
             if not line or line.startswith('~~'):
@@ -62,8 +61,8 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
             total += 1
 
     s = requests.Session()
-    with open('Assets/USTVGO/Channel-Info.txt') as file:
-        with open('Assets/ChangeIcons/data.txt', 'w') as playlist:
+    with open('Assets/USTVGO.txt') as file:
+        with open('Assets/Channels/ustvgo.m3u', 'w') as playlist:
             now = datetime.now(tz)
             time = now.strftime("%H:%M:%S")
             print('[' + time + '] Generating your playlist, please wait...\n')
@@ -227,7 +226,6 @@ def Mode1():
     RemoveMode1()
     Clear()
     getUSTVGO()
-    ReplaceIcons()
     updateEPG()
     tar()
     MakeCS()
@@ -241,7 +239,6 @@ def Mode2():
     RemoveMode2()
     Clear()
     getUSTVGO()
-    ReplaceIcons()
     MakeCS()
     MakeEng()
     MakeMain()
