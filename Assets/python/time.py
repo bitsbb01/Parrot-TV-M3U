@@ -6,7 +6,7 @@ tz = pytz.timezone('Etc/GMT-11')
 def recheckTime():
     now = datetime.now(tz)
     global time
-    time = now.strftime("%H:%M")
+    time = now.strftime("%H:%M:%S")
 
 recheckTime()
 
