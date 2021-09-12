@@ -7,6 +7,7 @@ from Assets.python.time import tz
 from Assets.python.remPYC import remPYC
 from datetime import datetime
 
+
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
 config_mail = "git config --global user.email " + email
 config_name = "git config --global user.name " + name
@@ -221,6 +222,9 @@ def Git(): # Commits to GitHub Repo
     os.system("git add .")
     os.system(commit)
     os.system("git push")
+
+    from Assets.python.pushbullet import pushbulletSend, top, mid
+    pushbulletSend(top, mid)
 
 def Mode1(): 
     RemoveMode1()
