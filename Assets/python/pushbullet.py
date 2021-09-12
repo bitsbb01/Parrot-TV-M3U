@@ -17,7 +17,7 @@ def pushbulletSend(title, body):
     if resp.status_code != 200:
         raise Exception('Error', resp.status_code)
     else:
-        print("'" + "Send " + top + " " + mid + "'")
+        print("Send " + "'" + top + " " + mid + "'")
  
  
 top = time + " ParrotBOT"
