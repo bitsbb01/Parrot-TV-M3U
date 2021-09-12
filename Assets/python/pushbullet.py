@@ -1,5 +1,6 @@
 import requests
 import json
+import os
 from datetime import datetime
 from Auth.auth import pushBulletAPI
 from Assets.python.time import tz
@@ -23,8 +24,10 @@ def pushbulletSend(title, body):
  
 top = time + " ParrotBOT"
 
-with open ('me.txt', 'r') as fi:
-    madeEPG = fi.read()
+
+if os.path.exists("me.txt"):
+    with open ('me.txt', 'r') as fi:
+        madeEPG = fi.read()
 
 if str(madeEPG) == 'EPGhasBeenMade':
     mid = "Pushed into repo! - with EPG"
