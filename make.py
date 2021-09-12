@@ -18,10 +18,10 @@ def MadeEPGfile():
         fi.write("EPGhasBeenMade")
 
 def rmMadeEPGfile():
-    os.system("rm -f me.txt")
+    if os.path.exists("me.txt"):
+        os.remove("me.txt")
 
 def done():
-    rmMadeEPGfile()
     now = datetime.now(tz)
     time = now.strftime("%H:%M:%S")
     print("[" + time + "] Playlist is up and running!")
@@ -239,12 +239,14 @@ def Mode1():
     Clear()
     getUSTVGO()
     updateEPG()
+    MadeEPGfile()
     tar()
     MakeCS()
     MakeEng()
     MakeMain()
     Git()
     done()
+    rmMadeEPGfile()
     remPYC()
     
 def Mode2():
@@ -274,7 +276,6 @@ def tar():
 def updateEPG(): # Adds USTVGO to EPG
     os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
     os.system(merge)
-    MadeEPGfile()
 
 def ReplaceIcons():
     findlines = open('Assets/ChangeIcons/find.txt').read().split('\n')
