@@ -224,7 +224,6 @@ def Git(): # Commits to GitHub Repo
     os.system("git push")
 
     from Assets.python.pushbullet import pushbulletSend, top, mid
-    pushbulletSend(top, mid)
 
 def Mode1(): 
     RemoveMode1()
