@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 from Auth.auth import pushBulletAPI
 from Assets.python.time import tz
+from make import madeEPG
 
 now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")
@@ -21,6 +22,10 @@ def pushbulletSend(title, body):
  
  
 top = time + " ParrotBOT"
-mid = "Pushed into repo!"
+
+if madeEPG == True:
+    mid = "Pushed into repo! - with EPG"
+else:
+    mid = "Pushed into repo!"
 
 pushbulletSend(top, mid)

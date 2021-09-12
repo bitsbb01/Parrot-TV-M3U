@@ -263,8 +263,10 @@ def tar():
         os.remove("EPG.xml")
 
 def updateEPG(): # Adds USTVGO to EPG
-    os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
-    os.system(merge)
+    #os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
+    #os.system(merge)
+    global madeEPG
+    madeEPG = True
 
 def ReplaceIcons():
     findlines = open('Assets/ChangeIcons/find.txt').read().split('\n')
