@@ -1,4 +1,5 @@
 import os
+import time
 import sys
 from Auth.auth import *
 from Assets.python.merge import merge
@@ -244,6 +245,7 @@ def Mode1():
     MakeCS()
     MakeEng()
     MakeMain()
+    time.sleep(10)
     Git()
     done()
     rmMadeEPGfile()
