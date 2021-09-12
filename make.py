@@ -12,6 +12,14 @@ origin = "git remote set-url origin https://github:" + token + repo # Gets token
 config_mail = "git config --global user.email " + email
 config_name = "git config --global user.name " + name
 
+def MadeEPGfile():
+    os.system("echo > 'me.txt'")
+    with open ('me.txt', 'w') as fi:
+        fi.write("EPGhasBeenMade")
+
+def rmMadeEPGfile():
+    os.sytem("rm -f me.txt")
+
 def done():
     now = datetime.now(tz)
     time = now.strftime("%H:%M:%S")
@@ -20,9 +28,7 @@ def done():
 def Clear(): # Clears Terminal
     os.system("cls")
     os.system("clear")
-    global madeEPG
-    madeEPG = True
-    print(madeEPG)
+    MadeEPGfile()
 
 def getUSTVGO(): # Gets USTVGO.tv Channels
     windows = False
