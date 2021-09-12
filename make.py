@@ -21,6 +21,7 @@ def rmMadeEPGfile():
     os.sytem("rm -f me.txt")
 
 def done():
+    rmMadeEPGfile()
     now = datetime.now(tz)
     time = now.strftime("%H:%M:%S")
     print("[" + time + "] Playlist is up and running!")

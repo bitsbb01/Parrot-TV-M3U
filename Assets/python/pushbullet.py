@@ -26,10 +26,9 @@ top = time + " ParrotBOT"
 with open ('me.txt', 'r') as fi:
     madeEPG = fi.read()
 
-if madeEPG == True:
+if str(madeEPG) == 'EPGhasBeenMade':
     mid = "Pushed into repo! - with EPG"
 else:
     mid = "Pushed into repo!"
 
-print(madeEPG)
 pushbulletSend(top, mid)
