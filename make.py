@@ -18,7 +18,7 @@ def MadeEPGfile():
         fi.write("EPGhasBeenMade")
 
 def rmMadeEPGfile():
-    os.sytem("rm -f me.txt")
+    os.system("rm -f me.txt")
 
 def done():
     rmMadeEPGfile()
@@ -29,7 +29,6 @@ def done():
 def Clear(): # Clears Terminal
     os.system("cls")
     os.system("clear")
-    MadeEPGfile()
 
 def getUSTVGO(): # Gets USTVGO.tv Channels
     windows = False
@@ -275,6 +274,7 @@ def tar():
 def updateEPG(): # Adds USTVGO to EPG
     os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
     os.system(merge)
+    MadeEPGfile()
 
 def ReplaceIcons():
     findlines = open('Assets/ChangeIcons/find.txt').read().split('\n')
