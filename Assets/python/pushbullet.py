@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from Auth.auth import pushBulletAPI
 from Assets.python.time import tz
-from make import madeEPG
+
 
 now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")
