@@ -288,16 +288,16 @@ def select():
     print("#################################################################")
     print("#          1.) With EPG                                         #")
     print("#          2.) Without EPG                                      #")
-    print("#          3.) Push to GitHub Only                              #")                                 
+    print("#          3.) Push into GitHub Only                            #")                                 
     print("#################################################################")
 
-    mode = input("Select Mode: ")
+    modeST = input("Select Mode: ")
 
-    if mode == str(1):
+    if modeST == str(1):
         Mode1()
-    elif mode == str(2):
+    elif modeST == str(2):
         Mode2()
-    elif mode == str(3):
+    elif modeST == str(3):
         Mode3()
     else:
         select()
@@ -305,6 +305,7 @@ def select():
 admin = os.getuid()
 
 if admin == 1000:
+    os.system("clear")
     print("Please enter your password: ")
     os.system("sudo python3 make.py")
 
