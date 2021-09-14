@@ -30,8 +30,8 @@ def pushbullet(mode):
     if str(mode) == str(1):
         mid = "Pushed into repo! - with EPG"
     elif str(mode) == str(2):
-        "Pushed into repo!"
+        mid = "Pushed into repo!"
     elif str(mode) == str(3):
-        "Pushed into repo!"
+        mid = "Pushed into repo!"
 
     pushbulletSend(top, mid)
