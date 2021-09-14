@@ -1,0 +1,83 @@
+#EXTM3U
+?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AMC
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AMC HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AUTO MOTOR HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AXN
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AXN BL
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AXN BLACK
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AXN HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AXN WI
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Animal Planet
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Animal Planet HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Sport",Arena Sport 1 HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",BOOMERANG HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Barrandov HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Barrandov Kino HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Barrandov Plus
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Boomerang
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CINEMAX HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CS Film HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CS Mystery
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CT 1 FHD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CT 1HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CT 2 FHD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CT 24
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CT 24 HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CT D FHD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Sport",CT Sport FHD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CT2 HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Sport",CT4 Sport HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CineMax HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",DAJTO HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",DISCOVERY
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",DOMA
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",DOMA FHD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Dajto FHD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Dajto HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Discovery
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Discovery Channel HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Discovery Science
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Discovery Science HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Disney
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Disney Channel
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Disney Channel HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Duck TV
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Duck TV HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",E!
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",E! ENTERTAINMENT HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",E! HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",FINE LIVING
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",FISHING AND HUNTING
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Film +
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Sport",Auto Motor Sport HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Filmbox Family
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Filmbox Family
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Filmbox Plus
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Filmbox Premuim HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Fine Living
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO 2 HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO 3
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO 3
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO FHD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO FHD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",History HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",JOJ Cinema HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Minimax
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nat Geo Wild FHD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nickelodeon
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nat Geo HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nova 2
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nova Action HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nova Cinema HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",REBEL
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Rebel
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",STV 1 (jednotka)
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",STV 2 (Dvojka)
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",TV Paprika
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Viasat History HD
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",fishing and hunting

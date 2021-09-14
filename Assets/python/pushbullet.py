@@ -33,5 +33,7 @@ def pushbulletMode(mode):
         mid = "Pushed into repo!"
     elif str(mode) == str(3):
         mid = "Pushed into repo!"
+    else:
+        mid = "ERROR - 0001"
 
     pushbulletSend(top, mid)

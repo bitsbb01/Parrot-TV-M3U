@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AMC
+http://new-pro.tv:8080/Hotel-2021/Allroom/71046?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7184?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AXN
+http://new-pro.tv:8080/Hotel-2021/Allroom/71047?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AXN
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/98018?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AXN HD
+http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7178?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",BOOMERANG HD
+http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7171?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Boomerang
+http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42747?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Boomerang
+http://new-pro.tv:8080/Hotel-2021/Allroom/71049?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CS Mystery
+http://new-pro.tv:8080/Hotel-2021/Allroom/71051?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CT 1 FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71052?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CT 24 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71054?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Sport",CT Sport FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71055?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",DOMA
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/98078?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",DOMA FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71056?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Dajto HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Discovery Channel HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Disney Channel
+http://new-pro.tv:8080/Hotel-2021/Allroom/71059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",E! ENTERTAINMENT HD
+http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7165?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",E! Entertainment HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71062?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Filmbox Family
+http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42765?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Filmbox Family
+http://new-pro.tv:8080/Hotel-2021/Allroom/71067?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Film +
+http://new-pro.tv:8080/Hotel-2021/Allroom/71065?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Filmbox Plus
+http://new-pro.tv:8080/Hotel-2021/Allroom/71068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Filmbox Premuim HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71066?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Fine Living
+http://new-pro.tv:8080/Hotel-2021/Allroom/71069?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71071?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO 3
+http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42770?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO 3
+http://new-pro.tv:8080/Hotel-2021/Allroom/71072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO FHD
+http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42771?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",HBO FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",History HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",JOJ Cinema HD
+http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42773?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Minimax
+http://new-pro.tv:8080/Hotel-2021/Allroom/71082?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC HD
+http://wagmaott.com:8080/azaro_frCkq9RQiHt3/USwsyAq8Yz/7167?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nat Geo Wild FHD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nickelodeon
+http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42785?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nickelodeon
+http://new-pro.tv:8080/Hotel-2021/Allroom/71090?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nat Geo HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71085?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nova 2
+http://new-pro.tv:8080/Hotel-2021/Allroom/71100?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nova Action HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71091?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Nova Cinema HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71092?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",REBEL
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/98027?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Rebel
+http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42793?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Rebel
+http://new-pro.tv:8080/Hotel-2021/Allroom/71098?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",STV 1 (jednotka)
+http://new-pro.tv:8080/Hotel-2021/Allroom/71078?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",STV 2 (Dvojka)
+http://new-pro.tv:8080/Hotel-2021/Allroom/71061?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",TV Paprika
+http://new-pro.tv:8080/Hotel-2021/Allroom/71107?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Viasat History HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/71108?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",fishing and hunting
+http://new-pro.tv:8080/Hotel-2021/Allroom/71060?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",fishing and hunting
+http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42758?checkedby:iptvcat.com

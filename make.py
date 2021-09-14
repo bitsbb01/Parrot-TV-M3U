@@ -305,6 +305,7 @@ def select():
 admin = os.getuid()
 
 if admin == 1000:
+    print("Please enter your password: ")
     os.system("sudo python3 make.py")
 
 elif admin == 0:
