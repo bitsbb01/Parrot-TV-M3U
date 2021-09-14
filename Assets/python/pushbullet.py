@@ -10,7 +10,7 @@ now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")
  
 
-def pushbullet(mode):
+def pushbulletMode(mode):
     def pushbulletSend(title, body):
     
         msg = {"type": "note", "title": title, "body": body}

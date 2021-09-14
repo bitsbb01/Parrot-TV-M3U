@@ -6,7 +6,7 @@ from Assets.python.merge import merge
 from Assets.python.commit import commit
 from Assets.python.time import tz
 from Assets.python.remPYC import remPYC
-from Assets.python.pushbullet import *
+from Assets.python.pushbullet import pushbulletMode
 from datetime import datetime
 
 
@@ -236,7 +236,7 @@ def Mode1():
     MakeMain()
     time.sleep(10)
     Git()
-    pushbullet(1)
+    pushbulletMode(1)
     done()
     remPYC()
     
@@ -248,14 +248,14 @@ def Mode2():
     MakeEng()
     MakeMain()
     Git()
-    pushbullet(2)
+    pushbulletMode(2)
     done()
     remPYC()
 
 def Mode3():
     Clear()
     Git()
-    pushbullet(3)
+    pushbulletMode(3)
     done()
     remPYC()
 
