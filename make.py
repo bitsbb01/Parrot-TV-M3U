@@ -6,21 +6,13 @@ from Assets.python.merge import merge
 from Assets.python.commit import commit
 from Assets.python.time import tz
 from Assets.python.remPYC import remPYC
+from Assets.python.pushbullet import *
 from datetime import datetime
 
 
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
 config_mail = "git config --global user.email " + email
 config_name = "git config --global user.name " + name
-
-def MadeEPGfile():
-    os.system("echo > 'me.txt'")
-    with open ('me.txt', 'w') as fi:
-        fi.write("EPGhasBeenMade")
-
-def rmMadeEPGfile():
-    if os.path.exists("me.txt"):
-        os.remove("me.txt")
 
 def done():
     now = datetime.now(tz)
@@ -233,22 +225,19 @@ def Git(): # Commits to GitHub Repo
     os.system(commit)
     os.system("git push")
 
-    from Assets.python.pushbullet import pushbulletSend, top, mid
-
 def Mode1(): 
     RemoveMode1()
     Clear()
     getUSTVGO()
     updateEPG()
-    MadeEPGfile()
     tar()
     MakeCS()
     MakeEng()
     MakeMain()
     time.sleep(10)
     Git()
+    pushbullet(1)
     done()
-    rmMadeEPGfile()
     remPYC()
     
 def Mode2():
@@ -259,12 +248,14 @@ def Mode2():
     MakeEng()
     MakeMain()
     Git()
+    pushbullet(2)
     done()
     remPYC()
 
 def Mode3():
     Clear()
     Git()
+    pushbullet(3)
     done()
     remPYC()
 
