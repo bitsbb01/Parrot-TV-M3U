@@ -1,21 +1,16 @@
-import os
-
 import discord
-from dotenv import load_dotenv
 
-load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
-GUILD = os.getenv('DISCORD_GUILD')
+class MyClient(discord.Client):
+    async def on_ready(self):
+        print('Logged on as', self.user)
 
-client = discord.Client()
+    async def on_message(self, message):
+        # don't respond to ourselves
+        if message.author == self.user:
+            return
 
-@client.event
-async def on_ready():
-    for guild in client.guilds:
-        if guild.name == GUILD:
-            break
+        if message.content == 'ping':
+            await message.channel.send('pong')
 
-    print(
-        f'{client.user} is connected to the following guild:\n'
-        f'{guild.name}(id: {guild.id})'
-    )
+client = MyClient()
+client.run('token')
