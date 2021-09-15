@@ -10,6 +10,7 @@ from Assets.python.pushbullet import pushbulletMode
 from datetime import datetime
 
 
+
 origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
 config_mail = "git config --global user.email " + email
 config_name = "git config --global user.name " + name
@@ -306,7 +307,7 @@ admin = os.getuid()
 
 if admin == 1000:
     os.system("clear")
-    print("Please enter your password: ")
+    print("Superuser UwU: ")
     os.system("sudo python3 make.py")
 
 elif admin == 0:
