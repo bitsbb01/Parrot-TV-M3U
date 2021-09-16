@@ -25,17 +25,13 @@ def Clear(): # Clears Terminal
     os.system("clear")
 
 def getUSTVGO(): # Gets USTVGO.tv Channels
-    import os
-    import sys
-
     windows = False
     python = 'python3'
-    if 'win' in sys.platform:
-        windows = True
-        python = 'python'
 
+    now = datetime.now(tz)
+    time = now.strftime("%H:%M:%S")
         
-    print('[*] Checking dependencies...')
+    print('[' + time + '] Checking dependencies...')
     while True:
         try:
             import requests
@@ -43,7 +39,11 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
             break
         except ModuleNotFoundError as e:
             module = str(e)[17:-1]
-            print(f'[*] Installing {module} module for python')
+
+            now = datetime.now(tz)
+            time = now.strftime("%H:%M:%S")
+
+            print(f'[' + time + '] Installing {module} module for python')
             #os.system(f'{python} -m pip install --upgrade pip')
             try:
                 if os.system(f'{python} -m pip install {module}') != 0:
@@ -70,7 +70,11 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
     s = requests.Session()
     with open('Assets/USTVGO.txt') as file:
         with open('Assets/Channels/ustvgo.m3u', 'w') as playlist:
-            print('[*] Generating your playlist, please wait...\n')
+
+            now = datetime.now(tz)
+            time = now.strftime("%H:%M:%S")
+            
+            print('[' + time + '] Generating your playlist, please wait...\n')
             pbar = tqdm(total=total)
             for line in file:
                 line = line.strip()
