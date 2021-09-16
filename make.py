@@ -19,6 +19,8 @@ origin = "git remote set-url origin https://github:" + str(token) + str(repo) # 
 config_mail = "git config --global user.email " + email
 config_name = "git config --global user.name " + name
 
+str(origin)
+
 def done():
     now = datetime.now(tz)
     time = now.strftime("%H:%M:%S")
