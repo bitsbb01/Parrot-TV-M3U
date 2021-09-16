@@ -3,7 +3,6 @@ import shutil
 
 if os.path.exists("Auth"):
     print("Path Exists")
-    shutil.rmtree("Auth/")
 else:
     os.mkdir("Auth/")
     open('Auth/auth.py', 'w')
