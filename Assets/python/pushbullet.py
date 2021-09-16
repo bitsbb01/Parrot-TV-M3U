@@ -2,9 +2,10 @@ import requests
 import json
 import os
 from datetime import datetime
-from Auth.auth import pushBulletAPI
 from Assets.python.time import tz
 
+
+pushBulletAPI = os.getenv("$pbapi")
 
 now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")

@@ -1,7 +1,6 @@
 import os
 import time
 import sys
-from Auth.auth import *
 from Assets.python.merge import merge
 from Assets.python.commit import commit
 from Assets.python.time import tz
@@ -10,9 +9,13 @@ from Assets.python.USTVGOreplace import replaceUStVicons
 from Assets.python.pushbullet import pushbulletMode
 from datetime import datetime
 
+token = str(os.getenv("$gitToken"))
+email = str(os.getenv("$Email"))
+name = str(os.getenv("$name"))
+pushBulletAPI = str(os.getenv("$pbapi"))
+repo = str(os.getenv("$gitRepo"))
 
-
-origin = "git remote set-url origin https://github:" + token + repo # Gets token and repo from Auth/auth.py
+origin = "git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
 config_mail = "git config --global user.email " + email
 config_name = "git config --global user.name " + name
 
@@ -312,6 +315,7 @@ def select():
 admin = os.getuid()
 
 if admin == 1000:
+    select()
     os.system("clear")
     print("Superuser UwU: ")
     os.system("sudo python3 make.py")
