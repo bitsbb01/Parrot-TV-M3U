@@ -5,7 +5,7 @@ from datetime import datetime
 from Assets.python.time import tz
 
 
-pushBulletAPI = os.getenv("$pbapi")
+pushBulletAPI = str(os.getenv("$pbapi"))
 
 now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")
