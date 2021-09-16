@@ -27,6 +27,7 @@ def done():
     now = datetime.now(tz)
     time = now.strftime("%H:%M:%S")
     print("[" + time + "] Playlist is up and running!")
+    sys.exit()
 
 def Clear(): # Clears Terminal
     os.system("cls")
