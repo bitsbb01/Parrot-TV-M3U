@@ -9,11 +9,13 @@ from Assets.python.USTVGOreplace import replaceUStVicons
 from Assets.python.pushbullet import pushbulletMode
 from datetime import datetime
 
-token = str(os.getenv("$gitToken"))
-email = str(os.getenv("$Email"))
-name = str(os.getenv("$name"))
-pushBulletAPI = str(os.getenv("$pbapi"))
-repo = str(os.getenv("$gitRepo"))
+os.system("pip install pytz")
+
+token = str(os.environ['gitToken'])
+email = str(os.environ['Email'])
+name = str(os.environ['name'])
+pushBulletAPI = str(os.environ['pbapi'])
+repo = str(os.environ['gitRepo'])
 
 origin = "git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
 config_mail = "git config --global user.email " + email
