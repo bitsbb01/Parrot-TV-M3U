@@ -25,15 +25,17 @@ def Clear(): # Clears Terminal
     os.system("clear")
 
 def getUSTVGO(): # Gets USTVGO.tv Channels
+    import os
+    import sys
+
     windows = False
     python = 'python3'
     if 'win' in sys.platform:
         windows = True
         python = 'python'
 
-    now = datetime.now(tz)
-    time = now.strftime("%H:%M:%S")
-    print('[' + time + '] Checking dependencies...')
+        
+    print('[*] Checking dependencies...')
     while True:
         try:
             import requests
@@ -41,19 +43,20 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
             break
         except ModuleNotFoundError as e:
             module = str(e)[17:-1]
-            print(f'[' + time + '] Installing {module} module for python')
+            print(f'[*] Installing {module} module for python')
             #os.system(f'{python} -m pip install --upgrade pip')
             try:
                 if os.system(f'{python} -m pip install {module}') != 0:
-                    raise 
+                    print("Error")
             except:
                 print(f'[!] Error installing "{module}" module. Do you have pip installed?')
                 input(f'[!] Playlist generation failed. Press Ctrl+C to exit...')
+                done()
 
     def grab(name, code, logo):
         data = {'stream': code}
         m3u = s.post('https://ustvgo.tv/data.php', data=data).text
-        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="USTVGO" tvg-logo="{logo}",USTVGO: US: {name}')
+        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
         playlist.write(f'\n{m3u}')
 
     total = 0
@@ -67,9 +70,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
     s = requests.Session()
     with open('Assets/USTVGO.txt') as file:
         with open('Assets/Channels/ustvgo.m3u', 'w') as playlist:
-            now = datetime.now(tz)
-            time = now.strftime("%H:%M:%S")
-            print('[' + time + '] Generating your playlist, please wait...\n')
+            print('[*] Generating your playlist, please wait...\n')
             pbar = tqdm(total=total)
             for line in file:
                 line = line.strip()
@@ -82,9 +83,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
                 pbar.update(1)
                 grab(name, code, logo)
             pbar.close()
-            now = datetime.now(tz)
-            time = now.strftime("%H:%M:%S")
-            print('\n[' + time + '] Playlist is generated!\n')
+            print('\n[SUCCESS] Playlist is generated!\n')
 
 def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("Czechoslovaia.m3u"):
