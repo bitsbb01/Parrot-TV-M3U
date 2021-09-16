@@ -1,4 +1,5 @@
 import os
+os.system("pip install pytz")
 import time
 import sys
 from Assets.python.merge import merge
@@ -9,7 +10,7 @@ from Assets.python.USTVGOreplace import replaceUStVicons
 from Assets.python.pushbullet import pushbulletMode
 from datetime import datetime
 
-os.system("pip install pytz")
+
 
 token = str(os.environ['gitToken'])
 email = str(os.environ['Email'])
