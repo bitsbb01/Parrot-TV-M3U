@@ -56,7 +56,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
     def grab(name, code, logo):
         data = {'stream': code}
         m3u = s.post('https://ustvgo.tv/data.php', data=data).text
-        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
+        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="USTVGO;US Channels" tvg-logo="{logo}", {name}')
         playlist.write(f'\n{m3u}')
 
     total = 0
@@ -73,7 +73,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
 
             now = datetime.now(tz)
             time = now.strftime("%H:%M:%S")
-            
+
             print('[' + time + '] Generating your playlist, please wait...\n')
             pbar = tqdm(total=total)
             for line in file:
