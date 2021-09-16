@@ -6,6 +6,7 @@ from Assets.python.merge import merge
 from Assets.python.commit import commit
 from Assets.python.time import tz
 from Assets.python.remPYC import remPYC
+from Assets.python.USTVGOreplace import replaceUStVicons
 from Assets.python.pushbullet import pushbulletMode
 from datetime import datetime
 
@@ -69,7 +70,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
 
     s = requests.Session()
     with open('Assets/USTVGO.txt') as file:
-        with open('Assets/Channels/ustvgo.m3u', 'w') as playlist:
+        with open('Assets/USTVGOreplace/data.txt', 'w') as playlist:
 
             now = datetime.now(tz)
             time = now.strftime("%H:%M:%S")
@@ -105,6 +106,9 @@ def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("Assets/Channels/ustvgo.m3u"):
         os.remove("Assets/Channels/ustvgo.m3u")
 
+    if os.path.exists("Assets/USTVGOreplace/data.txt"):
+        os.remove("Assets/USTVGOreplace/data.txt")
+
     if os.path.exists("EPG/tvtv.us.guide.xml"):
         os.remove("EPG/tvtv.us.guide.xml")
 
@@ -129,6 +133,9 @@ def RemoveMode2(): # Removes files so they can be Re-written
 
     if os.path.exists("Assets/Channels/ustvgo.m3u"):
         os.remove("Assets/Channels/ustvgo.m3u")
+
+    if os.path.exists("Assets/USTVGOreplace/data.txt"):
+        os.remove("Assets/USTVGOreplace/data.txt")
 
 def MakeCS(): # Makes CZ & SK Channels 
     data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = ""
@@ -240,6 +247,7 @@ def Mode1():
     RemoveMode1()
     Clear()
     getUSTVGO()
+    replaceUStVicons()
     updateEPG()
     tar()
     MakeCS()
@@ -255,6 +263,7 @@ def Mode2():
     RemoveMode2()
     Clear()
     getUSTVGO()
+    replaceUStVicons()
     MakeCS()
     MakeEng()
     MakeMain()
@@ -280,19 +289,6 @@ def tar():
 def updateEPG(): # Adds USTVGO to EPG
     os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
     os.system(merge)
-
-def ReplaceIcons():
-    findlines = open('Assets/ChangeIcons/find.txt').read().split('\n')
-    replacelines = open('Assets/ChangeIcons/replace.txt').read().split('\n')
-    find_replace = dict(zip(findlines, replacelines))
-
-    with open('Assets/ChangeIcons/data.txt') as data:
-        with open('Assets/Channels/ustvgo.m3u', 'w') as new_data:
-            for line in data:
-                for key in find_replace:
-                    if key in line:
-                        line = line.replace(key, find_replace[key])
-                new_data.write(line)
 
 def select():
     Clear()
