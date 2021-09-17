@@ -301,13 +301,14 @@ def updateEPG(): # Adds USTVGO to EPG
 
 def select():
     Clear()
-    print("#################################################################")
-    print("#          1.) With EPG                                         #")
-    print("#          2.) Without EPG                                      #")
-    print("#          3.) Push into GitHub Only                            #")                                 
-    print("#################################################################")
+    print("###################################################")
+    print("#          1.) With EPG                           #")
+    print("#          2.) Without EPG                        #")
+    print("#          3.) Push into GitHub Only              #")   
+    print("###################################################")
 
-    modeST = input("Select Mode: ")
+    # modeST = input("Select Mode: ")
+    Mode2()
 
     if modeST == str(1):
         Mode1()
