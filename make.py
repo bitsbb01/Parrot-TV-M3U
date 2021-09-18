@@ -9,18 +9,26 @@ from Assets.python.remPYC import remPYC
 from Assets.python.USTVGOreplace import replaceUStVicons
 from Assets.python.pushbullet import pushbulletMode
 from datetime import datetime
+from Assets.python.dev import replitMode
+
+if replitMode == False:
+    from Auth.auth import gitToken, Email, name, pbapi, gitRepo
+    token = str(gitToken)
+    email = str(Email)
+    name = str(name)
+    pushBulletAPI = str(pbapi)
+    repo = str(gitRepo)
+elif replitMode == True:
+    token = str(os.environ['gitToken'])
+    email = str(os.environ['Email'])
+    name = str(os.environ['name'])
+    pushBulletAPI = str(os.environ['pbapi'])
+    repo = str(os.environ['gitRepo'])
 
 
-
-token = str(os.environ['gitToken'])
-email = str(os.environ['Email'])
-name = str(os.environ['name'])
-pushBulletAPI = str(os.environ['pbapi'])
-repo = str(os.environ['gitRepo'])
-
-origin = "git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
-config_mail = "git config --global user.email " + email
-config_name = "git config --global user.name " + name
+origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
+config_mail = "sudo git config --global user.email " + email
+config_name = "sudo git config --global user.name " + name
 
 str(origin)
 
@@ -248,9 +256,9 @@ def Git(): # Commits to GitHub Repo
     os.system(config_mail)
     os.system(config_name)
     os.system(origin)
-    os.system("git add .")
+    os.system("sudo git add .")
     os.system(commit)
-    os.system("git push")
+    os.system("sudo git push")
 
 def Mode1(): 
     RemoveMode1()
@@ -296,36 +304,43 @@ def tar():
         os.remove("EPG.xml")
 
 def updateEPG(): # Adds USTVGO to EPG
-    os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
-    os.system(merge)
+    if replitMode == False:
+        os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
+        os.system(merge)
+    elif replitMode == True:
+        print("Cannot do that in Replit!!!")
 
 def select():
-    Clear()
-    print("###################################################")
-    print("#          1.) With EPG                           #")
-    print("#          2.) Without EPG                        #")
-    print("#          3.) Push into GitHub Only              #")   
-    print("###################################################")
+    if replitMode == False:
+        Clear()
+        print("###############################################")
+        print("#          1.) With EPG                       #")
+        print("#          2.) Without EPG                    #")
+        print("#          3.) Push into GitHub Only          #")   
+        print("###############################################")
 
-    # modeST = input("Select Mode: ")
-    Mode2()
+        modeST = input("Select Mode: ")
 
-    if modeST == str(1):
-        Mode1()
-    elif modeST == str(2):
+        if modeST == str(1):
+            Mode1()
+        elif modeST == str(2):
+            Mode2()
+        elif modeST == str(3):
+            Mode3()
+        else:
+            select()
+    elif replitMode == True:
         Mode2()
-    elif modeST == str(3):
-        Mode3()
-    else:
-        select()
 
 admin = os.getuid()
 
 if admin == 1000:
-    select()
-    os.system("clear")
-    print("Superuser UwU: ")
-    os.system("sudo python3 make.py")
+    if replitMode == False:
+        os.system("clear")
+        print("Superuser UwU: ")
+        os.system("sudo python3 make.py")
+    elif replitMode == True:
+        select()
 
 elif admin == 0:
     select()
