@@ -3,9 +3,15 @@ import json
 import os
 from datetime import datetime
 from Assets.python.time import tz
+from Assets.python.dev import replitMode
 
 
-pushBulletAPI = str(os.environ['pbapi'])
+
+if replitMode == False:
+    from Auth.auth import pbapi
+    pushBulletAPI = str(pbapi)
+elif replitMode == True:
+    pushBulletAPI = str(os.environ['pbapi'])
 
 now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")

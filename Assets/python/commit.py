@@ -6,4 +6,4 @@ time = now.strftime("%H:%M:%S")
 
 
 msg = "'" + str(time) + " - Parrot BOT: Pushed into repo!" + "'"
-commit = "git commit -m " + msg
+commit = "sudo git commit -m " + msg
