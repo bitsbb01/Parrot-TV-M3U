@@ -280,6 +280,7 @@ def Git(): # Commits to GitHub Repo
         os.system("git push")
 
 def Mode1(): 
+    m = "not"
     RemoveMode1()
     Clear()
     getUSTVGO()
@@ -293,9 +294,10 @@ def Mode1():
     Git()
     pushbulletMode(1)
     remPYC()
-    done()
+    done(m)
     
 def Mode2():
+    m = "not"
     RemoveMode2()
     Clear()
     getUSTVGO()
@@ -306,7 +308,7 @@ def Mode2():
     Git()
     pushbulletMode(2)
     remPYC()
-    done()
+    done(m)
 
 def Mode3():
     m = "push"
@@ -348,7 +350,7 @@ def select():
         print("#          1.) With EPG                       #")
         print("#          2.) Without EPG                    #")
         print("#          3.) Push into GitHub Only          #")   
-        print("#          4.) Pull from GitHub                ")
+        print("#          4.) Pull from GitHub               #")
         print("###############################################")
 
         modeST = input("Select Mode: ")
