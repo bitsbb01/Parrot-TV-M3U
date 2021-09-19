@@ -25,10 +25,14 @@ elif replitMode == True:
     pushBulletAPI = str(os.environ['pbapi'])
     repo = str(os.environ['gitRepo'])
 
-
-origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
-config_mail = "sudo git config --global user.email " + email
-config_name = "sudo git config --global user.name " + name
+if replitMode == False:
+    origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
+    config_mail = "sudo git config --global user.email " + email
+    config_name = "sudo git config --global user.name " + name
+elif replitMode == True:
+    origin = "git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
+    config_mail = "git config --global user.email " + email
+    config_name = "git config --global user.name " + name
 
 str(origin)
 
@@ -256,9 +260,14 @@ def Git(): # Commits to GitHub Repo
     os.system(config_mail)
     os.system(config_name)
     os.system(origin)
-    os.system("sudo git add .")
-    os.system(commit)
-    os.system("sudo git push")
+    if replitMode == False:
+        os.system("sudo git add .")
+        os.system(commit)
+        os.system("sudo git push")
+    elif replitMode == True:
+        os.system("git add .")
+        os.system(commit)
+        os.system("git push")
 
 def Mode1(): 
     RemoveMode1()
@@ -273,8 +282,8 @@ def Mode1():
     time.sleep(10)
     Git()
     pushbulletMode(1)
-    done()
     remPYC()
+    done()
     
 def Mode2():
     RemoveMode2()
@@ -286,15 +295,15 @@ def Mode2():
     MakeMain()
     Git()
     pushbulletMode(2)
-    done()
     remPYC()
+    done()
 
 def Mode3():
     Clear()
     Git()
     pushbulletMode(3)
-    done()
     remPYC()
+    done()
 
 def tar():
     os.system("cp EPG/EPG.xml EPG.xml")
