@@ -146,6 +146,12 @@ def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("EPG/tvtv.us.guide.xml.1"):
         os.remove("EPG/tvtv.us.guide.xml.1")
 
+    if os.path.exists("EPG/EPG.xml"):
+        os.remove("EPG/CZ.xml")
+        
+    if os.path.exists("EPG/CZ.xml"):
+        os.remove("EPG/EPG.xml")
+
     if os.path.exists("EPG/EPG.tar.gz"):
         os.remove("EPG/EPG.tar.gz")
            
@@ -339,6 +345,7 @@ def tar():
 def updateEPG(): # Adds USTVGO to EPG
     if replitMode == False:
         os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
+        os.system("python3 EPG/Generator/generator.py")
         os.system(merge)
     elif replitMode == True:
         print("Cannot do that in Replit!!!")

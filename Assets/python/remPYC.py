@@ -11,5 +11,8 @@ def remPYC():
     if os.path.exists("Assets/USTVGO/scripts/__pycache__"):
         shutil.rmtree("Assets/USTVGO/scripts/__pycache__")
 
+    if os.path.exists("EPG/Generator/__pycache__"):
+        shutil.rmtree("EPG/Generator/__pycache__")
+
     if os.path.exists("__pycache__"):
         shutil.rmtree("__pycache__")
