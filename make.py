@@ -40,10 +40,16 @@ elif replitMode == True:
 
 str(origin)
 
-def done():
+def done(happ):
     now = datetime.now(tz)
     time = now.strftime("%H:%M:%S")
-    print("[" + time + "] Playlist is up and running!")
+
+    if happ == "pull":
+        print("[" + time + "] Pulled from Repo!")
+    elif happ == "push":
+        print("[" + time + "] Just pushed into Repo!")
+    else:
+        print("[" + time + "] Playlist is up and running!")
     sys.exit()
 
 def Clear(): # Clears Terminal
@@ -303,11 +309,23 @@ def Mode2():
     done()
 
 def Mode3():
+    m = "push"
     Clear()
     Git()
     pushbulletMode(3)
     remPYC()
-    done()
+    done(m)
+
+def Mode4():
+    m = "pull"
+    Clear()
+    if replitMode == True:
+        os.sytem("git pull")
+    elif replitMode == False:
+        os.system("sudo git pull")
+    pushbulletMode(4)
+    remPYC()
+    done(m)
 
 def tar():
     os.system("cp EPG/EPG.xml EPG.xml")
@@ -330,6 +348,7 @@ def select():
         print("#          1.) With EPG                       #")
         print("#          2.) Without EPG                    #")
         print("#          3.) Push into GitHub Only          #")   
+        print("#          4.) Pull from GitHub                ")
         print("###############################################")
 
         modeST = input("Select Mode: ")
@@ -340,6 +359,8 @@ def select():
             Mode2()
         elif modeST == str(3):
             Mode3()
+        elif modeST == str(4):
+            Mode4()
         else:
             select()
     elif replitMode == True:

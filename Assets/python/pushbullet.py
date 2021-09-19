@@ -10,8 +10,10 @@ from Assets.python.dev import replitMode
 if replitMode == False:
     from Auth.auth import pbapi
     pushBulletAPI = str(pbapi)
+    devId = "Device"
 elif replitMode == True:
     pushBulletAPI = str(os.environ['pbapi'])
+    devId = "Replit"
 
 now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")
@@ -39,7 +41,9 @@ def pushbulletMode(mode):
     elif str(mode) == str(2):
         mid = "Pushed into repo!"
     elif str(mode) == str(3):
-        mid = "Pushed into repo!"
+        mid = "Just pushed into repo! - Without playlist update!"
+    elif str(mode) == str(4):
+        mid = "Pulled From Repo on " + devId
     else:
         mid = "ERROR - 0001"
 
