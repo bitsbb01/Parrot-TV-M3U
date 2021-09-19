@@ -1,5 +1,9 @@
 import os
-os.system("pip install pytz")
+from Assets.python.dev import replitMode
+
+if replitMode == True:
+    os.system("pip install pytz")
+
 import time
 import sys
 from Assets.python.merge import merge
@@ -9,7 +13,7 @@ from Assets.python.remPYC import remPYC
 from Assets.python.USTVGOreplace import replaceUStVicons
 from Assets.python.pushbullet import pushbulletMode
 from datetime import datetime
-from Assets.python.dev import replitMode
+
 
 if replitMode == False:
     from Auth.auth import gitToken, Email, name, pbapi, gitRepo
@@ -78,7 +82,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
     def grab(name, code, logo):
         data = {'stream': code}
         m3u = s.post('https://ustvgo.tv/data.php', data=data).text
-        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="USTVGO;US Channels" tvg-logo="{logo}", {name}')
+        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="USTVGO;US Channels" tvg-logo="{logo}",USTVGO: US: {name}')
         playlist.write(f'\n{m3u}')
 
     total = 0
