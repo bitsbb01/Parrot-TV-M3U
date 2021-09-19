@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-id="ABC" roup-title="USTVGO;US Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/240px-American_Broadcasting_Company_Logo.svg.png",USTVGO: US: ABC
-#EXTINF:-1 tvg-id="ACCN" roup-title="USTVGO;US Channels" tvg-logo="https://news.syr.edu/wp-content/uploads/2019/08/New-ACCNX-logo-690x489.jpg",USTVGO: US: ACC Network
+#EXTINF:-1 tvg-id="ABC" group-title="USTVGO;US Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/240px-American_Broadcasting_Company_Logo.svg.png",USTVGO: US: ABC
 #EXTINF:-1 tvg-id="AE" roup-title="USTVGO;US Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png",USTVGO: US: AE
 #EXTINF:-1 tvg-id="AMC" roup-title="USTVGO;US Channels" tvg-logo="https://variety.com/wp-content/uploads/2020/03/amc-network-logo.jpg",USTVGO: US: AMC
 #EXTINF:-1 tvg-id="Animal" roup-title="USTVGO;US Channels" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",USTVGO: US: Animal Planet
