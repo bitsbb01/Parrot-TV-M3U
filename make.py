@@ -146,7 +146,7 @@ def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("EPG/tvtv.us.guide.xml.1"):
         os.remove("EPG/tvtv.us.guide.xml.1")
 
-    if os.path.exists("EPG/EPG.xml"):
+    if os.path.exists("EPG/CZ.xml"):
         os.remove("EPG/CZ.xml")
         
     if os.path.exists("EPG/CZ.xml"):
