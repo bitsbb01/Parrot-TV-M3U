@@ -37,10 +37,13 @@ def Mode3():
     pushbulletMode(3)
     remPYC()
 
+
 prefix = "!"
 
 class MyClient(nextcord.Client):
     async def on_ready(self):
+        Clear()
+        print('------')
         print(f'Logged in as {self.user} (ID: {self.user.id})')
         print('------')
 
@@ -51,15 +54,33 @@ class MyClient(nextcord.Client):
 
         if message.content.startswith(prefix + 'mode1'):
             await message.reply('OK!')
+            print(f"Running Mode 1:")
             Mode1()
 
         if message.content.startswith(prefix + 'mode2'):
             await message.reply('OK!')
+            print(f"Running Mode 2:")
             Mode2()
 
         if message.content.startswith(prefix + 'mode3'):
             await message.reply('OK!')
+            print(f"Running Mode 3:")
             Mode3()
+
+        if message.content.startswith(prefix + 'cls'):
+            await message.reply('Cleared Console!')
+            print(f"Clearing console:")
+            Clear()
+
+        if message.content.startswith(prefix + 'rempyc'):
+            await message.reply('Removed PyCache!')
+            print(f"Removing Pyc:")
+            Clear()
+
+        if message.content.startswith(prefix + 'whoami'):
+            await message.reply('Root!')
+            print(f"You're Root:")
+            Clear()
 
 client = MyClient()
 client.run(TOKEN)
