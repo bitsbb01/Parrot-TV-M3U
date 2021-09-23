@@ -7,7 +7,6 @@ TOKEN = disToken
 
 def Mode1(): 
     RemoveMode1()
-    Clear()
     getUSTVGO()
     replaceUStVicons()
     updateEPG()
@@ -22,7 +21,6 @@ def Mode1():
     
 def Mode2():
     RemoveMode2()
-    Clear()
     getUSTVGO()
     replaceUStVicons()
     MakeCS()
@@ -32,7 +30,6 @@ def Mode2():
     pushbulletMode(2)
 
 def Mode3():
-    Clear()
     Git()
     pushbulletMode(3)
     remPYC()
@@ -48,7 +45,6 @@ class MyClient(nextcord.Client):
         print('------')
 
     async def on_message(self, message):
-        # we do not want the bot to reply to itself
         if message.author.id == self.user.id:
             return
 
@@ -75,12 +71,20 @@ class MyClient(nextcord.Client):
         if message.content.startswith(prefix + 'rempyc'):
             await message.reply('Removed PyCache!')
             print(f"Removing Pyc:")
-            Clear()
 
-        if message.content.startswith(prefix + 'whoami'):
-            await message.reply('Root!')
-            print(f"You're Root:")
-            Clear()
+
+        if message.content.startswith('!help'):
+            print(f"Showing help message:")
+            embedVar = nextcord.Embed(
+            title="Help:", description="It looks like u need help :flushed:", color=0x336EFF
+                    )
+            embedVar.add_field(name="Run Mode 1", value="!mode1", inline=False)
+            embedVar.add_field(name="Run Mode 2", value="!mode2", inline=False)
+            embedVar.add_field(name="Run Mode 3", value="!mode3", inline=False)
+            embedVar.add_field(name="Clear Console", value="!cls", inline=False)
+            embedVar.add_field(name="remove __pycache__", value="!rempyc", inline=False)
+            embedVar.add_field(name="Help", value="!help", inline=False)
+            await message.channel.send(embed=embedVar)
 
 client = MyClient()
 client.run(TOKEN)
