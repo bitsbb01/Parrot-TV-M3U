@@ -1,10 +1,41 @@
-
-TOKEN ="ODg3MDEzNzYzMjQzNDYyNzQ2.YT998Q.WsRT6ZYPObz9S4E_5m3p1yBNEK4"
-
-
 import nextcord
-from make import Mode1, Mode2, Mode3, Mode4
+import time
+from Auth.auth import disToken
+from make import RemoveMode1, RemoveMode2, Clear, getUSTVGO, replaceUStVicons, updateEPG, tar, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC
 
+TOKEN = disToken
+
+def Mode1(): 
+    RemoveMode1()
+    Clear()
+    getUSTVGO()
+    replaceUStVicons()
+    updateEPG()
+    tar()
+    MakeCS()
+    MakeEng()
+    MakeMain()
+    time.sleep(10)
+    Git()
+    pushbulletMode(1)
+    remPYC()
+    
+def Mode2():
+    RemoveMode2()
+    Clear()
+    getUSTVGO()
+    replaceUStVicons()
+    MakeCS()
+    MakeEng()
+    MakeMain()
+    Git()
+    pushbulletMode(2)
+
+def Mode3():
+    Clear()
+    Git()
+    pushbulletMode(3)
+    remPYC()
 
 prefix = "!"
 
@@ -19,15 +50,15 @@ class MyClient(nextcord.Client):
             return
 
         if message.content.startswith(prefix + 'mode1'):
-            await message.reply('Hello!')
+            await message.reply('OK!')
             Mode1()
 
         if message.content.startswith(prefix + 'mode2'):
-            await message.reply('Hello!')
+            await message.reply('OK!')
             Mode2()
 
         if message.content.startswith(prefix + 'mode3'):
-            await message.reply('Hello!')
+            await message.reply('OK!')
             Mode3()
 
 client = MyClient()
