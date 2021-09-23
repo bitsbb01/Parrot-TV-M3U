@@ -2,4 +2,4 @@ EPG = "EPG/tvtv.us.guide.xml"
 EPG1 = "EPG/CZ.xml"
 Out = "EPG/EPG.xml"
 
-merge = "tv_merge -i " + EPG + " -m " + EPG1 + " -o " + Out
+merge = "tv_merge -d -i " + EPG + " -m " + EPG1 + " -o " + Out

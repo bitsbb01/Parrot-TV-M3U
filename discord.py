@@ -1,9 +1,27 @@
 import nextcord
 import time
+import os
+import shutil
 from Auth.auth import disToken
-from make import RemoveMode1, RemoveMode2, Clear, getUSTVGO, replaceUStVicons, updateEPG, tar, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC
+from make import RemoveMode1, RemoveMode2, Clear, getUSTVGO, replaceUStVicons, updateEPG, tar, MakeCS, MakeEng, MakeMain, Git, pushbulletMode
 
 TOKEN = disToken
+
+def remPYC():
+    if os.path.exists("Auth/__pycache__"):
+        shutil.rmtree("Auth/__pycache__")
+
+    if os.path.exists("Assets/python/__pycache__"):
+        shutil.rmtree("Assets/python/__pycache__")
+
+    if os.path.exists("Assets/USTVGO/scripts/__pycache__"):
+        shutil.rmtree("Assets/USTVGO/scripts/__pycache__")
+
+    if os.path.exists("EPG/Generator/__pycache__"):
+        shutil.rmtree("EPG/Generator/__pycache__")
+
+    if os.path.exists("__pycache__"):
+        shutil.rmtree("__pycache__")
 
 def Mode1(): 
     RemoveMode1()
