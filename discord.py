@@ -52,26 +52,28 @@ class MyClient(nextcord.Client):
             await message.reply('OK!')
             print(f"Running Mode 1:")
             Mode1()
+            await message.reply("Done! - with EPG!")
 
         if message.content.startswith(prefix + 'mode2'):
             await message.reply('OK!')
             print(f"Running Mode 2:")
             Mode2()
-            await message.reply("DONE")
+            await message.reply("Done! - without EPG!")
 
         if message.content.startswith(prefix + 'mode3'):
             await message.reply('OK!')
             print(f"Running Mode 3:")
             Mode3()
+            await message.reply("Done! - Just Pushed Into Repo!")
 
         if message.content.startswith(prefix + 'cls'):
-            await message.reply('Cleared Console!')
             print(f"Clearing console:")
             Clear()
+            await message.reply("Done! - Console is now fresh and clean!")
 
         if message.content.startswith(prefix + 'rempyc'):
-            await message.reply('Removed PyCache!')
             print(f"Removing Pyc:")
+            await message.reply("Done! - Removed py")
 
 
         if message.content.startswith('!help'):
