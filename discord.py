@@ -57,6 +57,7 @@ class MyClient(nextcord.Client):
             await message.reply('OK!')
             print(f"Running Mode 2:")
             Mode2()
+            await message.reply("DONE")
 
         if message.content.startswith(prefix + 'mode3'):
             await message.reply('OK!')
