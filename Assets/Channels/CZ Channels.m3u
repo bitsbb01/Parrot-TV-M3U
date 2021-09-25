@@ -109,6 +109,8 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/71062
 http://wagmaott.com:8080/Mraoui123tdZ0pSF1XG/0UcwteyR7J/42765
 #EXTINF:-1 tvg-country="CZ" tvg-id="" tvg-logo="https://i.ibb.co/rw0mttB/filmboxfamily.png" group-title="CZ Channels",HLS Cat: CZ: Filmbox Family
 http://new-pro.tv:8080/Hotel-2021/Allroom/71067
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="CZ Channels",HLS Cat: CZ: Nickelodeon
+http://new-pro.tv:8080/Aqifii/VDkysv7n60/71090 
 #EXTINF:-1 tvg-country="CZ" tvg-id="" tvg-logo="https://i.ibb.co/rfXKN9Y/filmplus.png" group-title="CZ Channels",HLS Cat: CZ: Film +
 http://new-pro.tv:8080/Hotel-2021/Allroom/71065
 #EXTINF:-1 tvg-country="CZ" tvg-id="" tvg-logo="https://i.ibb.co/Yyb1Tkg/filmboxplus.png" group-title="CZ Channels",HLS Cat: CZ: Filmbox Plus
