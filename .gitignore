@@ -4,6 +4,7 @@ Auth/auth.py
 __pycache__
 1024
 1024.zip
+servicemgr.py
 discord.sh
 *.pyc
 tvtv.us.guide.xml
@@ -24,6 +25,7 @@ EPG1.xml
 EPG2.xml
 EPG3.xml
 EPG4.xml
+uid.txt
 EPG5.xml
 EPG6.xml
 EPG7.xml

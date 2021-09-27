@@ -2,7 +2,7 @@ import nextcord
 import time
 import os
 import shutil
-from Auth.auth import disToken
+from Auth.auth import disToken, disUID
 from make import RemoveMode1, RemoveMode2, Clear, getUSTVGO, replaceUStVicons, updateEPG, tar, MakeCS, MakeEng, MakeMain, Git, pushbulletMode
 
 TOKEN = disToken
@@ -69,10 +69,13 @@ class MyClient(nextcord.Client):
             return
 
         if message.content.startswith(prefix + 'mode1'):
-            await message.reply('OK!')
-            print(f"Running Mode 1:")
-            Mode1()
-            await message.reply("Done! - with EPG!")
+            if str(message.author.id) == str(disUID):
+                await message.reply('OK!')
+                print(f"Running Mode 1:")
+                Mode1()
+                await message.reply("Done! - with EPG!")
+            else:
+                await message.reply("You don't have premissions to do that!")
 
         if message.content.startswith(prefix + 'mode2'):
             await message.reply('OK!')
@@ -81,10 +84,14 @@ class MyClient(nextcord.Client):
             await message.reply("Done! - without EPG!")
 
         if message.content.startswith(prefix + 'mode3'):
-            await message.reply('OK!')
-            print(f"Running Mode 3:")
-            Mode3()
-            await message.reply("Done! - Just Pushed Into Repo!")
+            if str(message.author.id) == str(disUID):
+                await message.reply('OK!')
+                print(f"Running Mode 3:")
+                Mode3()
+                await message.reply("Done! - Just Pushed Into Repo!")
+            else:
+                await message.reply("You don't have premissions to do that!")
+
 
         if message.content.startswith(prefix + 'cls'):
             print(f"Clearing console:")
@@ -95,8 +102,16 @@ class MyClient(nextcord.Client):
             print(f"Removing Pyc:")
             await message.reply("Done! - Removed py")
 
+        if message.content.startswith(prefix + 'uid'):
+            id =  message.author.id
+            str(id)
+            #with open('uid.txt', 'w') as f: #Enable if u want to get someone's uid
+                #f.write(str(id))
+            print(str("Removing Showing usrid -") + str(id) + str(":"))
+            await message.reply(str("Your id: ") + str(id))
 
-        if message.content.startswith('!help'):
+
+        if message.content.startswith(prefix + 'help'):
             print(f"Showing help message:")
             embedVar = nextcord.Embed(
             title="Help:", description="It looks like u need help :flushed:", color=0x336EFF
@@ -106,6 +121,7 @@ class MyClient(nextcord.Client):
             embedVar.add_field(name="Run Mode 3", value="!mode3", inline=False)
             embedVar.add_field(name="Clear Console", value="!cls", inline=False)
             embedVar.add_field(name="remove __pycache__", value="!rempyc", inline=False)
+            embedVar.add_field(name="Show your id", value="!uid", inline=False)
             embedVar.add_field(name="Help", value="!help", inline=False)
             await message.channel.send(embed=embedVar)
 
