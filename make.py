@@ -393,7 +393,10 @@ def Main():
 def auto():
     def go():
         if replitMode == False:
-            Mode2()
+            while True:
+                Mode2()
+                print("Waiting 2 hours!")
+                time.sleep(7200)
 
     admin = os.getuid()
 
