@@ -92,6 +92,14 @@ class MyClient(nextcord.Client):
             else:
                 await message.reply("You don't have premissions to do that!")
 
+        if message.content.startswith(prefix + 'restbot'):
+            if str(message.author.id) == str(disUID):
+                await message.reply('Restarting BOT!')
+                print(f"Restarting BOT:")
+                os.system("sudo systemctl restart parrotbot.discord.service")
+            else:
+                await message.reply("You don't have premissions to do that!")
+
 
         if message.content.startswith(prefix + 'cls'):
             print(f"Clearing console:")
@@ -122,6 +130,7 @@ class MyClient(nextcord.Client):
             embedVar.add_field(name="Clear Console", value="!cls", inline=False)
             embedVar.add_field(name="remove __pycache__", value="!rempyc", inline=False)
             embedVar.add_field(name="Show your id", value="!uid", inline=False)
+            embedVar.add_field(name="Restart BOT", value="!restbot", inline=False)
             embedVar.add_field(name="Help", value="!help", inline=False)
             await message.channel.send(embed=embedVar)
 
