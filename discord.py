@@ -108,7 +108,7 @@ class MyClient(nextcord.Client):
 
         if message.content.startswith(prefix + 'rempyc'):
             print(f"Removing Pyc:")
-            await message.reply("Done! - Removed py")
+            await message.reply("Done! - Removed pycache")
 
         if message.content.startswith(prefix + 'uid'):
             id =  message.author.id
@@ -116,7 +116,7 @@ class MyClient(nextcord.Client):
             #with open('uid.txt', 'w') as f: #Enable if u want to get someone's uid
                 #f.write(str(id))
             print(str("Removing Showing usrid -") + str(id) + str(":"))
-            await message.reply(str("Your id: ") + str(id))
+            await message.reply(str("Your uid: ") + str(id))
 
 
         if message.content.startswith(prefix + 'help'):
@@ -129,7 +129,7 @@ class MyClient(nextcord.Client):
             embedVar.add_field(name="Run Mode 3", value="!mode3", inline=False)
             embedVar.add_field(name="Clear Console", value="!cls", inline=False)
             embedVar.add_field(name="remove __pycache__", value="!rempyc", inline=False)
-            embedVar.add_field(name="Show your id", value="!uid", inline=False)
+            embedVar.add_field(name="Show your uid", value="!uid", inline=False)
             embedVar.add_field(name="Restart BOT", value="!restbot", inline=False)
             embedVar.add_field(name="Help", value="!help", inline=False)
             await message.channel.send(embed=embedVar)
