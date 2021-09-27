@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cd $HOME/Documents/GitHub/Parrot-TV-M3U
+cd /home/hereironman7746/Documents/GitHub/Parrot-TV-M3U/
 
-python3 make.py
+sudo python3 make.py

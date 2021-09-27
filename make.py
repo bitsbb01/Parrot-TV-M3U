@@ -12,6 +12,7 @@ from Assets.python.time import tz
 from Assets.python.remPYC import remPYC
 from Assets.python.USTVGOreplace import replaceUStVicons
 from Assets.python.pushbullet import pushbulletMode
+from Assets.python.startup import startup
 from datetime import datetime
 
 
@@ -350,7 +351,6 @@ def updateEPG(): # Adds USTVGO to EPG
     elif replitMode == True:
         print("Cannot do that in Replit!!!")
 
-
 def Main():
     def select():
         if replitMode == False:
@@ -390,6 +390,27 @@ def Main():
     elif admin == 0:
         select()
 
-if __name__ == "__main__":
-    Main()
+def auto():
+    def go():
+        if replitMode == False:
+            Mode2()
 
+    admin = os.getuid()
+
+    if admin == 1000:
+        if replitMode == False:
+            os.system("clear")
+            print("Superuser UwU: ")
+            os.system("sudo python3 make.py")
+        elif replitMode == True:
+            go()
+
+    elif admin == 0:
+        go()
+
+if startup == False:
+    if __name__ == "__main__":
+        Main()
+elif startup == True:
+    if replitMode == False:
+        auto()
