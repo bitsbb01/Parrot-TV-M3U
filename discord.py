@@ -7,6 +7,8 @@ from make import RemoveMode1, RemoveMode2, Clear, getUSTVGO, replaceUStVicons, u
 
 TOKEN = disToken
 
+print("Loading!")
+
 def remPYC():
     if os.path.exists("Auth/__pycache__"):
         shutil.rmtree("Auth/__pycache__")

@@ -408,9 +408,12 @@ def auto():
     elif admin == 0:
         go()
 
-if startup == False:
-    if __name__ == "__main__":
-        Main()
-elif startup == True:
-    if replitMode == False:
+
+
+
+
+if __name__ == "__main__":
+    if startup == True:
         auto()
+    elif startup == False:
+        Main()
