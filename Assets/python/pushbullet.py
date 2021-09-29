@@ -44,6 +44,8 @@ def pushbulletMode(mode):
         mid = "Just pushed into repo! - Without playlist update!"
     elif str(mode) == str(4):
         mid = "Pulled From Repo on " + devId
+    elif str(mode) == str(5):
+        mid = "Auto-updated M3U Links!"
     else:
         mid = "ERROR - 0001"
 
