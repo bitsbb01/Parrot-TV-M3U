@@ -80,24 +80,25 @@ class MyClient(nextcord.Client):
             return
         
 
-
+        """
         if message.content.startswith(prefix + 'mode1'):
-            if str(aid) == str(disUID):
+            if str(aid) in (Admins):
                 await message.reply('OK!')
                 echo("Running Mode 1")
                 Mode1()
                 await message.reply("Done! - with EPG!")
             else:
                 await message.reply("You don't have premissions to do that!")
+        """
 
-        if message.content.startswith(prefix + 'mode2'):
+        if message.content.startswith(prefix + 'M3U'):
             await message.reply('OK!')
             echo("Running Mode 2:")
             Mode2()
             await message.reply("Done! - without EPG!")
 
         if message.content.startswith(prefix + 'resetbot'):
-            if str(aid) == str(disUID):
+            if str(aid) in (Admins):
                 await message.reply('Restarting BOT!')
                 echo("Restarting BOT:")
                 os.system("sudo systemctl restart parrotbot.discord.service")
@@ -105,7 +106,7 @@ class MyClient(nextcord.Client):
                 await message.reply("You don't have premissions to do that!")
 
         if message.content.startswith(prefix + 'syslog'):
-            if str(aid) == str(disUID):
+            if str(aid) in (Admins):
                 echo("Showing System Log!")
                 os.system("sudo rm -f Assets/Admin/log.sys")
                 os.system("sudo systemctl status parrotbot.discord.service > Assets/Admin/log.sys")
@@ -114,8 +115,8 @@ class MyClient(nextcord.Client):
             else:
                 await message.reply("You don't have premissions to do that!")
 
-        if message.content.startswith(prefix + 'viewuidlog'):
-            if str(aid) == str(disUID):
+        if message.content.startswith(prefix + 'uidlog'):
+            if str(aid) in (Admins):
                 await message.reply(open('Assets/Admin/log.uid', 'r').read())
                 echo("Showing UID Log!:")
             else:
@@ -134,7 +135,7 @@ class MyClient(nextcord.Client):
         if message.content.startswith(prefix + 'uid'):
             id =  aid
             str(id)
-            os.system("sudo cp log.uid log.uid.bak")
+            os.system("sudo cp Assets/Admin/log.uid Assets/Admin/log.uid.bak")
 
             with open("Assets/Admin/log.uid.bak", "r") as baku:
                 bak = baku.read()
@@ -144,7 +145,7 @@ class MyClient(nextcord.Client):
                 write = f.write(str(bak) + "\n" + str(id))
                 f.close()
 
-            os.system("sudo rm -f log.uid.bak")
+            os.system("sudo rm -f Assets/Admin/log.uid.bak")
 
 
             echo(str("Removing Showing usrid -") + str(id) + str(":"))
@@ -154,15 +155,15 @@ class MyClient(nextcord.Client):
         if message.content.startswith(prefix + 'help'):
             echo("Showing help message:")
             embedVar = nextcord.Embed(
-            description="It looks like u need help :flushed:", color=0x04901f
+            description="It looks like u need help :flushed:", color=0x0000ff
                     )
-            embedVar.add_field(name="==============", value="```!mode1``` - Runs M3U Update With EPG [Admin Rquired]")
-            embedVar.add_field(name="==============", value="```!mode2``` - Runs M3U Update Without EPG [Admin Not Required]")
+            # embedVar.add_field(name="==============", value="```!mode1``` - Runs M3U Update With EPG [Admin Rquired]")
+            embedVar.add_field(name="==============", value="```!M3U``` - Runs M3U Update Without EPG [Admin Not Required]")
             embedVar.add_field(name="==============", value="```!rempyc``` - Removes Pycache Files [Admin Not Required]")
             embedVar.add_field(name="==============", value="```!uid``` - Shows Your UID [Admin Not Required]")
             embedVar.add_field(name="==============", value="```!resetbot``` - Restarts BOT [Admin Rquired]")
             embedVar.add_field(name="==============", value="```!syslog``` - View System Service Log [Admin Rquired]")
-            embedVar.add_field(name="==============", value="```!viewuidlog``` - View UID Log [Admin Rquired]")
+            embedVar.add_field(name="==============", value="```!uidlog``` - View UID Log [Admin Rquired]")
             await message.channel.send(embed=embedVar)
 
 client = MyClient()
