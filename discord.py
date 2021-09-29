@@ -2,12 +2,21 @@ import nextcord
 import time
 import os
 import shutil
+import random
+
+from nextcord.message import Message
 from Auth.auth import disToken, disUID
 from make import RemoveMode1, RemoveMode2, Clear, getUSTVGO, replaceUStVicons, updateEPG, tar, MakeCS, MakeEng, MakeMain, Git, pushbulletMode
 
 TOKEN = disToken
+Admins = open('Assets/Admin/list.txt', 'r').read()
+
+
 
 print("Loading!")
+
+def echo(msg):
+    echocmd = "sudo echo " + '"' + msg + '"'
 
 def remPYC():
     if os.path.exists("Auth/__pycache__"):
@@ -65,13 +74,17 @@ class MyClient(nextcord.Client):
         print('------')
 
     async def on_message(self, message):
-        if message.author.id == self.user.id:
+        aid = message.author.id
+
+        if aid == self.user.id:
             return
+        
+
 
         if message.content.startswith(prefix + 'mode1'):
-            if str(message.author.id) == str(disUID):
+            if str(aid) == str(disUID):
                 await message.reply('OK!')
-                print(f"Running Mode 1:")
+                echo("Running Mode 1")
                 Mode1()
                 await message.reply("Done! - with EPG!")
             else:
@@ -79,59 +92,77 @@ class MyClient(nextcord.Client):
 
         if message.content.startswith(prefix + 'mode2'):
             await message.reply('OK!')
-            print(f"Running Mode 2:")
+            echo("Running Mode 2:")
             Mode2()
             await message.reply("Done! - without EPG!")
 
-        if message.content.startswith(prefix + 'mode3'):
-            if str(message.author.id) == str(disUID):
-                await message.reply('OK!')
-                print(f"Running Mode 3:")
-                Mode3()
-                await message.reply("Done! - Just Pushed Into Repo!")
-            else:
-                await message.reply("You don't have premissions to do that!")
-
-        if message.content.startswith(prefix + 'restbot'):
-            if str(message.author.id) == str(disUID):
+        if message.content.startswith(prefix + 'resetbot'):
+            if str(aid) == str(disUID):
                 await message.reply('Restarting BOT!')
-                print(f"Restarting BOT:")
+                echo("Restarting BOT:")
                 os.system("sudo systemctl restart parrotbot.discord.service")
             else:
                 await message.reply("You don't have premissions to do that!")
 
+        if message.content.startswith(prefix + 'syslog'):
+            if str(aid) == str(disUID):
+                echo("Showing System Log!")
+                os.system("sudo rm -f Assets/Admin/log.sys")
+                os.system("sudo systemctl status parrotbot.discord.service > Assets/Admin/log.sys")
+                await message.reply(open('Assets/Admin/log.sys', 'r').read())
+                os.system("sudo rm -f Assets/Admin/log.sys")
+            else:
+                await message.reply("You don't have premissions to do that!")
 
-        if message.content.startswith(prefix + 'cls'):
-            print(f"Clearing console:")
-            Clear()
-            await message.reply("Done! - Console is now fresh and clean!")
+        if message.content.startswith(prefix + 'viewuidlog'):
+            if str(aid) == str(disUID):
+                await message.reply(open('Assets/Admin/log.uid', 'r').read())
+                echo("Showing UID Log!:")
+            else:
+                await message.reply("You don't have premissions to do that!")
+
+        if message.content.startswith(prefix + 'admin'):
+            if str(aid) in (Admins):
+                await message.reply("You're Admin!")
+            else:
+                await message.reply("You're NOT Admin!")
 
         if message.content.startswith(prefix + 'rempyc'):
-            print(f"Removing Pyc:")
+            echo("Removing Pyc:")
             await message.reply("Done! - Removed pycache")
 
         if message.content.startswith(prefix + 'uid'):
-            id =  message.author.id
+            id =  aid
             str(id)
-            #with open('uid.txt', 'w') as f: #Enable if u want to get someone's uid
-                #f.write(str(id))
-            print(str("Removing Showing usrid -") + str(id) + str(":"))
+            os.system("sudo cp log.uid log.uid.bak")
+
+            with open("Assets/Admin/log.uid.bak", "r") as baku:
+                bak = baku.read()
+                baku.close()
+
+            with open('Assets/Admin/log.uid', 'w') as f:
+                write = f.write(str(bak) + "\n" + str(id))
+                f.close()
+
+            os.system("sudo rm -f log.uid.bak")
+
+
+            echo(str("Removing Showing usrid -") + str(id) + str(":"))
             await message.reply(str("Your uid: ") + str(id))
 
 
         if message.content.startswith(prefix + 'help'):
-            print(f"Showing help message:")
+            echo("Showing help message:")
             embedVar = nextcord.Embed(
-            title="Help:", description="It looks like u need help :flushed:", color=0x336EFF
+            description="It looks like u need help :flushed:", color=0x04901f
                     )
-            embedVar.add_field(name="Run Mode 1", value="!mode1", inline=False)
-            embedVar.add_field(name="Run Mode 2", value="!mode2", inline=False)
-            embedVar.add_field(name="Run Mode 3", value="!mode3", inline=False)
-            embedVar.add_field(name="Clear Console", value="!cls", inline=False)
-            embedVar.add_field(name="remove __pycache__", value="!rempyc", inline=False)
-            embedVar.add_field(name="Show your uid", value="!uid", inline=False)
-            embedVar.add_field(name="Restart BOT", value="!restbot", inline=False)
-            embedVar.add_field(name="Help", value="!help", inline=False)
+            embedVar.add_field(name="==============", value="```!mode1``` - Runs M3U Update With EPG [Admin Rquired]")
+            embedVar.add_field(name="==============", value="```!mode2``` - Runs M3U Update Without EPG [Admin Not Required]")
+            embedVar.add_field(name="==============", value="```!rempyc``` - Removes Pycache Files [Admin Not Required]")
+            embedVar.add_field(name="==============", value="```!uid``` - Shows Your UID [Admin Not Required]")
+            embedVar.add_field(name="==============", value="```!resetbot``` - Restarts BOT [Admin Rquired]")
+            embedVar.add_field(name="==============", value="```!syslog``` - View System Service Log [Admin Rquired]")
+            embedVar.add_field(name="==============", value="```!viewuidlog``` - View UID Log [Admin Rquired]")
             await message.channel.send(embed=embedVar)
 
 client = MyClient()
