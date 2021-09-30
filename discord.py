@@ -105,6 +105,11 @@ class MyClient(nextcord.Client):
             else:
                 await message.reply("You don't have premissions to do that!")
 
+        if message.content.startswith(prefix + 'neofetch'):
+            await message.reply(open('Assets/Admin/neofetch.parrot', 'r').read())
+            echo("Showing Neofetch!")
+
+
         if message.content.startswith(prefix + 'syslog'):
             if str(aid) in (Admins):
                 echo("Showing System Log!")
@@ -164,6 +169,7 @@ class MyClient(nextcord.Client):
             embedVar.add_field(name="==============", value="```!resetbot``` - Restarts BOT [Admin Rquired]")
             embedVar.add_field(name="==============", value="```!syslog``` - View System Service Log [Admin Rquired]")
             embedVar.add_field(name="==============", value="```!uidlog``` - View UID Log [Admin Rquired]")
+            embedVar.add_field(name="==============", value="```!neofetch``` - Show Neofetch [Admin Not Required]")
             await message.channel.send(embed=embedVar)
 
 client = MyClient()
