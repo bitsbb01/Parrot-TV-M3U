@@ -39,5 +39,5 @@ def Main():
 
 while auto == True:
     Main()
-    echo("Waiting" + str(timeoutTime)
+    echo("Waiting" + str(timeoutTime))
     time.sleep(int(timeoutTime))
