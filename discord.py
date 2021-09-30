@@ -4,47 +4,15 @@ import os
 import shutil
 import random
 
+
 from nextcord.message import Message
 from Auth.auth import disToken, disUID
 from make import RemoveMode1, RemoveMode2, Clear, getUSTVGO, replaceUStVicons, updateEPG, tar, MakeCS, MakeEng, MakeMain, Git, pushbulletMode
 
-randnum = random.randint('1', '10')
-
 TOKEN = disToken
 Admins = open('Assets/Admin/list.txt', 'r').read()
 
-clrEmbed = ""
-colorOpt1=0x0000ff
-colorOpt2=0x60909e
-colorOpt3=0x82e7c8
-colorOpt4=0xd7d9b8
-colorOpt5=0xff0000
-colorOpt6=0x000000
-colorOpt7=0x4fa875
-colorOpt8=0xcdffb7
-colorOpt9=0x43765f
-colorOpt10=0x6fa8dc
 
-if str(randnum) == "1":
-    clrEmbed = colorOpt1
-elif str(randnum) == "2":
-    clrEmbed = colorOpt2
-elif str(randnum) == "3":
-    clrEmbed = colorOpt3
-elif str(randnum) == "4":
-    clrEmbed = colorOpt4
-elif str(randnum) == "5":
-    clrEmbed = colorOpt5
-elif str(randnum) == "6":
-    clrEmbed = colorOpt6
-elif str(randnum) == "7":
-    clrEmbed = colorOpt7
-elif str(randnum) == "8":
-    clrEmbed = colorOpt8
-elif str(randnum) == "9":
-    clrEmbed = colorOpt9
-elif str(randnum) == "10":
-    clrEmbed = colorOpt10
 
 
 
@@ -250,6 +218,27 @@ class MyClient(nextcord.Client):
 
 
         if message.content.startswith(prefix + 'help'):
+            randnum = random.randint(1, 10)
+            if str(randnum) == "1":
+                clrEmbed=0x08ff00
+            if str(randnum) == "2":
+                clrEmbed=0x00ffff
+            if str(randnum) == "3":
+                clrEmbed=0xfa6900
+            if str(randnum) == "4":
+                clrEmbed=0xf98082
+            if str(randnum) == "5":
+                clrEmbed=0x75edeb
+            if str(randnum) == "6":
+                clrEmbed=0x3d85c6
+            if str(randnum) == "7":
+                clrEmbed=0x0b5394
+            if str(randnum) == "8":
+                clrEmbed=0xaa35c
+            if str(randnum) == "9":
+                clrEmbed=0x4fa875
+            if str(randnum) == "10":
+                clrEmbed=0x43765f
             echo("Showing help message:")
             embedVar = nextcord.Embed(
             description="It looks like u need help :flushed:", color=int(clrEmbed)
