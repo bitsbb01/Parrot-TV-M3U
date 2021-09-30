@@ -2,6 +2,7 @@ import nextcord
 import time
 import os
 import shutil
+import fileinput
 import random
 
 from nextcord.message import Message
@@ -198,10 +199,17 @@ class MyClient(nextcord.Client):
             else:
                 await message.reply("You don't have premissions to do that!")
 
-        if message.content.startswith(prefix2 + 'settimeouttime'):
+        if message.content.startswith(prefix2 + 'stt'):
+            from Assets.python.STT import replaceSTT
             if str(aid) in (Admins):
+                os.system('sudo rm -f Assets/Service/tt.txt')
+                os.system('sudo rm -f Assets/Service/timeou.txt')
                 timeouttime = str(message.content)
-                timeouttime.replace('&settimeouttime ', '')
+                timeouttime.replace('&stt', 'fuck')
+                open('Assets/Service/tt.txt', 'w').write(timeouttime)
+                replaceSTT()
+                await message.reply("New auto-update timeout is now: " + timeouttime)
+            else:
                 await message.reply("You don't have premissions to do that!")
 
 

@@ -13,7 +13,8 @@ config_name = "sudo git config --global user.name " + name
 
 
 auto = True
-timeoutTime = 10800 #in Seconds
+timeoutTime = open('Assets/Service/timeou.txt').read()
+int(timeoutTime)
 
 
 def Main():
