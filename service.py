@@ -1,4 +1,3 @@
-from requests.models import MissingSchema
 from make import Clear, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC, RemoveMode2
 from Auth.auth import name, Email, gitToken, gitRepo
 import time
@@ -40,4 +39,5 @@ def Main():
 
 while auto == True:
     Main()
+    echo("Waiting" + str(timeoutTime)
     time.sleep(int(timeoutTime))
