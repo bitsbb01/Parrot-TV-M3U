@@ -17,6 +17,7 @@ print("Loading!")
 
 def echo(msg):
     echocmd = "sudo echo " + '"' + msg + '"'
+    os.system(echocmd)
 
 def remPYC():
     if os.path.exists("Auth/__pycache__"):
@@ -65,6 +66,7 @@ def Mode3():
 
 
 prefix = "!"
+prefix2 = "&"
 
 class MyClient(nextcord.Client):
     async def on_ready(self):
@@ -91,6 +93,9 @@ class MyClient(nextcord.Client):
                 await message.reply("You don't have premissions to do that!")
         """
 
+        if message.content.startswith('fuck you'):
+            await message.reply("Sry, don't have time, I'm currently in bed with ur mom.")
+
         if message.content.startswith(prefix + 'M3U'):
             await message.reply('OK!')
             echo("Running Mode 2:")
@@ -109,8 +114,7 @@ class MyClient(nextcord.Client):
             await message.reply(open('Assets/Admin/neofetch.parrot', 'r').read())
             echo("Showing Neofetch!")
 
-
-        if message.content.startswith(prefix + 'syslog'):
+        if message.content.startswith(prefix + 'log'):
             if str(aid) in (Admins):
                 echo("Showing System Log!")
                 os.system("sudo rm -f Assets/Admin/log.sys")
@@ -138,23 +142,67 @@ class MyClient(nextcord.Client):
             await message.reply("Done! - Removed pycache")
 
         if message.content.startswith(prefix + 'uid'):
-            id =  aid
-            str(id)
-            os.system("sudo cp Assets/Admin/log.uid Assets/Admin/log.uid.bak")
+            if str(message.content) == prefix + "uidlog":
+                echo("Shwoing uidlog")
+            else:
+                id =  aid
+                str(id)
+                os.system("sudo cp Assets/Admin/log.uid Assets/Admin/log.uid.bak")
 
-            with open("Assets/Admin/log.uid.bak", "r") as baku:
-                bak = baku.read()
-                baku.close()
+                with open("Assets/Admin/log.uid.bak", "r") as baku:
+                    bak = baku.read()
+                    baku.close()
 
-            with open('Assets/Admin/log.uid', 'w') as f:
-                write = f.write(str(bak) + "\n" + str(id))
-                f.close()
+                with open('Assets/Admin/log.uid', 'w') as f:
+                    write = f.write(str(bak) + "\n" + str(id))
+                    f.close()
 
-            os.system("sudo rm -f Assets/Admin/log.uid.bak")
+                os.system("sudo rm -f Assets/Admin/log.uid.bak")
 
 
-            echo(str("Removing Showing usrid -") + str(id) + str(":"))
-            await message.reply(str("Your uid: ") + str(id))
+                echo(str("Removing Showing usrid -") + str(id) + str(":"))
+                await message.reply(str("Your uid: ") + str(id))
+
+
+        if message.content.startswith(prefix2 + 'statusbot'):
+            if str(aid) in (Admins):
+                echo("Showing Auto-Update Log!")
+                os.system("sudo rm -f Assets/Admin/log.sys")
+                os.system("sudo systemctl status parrotbot.discord.service > Assets/Admin/log-auto.sys")
+                await message.reply(open('Assets/Admin/log-auto.sys', 'r').read())
+                os.system("sudo rm -f Assets/Admin/log-auto.sys")
+            else:
+                await message.reply("You don't have premissions to do that!")
+
+        if message.content.startswith(prefix2 + 'startbot'):
+            if str(aid) in (Admins):
+                await message.reply('Restarting BOT!')
+                echo("Starting Aut-Update BOT:")
+                os.system("sudo systemctl start parrotbot.service")
+            else:
+                await message.reply("You don't have premissions to do that!")
+
+        if message.content.startswith(prefix2 + 'resetbot'):
+            if str(aid) in (Admins):
+                await message.reply('Restarting BOT!')
+                echo("Restarting Aut-Update BOT:")
+                os.system("sudo systemctl restart parrotbot.service")
+            else:
+                await message.reply("You don't have premissions to do that!")
+
+        if message.content.startswith(prefix2 + 'stopbot'):
+            if str(aid) in (Admins):
+                await message.reply('Restarting BOT!')
+                echo("Stopping Aut-Update BOT:")
+                os.system("sudo systemctl stop parrotbot.service")
+            else:
+                await message.reply("You don't have premissions to do that!")
+
+        if message.content.startswith(prefix2 + 'settimeouttime'):
+            if str(aid) in (Admins):
+                timeouttime = str(message.content)
+                timeouttime.replace('&settimeouttime ', '')
+                await message.reply("You don't have premissions to do that!")
 
 
         if message.content.startswith(prefix + 'help'):
@@ -167,7 +215,7 @@ class MyClient(nextcord.Client):
             embedVar.add_field(name="==============", value="```!rempyc``` - Removes Pycache Files [Admin Not Required]")
             embedVar.add_field(name="==============", value="```!uid``` - Shows Your UID [Admin Not Required]")
             embedVar.add_field(name="==============", value="```!resetbot``` - Restarts BOT [Admin Rquired]")
-            embedVar.add_field(name="==============", value="```!syslog``` - View System Service Log [Admin Rquired]")
+            embedVar.add_field(name="==============", value="```!log``` - View System Service Log [Admin Rquired]")
             embedVar.add_field(name="==============", value="```!uidlog``` - View UID Log [Admin Rquired]")
             embedVar.add_field(name="==============", value="```!neofetch``` - Show Neofetch [Admin Not Required]")
             await message.channel.send(embed=embedVar)
