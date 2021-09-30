@@ -11,6 +11,7 @@ from make import RemoveMode1, RemoveMode2, Clear, getUSTVGO, replaceUStVicons, u
 
 TOKEN = disToken
 Admins = open('Assets/Admin/list.txt', 'r').read()
+SAdmins = open('Assets/Admin/Slist.txt', 'r').read()
 
 
 
@@ -170,7 +171,7 @@ class MyClient(nextcord.Client):
 
 
         if message.content.startswith(prefix2 + 'statusbot'):
-            if str(aid) in (Admins):
+            if str(aid) in (SAdmins):
                 echo("Showing Auto-Update Log!")
                 os.system("sudo rm -f Assets/Admin/log.sys")
                 os.system("sudo systemctl status parrotbot.discord.service > Assets/Admin/log-auto.sys")
@@ -180,7 +181,7 @@ class MyClient(nextcord.Client):
                 await message.reply("You don't have premissions to do that!")
 
         if message.content.startswith(prefix2 + 'startbot'):
-            if str(aid) in (Admins):
+            if str(aid) in (SAdmins):
                 await message.reply('Restarting BOT!')
                 echo("Starting Aut-Update BOT:")
                 os.system("sudo systemctl start parrotbot.service")
@@ -188,7 +189,7 @@ class MyClient(nextcord.Client):
                 await message.reply("You don't have premissions to do that!")
 
         if message.content.startswith(prefix2 + 'resetbot'):
-            if str(aid) in (Admins):
+            if str(aid) in (SAdmins):
                 await message.reply('Restarting BOT!')
                 echo("Restarting Aut-Update BOT:")
                 os.system("sudo systemctl restart parrotbot.service")
@@ -196,7 +197,7 @@ class MyClient(nextcord.Client):
                 await message.reply("You don't have premissions to do that!")
 
         if message.content.startswith(prefix2 + 'stopbot'):
-            if str(aid) in (Admins):
+            if str(aid) in (SAdmins):
                 await message.reply('Restarting BOT!')
                 echo("Stopping Aut-Update BOT:")
                 os.system("sudo systemctl stop parrotbot.service")
@@ -205,7 +206,7 @@ class MyClient(nextcord.Client):
 
         if message.content.startswith(prefix2 + 'stt'):
             from Assets.python.STT import replaceSTT
-            if str(aid) in (Admins):
+            if str(aid) in (SAdmins):
                 os.system('sudo rm -f Assets/Service/tt.txt')
                 os.system('sudo rm -f Assets/Service/timeou.txt')
                 timeouttime = str(message.content)
@@ -215,6 +216,40 @@ class MyClient(nextcord.Client):
                 await message.reply("New auto-update timeout is now: " + timeouttime)
             else:
                 await message.reply("You don't have premissions to do that!")
+
+        if message.content.startswith(prefix2 + 'help'):
+            randnum = random.randint(1, 10)
+            if str(randnum) == "1":
+                clrEmbed=0x08ff00
+            if str(randnum) == "2":
+                clrEmbed=0x00ffff
+            if str(randnum) == "3":
+                clrEmbed=0xfa6900
+            if str(randnum) == "4":
+                clrEmbed=0xf98082
+            if str(randnum) == "5":
+                clrEmbed=0x75edeb
+            if str(randnum) == "6":
+                clrEmbed=0x3d85c6
+            if str(randnum) == "7":
+                clrEmbed=0x0b5394
+            if str(randnum) == "8":
+                clrEmbed=0xaa35c
+            if str(randnum) == "9":
+                clrEmbed=0x4fa875
+            if str(randnum) == "10":
+                clrEmbed=0x43765f
+            echo("Showing help message:")
+            embedVar = nextcord.Embed(
+            description="It looks like u need help :flushed:", color=int(clrEmbed)
+                    )
+            # embedVar.add_field(name="==============", value="```!mode1``` - Runs M3U Update With EPG [Admin Rquired]")
+            embedVar.add_field(name="==============", value="```&statusbot``` - Gets status of Auto-Update BOT [Super Admin Required]")
+            embedVar.add_field(name="==============", value="```&startbot``` - Start Auto-Update BOT [Super Admin Required]")
+            embedVar.add_field(name="==============", value="```&resetbot``` - Restart Auto-Update BOT [Super Admin Required]")
+            embedVar.add_field(name="==============", value="```&stopbot``` - Stop Auto-Update BOT [Super Admin Required]")
+            embedVar.add_field(name="==============", value="```&stt [Number in seconds]``` - Edit timeout time between updates [Super Admin Required]")
+            await message.channel.send(embed=embedVar)
 
 
         if message.content.startswith(prefix + 'help'):
