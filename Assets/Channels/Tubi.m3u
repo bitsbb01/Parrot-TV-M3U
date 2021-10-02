@@ -1,0 +1,54 @@
+
+
+
+
+#EXTINF:-1 tvg-id="WTAETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="Tubi",Tubi: US: ABC 4 Pittsburg PA (WTAE)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1 tvg-id="WEWSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1" group-title="Tubi",Tubi: US: ABC 5 Cleveland OH (WEWS-TV)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
+#EXTINF:-1 tvg-id="KOCOTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yxEbZqn.jpg" group-title="Tubi",Tubi: US: ABC 5 Oklahoma City OK (KOCO)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 tvg-id="WXYZTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="Tubi",Tubi: US: ABC 7 Detroit MI (WXYZ-TV) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+#EXTINF:-1 tvg-id="KETVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BuO1yHQ.png" group-title="Tubi",Tubi: US: ABC 7 Omaha NE (KETV)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 tvg-id="KMBCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DCBHkiP.jpg" group-title="Tubi",Tubi: US: ABC 9 Kansas City MO (KMBC-TV)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 tvg-id="WMURTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6oNx5F0.png" group-title="Tubi",Tubi: US: ABC 9 Manchester NH (WMUR-TV)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 tvg-id="AnAmericanChristmasCarol.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Tubi",Tubi: US: An American Christmas Carol
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GMAT4VE.jpg" group-title="Tubi",Tubi: US: Black News Channel
+https://lnc-black-news.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="Tubi",Tubi: US: Bloomberg Quicktake
+https://csm-e-eb.csm.tubi.video/csm/live/283326845.m3u8
+#EXTINF:-1 tvg-id="CBCNewsHighlights.ca" tvg-country="CA" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="Tubi",Tubi: US: CBC News Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="Tubi",Tubi: US: Estrella News
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 tvg-id="WHBQTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/E9vX12j.jpg" group-title="Tubi",Tubi: US: FOX 13 Memphis TN (WHBQ-TV)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Tubi",Tubi: US: Fox Soul
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WLWTTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7erOEZJ.gif" group-title="Tubi",Tubi: US: NBC 5 Cincinnati OH (WLWT)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+#EXTINF:-1 tvg-id="WDSUTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cB1bxJw.jpg" group-title="Tubi",Tubi: US: NBC 6 New Orleans LA (WDSU)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" group-title="Tubi",Tubi: US: News 12 New York (1080p)
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="Tubi",Tubi: US: Newsy
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8
+#EXTINF:-1 tvg-id="Pattrn.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013" group-title="Weather",Pattrn
+https://csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+#EXTINF:-1 tvg-id="PeopleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7SarjaU.png" group-title="Tubi",Tubi: US: People TV (1080p)
+https://lnc-people-tv.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="PeopleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7SarjaU.png" group-title="Tubi",Tubi: US: People TV
+https://csm-e-cetubiausw2live204-0d03c1c1e1332a1c7.csm.tubi.video/csm/live/241832244.m3u8
+#EXTINF:-1 tvg-id="SantaandtheThreeBears.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Tubi",Tubi: US: Santa and the Three Bears
+https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
+#EXTINF:-1 tvg-id="VeryAlabama.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Tubi",Tubi: US: Very Alabama
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
+
+
+
+
