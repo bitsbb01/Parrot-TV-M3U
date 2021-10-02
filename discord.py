@@ -2,16 +2,43 @@ from nextcord import client, guild
 from nextcord.ext import commands
 from typing import List
 import nextcord
+import time
 import typing
 import random
 import os
 from nextcord.message import Message
 from Auth.auth import disToken
-from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC, Clear
+from make import RemoveMode1 ,RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC, Clear
 
 def echo(msg):
     echocmd = "sudo echo " + '"' + msg + '"'
     os.system(echocmd)
+
+def tar():
+    os.system("cp EPG/EPG.xml EPG.xml")
+    os.system("tar -czvf EPG.tar.gz EPG.xml")
+    os.system("mv EPG.tar.gz EPG/")
+    if os.path.exists("EPG.xml"):
+        os.remove("EPG.xml")
+
+def updateEPG():
+    os.system("python3 EPG/Generator/generator.py")
+
+
+
+def Mode1():
+    RemoveMode1()
+    Clear()
+    getUSTVGO()
+    replaceUStVicons()
+    updateEPG()
+    tar()
+    MakeCS()
+    MakeEng()
+    MakeMain()
+    Git()
+    pushbulletMode(1)
+    remPYC()
 
 def Mode2():
     RemoveMode2()
@@ -27,6 +54,13 @@ def Mode2():
 bot = commands.Bot(command_prefix='!')
 
 @bot.event
+async def on_message(message):
+    # we do not want the bot to reply to itself
+    if message.author == bot.user:
+        return
+    if message.author.bot: return
+
+@bot.event
 async def on_ready():
     Clear()
     echo("------------------")
@@ -39,6 +73,14 @@ async def M3U(ctx):
     echo("Running M3U Update!")
     Mode2()
     await ctx.reply("Done! - without EPG!", mention_author=True)
+
+@bot.command()
+@commands.has_role('Owner')
+async def M3UEPG(ctx):
+    await ctx.reply('OK!', mention_author=True)
+    echo("Running M3U and EPG Update!")
+    Mode1()
+    await ctx.reply("Done! - with EPG!", mention_author=True)
 
 @bot.command()
 @commands.has_role('Owner')
@@ -103,7 +145,8 @@ async def AAcontrol(ctx, args):
         os.system("sudo rm -f Assets/Admin/log-auto.sys")
 
 @bot.command()
-async def embed(ctx):
+async def neofetch(ctx):
+    """
     randnum = random.randint(1, 10)
     if str(randnum) == "1":
         clrEmbed=0x08ff00
@@ -125,8 +168,9 @@ async def embed(ctx):
         clrEmbed=0x4fa875
     if str(randnum) == "10":
         clrEmbed=0x43765f
+    """
 
-    embed=nextcord.Embed(title="Neofetch:", color=int(clrEmbed))
+    embed=nextcord.Embed(title="Neofetch:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
     embed.add_field(name="Distro", value="Manjaro Linux", inline=False)
     embed.add_field(name="APU", value="Potato gen 6", inline=False)
     embed.add_field(name="RAM", value="4gb", inline=False)

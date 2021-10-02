@@ -4,6 +4,8 @@
 # Počet dní (1-15)
 days = 15
 
+epgname = "../EPG.xml"
+
 # Počet dní zpětně (0-7)
 days_back = 7
 
@@ -48,7 +50,7 @@ from ftplib import FTP
 
 
 dn = os.path.dirname(os.path.realpath(__file__))
-fn = os.path.join(dn,"../CZ.xml")
+fn = os.path.join(dn,epgname)
 custom_names_path = os.path.join(dn,"custom_names.txt")
 t_s = "%+d" % time_shift
 TS = " " +t_s[0] + "0" + t_s[1] + "00"
