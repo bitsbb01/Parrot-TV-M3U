@@ -1,4 +1,4 @@
 import pytz
 
-tz = pytz.timezone('Etc/GMT-11')
+tz = pytz.timezone('Etc/GMT-9')
 

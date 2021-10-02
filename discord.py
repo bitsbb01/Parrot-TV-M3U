@@ -2,6 +2,7 @@ from nextcord import client, guild
 from nextcord.ext import commands
 from typing import List
 import nextcord
+import asyncio
 import time
 import typing
 import random
@@ -165,6 +166,11 @@ async def AAcontrol(ctx, args):
         os.system("sudo systemctl status parrotbot.service > Assets/Admin/log-auto.sys")
         await ctx.reply(open('Assets/Admin/log-auto.sys', 'r').read())
         os.system("sudo rm -f Assets/Admin/log-auto.sys")
+
+@bot.command()
+async def clear(ctx):
+    await ctx.channel.purge(limit=5)
+
 
 @bot.command()
 async def neofetch(ctx):
