@@ -9,6 +9,7 @@ import os
 from nextcord.message import Message
 from Auth.auth import disToken
 from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC, Clear
+bot = commands.Bot(command_prefix='!', help_command=None)
 
 def RemoveMode1():
     if os.path.exists("Czechoslovaia.m3u"):
@@ -85,8 +86,6 @@ def Mode2():
     Git()
     pushbulletMode(2)
 
-bot = commands.Bot(command_prefix='!')
-
 @bot.event
 async def on_ready():
     echo("------------------")
@@ -101,7 +100,7 @@ async def M3U(ctx):
     await ctx.reply("Done! - without EPG!", mention_author=True)
 
 @bot.command()
-@commands.has_role('Owner')
+@commands.has_any_role('Owner', 'Admin', 'SuperAdmin')
 async def M3UEPG(ctx):
     await ctx.reply('OK!', mention_author=True)
     echo("Running M3U and EPG Update!")
@@ -118,7 +117,7 @@ async def ban(ctx, members: commands.Greedy[nextcord.Member],
         await ctx.send(member + " was banned for " + delete_days + " cuz he: " + reason)
 
 @bot.command()
-@commands.has_role('Owner')
+@commands.has_any_role('Owner', 'Admin', 'SuperAdmin')
 async def log(ctx):
     echo("Showing System Log!")
     os.system("sudo rm -f Assets/Admin/log.sys")
@@ -127,7 +126,7 @@ async def log(ctx):
     os.system("sudo rm -f Assets/Admin/log.sys")
 
 @bot.command()
-@commands.has_role('Owner')
+@commands.has_any_role('Owner', 'Admin', 'SuperAdmin')
 async def resetbot(ctx):
     await ctx.reply('Restarting BOT!')
     echo("Restarting BOT:")
@@ -140,7 +139,7 @@ async def rempyc(ctx):
     await ctx.reply("Done!")
 
 @bot.command()
-@commands.has_role('Owner')
+@commands.has_any_role('Owner', 'SuperAdmin')
 async def stt(ctx, args):
     if os.path.exists("Assets/Service/timeou.txt"):
         os.system('sudo rm -f Assets/Service/timeou.txt')
@@ -149,7 +148,7 @@ async def stt(ctx, args):
     await ctx.reply("New auto-update timeout is now: " + timeouttime)
 
 @bot.command()
-@commands.has_role('Owner')
+@commands.has_any_role('Owner', 'SuperAdmin')
 async def AAcontrol(ctx, args):
     if str(args) == "1" or str(args) == "start":
         await ctx.reply('Restarting BOT!')
@@ -159,11 +158,8 @@ async def AAcontrol(ctx, args):
         await ctx.reply('Restarting BOT!')
         echo("Restarting Aut-Update BOT!")
         os.system("sudo systemctl restart parrotbot.service")
-    if str(args) == "3" or str(args) == "stop":
-        await ctx.reply('Restarting BOT!')
-        echo("Stopping Aut-Update BOT!:")
-        os.system("sudo systemctl stop parrotbot.service")
-    if str(args) == "4" or str(args) == "status":
+
+    if str(args) == "3" or str(args) == "status":
         echo("Showing Auto-Update Log!")
         os.system("sudo rm -f Assets/Admin/log.sys")
         os.system("sudo systemctl status parrotbot.service > Assets/Admin/log-auto.sys")
@@ -185,13 +181,23 @@ async def neofetch(ctx):
     await ctx.send(embed=embed)
 
 @bot.command()
-@commands.help()
 async def help(ctx):
-    embed=nextcord.Embed(title="Neofetch:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-    embed.add_field(name="Distro", value="Manjaro Linux", inline=False)
-    embed.add_field(name="APU", value="Potato gen 6", inline=False)
-    embed.add_field(name="RAM", value="4gb", inline=False)
-    embed.set_image(url='https://i.ytimg.com/vi/caBFyIyDZME/hqdefault.jpg')
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
+
+
+    embed=nextcord.Embed(title="Help:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+    embed.add_field(name="=======================", value="```!M3U``` - Runs M3U Update Without EPG! [Admin not required]", inline=False)
+    embed.add_field(name="=======================", value="```!M3UEPG``` - Runs M3U Update With EPG! [Admin required]", inline=False)
+    embed.add_field(name="=======================", value="```!ban``` - Ban's People! [Owner only]", inline=False)
+    embed.add_field(name="=======================", value="```!log``` - Show System Service Log! [Admin required]", inline=False)
+    embed.add_field(name="=======================", value="```!resetbot``` - Restart Discord BOT! [Admin required]", inline=False)
+    embed.add_field(name="=======================", value="```!rempyc``` - Remove pycahce! [Admin not required]", inline=False)
+    embed.add_field(name="=======================", value="```!neofetch``` - Show system info! [Admin not required]", inline=False)
+    embed.add_field(name="=======================", value="```!stt [time in seconds]``` - Set Auto-Update Timeout! [SuperAdmin required]", inline=False)
+    embed.add_field(name="=======================", value="```!AAcontrol [start/restart/status]``` - Auto-Update service control! [SuperAdmin equired]", inline=False)
     await ctx.send(embed=embed)
+
 
 bot.run(disToken)
