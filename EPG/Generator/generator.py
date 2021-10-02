@@ -4,8 +4,6 @@
 # Počet dní (1-15)
 days = 15
 
-epgname = "../EPG.xml"
-
 # Počet dní zpětně (0-7)
 days_back = 7
 
@@ -15,7 +13,7 @@ days_back = 7
 TV_SMS_CZ = 1
 T_MOBILE_TV_GO = 0
 O2_TV_SPORT = 0
-MUJ_TV_PROGRAM_CZ = 0
+MUJ_TV_PROGRAM_CZ = 1
 
 # Seznam vlastních kanálů pro tv.sms.cz a T-Mobile TV Go
 # Seznam číselných id kanálů oddělené čárkou (např.: "2,3,32,94")
@@ -39,7 +37,7 @@ ftp_folder = "/"
 
 import sys
 import os
-import xmltv as xmltv
+import xmltv
 import requests
 import xml.etree.ElementTree as ET
 import unicodedata
@@ -50,7 +48,7 @@ from ftplib import FTP
 
 
 dn = os.path.dirname(os.path.realpath(__file__))
-fn = os.path.join(dn,epgname)
+fn = os.path.join(dn,"../EPG.xml")
 custom_names_path = os.path.join(dn,"custom_names.txt")
 t_s = "%+d" % time_shift
 TS = " " +t_s[0] + "0" + t_s[1] + "00"
@@ -193,7 +191,8 @@ class Get_channels_sms:
 
     def __init__(self):
         self.channels = []
-        self.html = requests.get("http://programandroid.365dni.cz/android/v6-tv.php?locale=cs_CZ").text
+        headers = {"user-agent": "SMSTVP/1.7.3 (242;cs_CZ) ID/ef284441-c1cd-4f9e-8e30-f5d8b1ac170c HW/Redmi Note 7 Android/10 (QKQ1.190910.002)"}
+        self.html = requests.get("http://programandroid.365dni.cz/android/v6-tv.php?locale=cs_CZ", headers = headers).text
         self.ch = {}
 
     def all_channels(self):
@@ -206,6 +205,7 @@ class Get_channels_sms:
                 except:
                     icon = ""
                 self.channels.append({"display-name": [(replace_names(i.find("n").text), u"cs")], "id": encode((i.attrib["id"] + "-" + i.find("n").text).replace(" ", "-").lower()), "icon": [{"src": icon}]})
+            self.f.close()
         except:
             pass
         return self.ch, self.channels
@@ -256,7 +256,8 @@ class Get_programmes_sms:
                 next_day = now + timedelta(days = i)
                 date = next_day.strftime("%Y-%m-%d")
                 date_ = next_day.strftime("%d.%m.%Y")
-                html = requests.get("http://programandroid.365dni.cz/android/v6-program.php?datum=" + date + "&id_tv=" + chl).text
+                headers = {"user-agent": "SMSTVP/1.7.3 (242;cs_CZ) ID/ef284441-c1cd-4f9e-8e30-f5d8b1ac170c HW/Redmi Note 7 Android/10 (QKQ1.190910.002)"}
+                html = requests.get("http://programandroid.365dni.cz/android/v6-program.php?datum=" + date + "&id_tv=" + chl, headers = headers).text
                 root = ET.fromstring(html)
                 root[:] = sorted(root, key=lambda child: (child.tag,child.get("o")))
                 for i in root.iter("p"):

@@ -77,7 +77,7 @@ Retro Music: 248
 RTM: 252
 RT Ústecko: 1024
 Slovácko: 544
-Nova 2: 707
+Nova Fun: 707
 Spektrum: 7
 Spektrum Home: 77
 Sport1: 75
@@ -142,15 +142,16 @@ HunterTV: 1441
 Canal+ Domo: 1449
 Prima Star: 1513
 Šlágr: 1519
+Nova Sport 3: 1520
+Nova Sport 4: 1521
+Premier Sport 2: 1522
+Nova Lady: 15290
 Arena Sport 1: 687
 Arena Sport 2: 800
 duck.tv: 150
 ducktv: 222
 CETV: 524
-Digi sport SK: 263
-Digi sport SK 2: 806
-Digi sport SK 3: 984
-Premier Sport: 985
+Premier Sport 1: 985
 Doma: 225
 JOJ: 33
 JOJ Plus: 206
@@ -193,12 +194,11 @@ Nova International: 1125
 ducktv plus: 1323
 Markíza +1: 1335
 Nova +1: 1455
+JOJ Šport: 15291
 TV Ružinov: 1253
 Zemplín: 1315
 Trojka: 1324
 Romana: 1326
-Stredoslovenská Televízia: 1356
-Východoslovenská Televízia: 1357
 HaHa TV: 1363
 Televízia Východ: 1364
 Rik TV: 1408
@@ -459,9 +459,9 @@ NBA SD: 1099
 NHK World TV: 887
 More 4: 1000
 Club MTV: 160
-MTV Rocks: 41
+MTV90s: 41
 MTV Hits: 37
-MTV Live HD: 525
+MTV Live: 525
 MTV UK HD: 1126
 National Geographic HD UK: 1113
 National Geographic Wild HD Europe: 1106
@@ -502,10 +502,9 @@ TCM: 46
 TCM (v UPC): 163
 TV5monde (en): 890
 Universal SD UK: 1068
-VH1: 30
-VH1 Classic: 39
+MTV00s: 30
+MTV80s: 39
 360TuneBox: 841
-Cartoon Network UK: 1130
 BeIn Sports 13 HD: 1131
 Private TV: 79
 DJazz: 1166
@@ -527,6 +526,9 @@ True Amateurs: 1465
 LollyKids: 1466
 Babes TV: 1517
 Desire: 1518
+Wild nature: 1524
+Home: 1525
+TRT Arabi: 1527
 ARTE (fr.): 534
 BFM TV: 537
 CNTV Francais: 516
@@ -811,6 +813,9 @@ HBO3 (hr): 1509
 Cinemax (hr): 1510
 Cinemax 2 (hr): 1511
 B1 Televizija: 1515
+Toon Kids (hr): 1523
+Sportska TV: 15288
+Laudato TV: 15289
 BBC Czech: 732
 BBC Radio: 595
 Classic FM: 814

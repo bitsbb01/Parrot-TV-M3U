@@ -8,7 +8,44 @@ import random
 import os
 from nextcord.message import Message
 from Auth.auth import disToken
-from make import RemoveMode1 ,RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC, Clear
+from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC, Clear
+
+def RemoveMode1():
+    if os.path.exists("Czechoslovaia.m3u"):
+        os.remove("Czechoslovaia.m3u")
+
+    if os.path.exists("English.m3u"):
+        os.remove("English.m3u")
+
+    if os.path.exists("Main.m3u"):
+        os.remove("Main.m3u")
+
+    if os.path.exists("EPG/ustvgo_epg.xml"):
+        os.remove("EPG/ustvgo_epg.xml")
+
+    if os.path.exists("Assets/Channels/ustvgo.m3u"):
+        os.remove("Assets/Channels/ustvgo.m3u")
+
+    if os.path.exists("Assets/USTVGOreplace/data.txt"):
+        os.remove("Assets/USTVGOreplace/data.txt")
+
+    if os.path.exists("EPG/tvtv.us.guide.xml"):
+        os.remove("EPG/tvtv.us.guide.xml")
+
+    if os.path.exists("EPG/tvtv.us.guide.xml.1"):
+        os.remove("EPG/tvtv.us.guide.xml.1")
+
+    if os.path.exists("EPG/CZ.xml"):
+        os.remove("EPG/CZ.xml")
+        
+    if os.path.exists("EPG/CZ.xml"):
+        os.remove("EPG/EPG.xml")
+
+    if os.path.exists("EPG/EPG.tar.gz"):
+        os.remove("EPG/EPG.tar.gz")
+
+    if os.path.exists("EPG/EPG.xml"):
+        os.remove("EPG/EPG.xml")
 
 def echo(msg):
     echocmd = "sudo echo " + '"' + msg + '"'
@@ -22,7 +59,7 @@ def tar():
         os.remove("EPG.xml")
 
 def updateEPG():
-    os.system("python3 EPG/Generator/generator.py")
+    os.system("sudo python3 EPG/Generator/generator.py")
 
 def Mode1():
     RemoveMode1()
@@ -48,9 +85,7 @@ def Mode2():
     Git()
     pushbulletMode(2)
 
-
 bot = commands.Bot(command_prefix='!')
-
 
 @bot.event
 async def on_ready():
@@ -67,7 +102,7 @@ async def M3U(ctx):
 
 @bot.command()
 @commands.has_role('Owner')
-async def M3UEPG(ctx): # FIXME: Not Working
+async def M3UEPG(ctx):
     await ctx.reply('OK!', mention_author=True)
     echo("Running M3U and EPG Update!")
     Mode1()
@@ -137,30 +172,21 @@ async def AAcontrol(ctx, args):
 
 @bot.command()
 async def neofetch(ctx):
-    """
-    randnum = random.randint(1, 10)
-    if str(randnum) == "1":
-        clrEmbed=0x08ff00
-    if str(randnum) == "2":
-        clrEmbed=0x00ffff
-    if str(randnum) == "3":
-        clrEmbed=0xfa6900
-    if str(randnum) == "4":
-        clrEmbed=0xf98082
-    if str(randnum) == "5":
-        clrEmbed=0x75edeb
-    if str(randnum) == "6":
-        clrEmbed=0x3d85c6
-    if str(randnum) == "7":
-        clrEmbed=0x0b5394
-    if str(randnum) == "8":
-        clrEmbed=0xaa35c
-    if str(randnum) == "9":
-        clrEmbed=0x4fa875
-    if str(randnum) == "10":
-        clrEmbed=0x43765f
-    """
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
 
+
+    embed=nextcord.Embed(title="Neofetch:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+    embed.add_field(name="Distro", value="Manjaro Linux", inline=False)
+    embed.add_field(name="APU", value="Potato gen 6", inline=False)
+    embed.add_field(name="RAM", value="4gb", inline=False)
+    embed.set_image(url='https://i.ytimg.com/vi/caBFyIyDZME/hqdefault.jpg')
+    await ctx.send(embed=embed)
+
+@bot.command()
+@commands.help()
+async def help(ctx):
     embed=nextcord.Embed(title="Neofetch:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
     embed.add_field(name="Distro", value="Manjaro Linux", inline=False)
     embed.add_field(name="APU", value="Potato gen 6", inline=False)
