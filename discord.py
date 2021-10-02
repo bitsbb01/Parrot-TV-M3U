@@ -24,8 +24,6 @@ def tar():
 def updateEPG():
     os.system("python3 EPG/Generator/generator.py")
 
-
-
 def Mode1():
     RemoveMode1()
     Clear()
@@ -53,16 +51,9 @@ def Mode2():
 
 bot = commands.Bot(command_prefix='!')
 
-@bot.event
-async def on_message(message):
-    # we do not want the bot to reply to itself
-    if message.author == bot.user:
-        return
-    if message.author.bot: return
 
 @bot.event
 async def on_ready():
-    Clear()
     echo("------------------")
     echo(str(bot.user.name) + " has connected to Discord!")
     echo("------------------")
@@ -76,7 +67,7 @@ async def M3U(ctx):
 
 @bot.command()
 @commands.has_role('Owner')
-async def M3UEPG(ctx):
+async def M3UEPG(ctx): # FIXME: Not Working
     await ctx.reply('OK!', mention_author=True)
     echo("Running M3U and EPG Update!")
     Mode1()
