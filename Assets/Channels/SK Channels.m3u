@@ -18,9 +18,7 @@ http://nn.geo.joj.sk/hls/family-540.m3u8
 plugin://plugin.video.freeview.sk/?provider=joj&channel=jojko
 #EXTINF:-1 tvg-id="718-wau" tvg-logo="https://i.ibb.co/ygMbFkC/wautv.png" group-title="SK Channels" tvg-name="SK: WAU",SK: WAU
 https://nn.geo.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 tvg-id="8-markiza" tvg-logo="https://i.ibb.co/BK2w3xC/markiza.png" group-title="SK Channels" tvg-name="FreeView: SK: Markíza",FreeView: SK: Markíza
-plugin://plugin.video.freeview.sk/?provider=markiza&channel=markiza
-#EXTINF:-1 tvg-id="8-markiza" tvg-logo="https://i.ibb.co/BK2w3xC/markiza.png" group-title="SK Channels" tvg-name="FreeView: SK: Markíza",Markíza TV - SRC 2
+#EXTINF:-1 tvg-id="8-markiza" tvg-logo="https://i.ibb.co/BK2w3xC/markiza.png" group-title="SK Channels" tvg-name="SK: Markíza",SK: Markíza
 http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 tvg-id="1386-doma-tv" tvg-logo="https://i.ibb.co/RPyPQks/doma.png" group-title="SK Channels" tvg-name="FreeView: SK: Doma",FreeView: SK: Doma
 plugin://plugin.video.freeview.sk/?provider=markiza&channel=doma
