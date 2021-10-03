@@ -103,7 +103,7 @@ https://sportsgrid-plex.amagi.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?app_bundle=com.plexapp.desktop&app_domain=app.plex.tv&app_name=plex&content_series=5f12332eeca6a20040b328e5&content_title=MorUy57ijWhGe4ixZb_T&coppa=1&custom4=plex&device_make=Windows&device_model=Firefox&did=df8e1a36-847d-5096-86a7-3803ed330ede&gdpr=1&h=691&live=1&network_id=39&us_privacy=1---&w=1224
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Plex;US Channels",Plex: US: Tastemade
 https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="Culture",The Bob Ross Channel
+#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="Plex;US Channels",The Bob Ross Channel
 https://cinedigm-bobross-1.plex.wurl.com/master.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="Plex;US Channels",Plex: US: The Design Network
 https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8

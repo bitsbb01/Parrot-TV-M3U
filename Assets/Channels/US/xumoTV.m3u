@@ -9,11 +9,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Americas_Test_Kitchen_190x190.png?raw=true" group-title="xumoTV;US Channels",xumoTV US: America's Test Kitchen (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericanClassics.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WUAXiq1.png" ggroup-title="xumoTV;US Channels",xumoTV US: American Classics (432p)
+#EXTINF:-1 tvg-id="AmericanClassics.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WUAXiq1.png" group-title="xumoTV;US Channels",xumoTV US: American Classics (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ArchitecturalDigest.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AD_246x246.png?raw=true" group-title="xumoTV;US Channels",xumoTV US: Architectural Digest (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Asylum.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/j98vGQp.jpg" ggroup-title="xumoTV;US Channels",xumoTV US: Asylum (XUMO) (720p)
+#EXTINF:-1 tvg-id="Asylum.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/j98vGQp.jpg" group-title="xumoTV;US Channels",xumoTV US: Asylum (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Baeble.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mDxouc8.png" group-title="xumoTV;US Channels",xumoTV US: Baeble Music (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
@@ -33,9 +33,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="xumoTV;US Channels",xumoTV US: Cheddar News (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ChiveTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz6Ssqjkt5Zn__8q2-hhZEPzoma1h3_IshrpQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Outdoor",Chive TV (720p)
+#EXTINF:-1 tvg-id="ChiveTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz6Ssqjkt5Zn__8q2-hhZEPzoma1h3_IshrpQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="xumoTV;US Channels",Chive TV (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CineRomantico.us" tvg-country="US" tvg-language="English" tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg" ggroup-title="xumoTV;US Channels",xumoTV US: Cine Romantico (XUMO) (720p)
+#EXTINF:-1 tvg-id="CineRomantico.us" tvg-country="US" tvg-language="English" tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg" group-title="xumoTV;US Channels",xumoTV US: Cine Romantico (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Circle.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1" group-title="xumoTV;US Channels",xumoTV US: Circle (1080p)
 https://circle-xumo.amagi.tv/playlist.m3u8
@@ -57,7 +57,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="xumoTV;US Channels",xumoTV US: CONtv Anime (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CrackleXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XAQpMY6.png" ggroup-title="xumoTV;US Channels",xumoTV US: Crackle (XUMO) (1080p)
+#EXTINF:-1 tvg-id="CrackleXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="xumoTV;US Channels",xumoTV US: Crackle (XUMO) (1080p)
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Docurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="xumoTV;US Channels",xumoTV US: Docurama (1080p)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
@@ -81,7 +81,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FamilyFeudXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uwBpm1Y.png" group-title="xumoTV;US Channels",xumoTV US: Family Feud (XUMO) (360p)
 https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
-#EXTINF:-1 tvg-id="FilmHub.us" tvg-country="US" tvg-language="English" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" ggroup-title="xumoTV;US Channels",xumoTV US: Film Hub (720p)
+#EXTINF:-1 tvg-id="FilmHub.us" tvg-country="US" tvg-language="English" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="xumoTV;US Channels",xumoTV US: Film Hub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseAction.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" group-title="xumoTV;US Channels",xumoTV US: FilmRise Action (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
@@ -103,11 +103,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseForensicFilesXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fX1PNxl.png" group-title="xumoTV;US Channels",xumoTV US: FilmRise Forensic Files (XUMO) (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" ggroup-title="xumoTV;US Channels",xumoTV US: FilmRise Free Movies (720p)
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="xumoTV;US Channels",xumoTV US: FilmRise Free Movies (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" ggroup-title="xumoTV;US Channels",xumoTV US: FilmRise Free Movies (720p)
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="xumoTV;US Channels",xumoTV US: FilmRise Free Movies (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFreeMoviesRedbox.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" ggroup-title="xumoTV;US Channels",xumoTV US: FilmRise Free Movies (Redbox) (720p)
+#EXTINF:-1 tvg-id="FilmRiseFreeMoviesRedbox.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="xumoTV;US Channels",xumoTV US: FilmRise Free Movies (Redbox) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseHellsKitchen.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H002ju5.png" group-title="xumoTV;US Channels",xumoTV US: FilmRise Hell's Kitchen (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
@@ -117,7 +117,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/p
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseSciFiXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815Fp3E0LcL.png" group-title="xumoTV;US Channels",xumoTV US: FilmRise Sci-Fi (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/suxN191.png" ggroup-title="xumoTV;US Channels",xumoTV US: FilmRise True Crime (720p)
+#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/suxN191.png" group-title="xumoTV;US Channels",xumoTV US: FilmRise True Crime (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseWestern.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7cTXYNk.png" group-title="xumoTV;US Channels",xumoTV US: FilmRise Western (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
@@ -151,13 +151,13 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="GQ.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tprQSxT.png"group-title="xumoTV;US Channels",xumoTV US: GQ (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" ggroup-title="xumoTV;US Channels",xumoTV US: Gravitas Movies (720p)
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="xumoTV;US Channels",xumoTV US: Gravitas Movies (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" ggroup-title="xumoTV;US Channels",xumoTV US: Gravitas Movies (720p)
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="xumoTV;US Channels",xumoTV US: Gravitas Movies (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugravitasmovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JMn9sxk.png" ggroup-title="xumoTV;US Channels",xumoTV US: Hallmark Movies & More (720p)
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="xumoTV;US Channels",xumoTV US: Hallmark Movies & More (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JMn9sxk.png" ggroup-title="xumoTV;US Channels",xumoTV US: Hallmark Movies & More (720p)
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="xumoTV;US Channels",xumoTV US: Hallmark Movies & More (720p)
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocks.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzA3OTUzMjRf?inline=1" group-title="xumoTV;US Channels",xumoTV US: Hard Knocks (720p)
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
@@ -189,11 +189,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OaSFTnV.png"group-title="xumoTV;US Channels",xumoTV US: LIVExLIVE (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumolivexlive/CDN/master.m3u8
-#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OEamqFg.png" ggroup-title="xumoTV;US Channels",xumoTV US: Maverick Black Cinema (720p)
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="xumoTV;US Channels",xumoTV US: Maverick Black Cinema (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Moovimex.us" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" ggroup-title="xumoTV;US Channels",xumoTV US: Moovimex (720p)
+#EXTINF:-1 tvg-id="Moovimex.us" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="xumoTV;US Channels",xumoTV US: Moovimex (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Moovimex.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" ggroup-title="xumoTV;US Channels",xumoTV US: Moovimex (720p)
+#EXTINF:-1 tvg-id="Moovimex.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="xumoTV;US Channels",xumoTV US: Moovimex (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="xumoTV;US Channels",xumoTV US: NBC News Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
@@ -213,11 +213,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="NowThisXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Now_This_Logo_White.svg/1200px-Now_This_Logo_White.svg.png" group-title="xumoTV;US Channels",xumoTV US: Now This (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8
-#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ldh9sFG.png" group-title="Outdoor",Outdoor America (720p)
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ldh9sFG.png" group-title="xumoTV;US Channels",Outdoor America (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="Outdoor",Outside TV (1080p)
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="xumoTV;US Channels",Outside TV (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="Outdoor",Outside TV Plus (1080p)
+#EXTINF:-1 tvg-id="OutsideTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="xumoTV;US Channels",Outside TV Plus (1080p)
 https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="xumoTV;US Channels",xumoTV US: People are Awesome (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8
@@ -335,9 +335,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="xumoTV;US Channels",xumoTV US: World Poker Tour (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?deviceid=&is_lat=&p=redbox&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-id="XumoFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Sx10tvQ.png" ggroup-title="xumoTV;US Channels",xumoTV US: Xumo Free Movies (720p)
+#EXTINF:-1 tvg-id="XumoFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Sx10tvQ.png" group-title="xumoTV;US Channels",xumoTV US: Xumo Free Movies (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="XumoFreeWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" ggroup-title="xumoTV;US Channels",xumoTV US: Xumo Free Westerns (540p)
+#EXTINF:-1 tvg-id="XumoFreeWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="xumoTV;US Channels",xumoTV US: Xumo Free Westerns (540p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="YoGabbaGabba.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/RwxgFfb.jpg" group-title="xumoTV;US Channels",xumoTV US: Yo Gabba Gabba! (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
