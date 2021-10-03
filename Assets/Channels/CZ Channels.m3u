@@ -65,33 +65,33 @@ http://media1.tvnatura.cz/live_out/1/live.m3u8
 
 
 
-#EXTINF:0 tvg-country="CZ" tvg-id="28-animalplanet" tvg-logo="https://i.ibb.co/BHkK0KD/animalplanet.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: Animal Planet
+#EXTINF:0 tvg-country="CZ" tvg-id="28-animalplanet" tvg-logo="https://i.ibb.co/BHkK0KD/animalplanet.png" group-title="CZ HLS Cat",HLS Cat: CZ: Animal Planet
 http://pascaltv.site:8080/F12611/b199b47b/83381
-#EXTINF:0 tvg-country="CZ" tvg-id="64-boomerang" tvg-logo="https://i.ibb.co/5nmdKs5/boomerang.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: Boomerang
+#EXTINF:0 tvg-country="CZ" tvg-id="64-boomerang" tvg-logo="https://i.ibb.co/5nmdKs5/boomerang.png" group-title="CZ HLS Cat",HLS Cat: CZ: Boomerang
 http://pascaltv.site:8080/F12611/b199b47b/146932
-#EXTINF:0 tvg-country="CZ" tvg-id="2-ct1" tvg-logo="https://i.ibb.co/9bQVLKX/ct1.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: CT 1 FHD
+#EXTINF:0 tvg-country="CZ" tvg-id="2-ct1" tvg-logo="https://i.ibb.co/9bQVLKX/ct1.png" group-title="CZ HLS Cat",HLS Cat: CZ: CT 1 FHD
 http://pascaltv.site:8080/F12611/b199b47b/121563
-#EXTINF:0 tvg-country="CZ" tvg-id="3-ct2" tvg-logo="https://i.ibb.co/kBTgqpG/ct2.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: CT 2 FHD
+#EXTINF:0 tvg-country="CZ" tvg-id="3-ct2" tvg-logo="https://i.ibb.co/kBTgqpG/ct2.png" group-title="CZ HLS Cat",HLS Cat: CZ: CT 2 FHD
 http://pascaltv.site:8080/F12611/b199b47b/170008
-#EXTINF:0 tvg-country="CZ" tvg-id="228-disney-channel" tvg-logo="https://i.ibb.co/SQ9pbQ1/disneychannel.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: Disney Channel
+#EXTINF:0 tvg-country="CZ" tvg-id="228-disney-channel" tvg-logo="https://i.ibb.co/SQ9pbQ1/disneychannel.png" group-title="CZ HLS Cat",HLS Cat: CZ: Disney Channel
 http://pascaltv.site:8080/F12611/b199b47b/21118
-#EXTINF:0 tvg-country="CZ" tvg-id="222-ducktv" tvg-logo="https://i.ibb.co/6HKDKxb/ducktv.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: Duck TV
+#EXTINF:0 tvg-country="CZ" tvg-id="222-ducktv" tvg-logo="https://i.ibb.co/6HKDKxb/ducktv.png" group-title="CZ HLS Cat",HLS Cat: CZ: Duck TV
 http://pascaltv.site:8080/F12611/b199b47b/46692
-#EXTINF:0 tvg-country="CZ" tvg-id="0" tvg-logo="https://i.ibb.co/PWkdt8P/fineliving.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: Fine Living
+#EXTINF:0 tvg-country="CZ" tvg-id="0" tvg-logo="https://i.ibb.co/PWkdt8P/fineliving.png" group-title="CZ HLS Cat",HLS Cat: CZ: Fine Living
 http://pascaltv.site:8080/F12611/b199b47b/46700
-#EXTINF:0 tvg-country="CZ" tvg-id="115-hbo3" tvg-logo="https://i.ibb.co/vcbKG5H/hbo3.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: HBO 3 FHD
+#EXTINF:0 tvg-country="CZ" tvg-id="115-hbo3" tvg-logo="https://i.ibb.co/vcbKG5H/hbo3.png" group-title="CZ HLS Cat",HLS Cat: CZ: HBO 3 FHD
 http://pascaltv.site:8080/F12611/b199b47b/23319
-#EXTINF:0 tvg-country="CZ" tvg-id="202-history-channel" tvg-logo="https://i.ibb.co/sV1tM2j/history.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: History
+#EXTINF:0 tvg-country="CZ" tvg-id="202-history-channel" tvg-logo="https://i.ibb.co/sV1tM2j/history.png" group-title="CZ HLS Cat",HLS Cat: CZ: History
 http://pascaltv.site:8080/F12611/b199b47b/146940
-#EXTINF:0 tvg-country="CZ" tvg-id="74-national-geographic" tvg-logo="https://i.ibb.co/qnDSHgB/nationalgeographic.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: Nat Geo HD
+#EXTINF:0 tvg-country="CZ" tvg-id="74-national-geographic" tvg-logo="https://i.ibb.co/qnDSHgB/nationalgeographic.png" group-title="CZ HLS Cat",HLS Cat: CZ: Nat Geo HD
 http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42782
-#EXTINF:0 tvg-country="CZ" tvg-id="707-nova-fun" tvg-logo="https://i.ibb.co/4NxR1Q9/nova2.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: Nova 2 FHD
+#EXTINF:0 tvg-country="CZ" tvg-id="707-nova-fun" tvg-logo="https://i.ibb.co/4NxR1Q9/nova2.png" group-title="CZ HLS Cat",HLS Cat: CZ: Nova 2 FHD
 http://pascaltv.site:8080/F12611/b199b47b/23331
-#EXTINF:0 tvg-country="CZ" tvg-id="677-nova-action" tvg-logo="https://i.ibb.co/7NRD2hX/novaaction.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: Nova Action FHD
+#EXTINF:0 tvg-country="CZ" tvg-id="677-nova-action" tvg-logo="https://i.ibb.co/7NRD2hX/novaaction.png" group-title="CZ HLS Cat",HLS Cat: CZ: Nova Action FHD
 http://pascaltv.site:8080/F12611/b199b47b/18409
-#EXTINF:0 tvg-country="CZ" tvg-id="1038-nova-sport-2" tvg-logo="https://i.ibb.co/GdrHZ1R/novasport2.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ:Nova Sport 2 FHD
+#EXTINF:0 tvg-country="CZ" tvg-id="1038-nova-sport-2" tvg-logo="https://i.ibb.co/GdrHZ1R/novasport2.png" group-title="CZ HLS Cat",HLS Cat: CZ:Nova Sport 2 FHD
 http://pascaltv.site:8080/F12611/b199b47b/46718
-#EXTINF:0 tvg-country="CZ" tvg-id="589-polar" tvg-logo="https://i.ibb.co/tZTDC8V/polar.png" group-title="CZ Channels; HLS Cat",HLS Cat: CZ: POLAR+ FHD
+#EXTINF:0 tvg-country="CZ" tvg-id="589-polar" tvg-logo="https://i.ibb.co/tZTDC8V/polar.png" group-title="CZ HLS Cat",HLS Cat: CZ: POLAR+ FHD
 http://pascaltv.site:8080/F12611/b199b47b/42784
 
 
