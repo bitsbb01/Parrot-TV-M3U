@@ -8,10 +8,48 @@ import typing
 import random
 import os
 from nextcord.message import Message
-from Auth.auth import disToken
-from Assets.python.pushbullet import pushbulletMode
+from Auth.auth import disToken, pbapi
+import requests
+import json
+import os
+from datetime import datetime
+from Assets.python.time import tz
+from Assets.python.dev import replitMode
 from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, remPYC, Clear
 bot = commands.Bot(command_prefix='!', help_command=None)
+
+now = datetime.now(tz)
+time = now.strftime("%H:%M:%S")
+ 
+def pushbulletMode(mode):
+    def pushbulletSend(title, body):
+        pushBulletAPI = pbapi
+        msg = {"type": "note", "title": title, "body": body}
+        resp = requests.post('https://api.pushbullet.com/v2/pushes',
+                            data=json.dumps(msg),
+                            headers={'Authorization': 'Bearer ' + pushBulletAPI,
+                                    'Content-Type': 'application/json'})
+        if resp.status_code != 200:
+            raise Exception('Error', resp.status_code)
+        else:
+            print("Send " + "'" + top + " " + mid + "'")
+    
+    
+    top = time + " ParrotBOT"
+
+
+    if str(mode) == str(1):
+        mid = "Pushed into repo! - with EPG"
+    elif str(mode) == str(2):
+        mid = "Pushed into repo!"
+    elif str(mode) == str(3):
+        mid = "Just pushed into repo! - Without playlist update!"
+    elif str(mode) == str(5):
+        mid = "Auto-updated M3U Links!"
+    else:
+        mid = "ERROR - 0001"
+
+    pushbulletSend(top, mid)
 
 def RemoveMode1():
     if os.path.exists("Czechoslovaia.m3u"):
