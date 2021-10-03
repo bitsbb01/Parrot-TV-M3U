@@ -376,7 +376,7 @@ def Mode1():
     MakeMain()
     time.sleep(10)
     Git()
-    pushbulletMode(1)
+    #pushbulletMode(1)
     remPYC()
     done(m)
     
@@ -390,7 +390,7 @@ def Mode2():
     MakeEng()
     MakeMain()
     Git()
-    pushbulletMode(2)
+    #pushbulletMode(2)
     remPYC()
     done(m)
 
@@ -398,7 +398,7 @@ def Mode3():
     m = "push"
     Clear()
     Git()
-    pushbulletMode(3)
+    #pushbulletMode(3)
     remPYC()
     done(m)
 
@@ -409,7 +409,7 @@ def Mode4():
         os.sytem("git pull")
     elif replitMode == False:
         os.system("sudo git pull")
-    pushbulletMode(4)
+    #pushbulletMode(4)
     remPYC()
     done(m)
 
