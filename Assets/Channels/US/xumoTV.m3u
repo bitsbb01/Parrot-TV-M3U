@@ -21,7 +21,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GMAT4VE.jpg" group-title="xumoTV;US Channels",xumoTV US: Black News Channel (1080p)
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVUS.us" tvg-country="US" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV US (720p)
+#EXTINF:-1 tvg-id="BloombergTVUS.us" tvg-country="US" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="xumoTV;US Channels",Bloomberg TV US (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="xumoTV;US Channels",xumoTV US: bon appétit (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8
@@ -145,7 +145,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="xumoTV;US Channels",xumoTV US: Glory Kickboxing (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GoTraveler.us" tvg-country="US" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Travel",Go Traveler (720p)
+#EXTINF:-1 tvg-id="GoTraveler.us" tvg-country="US" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="xumoTV;US Channels",Go Traveler (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="GQ.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tprQSxT.png"group-title="xumoTV;US Channels",xumoTV US: GQ (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8

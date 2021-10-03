@@ -108,9 +108,9 @@ https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Samsung;US Channels",Samsung: US: Stadium
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="Relax",Stingray Naturescape
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="Samsung;US Channels",Stingray Naturescape
 https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayQello.ca" tvg-country="CA" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true" group-title="Music",Stingray Qello
+#EXTINF:-1 tvg-id="StingrayQello.ca" tvg-country="CA" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true" group-title="Samsung;US Channels",Stingray Qello
 https://samsung.ott-channels.stingray.com/qello/master.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Samsung;US Channels",Samsung: US: Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8

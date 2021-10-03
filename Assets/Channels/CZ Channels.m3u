@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="2-ct1" tvg-logo="https://i.ibb.co/9bQVLKX/ct1.png" tvg-name="FreeView: CZ: ČT1",FreeView: CZ: ČT1
+#EXTINF:-1 tvg-id="2-ct1" tvg-logo="https://i.ibb.co/9bQVLKX/ct1.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT1",FreeView: CZ: ČT1
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ct1
 #EXTINF:-1 tvg-id="3-ct2" tvg-logo="https://i.ibb.co/kBTgqpG/ct2.png" group-title="CZ Channels" tvg-name="FreeView: CZ: ČT2",FreeView: CZ: ČT2
 plugin://plugin.video.freeview.sk/?provider=ct&channel=ct2

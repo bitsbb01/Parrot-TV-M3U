@@ -206,10 +206,10 @@ async def help(ctx):
 
     embed=nextcord.Embed(title="Help:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
     embed.add_field(name="=======================", value="```!M3U``` - Runs M3U Update Without EPG! [Admin not required]", inline=False)
-    embed.add_field(name="=======================", value="```!M3UEPG``` - Runs M3U Update With EPG! [Admin required]", inline=False)
+    embed.add_field(name="=======================", value="```!M3UEPG``` - Runs M3U Update With EPG! [Mod required]", inline=False)
     embed.add_field(name="=======================", value="```!ban``` - Ban's People! [Owner only]", inline=False)
-    embed.add_field(name="=======================", value="```!log``` - Show System Service Log! [Admin required]", inline=False)
-    embed.add_field(name="=======================", value="```!resetbot``` - Restart Discord BOT! [Admin required]", inline=False)
+    embed.add_field(name="=======================", value="```!log``` - Show System Service Log! [Mod required]", inline=False)
+    embed.add_field(name="=======================", value="```!resetbot``` - Restart Discord BOT! [Mod required]", inline=False)
     embed.add_field(name="=======================", value="```!rempyc``` - Remove pycahce! [Admin not required]", inline=False)
     embed.add_field(name="=======================", value="```!neofetch``` - Show system info! [Admin not required]", inline=False)
     embed.add_field(name="=======================", value="```!stt [time in seconds]``` - Set Auto-Update Timeout! [Admin required]", inline=False)
