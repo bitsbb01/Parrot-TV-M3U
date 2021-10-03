@@ -21,36 +21,6 @@ bot = commands.Bot(command_prefix='!', help_command=None)
 now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")
  
-def pushbulletMode(mode):
-    def pushbulletSend(title, body):
-        pushBulletAPI = pbapi
-        msg = {"type": "note", "title": title, "body": body}
-        resp = requests.post('https://api.pushbullet.com/v2/pushes',
-                            data=json.dumps(msg),
-                            headers={'Authorization': 'Bearer ' + pushBulletAPI,
-                                    'Content-Type': 'application/json'})
-        if resp.status_code != 200:
-            raise Exception('Error', resp.status_code)
-        else:
-            print("Send " + "'" + top + " " + mid + "'")
-    
-    
-    top = time + " ParrotBOT"
-
-
-    if str(mode) == str(1):
-        mid = "Pushed into repo! - with EPG"
-    elif str(mode) == str(2):
-        mid = "Pushed into repo!"
-    elif str(mode) == str(3):
-        mid = "Just pushed into repo! - Without playlist update!"
-    elif str(mode) == str(5):
-        mid = "Auto-updated M3U Links!"
-    else:
-        mid = "ERROR - 0001"
-
-    pushbulletSend(top, mid)
-
 def RemoveMode1():
     if os.path.exists("Czechoslovaia.m3u"):
         os.remove("Czechoslovaia.m3u")
@@ -64,8 +34,8 @@ def RemoveMode1():
     if os.path.exists("EPG/ustvgo_epg.xml"):
         os.remove("EPG/ustvgo_epg.xml")
 
-    if os.path.exists("Assets/Channels/ustvgo.m3u"):
-        os.remove("Assets/Channels/ustvgo.m3u")
+    if os.path.exists("Assets/Channels/US/ustvgo.m3u"):
+        os.remove("Assets/Channels/US/ustvgo.m3u")
 
     if os.path.exists("Assets/USTVGOreplace/data.txt"):
         os.remove("Assets/USTVGOreplace/data.txt")
@@ -113,7 +83,6 @@ def Mode1():
     MakeEng()
     MakeMain()
     Git()
-    pushbulletMode(1)
     remPYC()
 
 def Mode2():
@@ -124,7 +93,6 @@ def Mode2():
     MakeEng()
     MakeMain()
     Git()
-    pushbulletMode(2)
 
 @bot.event
 async def on_ready():

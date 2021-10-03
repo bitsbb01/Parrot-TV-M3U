@@ -134,8 +134,8 @@ def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("EPG/ustvgo_epg.xml"):
         os.remove("EPG/ustvgo_epg.xml")
 
-    if os.path.exists("Assets/Channels/ustvgo.m3u"):
-        os.remove("Assets/Channels/ustvgo.m3u")
+    if os.path.exists("Assets/Channels/US/ustvgo.m3u"):
+        os.remove("Assets/Channels/US/ustvgo.m3u")
 
     if os.path.exists("Assets/USTVGOreplace/data.txt"):
         os.remove("Assets/USTVGOreplace/data.txt")
@@ -168,8 +168,8 @@ def RemoveMode2(): # Removes files so they can be Re-written
     if os.path.exists("EPG/ustvgo_epg.xml"):
         os.remove("EPG/ustvgo_epg.xml")
 
-    if os.path.exists("Assets/Channels/ustvgo.m3u"):
-        os.remove("Assets/Channels/ustvgo.m3u")
+    if os.path.exists("Assets/Channels/US/ustvgo.m3u"):
+        os.remove("Assets/Channels/US/ustvgo.m3u")
 
     if os.path.exists("Assets/USTVGOreplace/data.txt"):
         os.remove("Assets/USTVGOreplace/data.txt")
@@ -187,40 +187,40 @@ def MakeCS(): # Makes CZ & SK Channels
     with open('Assets/Channels/UK Channels.m3u') as fp:
         data3 = fp.read()
 
-    with open('Assets/Channels/US Channels.m3u') as fp:
+    with open('Assets/Channels/US/US Channels.m3u') as fp:
         data4 = fp.read()
 
-    with open('Assets/Channels/Pluto TV.m3u') as fp:
+    with open('Assets/Channels/US/Pluto TV.m3u') as fp:
         data5 = fp.read()
 
-    with open('Assets/Channels/ustvgo.m3u') as fp:
+    with open('Assets/Channels/US/ustvgo.m3u') as fp:
         data6 = fp.read()
 
-    with open('Assets/Channels/Plex.m3u') as fp:
+    with open('Assets/Channels/US/Plex.m3u') as fp:
         data7 = fp.read()
 
-    with open('Assets/Channels/xumoTV.m3u') as fp:
+    with open('Assets/Channels/US/xumoTV.m3u') as fp:
         data8 = fp.read()
 
-    with open('Assets/Channels/Imdb.m3u') as fp:
+    with open('Assets/Channels/US/Imdb.m3u') as fp:
         data9 = fp.read()
 
-    with open('Assets/Channels/Roku.m3u') as fp:
+    with open('Assets/Channels/US/Roku.m3u') as fp:
         data10 = fp.read()
 
-    with open('Assets/Channels/Samsung.m3u') as fp:
+    with open('Assets/Channels/US/Samsung.m3u') as fp:
         data11 = fp.read()
 
-    with open('Assets/Channels/RedBox.m3u') as fp:
+    with open('Assets/Channels/US/RedBox.m3u') as fp:
         data12 = fp.read()
 
-    with open('Assets/Channels/Tubi.m3u') as fp:
+    with open('Assets/Channels/US/Tubi.m3u') as fp:
         data13 = fp.read()
 
-    with open('Assets/Channels/Vizio.m3u') as fp:
+    with open('Assets/Channels/US/Vizio.m3u') as fp:
         data14 = fp.read()
 
-    with open('Assets/Channels/teleup.m3u') as fp:
+    with open('Assets/Channels/US/teleup.m3u') as fp:
         data15 = fp.read()        
 
     with open('Assets/Channels/Movies.m3u') as fp:
@@ -242,40 +242,40 @@ def MakeEng(): # Makes English Only Channels
         data = fp.read()
   
 
-    with open('Assets/Channels/US Channels.m3u') as fp:
+    with open('Assets/Channels/US/US Channels.m3u') as fp:
         data2 = fp.read()
 
-    with open('Assets/Channels/Pluto TV.m3u') as fp:
+    with open('Assets/Channels/US/Pluto TV.m3u') as fp:
         data3 = fp.read()
 
-    with open('Assets/Channels/ustvgo.m3u') as fp:
+    with open('Assets/Channels/US/ustvgo.m3u') as fp:
         data4 = fp.read()
 
-    with open('Assets/Channels/Plex.m3u') as fp:
+    with open('Assets/Channels/US/Plex.m3u') as fp:
         data5 = fp.read()
 
-    with open('Assets/Channels/xumoTV.m3u') as fp:
+    with open('Assets/Channels/US/xumoTV.m3u') as fp:
         data6 = fp.read()
 
-    with open('Assets/Channels/Imdb.m3u') as fp:
+    with open('Assets/Channels/US/Imdb.m3u') as fp:
         data7 = fp.read()
 
-    with open('Assets/Channels/Roku.m3u') as fp:
+    with open('Assets/Channels/US/Roku.m3u') as fp:
         data8 = fp.read()
 
-    with open('Assets/Channels/Samsung.m3u') as fp:
+    with open('Assets/Channels/US/Samsung.m3u') as fp:
         data9 = fp.read()
 
-    with open('Assets/Channels/RedBox.m3u') as fp:
+    with open('Assets/Channels/US/RedBox.m3u') as fp:
         data10 = fp.read()
 
-    with open('Assets/Channels/Tubi.m3u') as fp:
+    with open('Assets/Channels/US/Tubi.m3u') as fp:
         data11 = fp.read()
 
-    with open('Assets/Channels/Vizio.m3u') as fp:
+    with open('Assets/Channels/US/Vizio.m3u') as fp:
         data12 = fp.read()
 
-    with open('Assets/Channels/teleup.m3u') as fp:
+    with open('Assets/Channels/US/teleup.m3u') as fp:
         data13 = fp.read()        
 
     with open('Assets/Channels/Movies.m3u') as fp:
@@ -302,40 +302,40 @@ def MakeMain(): # Makes Main Channels
     with open('Assets/Channels/UK Channels.m3u') as fp:
         data3 = fp.read()
 
-    with open('Assets/Channels/US Channels.m3u') as fp:
+    with open('Assets/Channels/US/US Channels.m3u') as fp:
         data4 = fp.read()
 
-    with open('Assets/Channels/Pluto TV.m3u') as fp:
+    with open('Assets/Channels/US/Pluto TV.m3u') as fp:
         data5 = fp.read()
 
-    with open('Assets/Channels/ustvgo.m3u') as fp:
+    with open('Assets/Channels/US/ustvgo.m3u') as fp:
         data6 = fp.read()
 
-    with open('Assets/Channels/Plex.m3u') as fp:
+    with open('Assets/Channels/US/Plex.m3u') as fp:
         data7 = fp.read()
 
-    with open('Assets/Channels/xumoTV.m3u') as fp:
+    with open('Assets/Channels/US/xumoTV.m3u') as fp:
         data8 = fp.read()
 
-    with open('Assets/Channels/Imdb.m3u') as fp:
+    with open('Assets/Channels/US/Imdb.m3u') as fp:
         data9 = fp.read()
 
-    with open('Assets/Channels/Roku.m3u') as fp:
+    with open('Assets/Channels/US/Roku.m3u') as fp:
         data10 = fp.read()
 
-    with open('Assets/Channels/Samsung.m3u') as fp:
+    with open('Assets/Channels/US/Samsung.m3u') as fp:
         data11 = fp.read()
 
-    with open('Assets/Channels/RedBox.m3u') as fp:
+    with open('Assets/Channels/US/RedBox.m3u') as fp:
         data12 = fp.read()
 
-    with open('Assets/Channels/Tubi.m3u') as fp:
+    with open('Assets/Channels/US/Tubi.m3u') as fp:
         data13 = fp.read()
 
-    with open('Assets/Channels/Vizio.m3u') as fp:
+    with open('Assets/Channels/US/Vizio.m3u') as fp:
         data14 = fp.read()
 
-    with open('Assets/Channels/teleup.m3u') as fp:
+    with open('Assets/Channels/US/teleup.m3u') as fp:
         data15 = fp.read()        
 
     with open('Assets/Channels/Movies.m3u') as fp:
