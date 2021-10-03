@@ -2,19 +2,14 @@ from nextcord import client, guild
 from nextcord.ext import commands
 from typing import List
 import nextcord
-import asyncio
-import time
 import typing
 import random
 import os
 from nextcord.message import Message
-from Auth.auth import disToken, pbapi
-import requests
-import json
+from Auth.auth import disToken
 import os
 from datetime import datetime
 from Assets.python.time import tz
-from Assets.python.dev import replitMode
 from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, remPYC, Clear
 bot = commands.Bot(command_prefix='!', help_command=None)
 
