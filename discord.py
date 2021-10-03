@@ -85,7 +85,7 @@ def Mode2():
     MakeEng()
     MakeMain()
     Git()
-    pushbulletMode(2)
+    #pushbulletMode(2)
 
 @bot.event
 async def on_ready():
