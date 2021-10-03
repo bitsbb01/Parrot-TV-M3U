@@ -33,7 +33,7 @@ def Main():
     MakeEng()
     MakeMain()
     Git()
-    pushbulletMode(5)
+    #pushbulletMode(5)
     remPYC()
     
 
