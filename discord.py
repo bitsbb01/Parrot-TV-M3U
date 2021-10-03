@@ -9,7 +9,8 @@ import random
 import os
 from nextcord.message import Message
 from Auth.auth import disToken
-from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC, Clear
+from Assets.python.pushbullet import pushbulletMode
+from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, remPYC, Clear
 bot = commands.Bot(command_prefix='!', help_command=None)
 
 def RemoveMode1():
@@ -85,7 +86,7 @@ def Mode2():
     MakeEng()
     MakeMain()
     Git()
-    #pushbulletMode(2)
+    pushbulletMode(2)
 
 @bot.event
 async def on_ready():
