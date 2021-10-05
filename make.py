@@ -88,7 +88,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
     def grab(name, code, logo):
         data = {'stream': code}
         m3u = s.post('https://ustvgo.tv/data.php', data=data).text
-        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="US USTVGO" tvg-logo="{logo}",USTVGO: US: {name}')
+        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="US Channels" tvg-logo="{logo}",USTVGO: US: {name}')
         playlist.write(f'\n{m3u}')
 
     total = 0
@@ -176,14 +176,15 @@ def RemoveMode2(): # Removes files so they can be Re-written
 
 def MakeCS(): # Makes CZ & SK Channels 
     data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = data17 = ""
-  
-    with open('Assets/Channels/UK/UK Channels.m3u') as fp:
-        data = fp.read()
+
 
     with open('Assets/Channels/SK Channels.m3u') as fp:
-        data2 = fp.read()
+        data = fp.read()
 
     with open('Assets/Channels/CZ Channels.m3u') as fp:
+        data2 = fp.read()
+
+    with open('Assets/Channels/UK/UK Channels.m3u') as fp:
         data3 = fp.read()
 
     with open('Assets/Channels/US/US Channels.m3u') as fp:
