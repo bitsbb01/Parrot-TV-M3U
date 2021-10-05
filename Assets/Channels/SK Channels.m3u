@@ -1,13 +1,13 @@
-#EXTINF:-1 tvg-id="10-stv1" tvg-logo="https://i.ibb.co/qF2ybqj/jednotka.png" group-title="SK Channels" tvg-name="FreeView: SK: Jednotka",FreeView: SK: Jednotka
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=jednotka
-#EXTINF:-1 tvg-id="11-stv2" tvg-logo="https://i.ibb.co/zFd3dsw/dvojka.png" group-title="SK Channels" tvg-name="FreeView: SK: Dvojka",FreeView: SK: Dvojka
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=dvojka
-#EXTINF:-1 tvg-id="1324-trojka" tvg-logo="https://i.ibb.co/4tVHB1S/trojka.png" group-title="SK Channels" tvg-name="FreeView: SK: Trojka",FreeView: SK: Trojka
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=trojka
-#EXTINF:-1 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/rtvs.png" group-title="SK Channels" tvg-name="FreeView: SK: RTVS Online",FreeView: SK: RTVS Online
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=online
-#EXTINF:-1 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nrsr.png" group-title="SK Channels" tvg-name="FreeView: SK: NRSR Online",FreeView: SK: NRSR Online
-plugin://plugin.video.freeview.sk/?provider=rtvs&channel=nrsr
+#EXTINF:-1 tvg-id="10-stv1" tvg-logo="https://i.ibb.co/qF2ybqj/jednotka.png" group-title="SK Channels" tvg-name="SK: Jednotka",SK: Jednotka
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
+#EXTINF:-1 tvg-id="11-stv2" tvg-logo="https://i.ibb.co/zFd3dsw/dvojka.png" group-title="SK Channels" tvg-name="SK: Dvojka",SK: Dvojka
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
+#EXTINF:-1 tvg-id="1324-trojka" tvg-logo="https://i.ibb.co/4tVHB1S/trojka.png" group-title="SK Channels" tvg-name="SK: Trojka",SK: Trojka
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
+#EXTINF:-1 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/rtvs.png" group-title="SK Channels" tvg-name="SK: RTVS Online",SK: RTVS Online
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=6
+#EXTINF:-1 tvg-id="0" tvg-logo="special://home/addons/plugin.video.freeview.sk/resources/logos/nrsr.png" group-title="SK Channels" tvg-name="SK: NRSR Online",SK: NRSR Online
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=5
 #EXTINF:-1 tvg-id="33-joj" tvg-logo="https://i.ibb.co/hXBQBjp/tvjoj.png" group-title="SK Channels" tvg-name="SK: JOJ",SK: JOJ
 http://nn.geo.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 tvg-id="206-joj-plus" tvg-logo="https://i.ibb.co/PCkyrcz/jojplus.png" group-title="SK Channels" tvg-name="SK: JOJ Plus",SK: JOJ Plus
@@ -24,8 +24,8 @@ http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u
 plugin://plugin.video.freeview.sk/?provider=markiza&channel=doma
 #EXTINF:-1 tvg-id="683-tv-dajto" tvg-logo="https://i.ibb.co/6y0Ypkg/dajto.png" group-title="SK Channels" tvg-name="FreeView: SK: Dajto",FreeView: SK: Dajto
 plugin://plugin.video.freeview.sk/?provider=markiza&channel=dajto
-#EXTINF:-1 tvg-id="42-ta3" tvg-logo="https://i.ibb.co/g3PYKd1/ta3.png" group-title="SK Channels" tvg-name="FreeView: SK: TA3",FreeView: SK: TA3
-plugin://plugin.video.freeview.sk/?provider=ta3&channel=ta3
+#EXTINF:-1 tvg-id="42-ta3" tvg-logo="https://i.ibb.co/g3PYKd1/ta3.png" group-title="SK Channels" tvg-name="SK: TA3",SK: TA3
+http://sktv-forwarders.7m.pl/get.php?x=TA3
 #EXTINF:-1 tvg-id="83-fashiontv" group-title="SK Channels" tvg-logo="https://i.ibb.co/Ms4tnvj/fashiontv.png",SK: Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="191-lux" group-title="SK Channels" tvg-logo="https://i.ibb.co/Lg39pBN/tvlux.png",SK: TV Lux

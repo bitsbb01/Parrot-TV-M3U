@@ -114,7 +114,7 @@ https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/xePwW13.png",US: Lego Channel 
 https://legochannel-roku.amagi.tv/playlist.m3u8
-
+`
 #EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/6osyvwh.png",US: Magellan TV 
 https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
 
