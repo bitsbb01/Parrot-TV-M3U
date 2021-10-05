@@ -175,7 +175,7 @@ def RemoveMode2(): # Removes files so they can be Re-written
         os.remove("Assets/USTVGOreplace/data.txt")
 
 def MakeCS(): # Makes CZ & SK Channels 
-    data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = data17 = data18 = data19 = data20 = data21 = ""
+    data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = data17 = data18 = data19 = ""
   
 
     with open('Assets/Channels/SK Channels.m3u') as fp:
@@ -234,15 +234,10 @@ def MakeCS(): # Makes CZ & SK Channels
 
     with open('Assets/Channels/CA/CA Channels.m3u') as fp:
         data19 = fp.read()   
-
-    with open('Assets/Channels/CA/Samsung.m3u') as fp:
-        data20 = fp.read()        
-
-    with open('Assets/Channels/Movies.m3u') as fp:
-        data21 = fp.read()
+      
   
 
-    data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17 + data18 + data19 + data20 + data21
+    data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17 + data18 + data19
     data += "\n"
 
   
@@ -250,7 +245,7 @@ def MakeCS(): # Makes CZ & SK Channels
         fp.write(data)
 
 def MakeEng(): # Makes English Only Channels
-    data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = data17 = data18 = data19 = ""
+    data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = data17 = ""
   
 
     with open('Assets/Channels/UK/UK Channels.m3u') as fp:
@@ -302,16 +297,11 @@ def MakeEng(): # Makes English Only Channels
         data16 = fp.read()    
 
     with open('Assets/Channels/CA/CA Channels.m3u') as fp:
-        data17 = fp.read()   
-
-    with open('Assets/Channels/CA/Samsung.m3u') as fp:
-        data18 = fp.read()          
-
-    with open('Assets/Channels/Movies.m3u') as fp:
-        data19 = fp.read()
+        data17 = fp.read()             
 
 
-    data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17 + data18 + data19
+
+    data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17
     data += "\n"
 
   
@@ -319,7 +309,7 @@ def MakeEng(): # Makes English Only Channels
         fp.write(data)
 
 def MakeMain(): # Makes Main Channels
-    data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = data17 = data18 = data19 = data20 = data21 = ""
+    data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = data17 = data18 = data19 = ""
 
     with open('Assets/Channels/SK Channels.m3u') as fp:
         data = fp.read()
@@ -378,16 +368,12 @@ def MakeMain(): # Makes Main Channels
 
     with open('Assets/Channels/CA/CA Channels.m3u') as fp:
         data19 = fp.read()   
+        
 
-    with open('Assets/Channels/CA/Samsung.m3u') as fp:
-        data20 = fp.read()        
-
-    with open('Assets/Channels/Movies.m3u') as fp:
-        data21 = fp.read()
 
   
 
-    data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17 + data18 + data19 + data20 + data21
+    data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17 + data18 + data19
     data += "\n"
 
   
