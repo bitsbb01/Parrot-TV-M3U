@@ -1,0 +1,231 @@
+
+
+
+#EXTINF:-1 tvg-id="A7TV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="RO Channels",RO: A7TV
+https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1 tvg-id="AlephNews.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/MQ5PkKB.png" group-title="RO Channels",RO: Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="RO Channels",RO: Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="RO Channels",RO: Alfa Omega TV [Not 24/7]
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="RO Channels",RO: Antena 1
+https://iptv-all.lanesh4d0w.codes/romania/a1
+#EXTINF:-1 tvg-id="Antena3.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png" group-title="RO Channels",RO: Antena 3
+https://iptv-all.lanesh4d0w.codes/romania/a3
+#EXTINF:-1 tvg-id="AntenaComedy.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Antena Comedy (432p)
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Antena_Interna%C8%9Bional_%282016%29.png" group-title="RO Channels",RO: Antena International
+https://iptv-all.lanesh4d0w.codes/romania/ai
+#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="RO Channels",RO: Antena Stars
+https://iptv-all.lanesh4d0w.codes/romania/astars
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="RO Channels",RO: AntenaSport
+https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+#EXTINF:-1 tvg-id="B1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="RO Channels",RO: B1
+https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="RO Channels",RO: Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BxUibFh.png" group-title="Business",Canal33
+https://fms-https1.mediadirect.ro/live3/canal33.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Tyrzwr2.png" group-title="RO Channels",RO: Columna TV [Not 24/7]
+rtmp://columna1.arya.ro/live/columnatv1
+#EXTINF:-1 tvg-id="CooknPlay.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Cook%26Play.png" group-title="Cooking",Cook&Play
+https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CorneaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/cn89fLa.jpg" group-title="RO Channels",RO: Cornea TV [Not 24/7]
+http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Credo TV [Not 24/7]
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElitaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmbmx3y.png" group-title="RO Channels",RO: Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1 tvg-id="GTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" group-title="RO Channels",RO: GTV [Not 24/7]
+rtmp://gtv1.arya.ro:1935/live/gtv1.flv
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png" group-title="Entertainment",Happy Channel [Not 24/7]
+https://iptv-all.lanesh4d0w.codes/romania/happy-channel
+#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="RO Channels",RO: Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="RO Channels",RO: Intermedia TV [Not 24/7]
+http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Kanal_D_Romania.png" group-title="RO Channels",RO: Kanal D
+https://stream1.kanald.ro/iphone/live.m3u8
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Kiss_TV_%282014-present%29.png" group-title="RO Channels",RO: Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="RO Channels",RO: Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="MEDIAREGIONAL.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: MEDIA REGIONAL
+http://83.103.150.198:8080
+#EXTINF:-1 tvg-id="Mireasa.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="RO Channels",RO: Mireasa
+https://iptv-all.lanesh4d0w.codes/romania/mireasa
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mooz.tv/site/img/mooz-dance.jpg" group-title="RO Channels",RO: MoozDance
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" group-title="RO Channels",RO: MoozHits
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="MoozRo.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mooz.tv/site/img/mooz-ro1.png" group-title="RO Channels",RO: MoozRo
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="RO Channels",RO: Naşul TV [Not 24/7]
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/DYO1tVZ.png" group-title="RO Channels",RO: Nova TV Brasov [Not 24/7]
+http://novapress.ro:1935/live/nova/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/oLuxC2P.png" group-title="RO Channels",RO: Prima TV [Not 24/7]
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:-1 tvg-id="Profitro.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" group-title="RO Channels",RO: Rapsodia TV
+rtmp://rapsodia1.arya.ro/live/rapsodiatv1
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/L0Givzu.png" group-title="RO Channels",RO: Realitatea FM (Studio)
+https://live.realitatea.net/livertmp/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/L0Givzu.png" group-title="RO Channels",RO: Realitatea Plus
+https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="RO Channels",RO: Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:-1 tvg-id="SangeorzTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qFE5PUx.png" group-title="RO Channels",RO: Sangeorz TV [Not 24/7]
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Speranta TV
+http://us200.streamkit.tv/edge/sperantatv_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Speranta TV
+http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+#EXTINF:-1 tvg-id="Telestar1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="RO Channels",RO: Telestar1
+http://193.34.109.10:8090
+#EXTINF:-1 tvg-id="Telestar1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="RO Channels",RO: Telestar1 [Not 24/7]
+http://s1.streamnet.ro:8053/stream.flv
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="RO Channels",RO: TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="RO Channels",RO: TVR 1 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="RO Channels",RO: TVR 1 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png" group-title="RO Channels",RO: TVR 1 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr1_hd_live/tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png" group-title="RO Channels",RO: TVR 1 [Geo-blocked]
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/TxM5dwY.png" group-title="RO Channels",RO: TVR 2 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k6Qx4vl.png" group-title="RO Channels",RO: TVR 3 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/8DqsGHO.png" group-title="RO Channels",RO: TVR Cluj [Geo-blocked]
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/TVR_Ia%C8%99i_%282008%29.png" group-title="RO Channels",RO: TVR Iași [Geo-blocked]
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/TVR_T%C3%AErgu_Mure%C8%99_%282008%29.png" group-title="RO Channels",RO: TVR Târgu Mureș [Geo-blocked]
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TVR_Timi%C8%99oara.png" group-title="RO Channels",RO: TVR Timișoara [Geo-blocked]
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="ZURadioTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="RO Channels",RO: ZU Radio TV
+https://iptv-all.lanesh4d0w.codes/romania/zuradiotv
+#EXTINF:-1 tvg-id="ZUTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="RO Channels",RO: ZU TV
+https://iptv-all.lanesh4d0w.codes/romania/zutv
+
+
+
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AMC
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9989
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ALFA OMEGA TV
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55472
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ALEPH NEWS
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55486
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AGRO TV SD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55430
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AGRO TV
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9988
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: 1 Music Channel
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5383
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10069
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1 FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83319
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1 HD
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10068
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN HD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55406
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29832
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN ROMANIA
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10053
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN BLACK
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55484
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN BLACK
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10052
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="Sport",AUTO MOTOR SPORT
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9946
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN WITH
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55448
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: BOOMERANG
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10011
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: BBC EARTH
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29805
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: B1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/9897
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Boomerang
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55416
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Boomerang
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5386
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Bucovina TV
+https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMA RATON
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55442
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CBS Reality HD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55427
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMARATON
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9992
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CRIME & INVESTIGATION
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29811
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Cinema Kids-Dublat
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55439
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Cinemax HD RO
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5390
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Cinemax 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5389
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Comedy Central
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29821
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISNEY CHANNEL
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10008
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY TURBO XTRA
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55432
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY SCIENCE
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9978
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY RO
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9979
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY CHANNEL
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9981
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Discovery science
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5403
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Discovery channel
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5401
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Discovery Science HD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55421
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Discovery
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55422
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Disney Channel
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55454
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Disney Channel
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5404
+#EXTINF:-1 tvg-country="RO" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" group-title="RO Channels",HLS Cat: RO: EST TV Neamt
+http://89.38.8.130:39435
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: EST TV
+https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: EPIC DRAMA
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29823
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILM NOW
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9997
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILMBOX EXTRA HD
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9999
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILMBOX PREMIUM
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10000
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FINE LIVING
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55451
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FISHING & HUNTING
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9967
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5413
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 2 HD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83350
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FilmBox
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55490
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Film Now HD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55411
+
+
