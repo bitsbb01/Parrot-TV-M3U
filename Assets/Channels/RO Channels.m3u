@@ -27,11 +27,11 @@ https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
 https://stream.adunity.com/b1/b1.m3u8
 #EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="RO Channels",RO: Bucovina TV
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal33.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BxUibFh.png" group-title="Business",Canal33
+#EXTINF:-1 tvg-id="Canal33.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BxUibFh.png" group-title="RO Channels",RO: Canal33
 https://fms-https1.mediadirect.ro/live3/canal33.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Tyrzwr2.png" group-title="RO Channels",RO: Columna TV [Not 24/7]
 rtmp://columna1.arya.ro/live/columnatv1
-#EXTINF:-1 tvg-id="CooknPlay.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Cook%26Play.png" group-title="Cooking",Cook&Play
+#EXTINF:-1 tvg-id="CooknPlay.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Cook%26Play.png" group-title="RO Channels",RO: Cook&Play
 https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CorneaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/cn89fLa.jpg" group-title="RO Channels",RO: Cornea TV [Not 24/7]
 http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
@@ -41,7 +41,7 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 http://46.55.111.242:8080/Rezina.m3u8
 #EXTINF:-1 tvg-id="GTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" group-title="RO Channels",RO: GTV [Not 24/7]
 rtmp://gtv1.arya.ro:1935/live/gtv1.flv
-#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png" group-title="Entertainment",Happy Channel [Not 24/7]
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png" group-title="RO Channels",RO: Happy Channel [Not 24/7]
 https://iptv-all.lanesh4d0w.codes/romania/happy-channel
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="RO Channels",RO: Intermedia TV
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
@@ -149,7 +149,7 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10053
 http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55484
 #EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN BLACK
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10052
-#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="Sport",AUTO MOTOR SPORT
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AUTO MOTOR SPORT
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9946
 #EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN WITH
 http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55448
