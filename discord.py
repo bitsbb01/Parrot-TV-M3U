@@ -114,14 +114,34 @@ async def M3UEPG(ctx):
 async def code(ctx):
     await ctx.reply('https://github.com/ParrotDevelopers/Parrot-TV-M3U/')
 
-@bot.command()
-@commands.has_role('Owner')
+"""
 async def ban(ctx, members: commands.Greedy[nextcord.Member],
                    delete_days: typing.Optional[int] = 0, *,
                    reason: str):
     for member in members:
         await member.ban(delete_message_days=delete_days, reason=reason)
         await ctx.send(member + " was banned for " + delete_days + " cuz he: " + reason)
+
+"""
+
+
+@bot.command()
+@commands.has_role('Owner')
+async def ban(ctx, user: typing.Optional[nextcord.Member], reason: typing.Optional[str] = "U got fucking yeeted"):
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
+
+    if user == None:
+        embed=nextcord.Embed(title="Who do u want me to kill?:", color=0xff4c4c)
+        embed.set_image(url='https://i.imgur.com/RkIfjMP.gif')
+        await ctx.send(embed=embed)
+    else:
+        titleC = "Killed " + str(user) + "!"
+        embed=nextcord.Embed(title=titleC, color=0xff4c4c)
+        embed.set_image(url='https://i.imgur.com/RkIfjMP.gif')
+        await ctx.send(embed=embed)
+        await ctx.guild.ban(user, reason=reason)
 
 @bot.command()
 @commands.has_any_role('Owner', 'Moderator', 'Admin')
@@ -172,10 +192,6 @@ async def AAcontrol(ctx, args):
         os.system("sudo systemctl status parrotbot.service > Assets/Admin/log-auto.sys")
         await ctx.reply(open('Assets/Admin/log-auto.sys', 'r').read())
         os.system("sudo rm -f Assets/Admin/log-auto.sys")
-
-@bot.command()
-async def clear(ctx):
-    await ctx.channel.purge(limit=5)
 
 
 @bot.command()
@@ -259,6 +275,28 @@ async def neofetch(ctx):
     embed.add_field(name="RAM", value="4gb", inline=False)
     embed.set_image(url='https://i.ytimg.com/vi/caBFyIyDZME/hqdefault.jpg')
     await ctx.send(embed=embed)
+
+
+@bot.command()
+async def sendrules(ctx):
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
+
+    await ctx.message.delete()
+
+    embed=nextcord.Embed(title="Rules:", color=0xbf0000)
+    embed.add_field(name="-----------------------", value="1. No Spam or flooding the chat with messages. Do not type in ALL CAPS.", inline=False)
+    embed.add_field(name="-----------------------", value="2. No bashing or heated arguments to other people in the chat.", inline=False)
+    embed.add_field(name="-----------------------", value="3. No adult (18+), explicit, or controversial messages.", inline=False)
+    embed.add_field(name="-----------------------", value="4. No racism or degrading content.", inline=False)
+    embed.add_field(name="-----------------------", value="5. No excessive cursing.", inline=False)
+    embed.add_field(name="-----------------------", value="6. No advertising  (Only with Permission).", inline=False)
+    embed.add_field(name="-----------------------", value="7. No referral links (Only with Permission).", inline=False)
+    embed.add_field(name="-----------------------", value="8. No offensive names.", inline=False)
+    embed.add_field(name="-----------------------", value="9. Do not argue with staff. Decisions are final.", inline=False)
+    await ctx.send(embed=embed)
+
 
 @bot.command()
 async def help(ctx):
