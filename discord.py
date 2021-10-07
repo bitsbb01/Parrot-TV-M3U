@@ -179,6 +179,74 @@ async def clear(ctx):
 
 
 @bot.command()
+@commands.has_role('Owner')
+async def sendm3u(ctx):
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
+
+    await ctx.message.delete()
+
+
+    embed=nextcord.Embed(title="M3U Links:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+    embed.set_thumbnail(url="https://parrottv.tk/Images/Favicon/favicon.png")
+    embed.add_field(name="World Wide:", value="```https://bit.ly/PPM3U```", inline=False)
+    embed.add_field(name="English only:", value="```https://bit.ly/PPM3U-E```", inline=False)
+    embed.add_field(name="Czechoslovak:", value="```https://bit.ly/PPM3U-CS```", inline=False)
+    await ctx.send(embed=embed)
+
+@bot.command()
+@commands.has_role('Owner')
+async def sendepg(ctx):
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
+
+    await ctx.message.delete()
+
+
+    embed=nextcord.Embed(title="EPG Links:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+    embed.set_thumbnail(url="https://parrottv.tk/Images/Favicon/favicon.png")
+    embed.add_field(name="CZ / SK:", value="```https://bit.ly/PPEPG3```", inline=False)
+    embed.add_field(name="US:", value="```https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml```", inline=False)
+    await ctx.send(embed=embed)
+
+@bot.command()
+@commands.has_role('Owner')
+async def sendkodi(ctx):
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
+
+    await ctx.message.delete()
+
+
+    embed=nextcord.Embed(title="KODI:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+    embed.set_thumbnail(url="https://parrottv.tk/Images/Favicon/favicon.png")
+    embed.add_field(name="Repository:", value="```https://bit.ly/3zYeTc7```", inline=False)
+    embed.add_field(name="KODI 19.0:", value="```https://bit.ly/2WhlL5B```", inline=False)
+    embed.add_field(name="KODI 18.9:", value="```https://bit.ly/3mpY1a0```", inline=False)
+    await ctx.send(embed=embed)
+
+@bot.command()
+@commands.has_role('Owner')
+async def sendweb(ctx):
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
+
+    await ctx.message.delete()
+
+
+    embed=nextcord.Embed(title="Websites:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+    embed.set_thumbnail(url="https://parrottv.tk/Images/Favicon/favicon.png")
+    embed.add_field(name="URL 1:", value="```https://parrottv.tk```", inline=False)
+    embed.add_field(name="URL 2:", value="```https://ParrotTV.github.io```", inline=False)
+    await ctx.send(embed=embed)
+
+
+
+@bot.command()
 async def neofetch(ctx):
     if ctx.author == bot.user:
         return
