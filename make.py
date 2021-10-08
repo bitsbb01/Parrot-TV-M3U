@@ -154,6 +154,9 @@ def RemoveMode1(): # Removes files so they can be Re-written
 
     if os.path.exists("EPG/EPG.tar.gz"):
         os.remove("EPG/EPG.tar.gz")
+
+    if os.path.exists("Assets/Private/Private.m3u"):
+        os.remove("Assets/Private/Private.m3u")
            
 def RemoveMode2(): # Removes files so they can be Re-written
     if os.path.exists("Czechoslovaia.m3u"):
@@ -173,6 +176,9 @@ def RemoveMode2(): # Removes files so they can be Re-written
 
     if os.path.exists("Assets/USTVGOreplace/data.txt"):
         os.remove("Assets/USTVGOreplace/data.txt")
+
+    if os.path.exists("Assets/Private/Private.m3u"):
+        os.remove("Assets/Private/Private.m3u")
 
 def MakePriv(): # Makes CZ & SK Channels 
     data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = data17 = ""
