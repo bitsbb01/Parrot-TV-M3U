@@ -143,7 +143,6 @@ async def announce3(ctx, channel:nextcord.TextChannel, title, msg, msg2, msg3, i
     await channel.send(embed=embed)
     await channel.send(ctx.message.guild.default_role)
 
-
 @bot.command()
 @commands.has_any_role('Owner', 'Moderator', 'Admin')
 async def M3UEPG(ctx):
@@ -155,6 +154,11 @@ async def M3UEPG(ctx):
 @bot.command()
 async def code(ctx):
     await ctx.reply('https://github.com/ParrotDevelopers/Parrot-TV-M3U/')
+
+@bot.command()
+async def src(ctx):
+    await ctx.send("Parrot TV M3U Source Code:")
+    await ctx.send("https://github.com/ParrotDevelopers/Parrot-TV-M3U/")
 
 @bot.command()
 @commands.has_permissions(ban_members = True)
@@ -224,7 +228,6 @@ async def AAcontrol(ctx, args):
         await ctx.reply(open('Assets/Admin/log-auto.sys', 'r').read())
         os.system("sudo rm -f Assets/Admin/log-auto.sys")
 
-
 @bot.command()
 @commands.has_role('Owner')
 async def sendm3u(ctx):
@@ -290,8 +293,6 @@ async def sendweb(ctx):
     embed.add_field(name="URL 1:", value="```https://ParrotTV.github.io```", inline=False)
     await ctx.send(embed=embed)
 
-
-
 @bot.command()
 async def neofetch(ctx):
     if ctx.author == bot.user:
@@ -305,7 +306,6 @@ async def neofetch(ctx):
     embed.add_field(name="RAM", value="4gb", inline=False)
     embed.set_image(url='https://i.ytimg.com/vi/caBFyIyDZME/hqdefault.jpg')
     await ctx.send(embed=embed)
-
 
 @bot.command()
 async def sendrules(ctx):
@@ -327,7 +327,6 @@ async def sendrules(ctx):
     embed.add_field(name="-----------------------", value="9. Do not argue with staff. Decisions are final.", inline=False)
     await ctx.send(embed=embed)
 
-
 @bot.command()
 async def help(ctx, page: typing.Optional[str] = "0"):
     if ctx.author == bot.user:
@@ -345,24 +344,32 @@ async def help(ctx, page: typing.Optional[str] = "0"):
     elif page == "user":
         embed=nextcord.Embed(title="User Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
         embed.add_field(name="=======================", value="```!M3U``` - Runs M3U Update Without EPG!", inline=False)
+        embed.add_field(name="=======================", value="```!src``` - Show Source Code!", inline=False)
         embed.add_field(name="=======================", value="```!rempyc``` - Remove pycahce!", inline=False)
         embed.add_field(name="=======================", value="```!neofetch``` - Show system info!", inline=False)
         await ctx.send(embed=embed)
     elif page == "mod":
         embed2=nextcord.Embed(title="Mod Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-        embed2.add_field(name="=======================", value="```!M3UEPG``` - Runs M3U Update With EPG! [Mod required]", inline=False)
-        embed2.add_field(name="=======================", value="```!log``` - Show System Service Log! [Mod required]", inline=False)
-        embed2.add_field(name="=======================", value="```!resetbot``` - Restart Discord BOT! [Mod required]", inline=False)
+        embed2.add_field(name="=======================", value="```!M3UEPG``` - Runs M3U Update With EPG!", inline=False)
+        embed2.add_field(name="=======================", value="```!log``` - Show System Service Log!", inline=False)
+        embed2.add_field(name="=======================", value="```!resetbot``` - Restart Discord BOT!", inline=False)
         await ctx.send(embed=embed2)
     elif page == "admin":
         embed3=nextcord.Embed(title="Admin Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-        embed3.add_field(name="=======================", value="```!stt [time in seconds]``` - Set Auto-Update Timeout! [Admin required]", inline=False)
-        embed3.add_field(name="=======================", value="```!AAcontrol [start/restart/status]``` - Auto-Update service control! [Admin equired]", inline=False)
-        embed3.add_field(name="=======================", value="```!ban``` - Ban's People! [Owner only]", inline=False)
+        embed3.add_field(name="=======================", value="```!stt [time in seconds]``` - Set Auto-Update Timeout!", inline=False)
+        embed3.add_field(name="=======================", value="```!AAcontrol [start/restart/status]``` - Auto-Update service control!", inline=False)
+        embed3.add_field(name="=======================", value="```!announce [room] [title] [message] [icon - not required]``` - Auto-Update service control!", inline=False)
+        embed3.add_field(name="=======================", value="```!announce2 [room] [title] [message] [message - second row] [icon - not required]``` - Auto-Update service control!", inline=False)
+        embed3.add_field(name="=======================", value="```!announce3 [room] [title] [message] [message - second row] [message - third row] [icon - not required]``` - Auto-Update service control!", inline=False)
+        embed3.add_field(name="=======================", value="```!ban [user] [reason - not required]``` - Ban's People!", inline=False)
         await ctx.send(embed=embed3)
     elif page == "owner":
         embed4=nextcord.Embed(title="Owner Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-        embed4.add_field(name="=======================", value="None", inline=False)
+        embed4.add_field(name="=======================", value="```!sendrules``` - Send rules.", inline=False)
+        embed4.add_field(name="=======================", value="```!sendweb``` - Send website domains.", inline=False)
+        embed4.add_field(name="=======================", value="```!sendkodi``` - Send KODI Links.", inline=False)
+        embed4.add_field(name="=======================", value="```!sendepg``` - Send EPG URLs.", inline=False)
+        embed4.add_field(name="=======================", value="```!sendm3u``` - Send M3U URLs.", inline=False)
         await ctx.send(embed=embed4)
 
     
