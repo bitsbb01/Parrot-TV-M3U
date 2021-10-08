@@ -126,7 +126,7 @@ async def ban(ctx, members: commands.Greedy[nextcord.Member],
 
 
 @bot.command()
-@commands.has_role('Owner')
+@commands.has_permissions(ban_members = True)
 async def ban(ctx, user: typing.Optional[nextcord.Member], reason: typing.Optional[str] = "U got fucking yeeted"):
     if ctx.author == bot.user:
         return

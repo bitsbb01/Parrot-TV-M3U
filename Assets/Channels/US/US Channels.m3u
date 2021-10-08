@@ -253,3 +253,411 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 group-title="US Channels" tvg-logo="https://i.imgur.com/85LA7Zm.png",US: ZooMoo 
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: ABC 7 NY
+http://linea.cc:8000/test123/test123/57034.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC NY
+http://linea.cc:8000/test123/test123/56426.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS 2 NY
+http://linea.cc:8000/test123/test123/56427.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX NY
+http://linea.cc:8000/test123/test123/56428.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC LOS ANGELES
+http://linea.cc:8000/test123/test123/56429.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS LOS ANGELES KCAL
+http://linea.cc:8000/test123/test123/56431.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX LOS ANGELES
+http://linea.cc:8000/test123/test123/56432.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC SAN FRANCISCO
+http://linea.cc:8000/test123/test123/56433.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX SAN FRANCISCO KTVU
+http://linea.cc:8000/test123/test123/56436.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC DENVER
+http://linea.cc:8000/test123/test123/56437.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX DENVER
+http://linea.cc:8000/test123/test123/56439.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC DALLAS
+http://linea.cc:8000/test123/test123/56440.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS DALLAS KTXA
+http://linea.cc:8000/test123/test123/56442.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX DALLAS
+http://linea.cc:8000/test123/test123/56443.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC NEW ORLEANS
+http://linea.cc:8000/test123/test123/56444.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS NEW ORLEANS
+http://linea.cc:8000/test123/test123/56445.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX NEW ORLEANS
+http://linea.cc:8000/test123/test123/56446.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC CHICAGO
+http://linea.cc:8000/test123/test123/56447.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX CHICAGO
+http://linea.cc:8000/test123/test123/56449.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC WASHINGTON
+http://linea.cc:8000/test123/test123/56450.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX WASHINGTON
+http://linea.cc:8000/test123/test123/56452.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC MIAMI FORT LAUDERDALE
+http://linea.cc:8000/test123/test123/56453.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX MIAMI
+http://linea.cc:8000/test123/test123/56455.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC LAS VEGAS
+http://linea.cc:8000/test123/test123/56456.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX LAS VEGAS
+http://linea.cc:8000/test123/test123/56458.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC CHARLOTTE
+http://linea.cc:8000/test123/test123/56459.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX CHARLOTTE
+http://linea.cc:8000/test123/test123/56461.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC ORLANDO
+http://linea.cc:8000/test123/test123/56462.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS ORLANDO
+http://linea.cc:8000/test123/test123/56463.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX ORLANDO
+http://linea.cc:8000/test123/test123/56464.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC ATLANTA
+http://linea.cc:8000/test123/test123/56465.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS ATLANTA
+http://linea.cc:8000/test123/test123/56466.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX ATLANTA
+http://linea.cc:8000/test123/test123/56467.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC HOUSTON
+http://linea.cc:8000/test123/test123/56468.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS HOUSTON TX
+http://linea.cc:8000/test123/test123/56469.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX HOUSTON
+http://linea.cc:8000/test123/test123/56470.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX PHOENIX
+http://linea.cc:8000/test123/test123/56472.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS NY
+http://linea.cc:8000/test123/test123/56473.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC Columbus
+http://linea.cc:8000/test123/test123/56474.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX BOSTON
+http://linea.cc:8000/test123/test123/56475.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: EPIX
+http://linea.cc:8000/test123/test123/60929.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: EPIX 2
+http://linea.cc:8000/test123/test123/60930.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: EPIX DRIVE-IN
+http://linea.cc:8000/test123/test123/60931.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: EPIX HITS
+http://linea.cc:8000/test123/test123/60932.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HBO
+http://linea.cc:8000/test123/test123/60933.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HBO2
+http://linea.cc:8000/test123/test123/60934.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HBO COMEDY
+http://linea.cc:8000/test123/test123/60935.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HBO FAMILY
+http://linea.cc:8000/test123/test123/60936.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HBO SIGNATURE
+http://linea.cc:8000/test123/test123/60938.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HBO ZONE
+http://linea.cc:8000/test123/test123/60939.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SHOWTIME
+http://linea.cc:8000/test123/test123/60940.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SHOWTIME 2
+http://linea.cc:8000/test123/test123/60941.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SHOXBET
+http://linea.cc:8000/test123/test123/60942.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SHOWTIME EXTREME
+http://linea.cc:8000/test123/test123/60943.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SHOWTIME SHOWCASE
+http://linea.cc:8000/test123/test123/60944.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SHOWTIME NEXT
+http://linea.cc:8000/test123/test123/60945.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SHOWTIME WOMEN
+http://linea.cc:8000/test123/test123/60946.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SHOWTIME FAMILY ZONE US
+http://linea.cc:8000/test123/test123/60947.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: STARZENCORE WEST
+http://linea.cc:8000/test123/test123/60948.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: STARZENCORE ACTION
+http://linea.cc:8000/test123/test123/60949.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: STARZENCORE BLACK
+http://linea.cc:8000/test123/test123/60950.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Encore Classic US
+http://linea.cc:8000/test123/test123/60951.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Encore Suspense US
+http://linea.cc:8000/test123/test123/60952.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz US
+http://linea.cc:8000/test123/test123/60953.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Kids & Family US
+http://linea.cc:8000/test123/test123/60954.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Edge US
+http://linea.cc:8000/test123/test123/60955.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Comedy US
+http://linea.cc:8000/test123/test123/60956.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: STARZENCORE EAST
+http://linea.cc:8000/test123/test123/60957.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: STARZ W
+http://linea.cc:8000/test123/test123/60958.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Inblack US
+http://linea.cc:8000/test123/test123/60959.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Cinema US
+http://linea.cc:8000/test123/test123/60960.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Encore Family US
+http://linea.cc:8000/test123/test123/60961.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Encore Westerns US
+http://linea.cc:8000/test123/test123/60962.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Starz Encore Espanol US
+http://linea.cc:8000/test123/test123/60963.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Sundance TV US
+http://linea.cc:8000/test123/test123/60964.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CineMAX US
+http://linea.cc:8000/test123/test123/60965.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MoreMAX US
+http://linea.cc:8000/test123/test123/60966.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: 5-Star MAX US
+http://linea.cc:8000/test123/test123/60967.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: ActionMAX US
+http://linea.cc:8000/test123/test123/60968.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CineMAX Latino US
+http://linea.cc:8000/test123/test123/60969.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MovieMAX US
+http://linea.cc:8000/test123/test123/60970.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: OuterMAX US
+http://linea.cc:8000/test123/test123/60971.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: ThrillerMAX
+http://linea.cc:8000/test123/test123/60972.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX News Channel US
+http://linea.cc:8000/test123/test123/16590.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Cooking
+http://linea.cc:8000/test123/test123/44960.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Fox Business
+http://linea.cc:8000/test123/test123/48314.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Investigation Discovery
+http://linea.cc:8000/test123/test123/48299.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SCI
+http://linea.cc:8000/test123/test123/44945.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TLC East
+http://linea.cc:8000/test123/test123/44941.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CNN
+http://linea.cc:8000/test123/test123/40082.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TNT
+http://linea.cc:8000/test123/test123/40087.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: AMC
+http://linea.cc:8000/test123/test123/25545.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Adult Swim
+http://linea.cc:8000/test123/test123/40085.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TBS
+http://linea.cc:8000/test123/test123/40086.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CNN
+http://linea.cc:8000/test123/test123/40084.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: BBC America
+http://linea.cc:8000/test123/test123/25542.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Sundance
+http://linea.cc:8000/test123/test123/25541.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: A&E
+http://linea.cc:8000/test123/test123/18748.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Bravo East
+http://linea.cc:8000/test123/test123/18747.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CNBC
+http://linea.cc:8000/test123/test123/18723.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Food Network East
+http://linea.cc:8000/test123/test123/18704.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FX
+http://linea.cc:8000/test123/test123/18741.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FYI
+http://linea.cc:8000/test123/test123/18738.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Hallmark Channel
+http://linea.cc:8000/test123/test123/23427.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Hallmark Movies & Mysteries
+http://linea.cc:8000/test123/test123/23426.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HGTV East
+http://linea.cc:8000/test123/test123/18705.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: History
+http://linea.cc:8000/test123/test123/18737.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Lifetime Movie Network
+http://linea.cc:8000/test123/test123/18725.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MSNBC US
+http://linea.cc:8000/test123/test123/18720.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: National Geographic
+http://linea.cc:8000/test123/test123/18735.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC 4 NY
+http://linea.cc:8000/test123/test123/18707.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Syfy East
+http://linea.cc:8000/test123/test123/18731.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Travel Channel East
+http://linea.cc:8000/test123/test123/18703.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: USA Network East US
+http://linea.cc:8000/test123/test123/18729.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Animal Planet East
+http://linea.cc:8000/test123/test123/54068.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Discovery Channel
+http://linea.cc:8000/test123/test123/54069.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Weather Channel
+http://linea.cc:8000/test123/test123/54072.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HLN
+http://linea.cc:8000/test123/test123/54162.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MAVTV
+http://linea.cc:8000/test123/test123/55657.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Game Show Network
+http://linea.cc:8000/test123/test123/55662.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: AMERICAN HEROES CHANNEL
+http://linea.cc:8000/test123/test123/56483.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: ANIMAL PLANET US
+http://linea.cc:8000/test123/test123/56484.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: BRAVO
+http://linea.cc:8000/test123/test123/56486.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CW 31 KMAX
+http://linea.cc:8000/test123/test123/56487.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CHEDDAR STREAM
+http://linea.cc:8000/test123/test123/56488.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CMT
+http://linea.cc:8000/test123/test123/56489.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CNBC WORLD US
+http://linea.cc:8000/test123/test123/56490.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: COMEDY CENTRAL
+http://linea.cc:8000/test123/test123/56491.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: COMEDY CENTRAL WEST
+http://linea.cc:8000/test123/test123/56492.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: COMET
+http://linea.cc:8000/test123/test123/56493.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: COOKING CHANNEL
+http://linea.cc:8000/test123/test123/56494.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: COZI TV
+http://linea.cc:8000/test123/test123/56495.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: DESTINATION AMERICA
+http://linea.cc:8000/test123/test123/56496.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: DISCOVERY FAMILY CHANNEL 
+http://linea.cc:8000/test123/test123/56497.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: DISCOVERY LIFE
+http://linea.cc:8000/test123/test123/56498.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: DISCOVERY WEST
+http://linea.cc:8000/test123/test123/56499.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: DIY
+http://linea.cc:8000/test123/test123/56500.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: E! East
+http://linea.cc:8000/test123/test123/56501.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CW WTOG
+http://linea.cc:8000/test123/test123/56503.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOOD NETWORK HD WEST
+http://linea.cc:8000/test123/test123/56504.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FUSE
+http://linea.cc:8000/test123/test123/56505.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: GAME+
+http://linea.cc:8000/test123/test123/56506.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: GETTV
+http://linea.cc:8000/test123/test123/56507.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HALLMARK DRAMA
+http://linea.cc:8000/test123/test123/56508.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: HGTV HD WEST US
+http://linea.cc:8000/test123/test123/56509.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: IFC
+http://linea.cc:8000/test123/test123/56510.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: LIFETIME
+http://linea.cc:8000/test123/test123/56512.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: LOCAL NOW
+http://linea.cc:8000/test123/test123/56513.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: LOGO
+http://linea.cc:8000/test123/test123/56514.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CW WKBD
+http://linea.cc:8000/test123/test123/56515.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MTV
+http://linea.cc:8000/test123/test123/56516.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MTV CLASSIC
+http://linea.cc:8000/test123/test123/56517.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MTV LIVE
+http://linea.cc:8000/test123/test123/56518.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MTV2
+http://linea.cc:8000/test123/test123/56519.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MTVU
+http://linea.cc:8000/test123/test123/56520.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MY NETWORK TV CHICAGO
+http://linea.cc:8000/test123/test123/56521.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MY NETWORK T MIAMI
+http://linea.cc:8000/test123/test123/56522.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NICK JR US
+http://linea.cc:8000/test123/test123/56523.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NICK JR HD
+http://linea.cc:8000/test123/test123/56524.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NICKELODEON
+http://linea.cc:8000/test123/test123/56525.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NICKELODEON HD
+http://linea.cc:8000/test123/test123/56526.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NICKMUSIC
+http://linea.cc:8000/test123/test123/56527.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NICKTOONS
+http://linea.cc:8000/test123/test123/56528.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: OUTDOOR CHANNEL
+http://linea.cc:8000/test123/test123/56529.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: OUTSIDE TV
+http://linea.cc:8000/test123/test123/56530.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: OWN
+http://linea.cc:8000/test123/test123/56531.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: OXYGEN
+http://linea.cc:8000/test123/test123/56532.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: OXYGEN WEST
+http://linea.cc:8000/test123/test123/56533.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CW WPCW
+http://linea.cc:8000/test123/test123/56534.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CW WPSG
+http://linea.cc:8000/test123/test123/56535.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: PARAMOUNT NETWORK
+http://linea.cc:8000/test123/test123/56536.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: PEOPLE TV
+http://linea.cc:8000/test123/test123/56537.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: POP
+http://linea.cc:8000/test123/test123/56538.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: REVOLT
+http://linea.cc:8000/test123/test123/56539.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: RTP INTERNACIONAL
+http://linea.cc:8000/test123/test123/56540.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SMITHSONIAN CHANNEL
+http://linea.cc:8000/test123/test123/56541.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SMITHSONIAN CHANNEL HD
+http://linea.cc:8000/test123/test123/56542.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SONY MOVIE CHANNEL HD
+http://linea.cc:8000/test123/test123/56543.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: SYFY WEST
+http://linea.cc:8000/test123/test123/56544.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TEENNICK US
+http://linea.cc:8000/test123/test123/56545.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: THE CW SAN JOSE
+http://linea.cc:8000/test123/test123/56546.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: THE CW 69 
+http://linea.cc:8000/test123/test123/56547.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: THE CW11
+http://linea.cc:8000/test123/test123/56548.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: THE WEATHER CHANNEL
+http://linea.cc:8000/test123/test123/56549.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TLC WEST
+http://linea.cc:8000/test123/test123/56550.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TR3S
+http://linea.cc:8000/test123/test123/56551.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TRAVEL CHANNEL HD WEST
+http://linea.cc:8000/test123/test123/56552.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TV LAND East
+http://linea.cc:8000/test123/test123/56553.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TV LAND WEST
+http://linea.cc:8000/test123/test123/56554.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TVG East
+http://linea.cc:8000/test123/test123/56555.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: TVG WEST
+http://linea.cc:8000/test123/test123/56556.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: UNIVERSAL KIDS
+http://linea.cc:8000/test123/test123/56557.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: VH1
+http://linea.cc:8000/test123/test123/56558.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: VH1 
+http://linea.cc:8000/test123/test123/56559.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: VSIN
+http://linea.cc:8000/test123/test123/56560.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Law & Crime
+http://linea.cc:8000/test123/test123/56561.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MSG
+http://linea.cc:8000/test123/test123/56562.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: MSG Plus
+http://linea.cc:8000/test123/test123/56563.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: Great American Country
+http://linea.cc:8000/test123/test123/56564.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: USA NETWORK WEST
+http://linea.cc:8000/test123/test123/56565.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: INSP
+http://linea.cc:8000/test123/test123/56566.ts
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: E! West
+http://linea.cc:8000/test123/test123/56567.ts
