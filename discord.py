@@ -10,7 +10,7 @@ from Auth.auth import disToken
 import os
 from datetime import datetime
 from Assets.python.time import tz
-from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, remPYC, Clear
+from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng,MakePriv ,MakeMain, Git, remPYC, Clear
 bot = commands.Bot(command_prefix='!', help_command=None)
 
 now = datetime.now(tz)
@@ -77,6 +77,7 @@ def Mode1():
     MakeCS()
     MakeEng()
     MakeMain()
+    MakePriv()
     Git()
     remPYC()
 
@@ -87,6 +88,7 @@ def Mode2():
     MakeCS()
     MakeEng()
     MakeMain()
+    MakePriv()
     Git()
 
 @bot.event
