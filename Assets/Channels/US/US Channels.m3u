@@ -257,83 +257,83 @@ https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: ABC 7 NY
 http://linea.cc:8000/test123/test123/57034.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC NY
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC NY
 http://linea.cc:8000/test123/test123/56426.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS 2 NY
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CBS 2 NY
 http://linea.cc:8000/test123/test123/56427.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX NY
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX NY
 http://linea.cc:8000/test123/test123/56428.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC LOS ANGELES
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC LOS ANGELES
 http://linea.cc:8000/test123/test123/56429.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS LOS ANGELES KCAL
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CBS LOS ANGELES KCAL
 http://linea.cc:8000/test123/test123/56431.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX LOS ANGELES
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX LOS ANGELES
 http://linea.cc:8000/test123/test123/56432.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC SAN FRANCISCO
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC SAN FRANCISCO
 http://linea.cc:8000/test123/test123/56433.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX SAN FRANCISCO KTVU
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX SAN FRANCISCO KTVU
 http://linea.cc:8000/test123/test123/56436.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC DENVER
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC DENVER
 http://linea.cc:8000/test123/test123/56437.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX DENVER
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX DENVER
 http://linea.cc:8000/test123/test123/56439.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC DALLAS
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC DALLAS
 http://linea.cc:8000/test123/test123/56440.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS DALLAS KTXA
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CBS DALLAS KTXA
 http://linea.cc:8000/test123/test123/56442.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX DALLAS
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX DALLAS
 http://linea.cc:8000/test123/test123/56443.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC NEW ORLEANS
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC NEW ORLEANS
 http://linea.cc:8000/test123/test123/56444.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS NEW ORLEANS
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CBS NEW ORLEANS
 http://linea.cc:8000/test123/test123/56445.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX NEW ORLEANS
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX NEW ORLEANS
 http://linea.cc:8000/test123/test123/56446.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC CHICAGO
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC CHICAGO
 http://linea.cc:8000/test123/test123/56447.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX CHICAGO
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX CHICAGO
 http://linea.cc:8000/test123/test123/56449.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC WASHINGTON
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC WASHINGTON
 http://linea.cc:8000/test123/test123/56450.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX WASHINGTON
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX WASHINGTON
 http://linea.cc:8000/test123/test123/56452.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC MIAMI FORT LAUDERDALE
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC MIAMI FORT LAUDERDALE
 http://linea.cc:8000/test123/test123/56453.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX MIAMI
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX MIAMI
 http://linea.cc:8000/test123/test123/56455.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC LAS VEGAS
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC LAS VEGAS
 http://linea.cc:8000/test123/test123/56456.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX LAS VEGAS
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX LAS VEGAS
 http://linea.cc:8000/test123/test123/56458.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC CHARLOTTE
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC CHARLOTTE
 http://linea.cc:8000/test123/test123/56459.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX CHARLOTTE
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX CHARLOTTE
 http://linea.cc:8000/test123/test123/56461.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC ORLANDO
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC ORLANDO
 http://linea.cc:8000/test123/test123/56462.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS ORLANDO
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CBS ORLANDO
 http://linea.cc:8000/test123/test123/56463.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX ORLANDO
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX ORLANDO
 http://linea.cc:8000/test123/test123/56464.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC ATLANTA
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC ATLANTA
 http://linea.cc:8000/test123/test123/56465.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS ATLANTA
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CBS ATLANTA
 http://linea.cc:8000/test123/test123/56466.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX ATLANTA
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX ATLANTA
 http://linea.cc:8000/test123/test123/56467.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC HOUSTON
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC HOUSTON
 http://linea.cc:8000/test123/test123/56468.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS HOUSTON TX
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CBS HOUSTON TX
 http://linea.cc:8000/test123/test123/56469.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX HOUSTON
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX HOUSTON
 http://linea.cc:8000/test123/test123/56470.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX PHOENIX
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX PHOENIX
 http://linea.cc:8000/test123/test123/56472.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | CBS NY
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: CBS NY
 http://linea.cc:8000/test123/test123/56473.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | NBC Columbus
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: NBC Columbus
 http://linea.cc:8000/test123/test123/56474.ts
-#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: US | FOX BOSTON
+#EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: FOX BOSTON
 http://linea.cc:8000/test123/test123/56475.ts
 #EXTINF:-1 tvg-id="" group-title="US Channels",HLS Cat: US: EPIX
 http://linea.cc:8000/test123/test123/60929.ts

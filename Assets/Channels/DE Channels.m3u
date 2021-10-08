@@ -478,3 +478,930 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5f3d2b57d6c60800074cb305/colorLogoPNG.png" group-title="DE Channels",Pluto TV: DE: nick Pluto TV+
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2b57d6c60800074cb305/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=19a8ba6e-9713-4df0-83d9-93dd72c984f0&deviceId=5f3d2b57d6c60800074cb305&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL HD
+http://qqtv.nl:8080/glista/glista/15579
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 13TH STREET HD
+http://qqtv.nl:8080/glista/glista/15602
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARTE
+http://qqtv.nl:8080/glista/glista/15601
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL LIVING
+http://qqtv.nl:8080/glista/glista/15600
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAS ERSTE HD
+http://qqtv.nl:8080/glista/glista/15599
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISCOVERY HD
+http://qqtv.nl:8080/glista/glista/15590
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 2 HD
+http://qqtv.nl:8080/glista/glista/15588
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY JUNIOR
+http://qqtv.nl:8080/glista/glista/15595
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KIKA HD
+http://qqtv.nl:8080/glista/glista/15594
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV HD
+http://qqtv.nl:8080/glista/glista/15591
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEOGRAPHIC HD
+http://qqtv.nl:8080/glista/glista/15587
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NAT GEO WILD HD
+http://qqtv.nl:8080/glista/glista/15586
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL Nitro HD
+http://qqtv.nl:8080/glista/glista/15582
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO SIEBEN MAXX HD
+http://qqtv.nl:8080/glista/glista/15580
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL CRIME UHD
+http://qqtv.nl:8080/glista/glista/15576
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PASSION HD
+http://qqtv.nl:8080/glista/glista/15574
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 HD
+http://qqtv.nl:8080/glista/glista/15573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SIXX HD
+http://qqtv.nl:8080/glista/glista/15570
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC HD
+http://qqtv.nl:8080/glista/glista/15569
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA 24#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE:HD
+http://qqtv.nl:8080/glista/glista/15624
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION HD
+http://qqtv.nl:8080/glista/glista/15623
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA 1 HD
+http://qqtv.nl:8080/glista/glista/15621
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA HITS HD
+http://qqtv.nl:8080/glista/glista/15620
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FAMILY HD
+http://qqtv.nl:8080/glista/glista/15618
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY KRIMI HD
+http://qqtv.nl:8080/glista/glista/15614
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA COMEDY
+http://qqtv.nl:8080/glista/glista/15603
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: E! ENTERTAINMENT HD
+http://qqtv.nl:8080/glista/glista/15628
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SUPER RTL HD
+http://qqtv.nl:8080/glista/glista/15567
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SYFY
+http://qqtv.nl:8080/glista/glista/15566
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 GOLD HD
+http://qqtv.nl:8080/glista/glista/15565
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT COMEDY HD
+http://qqtv.nl:8080/glista/glista/15564
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT FILM HD
+http://qqtv.nl:8080/glista/glista/15563
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT SERIE HD
+http://qqtv.nl:8080/glista/glista/15562
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VOX HD
+http://qqtv.nl:8080/glista/glista/15561
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF HD
+http://qqtv.nl:8080/glista/glista/15560
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TLC HD
+http://qqtv.nl:8080/glista/glista/15559
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
+http://qqtv.nl:8080/glista/glista/318788
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN SPORT 1 HD
+http://qqtv.nl:8080/glista/glista/391223
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN SPORT 2 HD
+http://qqtv.nl:8080/glista/glista/391222
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 1 HD
+http://qqtv.nl:8080/glista/glista/15611
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 2 HD
+http://qqtv.nl:8080/glista/glista/15619
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 3 HD
+http://qqtv.nl:8080/glista/glista/335066
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 4 HD
+http://qqtv.nl:8080/glista/glista/335067
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 5 HD
+http://qqtv.nl:8080/glista/glista/335068
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 3
+http://qqtv.nl:8080/glista/glista/318792
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAS ERSTE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7122
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7123
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF NEO HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7124
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF INFO HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7125
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARTE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7126
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7127
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PLUS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7128
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7129
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL CRIME HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7130
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PASSION HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7131
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SIXX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7132
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PROSIEBEN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7133
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7134
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO 7 FUN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7135
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO 7 MAXX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7136
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 GOLD HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7137
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 EMOTIONS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7138
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VOX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7139
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PHOENIX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7141
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 DOKU HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL EINS CLASSICS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7143
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT COMEDY HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7144
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT FILM HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7145
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SYFY HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7146
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT SERIES HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7147
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 13TH STREET HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7148
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HEIMATKANAL TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7149
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KINO WELT TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7150
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7151
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CNBC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7152
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SERVUS TV HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7153
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELE 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7154
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIXE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7155
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DMAX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7156
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: JUNIOR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7157
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIXE SERIE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7158
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CRIME & INVESTIGATION HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7159
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: JUKEBOX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7160
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CLASSICA
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7161
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CHANNEL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7162
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DELUXE MUSIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7163
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISCOVERY CHANNEL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7164
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: E! ENTERTAINMENT HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7165
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HISTORY HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7166
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEOGRAPHIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7167
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEOGRAPHIC WILD HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7168
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TLC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7169
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL LIVING HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7170
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BOOMERANG HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7171
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SUPER RTL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7172
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KIKA HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7173
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY JUNIOR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7174
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RBB BELIN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7175
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NTV HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7176
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N24 DOKU
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7177
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AXN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7178
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: UNIVERSAL CHANNEL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7179
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ONE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7181
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TOGGO PLUS TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7182
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICKELODEON HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7183
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIMAL PLANET HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7184
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV WISSEN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7185
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WELT HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7186
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: FOX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7187
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARD ALPHA
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7188
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TAGESCHAU HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7189
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL NITRO HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7190
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 KLASSIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7191
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICK JR. HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7192
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NDR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7193
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: EURONEWS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7194
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7195
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SWR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7196
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MDR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7197
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORTDIGITAL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7198
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: COMEDY CENTRAL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7199
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: OBERPFALZ TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7200
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RAN 1TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7201
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RBW TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7202
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BADEN TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7203
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WDR TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7204
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DEUTSCHES MUSIK
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7205
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL GESCHICHTE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7206
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DOUNA TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7207
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TVA TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7208
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HR TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7209
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ONE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7211
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA SPECIAL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7212
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA CLASSIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7213
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA BEST OF TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7214
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY 1
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7215
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA 1
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7217
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA  24
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7218
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FAMILY HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7219
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FUN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7220
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ACTION
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7221
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7222
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY HITS
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7223
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY COMEDY
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7224
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY KRIMI HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7225
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY NOSTALGIE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7226
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA PREMIERE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7230
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA PREMIERE +24
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7231
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SERIEN & SHOWS
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7232
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN BAR 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7259
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN BAR 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7260
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT NEWS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7261
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7262
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7263
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7264
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7265
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7266
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 6 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7267
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7268
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 8 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7269
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 9 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7270
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 10 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7271
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7272
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7273
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7274
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7275
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7276
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 6 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7277
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7278
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 8 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7279
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 9 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7280
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 10 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7281
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7285
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AUTO MOTOR SPORT HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7286
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BBL SPORT 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7287
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BBL SPORT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7288
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD1
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7289
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD2
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7290
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD3
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7291
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD4
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7292
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD5
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7293
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD6
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7294
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD7
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7295
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD8
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7296
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD9
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7297
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD10
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7298
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7299
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7300
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7301
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7302
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7303
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 6 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7304
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7305
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MAX SELECT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7306
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MAX SELECT 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7307
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MAX SELECT 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7308
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MAX SELECT 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7309
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 4K ULTRA
+http://serivcestv.xyz:8080/3143631718254908/2598854265/91415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/35527
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/35526
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193370
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL TELEVISION
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193371
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193372
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL2
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193373
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL LIVING HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193374
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193375
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 MAXX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193376
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 FUN HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193377
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193378
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193379
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT1 GOLD HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193380
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 3SAT HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193381
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193382
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193383
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF INFO HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193384
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF NEO HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193385
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAS ERSTE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193386
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193387
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193388
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NDR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193389
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HR
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193390
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WELT HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193391
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193392
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 DOKU
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193393
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 CLASSICS HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193394
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BR FERNSEHEN HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193395
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ONE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193396
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SERVUS TV HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193397
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AXN HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193399
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: FOX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193400
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: E! ENTERTAINMENT HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193401
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193402
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT SERIE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193403
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PASSION HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193404
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL CRIME HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193405
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VOX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193406
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 13TH STREET HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193407
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SYFY HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193408
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193409
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193410
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HEIMATKANAL
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193411
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193412
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELE 5 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193413
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SIXX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193414
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZEE ONE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193416
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193417
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 3 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193418
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193420
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193421
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FAMILY HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193423
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193424
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193425
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA EMOTION
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193426
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA COMEDY
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193427
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193428
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193429
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY KRIMI
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193430
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SILVERLINE
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193431
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT FILM HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193432
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT COMEDY FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193433
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SONY CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193434
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: UNIVERSAL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193435
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193436
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193437
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 3 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193438
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 4 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193439
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 5 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193440
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 6 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193441
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 7 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193442
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 8 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193443
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT NEWS HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193445
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT AUSTRIA
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193446
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193447
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193448
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193449
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 1 BAR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193450
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 2 BAR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193451
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193452
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1  HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193453
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORTDIGITAL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193454
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AUTO MOTOR SPORT CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193455
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193459
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193461
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 3 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193462
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 4 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193463
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 5 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193464
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 6 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193465
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 7 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193466
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 8
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193467
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 9
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193468
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 3 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193469
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 4 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193470
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 5 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193471
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 6 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193472
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 7 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193473
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DMAX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193475
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEO WILD FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193476
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISCOVERY CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193477
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HISTORY CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193478
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIMAL PLANET HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193479
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARTE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193480
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BON GUSTO HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193481
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV WISSEN HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193482
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV GESCHICHTE FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193483
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SWR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193484
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N24 DOKU
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193485
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TLC HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193486
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WDR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193487
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DELUXE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193488
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MTV HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193489
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VIVA/COMEDY CENTRAL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193490
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICKELODEON HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193492
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICK JR. HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193493
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193494
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CINEMAGIC HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193495
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY JUNIOR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193496
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY XD HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193497
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CARTOON NETWORK HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193498
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BOOMERANG HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193499
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SUPER RTL
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193500
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: JUNIOR
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193501
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TOGGO PLUS
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193502
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KIKA HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193503
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 4K ULTRA
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/91415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35527
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35526
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193370
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL TELEVISION
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193371
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193372
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL2
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193373
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL LIVING HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193374
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193375
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 MAXX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193376
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 FUN HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193377
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193378
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193379
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT1 GOLD HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193380
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 3SAT HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193381
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193382
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193383
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF INFO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193384
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF NEO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193385
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAS ERSTE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193386
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193387
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193388
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NDR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193389
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HR
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193390
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WELT HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193391
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193392
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 DOKU
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193393
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 CLASSICS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193394
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BR FERNSEHEN HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193395
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ONE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193396
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SERVUS TV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193397
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AXN HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193399
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: FOX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193400
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: E! ENTERTAINMENT HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193401
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193402
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT SERIE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193403
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PASSION HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193404
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL CRIME HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193405
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VOX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193406
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 13TH STREET HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193407
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SYFY HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193408
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193409
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193410
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HEIMATKANAL
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193411
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193412
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELE 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193413
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SIXX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193414
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZEE ONE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193416
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193417
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193418
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193420
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193421
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FAMILY HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193423
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193424
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193425
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA EMOTION
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193426
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA COMEDY
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193427
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193428
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193429
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY KRIMI
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193430
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SILVERLINE
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193431
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT FILM HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193432
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT COMEDY FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193433
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SONY CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193434
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: UNIVERSAL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193435
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193436
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193437
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193438
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193439
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193440
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 6 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193441
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 7 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193442
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 8 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193443
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT NEWS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193445
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT AUSTRIA
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193446
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193447
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193448
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193449
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 1 BAR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193450
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 2 BAR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193451
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193452
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1  HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193453
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORTDIGITAL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193454
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AUTO MOTOR SPORT CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193455
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193459
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193461
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193462
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193463
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193464
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 6 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193465
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 7 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193466
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 8
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193467
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 9
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193468
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193469
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193470
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193471
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 6 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193472
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 7 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193473
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DMAX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193475
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEO WILD FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193476
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISCOVERY CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193477
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HISTORY CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193478
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIMAL PLANET HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193479
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARTE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193480
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BON GUSTO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193481
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV WISSEN HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193482
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV GESCHICHTE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193483
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SWR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193484
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N24 DOKU
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193485
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TLC HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193486
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WDR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193487
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DELUXE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193488
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MTV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193489
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VIVA/COMEDY CENTRAL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193490
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICKELODEON HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193492
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICK JR. HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193493
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193494
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CINEMAGIC HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193495
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY JUNIOR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193496
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY XD HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193497
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CARTOON NETWORK HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193498
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BOOMERANG HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193499
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SUPER RTL
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193500
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: JUNIOR
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193501
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TOGGO PLUS
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193502
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KIKA HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193503
+
+
+
+
