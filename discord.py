@@ -53,6 +53,9 @@ def RemoveMode1():
     if os.path.exists("EPG/EPG.xml"):
         os.remove("EPG/EPG.xml")
 
+    if os.path.exists("Assets/Private/Private.m3u"):
+        os.remove("Assets/Private/Private.m3u")
+
 def echo(msg):
     echocmd = "sudo echo " + '"' + msg + '"'
     os.system(echocmd)
@@ -105,6 +108,43 @@ async def M3U(ctx):
     await ctx.reply("Done! - without EPG!", mention_author=True)
 
 @bot.command()
+@commands.has_any_role("Owner", "Admin")
+async def announce(ctx, channel:nextcord.TextChannel, title, msg, icon: typing.Optional[str] = "https://ParrotTV.github.io/Images/Favicon/favicon.png"):
+    await ctx.message.delete()
+
+    embed=nextcord.Embed(title=str(title), color=0xA1BCD0)
+    embed.set_thumbnail(url=icon)
+    embed.add_field(name=str(msg), value=str("Announced by ") + str(ctx.author), inline=False)
+    await channel.send(embed=embed)
+    await channel.send(ctx.message.guild.default_role)
+
+@bot.command()
+@commands.has_any_role("Owner", "Admin")
+async def announce2(ctx, channel:nextcord.TextChannel, title, msg, msg2, icon: typing.Optional[str] = "https://ParrotTV.github.io/Images/Favicon/favicon.png"):
+    await ctx.message.delete()
+
+    embed=nextcord.Embed(title=str(title), color=0xA1BCD0)
+    embed.set_thumbnail(url=icon)
+    embed.add_field(name=str(msg), value=str("--------------"), inline=False)
+    embed.add_field(name=str(msg2), value=str("Announced by ") + str(ctx.author), inline=False)
+    await channel.send(embed=embed)
+    await channel.send(ctx.message.guild.default_role)
+
+@bot.command()
+@commands.has_any_role("Owner", "Admin")
+async def announce3(ctx, channel:nextcord.TextChannel, title, msg, msg2, msg3, icon: typing.Optional[str] = "https://ParrotTV.github.io/Images/Favicon/favicon.png"):
+    await ctx.message.delete()
+
+    embed=nextcord.Embed(title=str(title), color=0xA1BCD0)
+    embed.set_thumbnail(url=icon)
+    embed.add_field(name=str(msg), value=str("--------------"), inline=False)
+    embed.add_field(name=str(msg2), value=str("--------------"), inline=False)
+    embed.add_field(name=str(msg3), value=str("Announced by ") + str(ctx.author), inline=False)
+    await channel.send(embed=embed)
+    await channel.send(ctx.message.guild.default_role)
+
+
+@bot.command()
 @commands.has_any_role('Owner', 'Moderator', 'Admin')
 async def M3UEPG(ctx):
     await ctx.reply('OK!', mention_author=True)
@@ -115,17 +155,6 @@ async def M3UEPG(ctx):
 @bot.command()
 async def code(ctx):
     await ctx.reply('https://github.com/ParrotDevelopers/Parrot-TV-M3U/')
-
-"""
-async def ban(ctx, members: commands.Greedy[nextcord.Member],
-                   delete_days: typing.Optional[int] = 0, *,
-                   reason: str):
-    for member in members:
-        await member.ban(delete_message_days=delete_days, reason=reason)
-        await ctx.send(member + " was banned for " + delete_days + " cuz he: " + reason)
-
-"""
-
 
 @bot.command()
 @commands.has_permissions(ban_members = True)
@@ -207,7 +236,7 @@ async def sendm3u(ctx):
 
 
     embed=nextcord.Embed(title="M3U Links:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-    embed.set_thumbnail(url="https://parrottv.tk/Images/Favicon/favicon.png")
+    embed.set_thumbnail(url="https://ParrotTV.github.io/Images/Favicon/favicon.png")
     embed.add_field(name="World Wide:", value="```https://bit.ly/PPM3U```", inline=False)
     embed.add_field(name="English only:", value="```https://bit.ly/PPM3U-E```", inline=False)
     embed.add_field(name="Czechoslovak:", value="```https://bit.ly/PPM3U-CS```", inline=False)
@@ -224,7 +253,7 @@ async def sendepg(ctx):
 
 
     embed=nextcord.Embed(title="EPG Links:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-    embed.set_thumbnail(url="https://parrottv.tk/Images/Favicon/favicon.png")
+    embed.set_thumbnail(url="https://ParrotTV.github.io/Images/Favicon/favicon.png")
     embed.add_field(name="CZ / SK:", value="```https://bit.ly/PPEPG3```", inline=False)
     embed.add_field(name="US:", value="```https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml```", inline=False)
     await ctx.send(embed=embed)
@@ -240,7 +269,7 @@ async def sendkodi(ctx):
 
 
     embed=nextcord.Embed(title="KODI:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-    embed.set_thumbnail(url="https://parrottv.tk/Images/Favicon/favicon.png")
+    embed.set_thumbnail(url="https://ParrotTV.github.io/Images/Favicon/favicon.png")
     embed.add_field(name="Repository:", value="```https://bit.ly/3zYeTc7```", inline=False)
     embed.add_field(name="KODI 19.0:", value="```https://bit.ly/2WhlL5B```", inline=False)
     embed.add_field(name="KODI 18.9:", value="```https://bit.ly/3mpY1a0```", inline=False)
@@ -257,9 +286,8 @@ async def sendweb(ctx):
 
 
     embed=nextcord.Embed(title="Websites:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-    embed.set_thumbnail(url="https://parrottv.tk/Images/Favicon/favicon.png")
-    embed.add_field(name="URL 1:", value="```https://parrottv.tk```", inline=False)
-    embed.add_field(name="URL 2:", value="```https://ParrotTV.github.io```", inline=False)
+    embed.set_thumbnail(url="https://ParrotTV.github.io/Images/Favicon/favicon.png")
+    embed.add_field(name="URL 1:", value="```https://ParrotTV.github.io```", inline=False)
     await ctx.send(embed=embed)
 
 
@@ -301,23 +329,45 @@ async def sendrules(ctx):
 
 
 @bot.command()
-async def help(ctx):
+async def help(ctx, page: typing.Optional[str] = "0"):
     if ctx.author == bot.user:
         return
     if ctx.author.bot: return
 
+    if page == "0":
+        embedh=nextcord.Embed(title="User Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+        embedh.add_field(name="=======================", value="```!help``` - Show this page!", inline=False)
+        embedh.add_field(name="=======================", value="```!help user``` - Show user commands!", inline=False)
+        embedh.add_field(name="=======================", value="```!help mod``` - Show mod commands!", inline=False)
+        embedh.add_field(name="=======================", value="```!help admin``` - Show admin commands!", inline=False)
+        embedh.add_field(name="=======================", value="```!help owner``` - Show owner commands!", inline=False)
+        await ctx.send(embed=embedh)
+    elif page == "user":
+        embed=nextcord.Embed(title="User Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+        embed.add_field(name="=======================", value="```!M3U``` - Runs M3U Update Without EPG!", inline=False)
+        embed.add_field(name="=======================", value="```!rempyc``` - Remove pycahce!", inline=False)
+        embed.add_field(name="=======================", value="```!neofetch``` - Show system info!", inline=False)
+        await ctx.send(embed=embed)
+    elif page == "mod":
+        embed2=nextcord.Embed(title="Mod Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+        embed2.add_field(name="=======================", value="```!M3UEPG``` - Runs M3U Update With EPG! [Mod required]", inline=False)
+        embed2.add_field(name="=======================", value="```!log``` - Show System Service Log! [Mod required]", inline=False)
+        embed2.add_field(name="=======================", value="```!resetbot``` - Restart Discord BOT! [Mod required]", inline=False)
+        await ctx.send(embed=embed2)
+    elif page == "admin":
+        embed3=nextcord.Embed(title="Admin Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+        embed3.add_field(name="=======================", value="```!stt [time in seconds]``` - Set Auto-Update Timeout! [Admin required]", inline=False)
+        embed3.add_field(name="=======================", value="```!AAcontrol [start/restart/status]``` - Auto-Update service control! [Admin equired]", inline=False)
+        embed3.add_field(name="=======================", value="```!ban``` - Ban's People! [Owner only]", inline=False)
+        await ctx.send(embed=embed3)
+    elif page == "owner":
+        embed4=nextcord.Embed(title="Owner Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+        embed4.add_field(name="=======================", value="None", inline=False)
+        await ctx.send(embed=embed4)
 
-    embed=nextcord.Embed(title="Help:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-    embed.add_field(name="=======================", value="```!M3U``` - Runs M3U Update Without EPG! [Admin not required]", inline=False)
-    embed.add_field(name="=======================", value="```!M3UEPG``` - Runs M3U Update With EPG! [Mod required]", inline=False)
-    embed.add_field(name="=======================", value="```!ban``` - Ban's People! [Owner only]", inline=False)
-    embed.add_field(name="=======================", value="```!log``` - Show System Service Log! [Mod required]", inline=False)
-    embed.add_field(name="=======================", value="```!resetbot``` - Restart Discord BOT! [Mod required]", inline=False)
-    embed.add_field(name="=======================", value="```!rempyc``` - Remove pycahce! [Admin not required]", inline=False)
-    embed.add_field(name="=======================", value="```!neofetch``` - Show system info! [Admin not required]", inline=False)
-    embed.add_field(name="=======================", value="```!stt [time in seconds]``` - Set Auto-Update Timeout! [Admin required]", inline=False)
-    embed.add_field(name="=======================", value="```!AAcontrol [start/restart/status]``` - Auto-Update service control! [Admin equired]", inline=False)
-    await ctx.send(embed=embed)
+    
+    
+    
 
 
 bot.run(disToken)
