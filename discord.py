@@ -406,7 +406,7 @@ async def help(ctx, page: typing.Optional[str] = "0"):
         embed2.add_field(name="=======================", value="```p!M3UEPG``` - Runs M3U Update With EPG!", inline=False)
         embed2.add_field(name="=======================", value="```p!log``` - Show System Service Log!", inline=False)
         embed2.add_field(name="=======================", value="```p!resetbot``` - Restart Discord BOT!", inline=False)
-        embed3.add_field(name="=======================", value="```p!kick [user] [reason - not required]``` - Kick's People!", inline=False)
+        embed2.add_field(name="=======================", value="```p!kick [user] [reason - not required]``` - Kick's People!", inline=False)
         await ctx.send(embed=embed2)
     elif page == "admin":
         embed3=nextcord.Embed(title="Admin Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
