@@ -416,7 +416,7 @@ async def help(ctx, page: typing.Optional[str] = "0"):
         embed3.add_field(name="=======================", value="```p!announce2 [room] [title] [message] [message - second row] [icon - not required]``` - Auto-Update service control!", inline=False)
         embed3.add_field(name="=======================", value="```p!announce3 [room] [title] [message] [message - second row] [message - third row] [icon - not required]``` - Auto-Update service control!", inline=False)
         embed3.add_field(name="=======================", value="```p!ban [user] [reason - not required]``` - Ban's People!", inline=False)
-        embed3.add_field(name="=======================", value="```p! [hex color / default]``` - Change p!announce command color!", inline=False)
+        embed3.add_field(name="=======================", value="```p!sac [hex color / default]``` - Change p!announce command color!", inline=False)
         await ctx.send(embed=embed3)
     elif page == "owner":
         embed4=nextcord.Embed(title="Owner Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
