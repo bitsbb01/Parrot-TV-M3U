@@ -4,6 +4,7 @@ from typing import List
 import nextcord
 import typing
 import random
+import time
 import os
 from nextcord.message import Message
 from Auth.auth import disToken
@@ -11,7 +12,7 @@ import os
 from datetime import datetime
 from Assets.python.time import tz
 from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng,MakePriv ,MakeMain, Git, remPYC, Clear
-bot = commands.Bot(command_prefix='!', help_command=None)
+bot = commands.Bot(command_prefix='p!', help_command=None)
 
 now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")
@@ -100,6 +101,28 @@ async def on_ready():
     echo(str(bot.user.name) + " has connected to Discord!")
     echo("------------------")
 
+
+@bot.command()
+@commands.has_any_role("Owner", "Admin")
+async def sac(ctx, color):
+    if color == "default":
+        colr = "0xA1BCD0"
+    else:
+        colr = color.replace("#", "0x")
+    if os.path.exists('Assets/color.py'):
+        os.remove('Assets/color.py')
+    os.system("echo > Assets/color.py")
+    with open('Assets/color.py', 'w') as f:
+        line = "color=" + colr
+        f.write(line)
+        f.close()
+
+    if color == "default":
+        await ctx.reply("Default color is back!")
+    else:
+        await ctx.reply(color + " Is new color")
+
+
 @bot.command()
 async def M3U(ctx):
     await ctx.reply('OK!', mention_author=True)
@@ -107,12 +130,23 @@ async def M3U(ctx):
     Mode2()
     await ctx.reply("Done! - without EPG!", mention_author=True)
 
+
+@bot.command()
+async def covm(ctx):
+    await ctx.message.delete()
+    await ctx.send("!cov")
+    await ctx.send("!cov us")
+    await ctx.send("!cov sk")
+    await ctx.send("!cov cz")
+    await ctx.send("!cov ro")
+
+
 @bot.command()
 @commands.has_any_role("Owner", "Admin")
 async def announce(ctx, channel:nextcord.TextChannel, title, msg, icon: typing.Optional[str] = "https://ParrotTV.github.io/Images/Favicon/favicon.png"):
     await ctx.message.delete()
-
-    embed=nextcord.Embed(title=str(title), color=0xA1BCD0)
+    from Assets.color import color
+    embed=nextcord.Embed(title=str(title), color=color)
     embed.set_thumbnail(url=icon)
     embed.add_field(name=str(msg), value=str("Announced by ") + str(ctx.author), inline=False)
     await channel.send(embed=embed)
@@ -122,8 +156,8 @@ async def announce(ctx, channel:nextcord.TextChannel, title, msg, icon: typing.O
 @commands.has_any_role("Owner", "Admin")
 async def announce2(ctx, channel:nextcord.TextChannel, title, msg, msg2, icon: typing.Optional[str] = "https://ParrotTV.github.io/Images/Favicon/favicon.png"):
     await ctx.message.delete()
-
-    embed=nextcord.Embed(title=str(title), color=0xA1BCD0)
+    from Assets.color import color
+    embed=nextcord.Embed(title=str(title), color=color)
     embed.set_thumbnail(url=icon)
     embed.add_field(name=str(msg), value=str("--------------"), inline=False)
     embed.add_field(name=str(msg2), value=str("Announced by ") + str(ctx.author), inline=False)
@@ -134,8 +168,8 @@ async def announce2(ctx, channel:nextcord.TextChannel, title, msg, msg2, icon: t
 @commands.has_any_role("Owner", "Admin")
 async def announce3(ctx, channel:nextcord.TextChannel, title, msg, msg2, msg3, icon: typing.Optional[str] = "https://ParrotTV.github.io/Images/Favicon/favicon.png"):
     await ctx.message.delete()
-
-    embed=nextcord.Embed(title=str(title), color=0xA1BCD0)
+    from Assets.color import color
+    embed=nextcord.Embed(title=str(title), color=color)
     embed.set_thumbnail(url=icon)
     embed.add_field(name=str(msg), value=str("--------------"), inline=False)
     embed.add_field(name=str(msg2), value=str("--------------"), inline=False)
@@ -177,6 +211,25 @@ async def ban(ctx, user: typing.Optional[nextcord.Member], reason: typing.Option
         embed.set_image(url='https://i.imgur.com/RkIfjMP.gif')
         await ctx.send(embed=embed)
         await ctx.guild.ban(user, reason=reason)
+
+@bot.command()
+@commands.has_permissions(kick_members = True)
+async def kick(ctx, user: typing.Optional[nextcord.Member], reason: typing.Optional[str] = "U got fucking yeeted"):
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
+
+    if user == None:
+        embed=nextcord.Embed(title="Who do u want me to kick?:", color=0xff4c4c)
+        embed.set_image(url='https://c.tenor.com/O_xuLx_lC-gAAAAC/stickman-smile.gif')
+        await ctx.send(embed=embed)
+    else:
+        titleC = "Kicked " + str(user) + "!"
+        embed=nextcord.Embed(title=titleC, color=0xff4c4c)
+        embed.set_image(url='https://c.tenor.com/O_xuLx_lC-gAAAAC/stickman-smile.gif')
+        await ctx.send(embed=embed)
+        await ctx.guild.kick(user, reason=reason)
+
 
 @bot.command()
 @commands.has_any_role('Owner', 'Moderator', 'Admin')
@@ -335,41 +388,43 @@ async def help(ctx, page: typing.Optional[str] = "0"):
 
     if page == "0":
         embedh=nextcord.Embed(title="User Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-        embedh.add_field(name="=======================", value="```!help``` - Show this page!", inline=False)
-        embedh.add_field(name="=======================", value="```!help user``` - Show user commands!", inline=False)
-        embedh.add_field(name="=======================", value="```!help mod``` - Show mod commands!", inline=False)
-        embedh.add_field(name="=======================", value="```!help admin``` - Show admin commands!", inline=False)
-        embedh.add_field(name="=======================", value="```!help owner``` - Show owner commands!", inline=False)
+        embedh.add_field(name="=======================", value="```p!help``` - Show this page!", inline=False)
+        embedh.add_field(name="=======================", value="```p!help user``` - Show user commands!", inline=False)
+        embedh.add_field(name="=======================", value="```p!help mod``` - Show mod commands!", inline=False)
+        embedh.add_field(name="=======================", value="```p!help admin``` - Show admin commands!", inline=False)
+        embedh.add_field(name="=======================", value="```p!help owner``` - Show owner commands!", inline=False)
         await ctx.send(embed=embedh)
     elif page == "user":
         embed=nextcord.Embed(title="User Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-        embed.add_field(name="=======================", value="```!M3U``` - Runs M3U Update Without EPG!", inline=False)
-        embed.add_field(name="=======================", value="```!src``` - Show Source Code!", inline=False)
-        embed.add_field(name="=======================", value="```!rempyc``` - Remove pycahce!", inline=False)
-        embed.add_field(name="=======================", value="```!neofetch``` - Show system info!", inline=False)
+        embed.add_field(name="=======================", value="```p!M3U``` - Runs M3U Update Without EPG!", inline=False)
+        embed.add_field(name="=======================", value="```p!src``` - Show Source Code!", inline=False)
+        embed.add_field(name="=======================", value="```p!rempyc``` - Remove pycahce!", inline=False)
+        embed.add_field(name="=======================", value="```p!neofetch``` - Show system info!", inline=False)
         await ctx.send(embed=embed)
     elif page == "mod":
         embed2=nextcord.Embed(title="Mod Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-        embed2.add_field(name="=======================", value="```!M3UEPG``` - Runs M3U Update With EPG!", inline=False)
-        embed2.add_field(name="=======================", value="```!log``` - Show System Service Log!", inline=False)
-        embed2.add_field(name="=======================", value="```!resetbot``` - Restart Discord BOT!", inline=False)
+        embed2.add_field(name="=======================", value="```p!M3UEPG``` - Runs M3U Update With EPG!", inline=False)
+        embed2.add_field(name="=======================", value="```p!log``` - Show System Service Log!", inline=False)
+        embed2.add_field(name="=======================", value="```p!resetbot``` - Restart Discord BOT!", inline=False)
+        embed3.add_field(name="=======================", value="```p!kick [user] [reason - not required]``` - Kick's People!", inline=False)
         await ctx.send(embed=embed2)
     elif page == "admin":
         embed3=nextcord.Embed(title="Admin Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-        embed3.add_field(name="=======================", value="```!stt [time in seconds]``` - Set Auto-Update Timeout!", inline=False)
-        embed3.add_field(name="=======================", value="```!AAcontrol [start/restart/status]``` - Auto-Update service control!", inline=False)
-        embed3.add_field(name="=======================", value="```!announce [room] [title] [message] [icon - not required]``` - Auto-Update service control!", inline=False)
-        embed3.add_field(name="=======================", value="```!announce2 [room] [title] [message] [message - second row] [icon - not required]``` - Auto-Update service control!", inline=False)
-        embed3.add_field(name="=======================", value="```!announce3 [room] [title] [message] [message - second row] [message - third row] [icon - not required]``` - Auto-Update service control!", inline=False)
-        embed3.add_field(name="=======================", value="```!ban [user] [reason - not required]``` - Ban's People!", inline=False)
+        embed3.add_field(name="=======================", value="```p!stt [time in seconds]``` - Set Auto-Update Timeout!", inline=False)
+        embed3.add_field(name="=======================", value="```p!AAcontrol [start/restart/status]``` - Auto-Update service control!", inline=False)
+        embed3.add_field(name="=======================", value="```p!announce [room] [title] [message] [icon - not required]``` - Auto-Update service control!", inline=False)
+        embed3.add_field(name="=======================", value="```p!announce2 [room] [title] [message] [message - second row] [icon - not required]``` - Auto-Update service control!", inline=False)
+        embed3.add_field(name="=======================", value="```p!announce3 [room] [title] [message] [message - second row] [message - third row] [icon - not required]``` - Auto-Update service control!", inline=False)
+        embed3.add_field(name="=======================", value="```p!ban [user] [reason - not required]``` - Ban's People!", inline=False)
+        embed3.add_field(name="=======================", value="```p! [hex color / default]``` - Change p!announce command color!", inline=False)
         await ctx.send(embed=embed3)
     elif page == "owner":
         embed4=nextcord.Embed(title="Owner Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-        embed4.add_field(name="=======================", value="```!sendrules``` - Send rules.", inline=False)
-        embed4.add_field(name="=======================", value="```!sendweb``` - Send website domains.", inline=False)
-        embed4.add_field(name="=======================", value="```!sendkodi``` - Send KODI Links.", inline=False)
-        embed4.add_field(name="=======================", value="```!sendepg``` - Send EPG URLs.", inline=False)
-        embed4.add_field(name="=======================", value="```!sendm3u``` - Send M3U URLs.", inline=False)
+        embed4.add_field(name="=======================", value="```p!sendrules``` - Send rules.", inline=False)
+        embed4.add_field(name="=======================", value="```p!sendweb``` - Send website domains.", inline=False)
+        embed4.add_field(name="=======================", value="```p!sendkodi``` - Send KODI Links.", inline=False)
+        embed4.add_field(name="=======================", value="```p!sendepg``` - Send EPG URLs.", inline=False)
+        embed4.add_field(name="=======================", value="```p!sendm3u``` - Send M3U URLs.", inline=False)
         await ctx.send(embed=embed4)
 
     
