@@ -154,8 +154,11 @@ async def covm(ctx):
 
 @bot.command()
 @commands.has_permissions(manage_messages = True)
-async def clear(ctx, amount=5):
-	await ctx.channel.purge(limit=amount)
+async def clear(ctx, amount: typing.Optional[int]):
+    if amount == None:
+	    await ctx.channel.purge()
+    else:
+        await ctx.channel.purge(limit=amount + 1)
 
 
 @bot.command()
