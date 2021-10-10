@@ -11,3 +11,4 @@ http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
 http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/228574
+https://google.sk
