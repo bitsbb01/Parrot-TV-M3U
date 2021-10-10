@@ -5,6 +5,7 @@ import nextcord
 import typing
 import random
 import time
+import requests
 import os
 from nextcord.message import Message
 from Auth.auth import disToken
@@ -132,6 +133,17 @@ async def M3U(ctx):
 
 
 @bot.command()
+async def testurl(ctx, url):
+    os.system('rm Assets/Admin/url.txt.bak')
+    os.system('cp Assets/Admin/url.txt Assets/Admin/url.txt.bak')
+    old = open('Assets/Admin/url.txt', 'r').read()
+    open('Assets/Admin/url.txt', 'w').write(old + "\n" + url)
+    cmd = "curl " + url + " > Assets/Admin/curl.txt"
+    os.system(cmd)
+    await ctx.reply(open('Assets/Admin/curl.txt', 'r').read())
+    os.system('rm Assets/Admin/curl.txt')
+
+@bot.command()
 async def covm(ctx):
     await ctx.message.delete()
     await ctx.send("!cov")
@@ -139,6 +151,11 @@ async def covm(ctx):
     await ctx.send("!cov sk")
     await ctx.send("!cov cz")
     await ctx.send("!cov ro")
+
+@bot.command()
+@commands.has_permissions(manage_messages = True)
+async def clear(ctx, amount=5):
+	await ctx.channel.purge(limit=amount)
 
 
 @bot.command()
@@ -417,6 +434,7 @@ async def help(ctx, page: typing.Optional[str] = "0"):
         embed3.add_field(name="=======================", value="```p!announce3 [room] [title] [message] [message - second row] [message - third row] [icon - not required]``` - Auto-Update service control!", inline=False)
         embed3.add_field(name="=======================", value="```p!ban [user] [reason - not required]``` - Ban's People!", inline=False)
         embed3.add_field(name="=======================", value="```p!sac [hex color / default]``` - Change p!announce command color!", inline=False)
+        embed3.add_field(name="=======================", value="```p!clear [number]``` - Clear [number] messages!", inline=False)
         await ctx.send(embed=embed3)
     elif page == "owner":
         embed4=nextcord.Embed(title="Owner Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)

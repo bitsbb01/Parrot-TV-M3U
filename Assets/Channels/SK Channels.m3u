@@ -30,8 +30,6 @@ http://sktv-forwarders.7m.pl/get.php?x=TA3
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="191-lux" group-title="SK Channels" tvg-logo="https://i.ibb.co/Lg39pBN/tvlux.png",SK: TV Lux
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="0" group-title="SK Channels" tvg-logo="https://i.ibb.co/hBRVZKH/Nitricka.jpg",TV Nitrička
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnEQCNDsMtPlrVwCrRViaeQ/live
 #EXTINF:-1 tvg-id="833-senzi" group-title="SK Channels" tvg-logo="https://i.ibb.co/SXx76Pb/senzi.png",SK: Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
 #EXTINF:-1 tvg-id="1146-lifetv" group-title="SK Channels" tvg-logo="https://i.ibb.co/3YktrSX/Life-TV.png",SK: Life TV
