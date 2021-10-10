@@ -435,7 +435,7 @@ async def sendepg(ctx):
 
     embed=nextcord.Embed(title="EPG Links:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
     embed.set_thumbnail(url="https://ParrotTV.github.io/Images/Favicon/favicon.png")
-    embed.add_field(name="CZ / SK:", value="```https://bit.ly/PPEPG3```", inline=False)
+    embed.add_field(name="CZ / SK:", value="```https://bit.ly/PPEPG4```", inline=False)
     embed.add_field(name="US:", value="```https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml```", inline=False)
     await ctx.send(embed=embed)
 
