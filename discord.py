@@ -5,15 +5,17 @@ import nextcord
 import typing
 import random
 import time
+import aiohttp
 import requests
 import os
 from nextcord.message import Message
 from Auth.auth import disToken
 import os
+# import Assets.python.meme
 from datetime import datetime
 from Assets.python.time import tz
 from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng,MakePriv ,MakeMain, Git, remPYC, Clear
-bot = commands.Bot(command_prefix='p!', help_command=None)
+bot = commands.Bot(command_prefix=('p!', '-'), help_command=None)
 
 now = datetime.now(tz)
 time = now.strftime("%H:%M:%S")
@@ -215,6 +217,44 @@ async def src(ctx):
     await ctx.send("https://github.com/ParrotDevelopers/Parrot-TV-M3U/")
 
 @bot.command()
+@commands.has_permissions(manage_messages=True)
+async def mute(ctx, user: typing.Optional[nextcord.Member]):
+    mutedRole = nextcord.utils.get(ctx.guild.roles, name="Muted")
+    mutedRole2 = nextcord.utils.get(ctx.guild.roles, name="Member")
+    if user == None:
+        embed=nextcord.Embed(title="Who should be silenced?", color=0xff4c4c)
+        embed.set_image(url='https://c.tenor.com/RLuR6aGNAGEAAAAC/scpl-maszkos.gif')
+        await ctx.send(embed=embed)
+    else:
+        titleC = "Silence has raised for " + str(user) + "!"
+        embed=nextcord.Embed(title=titleC, color=0xff4c4c)
+        embed.set_image(url='https://c.tenor.com/RLuR6aGNAGEAAAAC/scpl-maszkos.gif')
+        await ctx.send(embed=embed)
+        await user.add_roles(mutedRole)
+        await user.remove_roles(mutedRole2)
+
+
+
+
+@bot.command()
+@commands.has_permissions(manage_messages=True)
+async def unmute(ctx, user: typing.Optional[nextcord.Member]):
+    mutedRole = nextcord.utils.get(ctx.guild.roles, name="Muted")
+    mutedRole2 = nextcord.utils.get(ctx.guild.roles, name="Member")
+    if user == None:
+        embed=nextcord.Embed(title="Who should be unmuted?:", color=0x76ee00)
+        embed.set_image(url='https://c.tenor.com/sikzoqOWHJ8AAAAM/unmute-me-unmute.gif')
+        await ctx.send(embed=embed)
+    else:
+        titleC = "Silence has left for " + str(user) + "!"
+        embed=nextcord.Embed(title=titleC, color=0x76ee00)
+        embed.set_image(url='https://c.tenor.com/I62xyZQjD_sAAAAd/im-unmuted.gif')
+        await ctx.send(embed=embed)
+        await user.remove_roles(mutedRole)
+        await user.add_roles(mutedRole2)
+
+
+@bot.command()
 @commands.has_permissions(ban_members = True)
 async def ban(ctx, user: typing.Optional[nextcord.Member], reason: typing.Optional[str] = "U got fucking yeeted"):
     if ctx.author == bot.user:
@@ -226,11 +266,45 @@ async def ban(ctx, user: typing.Optional[nextcord.Member], reason: typing.Option
         embed.set_image(url='https://i.imgur.com/RkIfjMP.gif')
         await ctx.send(embed=embed)
     else:
+        channel = bot.get_channel(896798066848444466)
         titleC = "Killed " + str(user) + "!"
         embed=nextcord.Embed(title=titleC, color=0xff4c4c)
         embed.set_image(url='https://i.imgur.com/RkIfjMP.gif')
+        titleC2 = "Killed " + str(user) + " by " + str(ctx.author)
+        embed2=nextcord.Embed(title=titleC2, color=0xff4c4c)
+        embed2.set_image(url='https://i.imgur.com/RkIfjMP.gif')
         await ctx.send(embed=embed)
+        await channel.send(embed=embed2)
         await ctx.guild.ban(user, reason=reason)
+
+@bot.command()
+@commands.has_permissions(ban_members = True)
+async def unban(ctx, *, user: typing.Optional[str]):
+    if ctx.author == bot.user:
+        return
+    if ctx.author.bot: return
+
+    if user == None:
+        embed=nextcord.Embed(title="Who do u want me to revive?:", color=0x76ee00)
+        embed.set_image(url='https://c.tenor.com/4sYpvIJeA_kAAAAM/kogama-tokeeto-banwave-kogama.gif')
+        await ctx.send(embed=embed)
+    else:
+        banned_users = await ctx.guild.bans()
+        
+        member_name, member_discriminator = user.split('#')
+        for ban_entry in banned_users:
+            user = ban_entry.user
+            
+            if (user.name, user.discriminator) == (member_name, member_discriminator):
+                await ctx.guild.unban(user)
+                channel = bot.get_channel(896798066848444466)
+                embed=nextcord.Embed(title="Revived " + str(user) + "!", color=0x76ee00)
+                embed.set_image(url='https://c.tenor.com/KLMY48otv4gAAAAC/quantum-society-unbanned.gif')
+                embed2=nextcord.Embed(title="Revived " + str(user) + " by " + str(ctx.author), color=0x76ee00)
+                embed2.set_image(url='https://c.tenor.com/KLMY48otv4gAAAAC/quantum-society-unbanned.gif')
+                await ctx.send(embed=embed)
+                await channel.send(embed=embed2)
+
 
 @bot.command()
 @commands.has_permissions(kick_members = True)
@@ -244,10 +318,15 @@ async def kick(ctx, user: typing.Optional[nextcord.Member], reason: typing.Optio
         embed.set_image(url='https://c.tenor.com/O_xuLx_lC-gAAAAC/stickman-smile.gif')
         await ctx.send(embed=embed)
     else:
+        channel = bot.get_channel(896802105229201419)
         titleC = "Kicked " + str(user) + "!"
         embed=nextcord.Embed(title=titleC, color=0xff4c4c)
         embed.set_image(url='https://c.tenor.com/O_xuLx_lC-gAAAAC/stickman-smile.gif')
+        titleC2 = "Kicked " + str(user) + " by " + str(ctx.author)
+        embed2=nextcord.Embed(title=titleC2, color=0xff4c4c)
+        embed2.set_image(url='https://c.tenor.com/O_xuLx_lC-gAAAAC/stickman-smile.gif')
         await ctx.send(embed=embed)
+        await channel.send(embed=embed2)
         await ctx.guild.kick(user, reason=reason)
 
 
@@ -272,6 +351,20 @@ async def rempyc(ctx):
     echo("Removing PYC")
     remPYC()
     await ctx.reply("Done!")
+
+
+@bot.command()
+@commands.has_permissions(manage_messages=True)
+async def warn(ctx, user: typing.Optional[nextcord.Member], reason):
+    channel = bot.get_channel(896791800830894121)
+    line1 = str(user) + " has been warned for " + str(reason) + "!"
+    line2 = "Warned by " + str(ctx.author)
+    embed=nextcord.Embed(title="Warn:", color=0xff4c4c) 
+    embed.set_thumbnail(url="https://openclipart.org/image/2400px/svg_to_png/1695/zeimusu-Warning-sign.png")
+    embed.add_field(name=line1, value=line2, inline=False)
+    await ctx.send(embed=embed)
+    await channel.send(embed=embed)
+
 
 @bot.command()
 @commands.has_any_role('Owner', 'Admin')
@@ -300,6 +393,18 @@ async def AAcontrol(ctx, args):
         os.system("sudo systemctl status parrotbot.service > Assets/Admin/log-auto.sys")
         await ctx.reply(open('Assets/Admin/log-auto.sys', 'r').read())
         os.system("sudo rm -f Assets/Admin/log-auto.sys")
+
+
+"""
+@bot.command()
+async def memes(ctx,sub='memes'):
+    output = meme.get_meme(sub)
+    try:
+        for i in range(len(output)):
+            await ctx.channel.send(file=nextcord.File(output[i]))
+    except:
+        await ctx.send('Oof something went wrong... Try changing subreddit')
+"""
 
 @bot.command()
 @commands.has_role('Owner')
@@ -427,6 +532,10 @@ async def help(ctx, page: typing.Optional[str] = "0"):
         embed2.add_field(name="=======================", value="```p!log``` - Show System Service Log!", inline=False)
         embed2.add_field(name="=======================", value="```p!resetbot``` - Restart Discord BOT!", inline=False)
         embed2.add_field(name="=======================", value="```p!kick [user] [reason - not required]``` - Kick's People!", inline=False)
+        embed2.add_field(name="=======================", value="```p!mute [user]``` - Mutes's People!", inline=False)
+        embed2.add_field(name="=======================", value="```p!warn [user] [reason]``` - Warn's People!", inline=False)
+        embed2.add_field(name="=======================", value="```p!unmute [user]``` - Unmute's People!", inline=False)
+        embed2.add_field(name="=======================", value="```p!clear [number]``` - Clear [number] messages!", inline=False)
         await ctx.send(embed=embed2)
     elif page == "admin":
         embed3=nextcord.Embed(title="Admin Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
@@ -436,8 +545,8 @@ async def help(ctx, page: typing.Optional[str] = "0"):
         embed3.add_field(name="=======================", value="```p!announce2 [room] [title] [message] [message - second row] [icon - not required]``` - Auto-Update service control!", inline=False)
         embed3.add_field(name="=======================", value="```p!announce3 [room] [title] [message] [message - second row] [message - third row] [icon - not required]``` - Auto-Update service control!", inline=False)
         embed3.add_field(name="=======================", value="```p!ban [user] [reason - not required]``` - Ban's People!", inline=False)
+        embed3.add_field(name="=======================", value="```p!unban [username#tag]``` - Unban's people!", inline=False)
         embed3.add_field(name="=======================", value="```p!sac [hex color / default]``` - Change p!announce command color!", inline=False)
-        embed3.add_field(name="=======================", value="```p!clear [number]``` - Clear [number] messages!", inline=False)
         await ctx.send(embed=embed3)
     elif page == "owner":
         embed4=nextcord.Embed(title="Owner Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
