@@ -152,8 +152,8 @@ def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("EPG/CZ.xml"):
         os.remove("EPG/EPG.xml")
 
-    if os.path.exists("EPG/EPG.tar.gz"):
-        os.remove("EPG/EPG.tar.gz")
+    if os.path.exists("EPG/EPG.xml.gz"):
+        os.remove("EPG/EPG.xml.gz")
 
     if os.path.exists("Assets/Private/Private.m3u"):
         os.remove("Assets/Private/Private.m3u")
@@ -496,8 +496,8 @@ def Mode4():
 
 def tar():
     os.system("cp EPG/EPG.xml EPG.xml")
-    os.system("tar -czvf EPG.tar.gz EPG.xml")
-    os.system("mv EPG.tar.gz EPG/")
+    os.system("gzip EPG.xml")
+    os.system("mv EPG.xml.gz EPG/")
     if os.path.exists("EPG.xml"):
         os.remove("EPG.xml")
 

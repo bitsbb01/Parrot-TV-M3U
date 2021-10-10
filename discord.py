@@ -51,8 +51,8 @@ def RemoveMode1():
     if os.path.exists("EPG/CZ.xml"):
         os.remove("EPG/EPG.xml")
 
-    if os.path.exists("EPG/EPG.tar.gz"):
-        os.remove("EPG/EPG.tar.gz")
+    if os.path.exists("EPG/EPG.xml.gz"):
+        os.remove("EPG/EPG.xml.gz")
 
     if os.path.exists("EPG/EPG.xml"):
         os.remove("EPG/EPG.xml")
@@ -66,8 +66,8 @@ def echo(msg):
 
 def tar():
     os.system("cp EPG/EPG.xml EPG.xml")
-    os.system("tar -czvf EPG.tar.gz EPG.xml")
-    os.system("mv EPG.tar.gz EPG/")
+    os.system("gzip EPG.xml")
+    os.system("mv EPG.xml.gz EPG/")
     if os.path.exists("EPG.xml"):
         os.remove("EPG.xml")
 
@@ -172,7 +172,7 @@ async def announce(ctx, channel:nextcord.TextChannel, title, msg, icon: typing.O
     embed.set_thumbnail(url=icon)
     embed.add_field(name=str(msg), value=str("Announced by ") + str(ctx.author), inline=False)
     await channel.send(embed=embed)
-    await channel.send(ctx.message.guild.default_role)
+    await channel.send("@here")
 
 @bot.command()
 @commands.has_any_role("Owner", "Admin")
@@ -184,7 +184,7 @@ async def announce2(ctx, channel:nextcord.TextChannel, title, msg, msg2, icon: t
     embed.add_field(name=str(msg), value=str("--------------"), inline=False)
     embed.add_field(name=str(msg2), value=str("Announced by ") + str(ctx.author), inline=False)
     await channel.send(embed=embed)
-    await channel.send(ctx.message.guild.default_role)
+    await channel.send("@here")
 
 @bot.command()
 @commands.has_any_role("Owner", "Admin")
@@ -197,7 +197,7 @@ async def announce3(ctx, channel:nextcord.TextChannel, title, msg, msg2, msg3, i
     embed.add_field(name=str(msg2), value=str("--------------"), inline=False)
     embed.add_field(name=str(msg3), value=str("Announced by ") + str(ctx.author), inline=False)
     await channel.send(embed=embed)
-    await channel.send(ctx.message.guild.default_role)
+    await channel.send("@here")
 
 @bot.command()
 @commands.has_any_role('Owner', 'Moderator', 'Admin')
