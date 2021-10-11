@@ -1,4 +1,5 @@
 from nextcord import client, guild
+from nextcord import message
 from nextcord.ext import commands
 from typing import List
 import nextcord
@@ -324,7 +325,10 @@ async def kick(ctx, user: typing.Optional[nextcord.Member], reason: typing.Optio
         titleC = "Kicked " + str(user) + "!"
         embed=nextcord.Embed(title=titleC, color=0xff4c4c)
         embed.set_image(url='https://c.tenor.com/O_xuLx_lC-gAAAAC/stickman-smile.gif')
-        titleC2 = "Kicked " + str(user) + " by " + str(ctx.author)
+        if reason == "U got fucking yeeted":
+            titleC2 = "Kicked " + str(user) + " by " + str(ctx.author)
+        else:
+            titleC2 = "Kicked " + str(user) + " by " + str(ctx.author) + " cuz " + reason
         embed2=nextcord.Embed(title=titleC2, color=0xff4c4c)
         embed2.set_image(url='https://c.tenor.com/O_xuLx_lC-gAAAAC/stickman-smile.gif')
         await ctx.send(embed=embed)
@@ -378,6 +382,12 @@ async def stt(ctx, args):
     await ctx.reply("New auto-update timeout is now: " + timeouttime)
 
 @bot.command()
+@commands.has_any_role('Owner', 'Admin', 'Moderator')
+async def DM(ctx, user: nextcord.User, *, message=None):
+    message = message or "This Message is sent via DM"
+    await user.send(message)
+
+@bot.command()
 @commands.has_any_role('Owner', 'Admin')
 async def AAcontrol(ctx, args):
     if str(args) == "1" or str(args) == "start":
@@ -396,6 +406,18 @@ async def AAcontrol(ctx, args):
         await ctx.reply(open('Assets/Admin/log-auto.sys', 'r').read())
         os.system("sudo rm -f Assets/Admin/log-auto.sys")
 
+
+@bot.command()
+@commands.has_role('Owner')
+async def spam(ctx, user: typing.Optional[str], times: typing.Optional[int] = 10, reason: typing.Optional[str] = "you're being spammed!"):
+    for i in range(int(times)):
+        await ctx.send(user + " " + reason)
+
+@bot.command()
+@commands.has_permissions(manage_messages = True)
+async def sayasbot(ctx, msg):
+    await ctx.message.delete()
+    await ctx.send(msg)
 
 @bot.command()
 @commands.has_role('Owner')
