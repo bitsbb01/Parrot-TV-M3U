@@ -20,6 +20,8 @@ IPTV_032321.m3u
 EPG.xml
 EPG/EPG.xml
 EPG/EPG.xml
+memes/
+memes/*
 EPG8.xml
 EPG/EPG8.xml
 test.py

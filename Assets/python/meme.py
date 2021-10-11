@@ -4,11 +4,13 @@ import os
 import time
 from Auth.auth import reduser, repass, redsecret, redid
 
+numofmemes = open('memes/number.txt', 'r').read()
+
 
 #myPath = 'PATH\\TO\\WHERE\\YOU\\WANT\\YOUR\\MEMES\\SAVED'
 
 #default path
-myPath = 'meme-folder'
+myPath = 'memes/meme-folder'
 
 #make a reddit account and look up how to find this stuff. its called PRAW
 reddit = praw.Reddit(client_id=redid, 
@@ -19,7 +21,7 @@ reddit = praw.Reddit(client_id=redid,
 
 
 #number of pics you want your bot to send
-numPics = 1
+numPics = int(numofmemes)
 
 #waiting time to get data, don't change it
 waitTime = 2
@@ -41,9 +43,9 @@ def get_meme(string):
 			url = subbmission.url
 			print('checking if the post is new...')
 			print('>>>' +url +'<<<')
-			filename = 'memes.txt'
+			filename = 'memes/memes.txt'
 			#check if meme is old
-			with open('memes.txt', 'r') as rf:
+			with open('memes/memes.txt', 'r') as rf:
 				with open(filename, 'a') as af:
 					read = rf.read()
 					if url not in read:

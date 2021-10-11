@@ -6,12 +6,14 @@ import typing
 import random
 import time
 import aiohttp
+import shutil
+import asyncio
 import requests
 import os
 from nextcord.message import Message
+import Assets.python.meme as meme
 from Auth.auth import disToken
 import os
-# import Assets.python.meme
 from datetime import datetime
 from Assets.python.time import tz
 from make import RemoveMode2, getUSTVGO, replaceUStVicons, MakeCS, MakeEng,MakePriv ,MakeMain, Git, remPYC, Clear
@@ -395,17 +397,6 @@ async def AAcontrol(ctx, args):
         os.system("sudo rm -f Assets/Admin/log-auto.sys")
 
 
-"""
-@bot.command()
-async def memes(ctx,sub='memes'):
-    output = meme.get_meme(sub)
-    try:
-        for i in range(len(output)):
-            await ctx.channel.send(file=nextcord.File(output[i]))
-    except:
-        await ctx.send('Oof something went wrong... Try changing subreddit')
-"""
-
 @bot.command()
 @commands.has_role('Owner')
 async def sendm3u(ctx):
@@ -438,6 +429,29 @@ async def sendepg(ctx):
     embed.add_field(name="CZ / SK:", value="```https://bit.ly/PPEPG4```", inline=False)
     embed.add_field(name="US:", value="```https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml```", inline=False)
     await ctx.send(embed=embed)
+
+@bot.command()
+async def memes(ctx,sub: typing.Optional[str] = "linuxmemes"):
+    output = meme.get_meme(sub)
+    try:
+        for i in range(len(output)):
+            await ctx.channel.send(file=nextcord.File(output[i]))
+    except:
+        await ctx.send('Oof something went wrong... Try changing subreddit')
+
+@bot.command()
+async def setmemesnum(ctx,num: typing.Optional[int] = 2):
+    os.system("rm -f memes/number.txt")
+    open('memes/number.txt', 'w').write(str(num))
+    await ctx.reply("Memes number is now " + num)
+
+@bot.command()
+@commands.has_any_role('Owner', 'Admin')
+async def clearmemes(ctx):
+    shutil.rmtree('memes/meme-folder/')
+    os.system('mkdir memes/memes.txt')
+    os.makedirs('memes/meme-folder/')
+    open('memes/memes.txt', 'w')
 
 @bot.command()
 @commands.has_role('Owner')
