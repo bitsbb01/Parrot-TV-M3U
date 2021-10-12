@@ -29,14 +29,6 @@ async def reload(ctx, extension):
 	bot.load_extension(f'cogs.{extension}')
 	await ctx.send("Reloaded " + extension)
 
-@bot.command()
-@commands.has_role('Owner')
-async def loadall(ctx):
-	for filename in os.listdir('./cogs'):
-		if filename.endswith('.py'):
-			bot.load_extension(f'cogs.{filename[:-3]}')
-	await ctx.send("Loaded all cogs!")
-
 for filename in os.listdir('./cogs'):
 	if filename.endswith('.py'):
 		bot.load_extension(f'cogs.{filename[:-3]}')
