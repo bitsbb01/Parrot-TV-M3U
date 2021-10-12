@@ -4,3 +4,7 @@ Auth/auth.py
 .git
 .git/
 discord.sh
+__pycache__
+cogs/__pycache__
+Assets/__pycache__
+Assets/python/__pycache__
