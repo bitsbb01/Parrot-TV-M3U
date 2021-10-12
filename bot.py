@@ -1,7 +1,7 @@
 import os
 import nextcord
 from nextcord.ext import commands
-from Auth.auth import disToken
+from Assets.Auth.auth import disToken
 
 bot = commands.Bot(command_prefix=('p!', '-'), help_command=None)
 

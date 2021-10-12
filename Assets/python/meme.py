@@ -2,7 +2,7 @@ import urllib.request
 import praw
 import os
 import time
-from Auth.auth import reduser, repass, redsecret, redid
+from Assets.Auth.auth import reduser, repass, redsecret, redid
 
 numofmemes = open('memes/number.txt', 'r').read()
 

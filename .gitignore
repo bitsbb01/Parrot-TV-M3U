@@ -8,3 +8,6 @@ __pycache__
 cogs/__pycache__
 Assets/__pycache__
 Assets/python/__pycache__
+Assets/Auth/
+Assets/Auth/*
+Assets/Auth/auth.py
