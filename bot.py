@@ -7,7 +7,7 @@ bot = commands.Bot(command_prefix=('p!', '-'), help_command=None)
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.listening, name="-help"))
+    await bot.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.listening, name="-help or p!help"))
 
 
 @bot.command()

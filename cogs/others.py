@@ -1,3 +1,4 @@
+from nextcord.enums import ActivityType
 from nextcord.ext import commands
 from Assets.python.echo import echo
 import typing
@@ -31,9 +32,17 @@ class Others(commands.Cog):
 
     @commands.command()
     @commands.has_any_role('Owner', 'Moderator', 'Admin')
-    async def editstatus(self, ctx, *, status):
+    async def editstatus(self, ctx, st, status, url: typing.Optional[str]):
         bot = self.bot
-        await bot.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.listening, name=status))
+        await ctx.message.delete()
+        if str(st) == "1":
+            await bot.change_presence(activity=nextcord.Game(name=status))
+        elif str(st) == "2":
+            await bot.change_presence(activity=nextcord.Streaming(name=status, url=url))
+        elif str(st) == "3":
+            await bot.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.listening, name=status))
+        elif str(st) == "4":
+            await bot.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.watching, name=status))
 
     @commands.command()
     @commands.has_any_role('Owner', 'Admin', 'Moderator')
