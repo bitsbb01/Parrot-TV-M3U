@@ -1,0 +1,6 @@
+Auth/
+Auth/*
+Auth/auth.py
+.git
+.git/
+discord.sh
