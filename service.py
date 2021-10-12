@@ -17,7 +17,7 @@ def echo(msg):
     os.system(echocmd)
 
 auto = True
-timeoutTime = open('Assets/Service/timeou.txt').read()
+timeoutTime = 7200
 int(timeoutTime)
 
 msg = "Timeout time is: " + str(timeoutTime)
