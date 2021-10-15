@@ -4,7 +4,7 @@ from nextcord.ext import commands
 try:
 	from Assets.Auth.auth import disToken
 except ModuleNotFoundError:
-	os.environ['disToken']
+	disToken = os.environ['disToken']
 
 
 

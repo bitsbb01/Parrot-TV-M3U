@@ -2,7 +2,14 @@ import urllib.request
 import praw
 import os
 import time
-from Assets.Auth.auth import reduser, repass, redsecret, redid
+try:
+  from Assets.Auth.auth import reduser, repass, redsecret, redid
+except ModuleNotFoundError:
+  redid = os.environ['redid']
+  redsecret = os.environ['redsecret']
+  reduser = os.environ['reduser']
+  repass = os.environ['repass']
+
 
 numofmemes = open('memes/number.txt', 'r').read()
 
