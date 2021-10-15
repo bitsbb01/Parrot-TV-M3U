@@ -1,6 +1,7 @@
 import os
 import nextcord
 from nextcord.ext import commands
+from keep_alive import keep_alive
 try:
 	from Assets.Auth.auth import disToken
 except ModuleNotFoundError:
@@ -39,5 +40,5 @@ for filename in os.listdir('./cogs'):
 	if filename.endswith('.py'):
 		bot.load_extension(f'cogs.{filename[:-3]}')
 
-
+keep_alive()
 bot.run(disToken)
