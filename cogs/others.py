@@ -60,7 +60,7 @@ class Others(commands.Cog):
 
 
         embed=nextcord.Embed(title="Neofetch:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-        embed.add_field(name="Distro", value="Manjaro Linux", inline=False)
+        embed.add_field(name="Distro", value="Arch Linux", inline=False)
         embed.add_field(name="APU", value="Potato gen 6", inline=False)
         embed.add_field(name="RAM", value="4gb", inline=False)
         embed.set_image(url='https://i.ytimg.com/vi/caBFyIyDZME/hqdefault.jpg')
