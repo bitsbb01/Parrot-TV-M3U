@@ -12,3 +12,5 @@ Assets/Auth/
 Assets/Auth/*
 .env
 Assets/Auth/auth.py
+.~lock.bot.sh#
+memes/meme-folder/*
