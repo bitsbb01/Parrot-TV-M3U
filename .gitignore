@@ -10,4 +10,5 @@ Assets/__pycache__
 Assets/python/__pycache__
 Assets/Auth/
 Assets/Auth/*
+.env
 Assets/Auth/auth.py

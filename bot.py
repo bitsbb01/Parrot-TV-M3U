@@ -1,7 +1,13 @@
 import os
 import nextcord
 from nextcord.ext import commands
-from Assets.Auth.auth import disToken
+try:
+	from Assets.Auth.auth import disToken
+except ModuleNotFoundError:
+	os.environ['disToken']
+
+
+
 
 bot = commands.Bot(command_prefix=('p!', '-'), help_command=None)
 
