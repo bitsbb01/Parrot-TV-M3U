@@ -80,3 +80,4 @@ if __name__ == "__main__":
     Main("us", True) 
     # Edit us to any state
     # Edit True to False if you want to disable checking of links in m3u
+    # Checking links is kinda slow
