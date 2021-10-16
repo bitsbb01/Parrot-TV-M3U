@@ -30,6 +30,7 @@ class Temp(commands.Cog):
     async def tempban(self, ctx, user: nextcord.Member, time: int, reason: typing.Optional[str]):
         bot = self.bot
         timeban = time * 60
+        rs = reason + " for " + time
         channel = bot.get_channel(896798066848444466)
         titleC = "Killed " + str(user) + " for " + time + "!"
         embed=nextcord.Embed(title=titleC, color=0xff4c4c)

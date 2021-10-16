@@ -23,8 +23,13 @@ class Help(commands.Cog):
             await ctx.send(embed=embedh)
         elif page == "user":
             embed=nextcord.Embed(title="User Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-            embed.add_field(name="=======================", value="```p!src``` - Show Source Code!", inline=False)
             embed.add_field(name="=======================", value="```p!neofetch``` - Show system info!", inline=False)
+            await ctx.send(embed=embed)
+            embed.add_field(name="=======================", value="```p!sendrules``` - Send rules.", inline=False)
+            embed.add_field(name="=======================", value="```p!sendweb``` - Send website domains.", inline=False)
+            embed.add_field(name="=======================", value="```p!sendkodi``` - Send KODI Links.", inline=False)
+            embed.add_field(name="=======================", value="```p!sendepg``` - Send EPG URLs.", inline=False)
+            embed.add_field(name="=======================", value="```p!sendm3u``` - Send M3U URLs.", inline=False)
             await ctx.send(embed=embed)
         elif page == "mod":
             embed2=nextcord.Embed(title="Mod Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
@@ -49,11 +54,7 @@ class Help(commands.Cog):
             await ctx.send(embed=embed3)
         elif page == "owner":
             embed4=nextcord.Embed(title="Owner Commands:", description="It Looks Like u Need Help :flushed:!", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
-            embed4.add_field(name="=======================", value="```p!sendrules``` - Send rules.", inline=False)
-            embed4.add_field(name="=======================", value="```p!sendweb``` - Send website domains.", inline=False)
-            embed4.add_field(name="=======================", value="```p!sendkodi``` - Send KODI Links.", inline=False)
-            embed4.add_field(name="=======================", value="```p!sendepg``` - Send EPG URLs.", inline=False)
-            embed4.add_field(name="=======================", value="```p!sendm3u``` - Send M3U URLs.", inline=False)
+            embed4.add_field(name="=======================", value="Nothing to see here.", inline=False)
             await ctx.send(embed=embed4)
 
 

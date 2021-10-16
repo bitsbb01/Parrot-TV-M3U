@@ -27,7 +27,6 @@ class Send(commands.Cog):
 
 
     @commands.command()
-    @commands.has_role('Owner')
     async def sendkodi(self, ctx):
         bot = self.bot
 
@@ -42,7 +41,6 @@ class Send(commands.Cog):
         await ctx.send(embed=embed)
 
     @commands.command()
-    @commands.has_role('Owner')
     async def sendweb(self, ctx):
         bot = self.bot
         await ctx.message.delete()
@@ -54,7 +52,6 @@ class Send(commands.Cog):
         await ctx.send(embed=embed)
 
     @commands.command()
-    @commands.has_role('Owner')
     async def sendm3u(self, ctx):
         bot = self.bot
         await ctx.message.delete()
@@ -68,7 +65,6 @@ class Send(commands.Cog):
         await ctx.send(embed=embed)
 
     @commands.command()
-    @commands.has_role('Owner')
     async def sendepg(self, ctx):
         bot = self.bot
         await ctx.message.delete()
