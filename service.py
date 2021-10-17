@@ -16,13 +16,13 @@ elif replitMode == True:
     name = str(os.environ['name'])
     repo = str(os.environ['gitRepo'])
 
-origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo)
-config_mail = "sudo git config --global user.email " + email
-config_name = "sudo git config --global user.name " + name
+origin = "git remote set-url origin https://github:" + str(token) + str(repo)
+config_mail = "git config --global user.email " + email
+config_name = "git config --global user.name " + name
 
 
 def echo(msg):
-    echocmd = "sudo echo " + '"' + msg + '"'
+    echocmd = "echo " + '"' + msg + '"'
     os.system(echocmd)
 
 auto = True
