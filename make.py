@@ -12,7 +12,6 @@ from Assets.python.merge import merge
 from Assets.python.commit import commit
 from Assets.python.time import tz
 from Assets.python.remPYC import remPYC
-from Assets.python.USTVGOreplace import replaceUStVicons
 from datetime import datetime
 
 
@@ -86,7 +85,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
 
     def grab(name, code, logo):
         data = {'stream': code}
-        m3u = s.post('https://ustvgo.tv/data.php', proxies=proxies, data=data).text
+        m3u = s.post('https://ustvgo.tv/data.php', data=data, proxies=proxies).text
         playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="US Channels" tvg-logo="{logo}",USTVGO: US: {name}')
         playlist.write(f'\n{m3u}')
 
@@ -119,6 +118,7 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
                 grab(name, code, logo)
             pbar.close()
             print('\n[SUCCESS] Playlist is generated!\n')
+
 
 def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("Czechoslovaia.m3u"):

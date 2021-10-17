@@ -40,8 +40,8 @@ def Main(state, check):
 
     now = datetime.datetime.now()
 
-    dat = now.strftime("-20%y-%m-%d-") # Enable if you want to use today's date
-    #dat = now.strftime("-2021-10-15-") # Enable if you want to use custom date
+    #dat = now.strftime("-20%y-%m-%d-") # Enable if you want to use today's date
+    dat = now.strftime("-2021-10-16-") # Enable if you want to use custom date
 
     ur = baseurl + dat
 

@@ -1,4 +1,4 @@
-def replaceUStVicons():
+def replace(find, replace, input, output):
     findlines = open('Assets/USTVGOreplace/find.txt').read().split('\n')
     replacelines = open('Assets/USTVGOreplace/replace.txt').read().split('\n')
     find_replace = dict(zip(findlines, replacelines))

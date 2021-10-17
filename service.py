@@ -1,4 +1,5 @@
-from make import Clear, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, remPYC, RemoveMode2, MakeMainBeta, MakeEngBeta, MakePriv
+from make import Clear, getUSTVGO, MakeCS, MakeEng, MakeMain, Git, remPYC, RemoveMode2, MakeMainBeta, MakeEngBeta, MakePriv
+from Assets.python.replace import replace
 from keep_alive import keep_alive
 from Assets.python.dev import replitMode
 import time
@@ -37,7 +38,9 @@ def Main():
     RemoveMode2()
     Clear()
     getUSTVGO()
-    replaceUStVicons()
+    replace('Assets/USTVGOreplace/find.txt', 'Assets/USTVGOreplace/replace.txt', 'Assets/USTVGOreplace/data.txt', 'Assets/Channels/US/ustvgo.m3u')
+    #getUSTVGOPriv()
+    #replaceUStVicons()
     MakeCS()
     MakeEng()
     MakeMain()

@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 make.py"
+run = "python3 service.py"
