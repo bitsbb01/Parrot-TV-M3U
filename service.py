@@ -1,11 +1,20 @@
-from make import Clear, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, pushbulletMode, remPYC, RemoveMode2
-from Auth.auth import name, Email, gitToken, gitRepo
+from make import Clear, getUSTVGO, replaceUStVicons, MakeCS, MakeEng, MakeMain, Git, remPYC, RemoveMode2, MakeMainBeta, MakeEngBeta, MakePriv
+from keep_alive import keep_alive
+from Assets.python.dev import replitMode
 import time
 import os
 
-token = gitToken
-repo = gitRepo
-email = Email
+if replitMode == False:
+    from Auth.auth import gitToken, Email, name, gitRepo
+    token = str(gitToken)
+    email = str(Email)
+    name = str(name)
+    repo = str(gitRepo)
+elif replitMode == True:
+    token = str(os.environ['gitToken'])
+    email = str(os.environ['Email'])
+    name = str(os.environ['name'])
+    repo = str(os.environ['gitRepo'])
 
 origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo)
 config_mail = "sudo git config --global user.email " + email
@@ -32,10 +41,15 @@ def Main():
     MakeCS()
     MakeEng()
     MakeMain()
+    MakeMainBeta()
+    MakeEngBeta()
+    MakePriv()
     Git()
     #pushbulletMode(5)
     remPYC()
     
+
+keep_alive()
 
 while auto == True:
     Main()

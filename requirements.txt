@@ -1,4 +1,3 @@
 pytz
 pushbullet.py
-nextcord
 tqdm

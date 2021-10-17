@@ -2,6 +2,7 @@ import os
 from Assets.python.dev import replitMode
 from Assets.python.proxy import proxies
 
+
 if replitMode == True:
     os.system("pip install pytz")
 
@@ -12,22 +13,19 @@ from Assets.python.commit import commit
 from Assets.python.time import tz
 from Assets.python.remPYC import remPYC
 from Assets.python.USTVGOreplace import replaceUStVicons
-from Assets.python.pushbullet import pushbulletMode
 from datetime import datetime
 
 
 if replitMode == False:
-    from Auth.auth import gitToken, Email, name, pbapi, gitRepo
+    from Auth.auth import gitToken, Email, name, gitRepo
     token = str(gitToken)
     email = str(Email)
     name = str(name)
-    pushBulletAPI = str(pbapi)
     repo = str(gitRepo)
 elif replitMode == True:
     token = str(os.environ['gitToken'])
     email = str(os.environ['Email'])
     name = str(os.environ['name'])
-    pushBulletAPI = str(os.environ['pbapi'])
     repo = str(os.environ['gitRepo'])
 
 if replitMode == False:
@@ -658,10 +656,12 @@ def Main():
                 Mode3()
             elif modeST == str(4):
                 Mode4()
+            elif modeST == str(5):
+              os.system("python3 service.py")
             else:
                 select()
         elif replitMode == True:
-            Mode2()
+            os.system("python3 service.py")
 
     admin = os.getuid()
 
