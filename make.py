@@ -379,7 +379,7 @@ def MakeEngBeta(): # Makes English Only Channels
     data += "\n"
 
     betaEngloc = open('Assets/Dev/BetaLoc.txt', 'r')
-    betaEnglocFull = betaEngloc + "English.m3u"
+    betaEnglocFull = str(betaEngloc) + str("English.m3u")
     with open (betaEnglocFull, 'w') as fp:
         fp.write(data)
 
@@ -448,7 +448,7 @@ def MakeMainBeta(): # Makes Main Channels
     data += "\n"
 
     betaMainloc = open('Assets/Dev/BetaLoc.txt', 'r')
-    betaMainlocFull = betaMainloc + "Main.m3u"
+    betaMainlocFull = str(betaMainloc) + str("Main.m3u")
     with open (betaMainlocFull, 'w') as fp:
         fp.write(data)
 
