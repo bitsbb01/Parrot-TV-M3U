@@ -1,5 +1,6 @@
 from make import Clear, getUSTVGO, MakeCS, MakeEng, MakeMain, Git, remPYC, RemoveMode2, MakeMainBeta, MakeEngBeta
 from Assets.python.replace import replace
+from Assets.python.config import config
 from keep_alive import keep_alive
 from Assets.python.dev import replitMode
 import time
@@ -7,25 +8,19 @@ import os
 
 try:
     from Auth.auth import gitToken, Email, name, gitRepo
-    token = str(os.environ['gitToken'])
-    email = str(os.environ['Email'])
-    name = str(os.environ['name'])
-    repo = str(os.environ['gitRepo'])
+    token = str(gitToken)
+    email = str(Email)
+    name = str(name)
+    repo = str(gitRepo)
     if not gitRepo == "False":
-        origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
-        config_mail = "sudo git config --global user.email " + email
-        config_name = "sudo git config --global user.name " + name
-    str(origin)
+        config(replitMode, email, repo, token, name)
 except ModuleNotFoundError:
     token = str(os.environ['gitToken'])
     email = str(os.environ['Email'])
     name = str(os.environ['name'])
     repo = str(os.environ['gitRepo'])
     if not gitRepo == "False":
-        origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
-        config_mail = "sudo git config --global user.email " + email
-        config_name = "sudo git config --global user.name " + name
-    str(origin)
+        config(replitMode, email, repo, token, name)
 
 
 
