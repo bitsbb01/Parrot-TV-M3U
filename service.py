@@ -1,4 +1,4 @@
-from make import Clear, getUSTVGO, MakeCS, MakeEng, MakeMain, Git, remPYC, RemoveMode2, MakeMainBeta, MakeEngBeta
+from make import Clear, getUSTVGO, MakeCS, MakeEng, MakeMain, Git, remPYC, RemoveMode1, MakeMainBeta, MakeEngBeta
 from Assets.python.replace import replace
 from keep_alive import keep_alive
 from Assets.python.dev import replitMode
@@ -40,7 +40,7 @@ msg = "Timeout time is: " + str(timeoutTime)
 echo(msg)
 
 def Main():
-    RemoveMode2()
+    RemoveMode1()
     Clear()
     getUSTVGO()
     replace('Assets/USTVGOreplace/find.txt', 'Assets/USTVGOreplace/replace.txt', 'Assets/USTVGOreplace/data.txt', 'Assets/Channels/US/ustvgo.m3u')
