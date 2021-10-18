@@ -15,7 +15,7 @@ try:
     email = str(Email)
     name = str(name)
     repo = str(gitRepo)
-    if not gitRepo == "False":
+    if not repo == "False":
         origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
         config_mail = "sudo git config --global user.email " + email
         config_name = "sudo git config --global user.name " + name
@@ -24,7 +24,7 @@ except ModuleNotFoundError:
     email = str(os.environ['Email'])
     name = str(os.environ['name'])
     repo = str(os.environ['gitRepo'])
-    if not gitRepo == "False":
+    if not repo == "False":
         origin = "git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
         config_mail = "git config --global user.email " + email
         config_name = "git config --global user.name " + name
