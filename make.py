@@ -1,42 +1,42 @@
-import os
 from Assets.python.dev import replitMode
 from Assets.python.proxy import proxies
-
-
-if replitMode == True:
-    os.system("pip install pytz")
-
-import time
-import sys
 from Assets.python.merge import merge
 from Assets.python.commit import commit
 from Assets.python.time import tz
+from Assets.python.replace import replace
 from Assets.python.remPYC import remPYC
 from datetime import datetime
+import sys
+import os
 
-
-if replitMode == False:
+try:
     from Auth.auth import gitToken, Email, name, gitRepo
-    token = str(gitToken)
-    email = str(Email)
-    name = str(name)
-    repo = str(gitRepo)
-elif replitMode == True:
-    token = str(os.environ['gitToken'])
-    email = str(os.environ['Email'])
-    name = str(os.environ['name'])
-    repo = str(os.environ['gitRepo'])
+    if not gitRepo == "False":
+        token = str(os.environ['gitToken'])
+        email = str(os.environ['Email'])
+        name = str(os.environ['name'])
+        repo = str(os.environ['gitRepo'])
+        origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
+        config_mail = "sudo git config --global user.email " + email
+        config_name = "sudo git config --global user.name " + name
+    str(origin)
+except ModuleNotFoundError:
+    if not gitRepo == "False":
+        token = str(os.environ['gitToken'])
+        email = str(os.environ['Email'])
+        name = str(os.environ['name'])
+        repo = str(os.environ['gitRepo'])
+        origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
+        config_mail = "sudo git config --global user.email " + email
+        config_name = "sudo git config --global user.name " + name
+    str(origin)
 
-if replitMode == False:
-    origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
-    config_mail = "sudo git config --global user.email " + email
-    config_name = "sudo git config --global user.name " + name
-elif replitMode == True:
-    origin = "git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
-    config_mail = "git config --global user.email " + email
-    config_name = "git config --global user.name " + name
+proxy_mode = ""
 
-str(origin)
+if open('Assets/Dev/Proxy.txt', 'r').read() == "True":
+    proxy_mode = True
+else:
+    proxy_mode = False
 
 def done(happ):
     now = datetime.now(tz)
@@ -85,7 +85,10 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
 
     def grab(name, code, logo):
         data = {'stream': code}
-        m3u = s.post('https://ustvgo.tv/data.php', data=data, proxies=proxies).text
+        if proxy_mode == True:
+            m3u = s.post('https://ustvgo.tv/data.php', data=data, proxies=proxies).text
+        else:
+            m3u = s.post('https://ustvgo.tv/data.php', data=data).text
         playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="US Channels" tvg-logo="{logo}",USTVGO: US: {name}')
         playlist.write(f'\n{m3u}')
 
@@ -120,6 +123,8 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
             print('\n[SUCCESS] Playlist is generated!\n')
 
 
+
+           
 def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("Czechoslovaia.m3u"):
         os.remove("Czechoslovaia.m3u")
@@ -130,124 +135,13 @@ def RemoveMode1(): # Removes files so they can be Re-written
     if os.path.exists("Main.m3u"):
         os.remove("Main.m3u")
 
-    if os.path.exists("Beta/English.m3u"):
-        os.remove("Beta/English.m3u")
-
-    if os.path.exists("Beta/Main.m3u"):
-        os.remove("Beta/Main.m3u")
-
-    if os.path.exists("EPG/ustvgo_epg.xml"):
-        os.remove("EPG/ustvgo_epg.xml")
-
     if os.path.exists("Assets/Channels/US/ustvgo.m3u"):
         os.remove("Assets/Channels/US/ustvgo.m3u")
 
     if os.path.exists("Assets/USTVGOreplace/data.txt"):
         os.remove("Assets/USTVGOreplace/data.txt")
 
-    if os.path.exists("EPG/tvtv.us.guide.xml"):
-        os.remove("EPG/tvtv.us.guide.xml")
 
-    if os.path.exists("EPG/tvtv.us.guide.xml.1"):
-        os.remove("EPG/tvtv.us.guide.xml.1")
-
-    if os.path.exists("EPG/CZ.xml"):
-        os.remove("EPG/CZ.xml")
-        
-    if os.path.exists("EPG/CZ.xml"):
-        os.remove("EPG/EPG.xml")
-
-    if os.path.exists("EPG/EPG.xml.gz"):
-        os.remove("EPG/EPG.xml.gz")
-
-    if os.path.exists("Assets/Private/Private.m3u"):
-        os.remove("Assets/Private/Private.m3u")
-           
-def RemoveMode2(): # Removes files so they can be Re-written
-    if os.path.exists("Czechoslovaia.m3u"):
-        os.remove("Czechoslovaia.m3u")
-
-    if os.path.exists("English.m3u"):
-        os.remove("English.m3u")
-
-    if os.path.exists("Main.m3u"):
-        os.remove("Main.m3u")
-
-    if os.path.exists("EPG/ustvgo_epg.xml"):
-        os.remove("EPG/ustvgo_epg.xml")
-
-    if os.path.exists("Assets/Channels/US/ustvgo.m3u"):
-        os.remove("Assets/Channels/US/ustvgo.m3u")
-
-    if os.path.exists("Assets/USTVGOreplace/data.txt"):
-        os.remove("Assets/USTVGOreplace/data.txt")
-
-    if os.path.exists("Assets/Private/Private.m3u"):
-        os.remove("Assets/Private/Private.m3u")
-
-def MakePriv(): # Makes CZ & SK Channels 
-    data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = data17 = ""
-
-
-    with open('Assets/Channels/SK Channels.m3u') as fp:
-        data = fp.read()
-
-    with open('Assets/Channels/CZ Channels.m3u') as fp:
-        data2 = fp.read()
-
-    with open('Assets/Channels/UK/UK Channels.m3u') as fp:
-        data3 = fp.read()
-
-    with open('Assets/Channels/US/US Channels.m3u') as fp:
-        data4 = fp.read()
-
-    with open('Assets/Channels/US/Pluto TV.m3u') as fp:
-        data5 = fp.read()
-
-    with open('Assets/Channels/US/ustvgo.m3u') as fp:
-        data6 = fp.read()
-
-    with open('Assets/Channels/US/Plex.m3u') as fp:
-        data7 = fp.read()
-
-    with open('Assets/Channels/US/xumoTV.m3u') as fp:
-        data8 = fp.read()
-
-    with open('Assets/Channels/US/Imdb.m3u') as fp:
-        data9 = fp.read()
-
-    with open('Assets/Channels/US/Roku.m3u') as fp:
-        data10 = fp.read()
-
-    with open('Assets/Channels/US/Samsung.m3u') as fp:
-        data11 = fp.read()
-
-    with open('Assets/Channels/US/Bumblebee.m3u') as fp:
-        data12 = fp.read()
-
-    with open('Assets/Channels/US/RedBox.m3u') as fp:
-        data13 = fp.read()
-
-    with open('Assets/Channels/US/Tubi.m3u') as fp:
-        data14 = fp.read()
-
-    with open('Assets/Channels/US/Vizio.m3u') as fp:
-        data15 = fp.read()
-
-    with open('Assets/Channels/US/teleup.m3u') as fp:
-        data16 = fp.read()   
-
-    with open('Assets/Channels/CA/CA Channels.m3u') as fp:
-        data17 = fp.read()   
-      
-  
-
-    data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17
-    data += "\n"
-
-  
-    with open ('Assets/Private/Private.m3u', 'w') as fp:
-        fp.write(data)
 
 def MakeCS(): # Makes CZ & SK Channels 
     data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = data16 = ""
@@ -424,6 +318,13 @@ def MakeMain(): # Makes Main Channels
         data18 = fp.read()   
         
 
+    data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17 + data18
+    data += "\n"
+
+  
+    with open ('Main.m3u', 'w') as fp:
+        fp.write(data)
+
 def MakeEngBeta(): # Makes English Only Channels
     data = data2 = data3 = data4 = data5 = data6 = data7 = data8 = data9 = data10 = data11 = data12 = data13 = data14 = data15 = ""
   
@@ -479,8 +380,9 @@ def MakeEngBeta(): # Makes English Only Channels
     data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15
     data += "\n"
 
-  
-    with open ('Beta/English.m3u', 'w') as fp:
+    betaEngloc = open('Assets/Dev/BetaLoc.txt', 'r')
+    betaEnglocFull = betaEngloc + "English.m3u"
+    with open (betaEnglocFull, 'w') as fp:
         fp.write(data)
 
 def MakeMainBeta(): # Makes Main Channels
@@ -547,8 +449,9 @@ def MakeMainBeta(): # Makes Main Channels
     data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17 + data18 + data19
     data += "\n"
 
-  
-    with open ('Beta/Main.m3u', 'w') as fp:
+    betaMainloc = open('Assets/Dev/BetaLoc.txt', 'r')
+    betaMainlocFull = betaMainloc + "Main.m3u"
+    with open (betaMainlocFull, 'w') as fp:
         fp.write(data)
 
 def Git(): # Commits to GitHub Repo
@@ -564,98 +467,36 @@ def Git(): # Commits to GitHub Repo
         os.system(commit)
         os.system("git push")
 
-def Mode1(): 
+    
+def Mode1():
     m = "not"
     RemoveMode1()
     Clear()
     getUSTVGO()
-    replaceUStVicons()
-    updateEPG()
-    tar()
-    MakeCS()
-    MakeEng()
-    MakeMain()
-    MakePriv()
-    MakeEngBeta()
-    MakeMainBeta()
-    time.sleep(10)
-    Git()
-    #pushbulletMode(1)
-    remPYC()
-    done(m)
-    
-def Mode2():
-    m = "not"
-    RemoveMode2()
-    Clear()
-    getUSTVGO()
-    replaceUStVicons()
+    replace('Assets/USTVGOreplace/find.txt', 'Assets/USTVGOreplace/replace.txt', 'Assets/USTVGOreplace/data.txt', 'Assets/Channels/US/ustvgo.m3u')
     MakeCS()
     MakeEng()
     MakeMain()
     MakeMainBeta()
     MakeEngBeta()
-    MakePriv()
-    Git()
-    #pushbulletMode(2)
+    if gitToken == "False" and gitRepo == "False":
+        Git()
     remPYC()
     done(m)
 
-def Mode3():
-    m = "push"
-    Clear()
-    Git()
-    #pushbulletMode(3)
-    remPYC()
-    done(m)
-
-def Mode4():
-    m = "pull"
-    Clear()
-    if replitMode == True:
-        os.sytem("git pull")
-    elif replitMode == False:
-        os.system("sudo git pull")
-    #pushbulletMode(4)
-    remPYC()
-    done(m)
-
-def tar():
-    os.system("cp EPG/EPG.xml EPG.xml")
-    os.system("gzip EPG.xml")
-    os.system("mv EPG.xml.gz EPG/")
-    if os.path.exists("EPG.xml"):
-        os.remove("EPG.xml")
-
-def updateEPG(): # Adds USTVGO to EPG
-    if replitMode == False:
-        os.system("wget -P EPG/ https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml")
-        os.system("python3 EPG/Generator/generator.py")
-        os.system(merge)
-    elif replitMode == True:
-        print("Cannot do that in Replit!!!")
 
 def Main():
     def select():
         if replitMode == False:
             Clear()
             print("###############################################")
-            print("#          1.) With EPG                       #")
-            print("#          2.) Without EPG                    #")
-            print("#          3.) Push into GitHub Only          #")   
-            print("#          4.) Pull from GitHub               #")
+            print("#          1.) Without EPG                    #")
             print("###############################################")
 
             modeST = input("Select Mode: ")
 
             if modeST == str(1):
                 Mode1()
-            elif modeST == str(2):
-                Mode2()
-            elif modeST == str(3):
-                Mode3()
-            elif modeST == str(4):
-                Mode4()
             elif modeST == str(5):
               os.system("python3 service.py")
             else:

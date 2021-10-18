@@ -1,25 +1,32 @@
-from make import Clear, getUSTVGO, MakeCS, MakeEng, MakeMain, Git, remPYC, RemoveMode2, MakeMainBeta, MakeEngBeta, MakePriv
+from make import Clear, getUSTVGO, MakeCS, MakeEng, MakeMain, Git, remPYC, RemoveMode2, MakeMainBeta, MakeEngBeta
 from Assets.python.replace import replace
 from keep_alive import keep_alive
 from Assets.python.dev import replitMode
 import time
 import os
 
-if replitMode == False:
+try:
     from Auth.auth import gitToken, Email, name, gitRepo
-    token = str(gitToken)
-    email = str(Email)
-    name = str(name)
-    repo = str(gitRepo)
-elif replitMode == True:
-    token = str(os.environ['gitToken'])
-    email = str(os.environ['Email'])
-    name = str(os.environ['name'])
-    repo = str(os.environ['gitRepo'])
+    if not gitRepo == "False":
+        token = str(os.environ['gitToken'])
+        email = str(os.environ['Email'])
+        name = str(os.environ['name'])
+        repo = str(os.environ['gitRepo'])
+        origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
+        config_mail = "sudo git config --global user.email " + email
+        config_name = "sudo git config --global user.name " + name
+    str(origin)
+except ModuleNotFoundError:
+    if not gitRepo == "False":
+        token = str(os.environ['gitToken'])
+        email = str(os.environ['Email'])
+        name = str(os.environ['name'])
+        repo = str(os.environ['gitRepo'])
+        origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
+        config_mail = "sudo git config --global user.email " + email
+        config_name = "sudo git config --global user.name " + name
+    str(origin)
 
-origin = "git remote set-url origin https://github:" + str(token) + str(repo)
-config_mail = "git config --global user.email " + email
-config_name = "git config --global user.name " + name
 
 
 def echo(msg):
@@ -39,20 +46,17 @@ def Main():
     Clear()
     getUSTVGO()
     replace('Assets/USTVGOreplace/find.txt', 'Assets/USTVGOreplace/replace.txt', 'Assets/USTVGOreplace/data.txt', 'Assets/Channels/US/ustvgo.m3u')
-    #getUSTVGOPriv()
-    #replaceUStVicons()
     MakeCS()
     MakeEng()
     MakeMain()
     MakeMainBeta()
     MakeEngBeta()
-    MakePriv()
-    Git()
-    #pushbulletMode(5)
+    if gitToken == "False" and gitRepo == "False":
+        Git()
     remPYC()
     
-
-keep_alive()
+if replitMode == True:
+    keep_alive()
 
 while auto == True:
     Main()

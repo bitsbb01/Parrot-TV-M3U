@@ -1,5 +1,7 @@
 import os,sys
 
+from make import Clear
+
 os.system("pip install -r requirements.txt")
 
 if os.path.exists('Auth/auth.py'):
@@ -30,14 +32,49 @@ else:
     data2 = 'gitRepo = ' + '"' + "@" + rp + '"'
     data3 = 'Email = ' + '"'  + em + '"'
     data4 = 'name = ' + '"'  + nm + '"'
-    data5 = 'pbapi = ' + '"' + papi + '"'
 
-    data = data1 + "\n" + data2 + "\n" + data3 + "\n" +data4 + "\n" + data5
+    data = data1 + "\n" + data2 + "\n" + data3 + "\n" + data4
 
     os.system("clear")
 
     with open('Auth/auth.py', 'w') as file:
         file.write(data)
         file.close()
+
+    Clear()
+    r = input("Do u want to use this in replit? [Y/n]")
+    if r == "Y" or r == "y":
+        os.remove('Assets/Dev/Replit.txt')
+        open('Assets/Dev/Replit.txt', 'w').write("True")
+    if r == "N" or r == "n":
+        os.remove('Assets/Dev/Replit.txt')
+        open('Assets/Dev/Replit.txt', 'w').write("False")
+    else:
+        print("Invalid option, exitting!")
+        sys.exit()
+
+    Clear()
+    p = input("Do u want to use proxy? [Y/n]")
+    if p == "Y" or p == "y":
+        os.remove('Assets/Dev/Proxy.txt')
+        open('Assets/Dev/Proxy.txt', 'w').write("True")
+    if p == "N" or p == "n":
+        os.remove('Assets/Dev/Proxy.txt')
+        open('Assets/Dev/Proxy.txt', 'w').write("False")
+    else:
+        print("Invalid option, exitting!")
+        sys.exit()
+
+
+    Clear()
+    bl = input("Do u want to set custom Beta/ location? [Y/n]")
+    if bl == "Y" or bl == "y":
+        Clear()
+        os.remove('Assets/Dev/BetaLoc.txt')
+        loc = input("Enter new location for Beta/ (ex. USTVGO/)")
+        open('Assets/Dev/BetaLoc.txt', 'w').write(loc)
+    else:
+        print("OK!")
+
 
     print("DONE!")
