@@ -3,7 +3,6 @@ from Assets.python.proxy import proxies
 from Assets.python.merge import merge
 from Assets.python.commit import commit
 from Assets.python.time import tz
-from Assets.python.config import config
 from Assets.python.replace import replace
 from Assets.python.remPYC import remPYC
 from datetime import datetime
