@@ -3,7 +3,6 @@ from Assets.python.proxy import proxies
 from Assets.python.merge import merge
 from Assets.python.commit import commit
 from Assets.python.time import tz
-from Assets.python.config import config_name, config_mail, origin
 from Assets.python.config import config
 from Assets.python.replace import replace
 from Assets.python.remPYC import remPYC
@@ -18,14 +17,18 @@ try:
     name = str(name)
     repo = str(gitRepo)
     if not gitRepo == "False":
-        config(replitMode, email, repo, token, name)
+        origin = "sudo git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
+        config_mail = "sudo git config --global user.email " + email
+        config_name = "sudo git config --global user.name " + name
 except ModuleNotFoundError:
     token = str(os.environ['gitToken'])
     email = str(os.environ['Email'])
     name = str(os.environ['name'])
     repo = str(os.environ['gitRepo'])
     if not gitRepo == "False":
-        config(replitMode, email, repo, token, name)
+        origin = "git remote set-url origin https://github:" + str(token) + str(repo) # Gets token and repo from Auth/auth.py
+        config_mail = "git config --global user.email " + email
+        config_name = "git config --global user.name " + name
 
 proxy_mode = ""
 
