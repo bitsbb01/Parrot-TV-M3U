@@ -7,7 +7,7 @@ app = Flask('')
 @app.route('/')
 def home():
   ServiceMake()
-  return "404 Not Found"
+  return "Started auto-aupdate!"
   
 
 def  run():
