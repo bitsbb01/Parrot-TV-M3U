@@ -26,6 +26,7 @@ except ModuleNotFoundError:
         config_name = "git config --global user.name " + name
 
 
+use_git = True
 
 def echo(msg):
     echocmd = "echo " + '"' + msg + '"'
@@ -49,7 +50,7 @@ def Main():
     MakeMain()
     MakeMainBeta()
     MakeEngBeta()
-    if gitToken == "False" and gitRepo == "False":
+    if use_git == True:
         Git()
     remPYC()
     

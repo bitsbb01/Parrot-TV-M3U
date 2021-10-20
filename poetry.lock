@@ -106,6 +106,14 @@ requests = ">=1.0.0"
 websocket-client = ">=0.53.0"
 
 [[package]]
+name = "pysocks"
+version = "1.7.1"
+description = "A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information."
+category = "main"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+
+[[package]]
 name = "python-magic"
 version = "0.4.24"
 description = "File type identification using libmagic"
@@ -202,7 +210,7 @@ watchdog = ["watchdog"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "8254ad6081f1e1ff2c02b49b2156e2ff354c44e6953622e8d998309e1d302204"
+content-hash = "81ec88b358ebacca9ab73d158b2b0870350b5ed69c83be8bce1fcb0ef18b5106"
 
 [metadata.files]
 certifi = [
@@ -296,6 +304,11 @@ markupsafe = [
 "pushbullet.py" = [
     {file = "pushbullet.py-0.12.0-py2.py3-none-any.whl", hash = "sha256:38e3ce79843efaf839c8dc43485c0c7eedbe5825a8751751f13d041dd00c5a37"},
     {file = "pushbullet.py-0.12.0.tar.gz", hash = "sha256:917883e1af4a0c979ce46076b391e0243eb8fe0a81c086544bcfa10f53e5ae64"},
+]
+pysocks = [
+    {file = "PySocks-1.7.1-py27-none-any.whl", hash = "sha256:08e69f092cc6dbe92a0fdd16eeb9b9ffbc13cadfe5ca4c7bd92ffb078b293299"},
+    {file = "PySocks-1.7.1-py3-none-any.whl", hash = "sha256:2725bd0a9925919b9b51739eea5f9e2bae91e83288108a9ad338b2e3a4435ee5"},
+    {file = "PySocks-1.7.1.tar.gz", hash = "sha256:3f8804571ebe159c380ac6de37643bb4685970655d3bba243530d6558b799aa0"},
 ]
 python-magic = [
     {file = "python-magic-0.4.24.tar.gz", hash = "sha256:de800df9fb50f8ec5974761054a708af6e4246b03b4bdaee993f948947b0ebcf"},

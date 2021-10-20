@@ -378,9 +378,8 @@ def MakeEngBeta(): # Makes English Only Channels
     data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15
     data += "\n"
 
-    betaEngloc = open('Assets/Dev/BetaLoc.txt', 'r')
-    betaEnglocFull = str(betaEngloc) + str("English.m3u")
-    with open (betaEnglocFull, 'w') as fp:
+
+    with open ('Beta/English.m3u', 'w') as fp:
         fp.write(data)
 
 def MakeMainBeta(): # Makes Main Channels
@@ -447,9 +446,7 @@ def MakeMainBeta(): # Makes Main Channels
     data = "#EXTM3U \n \n" + data + data2 + data3 + data4 + data5 + data6 + data7 + data8 + data9 + data10 + data11 + data12 + data13 + data14 + data15 + data16 + data17 + data18 + data19
     data += "\n"
 
-    betaMainloc = open('Assets/Dev/BetaLoc.txt', 'r')
-    betaMainlocFull = str(betaMainloc) + str("Main.m3u")
-    with open (betaMainlocFull, 'w') as fp:
+    with open ('Beta/Main.m3u', 'w') as fp:
         fp.write(data)
 
 def Git(): # Commits to GitHub Repo
