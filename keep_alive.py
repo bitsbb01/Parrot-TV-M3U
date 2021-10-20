@@ -11,7 +11,7 @@ def home():
 @app.route('/update/')
 def update():
   Main()
-  return "8856 Running Update"
+  return "200 OK"
 
 def  run():
   app.run(host='0.0.0.0',port=8080)
