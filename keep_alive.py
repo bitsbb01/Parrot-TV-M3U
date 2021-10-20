@@ -1,12 +1,10 @@
 from flask import Flask
 from threading import Thread
-from service import ServiceMake
 
 app = Flask('')
 
 @app.route('/')
 def home():
-  ServiceMake()
   return "Started auto-aupdate!"
   
 
@@ -17,4 +15,3 @@ def keep_alive():
   t = Thread(target=run)
   t.start()
 
-keep_alive()
