@@ -1,8 +1,8 @@
 from make import Clear, getUSTVGO, MakeCS, MakeEng, MakeMain, Git, remPYC, RemoveMode1, MakeMainBeta, MakeEngBeta
 from Assets.python.replace import replace
-from keep_alive import keep_alive
+#from keep_alive import keep_alive
 from Assets.python.dev import replitMode
-import asyncio
+import time
 import os
 
 try:
@@ -33,7 +33,7 @@ def echo(msg):
     os.system(echocmd)
 
 auto = True
-timeoutTime = 7200
+timeoutTime = 60
 int(timeoutTime)
 
 msg = "Timeout time is: " + str(timeoutTime)
@@ -54,10 +54,7 @@ def Main():
         Git()
     remPYC()
     
-if replitMode == True:
-    keep_alive()
+#if replitMode == True:
+    #keep_alive()
 
-while auto == True:
-    Main()
-    echo("Waiting " + str(timeoutTime) + "Seconds")
-    asyncio.sleep(int(timeoutTime))
+
