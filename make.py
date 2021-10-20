@@ -124,8 +124,8 @@ def getUSTVGO(): # Gets USTVGO.tv Channels
 
            
 def RemoveMode1(): # Removes files so they can be Re-written
-    if os.path.exists("Czechoslovaia.m3u"):
-        os.remove("Czechoslovaia.m3u")
+    if os.path.exists("Czechoslovakia.m3u"):
+        os.remove("Czechoslovakia.m3u")
 
     if os.path.exists("English.m3u"):
         os.remove("English.m3u")
@@ -199,7 +199,7 @@ def MakeCS(): # Makes CZ & SK Channels
     data += "\n"
 
   
-    with open ('Czechoslovaia.m3u', 'w') as fp:
+    with open ('Czechoslovakia.m3u', 'w') as fp:
         fp.write(data)
 
 def MakeEng(): # Makes English Only Channels
