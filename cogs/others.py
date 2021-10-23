@@ -15,6 +15,7 @@ class Others(commands.Cog):
     @commands.has_permissions(manage_messages = True)
     async def clear(self, ctx, amount: typing.Optional[int]):
         bot = self.bot
+        await ctx.message.delete()
         if amount == None:
             await ctx.channel.purge()
         else:

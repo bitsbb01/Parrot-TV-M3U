@@ -59,9 +59,34 @@ class Send(commands.Cog):
 
         embed=nextcord.Embed(title="M3U Links:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
         embed.set_thumbnail(url="https://ParrotTV.github.io/Images/Favicon/favicon.png")
-        embed.add_field(name="World Wide:", value="```https://bit.ly/PPM3U```", inline=False)
-        embed.add_field(name="English only:", value="```https://bit.ly/PPM3U-E```", inline=False)
-        embed.add_field(name="Czechoslovak:", value="```https://bit.ly/PPM3U-CS```", inline=False)
+        embed.add_field(name="World Wide:", value="```https://parrotm3u.tk/M3U```", inline=False)
+        embed.add_field(name="English only:", value="```https://parrotm3u.tk/M3U-E```", inline=False)
+        embed.add_field(name="Czechoslovak:", value="```https://parrotm3u.tk/M3U-CS```", inline=False)
+        await ctx.send(embed=embed)
+
+    @commands.command()
+    @commands.has_any_role('Owner', 'Beta')
+    async def sendm3ubeta(self, ctx):
+        bot = self.bot
+        await ctx.message.delete()
+
+
+        embed=nextcord.Embed(title="M3U Links:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+        embed.set_thumbnail(url="https://ParrotTV.github.io/Images/Favicon/favicon.png")
+        embed.add_field(name="World Wide:", value="```https://parrotm3u.tk/BETA```", inline=False)
+        embed.add_field(name="English only:", value="```https://parrotm3u.tk/BETA-E```", inline=False)
+        await ctx.send(embed=embed)
+
+    @commands.command()
+    @commands.has_any_role('Owner', 'Beta')
+    async def sendproxy(self, ctx):
+        bot = self.bot
+        await ctx.message.delete()
+
+
+        embed=nextcord.Embed(title="Proxy Links:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
+        embed.set_thumbnail(url="https://ParrotTV.github.io/Images/Favicon/favicon.png")
+        embed.add_field(name="SOCKS5:", value="```146.185.138.153:51184```", inline=False)
         await ctx.send(embed=embed)
 
     @commands.command()
@@ -72,8 +97,8 @@ class Send(commands.Cog):
 
         embed=nextcord.Embed(title="EPG Links:", color=int(random.randint(0000, 9999)))  # int(clrEmbed)
         embed.set_thumbnail(url="https://ParrotTV.github.io/Images/Favicon/favicon.png")
-        embed.add_field(name="CZ / SK:", value="```https://bit.ly/PPEPG4```", inline=False)
-        embed.add_field(name="US:", value="```https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml```", inline=False)
+        embed.add_field(name="CZ / SK:", value="```https://parrotm3u.tk/EPG```", inline=False)
+        embed.add_field(name="US:", value="```https://parrotm3u.tk/EPG-US```", inline=False)
         await ctx.send(embed=embed)
 
 

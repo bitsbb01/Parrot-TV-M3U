@@ -1,0 +1,20 @@
+{
+  "files": {
+    ".replit": [
+      {
+        "id": "7f76e0f2-174e-4833-8b99-1a909ad57a40",
+        "line": 2,
+        "version": 2,
+        "index": 21
+      }
+    ],
+    "cogs/send.py": [
+      {
+        "id": "4cc0552e-fa7d-4dbc-89fc-a982cf9543cb",
+        "line": 88,
+        "version": 115,
+        "index": 4092
+      }
+    ]
+  }
+}

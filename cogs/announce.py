@@ -17,7 +17,7 @@ class Announce(commands.Cog):
         from Assets.color import color
         embed=nextcord.Embed(title=str(title), color=color)
         embed.set_thumbnail(url=icon)
-        embed.add_field(name=str(msg), value=str("Announced by ") + str(self, ctx.author), inline=False)
+        embed.add_field(name=str(msg), value=str("Announced by ") + str(ctx.author), inline=False)
         await channel.send(embed=embed)
         await channel.send("@here")
 
@@ -30,7 +30,7 @@ class Announce(commands.Cog):
         embed=nextcord.Embed(title=str(title), color=color)
         embed.set_thumbnail(url=icon)
         embed.add_field(name=str(msg), value=str("--------------"), inline=False)
-        embed.add_field(name=str(msg2), value=str("Announced by ") + str(self, ctx.author), inline=False)
+        embed.add_field(name=str(msg2), value=str("Announced by ") + str(ctx.author), inline=False)
         await channel.send(embed=embed)
         await channel.send("@here")
 
@@ -44,7 +44,7 @@ class Announce(commands.Cog):
         embed.set_thumbnail(url=icon)
         embed.add_field(name=str(msg), value=str("--------------"), inline=False)
         embed.add_field(name=str(msg2), value=str("--------------"), inline=False)
-        embed.add_field(name=str(msg3), value=str("Announced by ") + str(self, ctx.author), inline=False)
+        embed.add_field(name=str(msg3), value=str("Announced by ") + str(ctx.author), inline=False)
         await channel.send(embed=embed)
         await channel.send("@here")
 
