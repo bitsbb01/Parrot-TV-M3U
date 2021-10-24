@@ -1,1 +1,0 @@
-color=0xA1BCD0

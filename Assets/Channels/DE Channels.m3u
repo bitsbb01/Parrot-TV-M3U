@@ -1,0 +1,1407 @@
+
+
+#EXTINF:-1 tvg-id="123TV.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: 1-2-3 TV
+http://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: 3sat [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="atv.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" group-title="DE Channels",DE: a.tv [Not 24/7]
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="AlexBerlin.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="DE Channels",DE: Alex Berlin
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/641px-Anixe_HD.svg.png" group-title="DE Channels",DE: Anixe HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="AntenneVorarlberg.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/TpBbZwq.png" group-title="DE Channels",DE: Antenne Vorarlberg [Not 24/7]
+http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-country="DE" tvg-language="" tvg-logo="http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="DE Channels",DE: ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-country="DE" tvg-language="" tvg-logo="http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="DE Channels",DE: ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="ARTITV.de" tvg-country="DE" tvg-language="German;Turkish" tvg-logo="" group-title="DE Channels",DE: ARTI TV [Not 24/7]
+http://176.10.117.18:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="ARTITV.de" tvg-country="DE" tvg-language="German;Turkish" tvg-logo="" group-title="DE Channels",DE: ARTI TV [Not 24/7]
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
+#EXTINF:-1 tvg-id="ARTITV.de" tvg-country="DE" tvg-language="German;Turkish" tvg-logo="" group-title="DE Channels",DE: ARTI TV [Not 24/7]
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/139.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Baden TV
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Baden TV [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Baden TV [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/0OoMMbd.png" group-title="DE Channels",DE: Bibel TV
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVImpuls.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png" group-title="DE Channels",DE: Bibel TV Impuls
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVMusik.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png" group-title="DE Channels",DE: Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKRegionalTV.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png" group-title="DE Channels",DE: BLK Regional TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="DE Channels",DE: BLK TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKTVHohenmolsen.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title="DE Channels",DE: BLK TV Hohenmölsen
+http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKTVHohenmolsen.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title="DE Channels",DE: BLK TV Hohenmölsen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="DE Channels",DE: BR Fernsehen Nord [Geo-blocked]
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="DE Channels",DE: BR Fernsehen Nord [Geo-blocked]
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="DE Channels",DE: BR Fernsehen Süd [Geo-blocked]
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="DE Channels",DE: BR Fernsehen Süd [Geo-blocked]
+https://br_hdslive-f.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="DE Channels",DE: BR Fernsehen Süd [Geo-blocked]
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-id="CampusTVMagdeburg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="DE Channels",DE: Campus TV Magdeburg
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1 tvg-id="CampusTVMagdeburg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="DE Channels",DE: Campus TV Magdeburg
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-id="CampusTVMagdeburgPlus.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: Campus-TV-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
+#EXTINF:-1 tvg-id="ChemnitzFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="CIRATV.de" tvg-country="DE" tvg-language="Kurdish" tvg-logo="" group-title="DE Channels",DE: CIRA TV [Not 24/7]
+http://176.10.117.18:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="CIRATV.de" tvg-country="DE" tvg-language="Kurdish" tvg-logo="" group-title="DE Channels",DE: ÇİRA TV [Not 24/7]
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/25
+#EXTINF:-1 tvg-id="CIRATV.de" tvg-country="DE" tvg-language="Kurdish" tvg-logo="" group-title="DE Channels",DE: ÇİRA TV [Not 24/7]
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/25.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="DE Channels",DE: Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="DE Channels",DE: Das Erste
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="DE Channels",DE: Das Erste [Geo-blocked]
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="DE Channels",DE: Das Erste [Geo-blocked]
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="DASDING908.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/rR44kv4.png" group-title="DE Channels",DE: DASDING 90.8
+https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="DE Channels",DE: Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="DE Channels",DE: Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv.m3u8
+#EXTINF:-1 tvg-id="DresdenFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Dresden Fernsehen [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: DW
+http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="DE Channels",DE: DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="DE Channels",DE: DW English
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 tvg-id="Elbekanal.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" group-title="DE Channels",DE: Elbekanal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/elbe_high/playlist.m3u8
+#EXTINF:-1 tvg-id="Elbekanal.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" group-title="DE Channels",DE: Elbekanal
+http://62.113.210.250/medienasa-live/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 tvg-id="ElbekanalSchonebeck.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/MjZ0w7G.png" group-title="DE Channels",DE: Elbekanal Schönebeck
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 tvg-id="emsTVLingen.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/dKCLYAj.png" group-title="DE Channels",DE: ems TV Lingen
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="eoTV.de" tvg-country="DE;AT;CH" tvg-language="German" tvg-logo="https://i.imgur.com/oitJsZU.png" group-title="DE Channels",DE: eo TV
+https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/VenSjan.png" group-title="DE Channels",DE: Erz-TV Stollberg
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroAlTV.de" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qLaEmIT.png" group-title="DE Channels",DE: EuroAl TV
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1 tvg-id="Filstalwelle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="DE Channels",DE: Filstalwelle
+http://62.113.210.2/filstalwelle-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: Finest TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="FrankenTV.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="DE Channels",DE: Franken Fernsehen
+https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="DE Channels",DE: Franken Fernsehen (Nürnberg) [Not 24/7]
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="FriesischerRundfunkFriedeburg.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="DE Channels",DE: Friesischer Rundfunk Friedeburg
+https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/mp4:friesischerrundfunk/playlist.m3u8
+#EXTINF:-1 tvg-id="Handystar.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: Handystar
+http://mediaspar-live.hls.adaptive.level3.net/ses/mediaspar/stream1/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="HauptstadtTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ZXskBkv.png" group-title="DE Channels",DE: Hauptstadt.TV (Potsdam) [Not 24/7]
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 tvg-id="HealthTV.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Health TV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="DE Channels",DE: hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="HSE.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="HSE24Extra.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: HSE24 Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-id="HSE24Trend.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: HSE24 Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="IsarTV.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Isar TV [Not 24/7]
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="JenaTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/o3D4bQI.png" group-title="DE Channels",DE: JenaTV
+https://stream7.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="KTVFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: K-TV (Fernsehen)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="KiKA.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: KiKA [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="DE Channels",DE: KulturMD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="DE Channels",DE: KulturMD
+http://62.113.210.250/medienasa-live/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="DE Channels",DE: KulturMD
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="KWTVWildau.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/882I3h8.png" group-title="DE Channels",DE: KW TV Wildau [Not 24/7]
+https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lausitzwelle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/GNMaGZE.png" group-title="DE Channels",DE: Lausitzwelle (Fernsehen)
+https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd10/playlist.m3u8
+#EXTINF:-1 tvg-id="LeipzigFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="LightChannel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="DE Channels",DE: Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 tvg-id="MDF1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="DE Channels",DE: MDF.1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="MDF1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="DE Channels",DE: MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="MDF1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/hg/mdf1.png" group-title="DE Channels",DE: MDF.1
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="DE Channels",DE: München TV [Not 24/7]
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Muxxtv.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/QUOxNbF.png" group-title="DE Channels",DE: Muxx.tv [Not 24/7]
+https://5856e1a25f71a.streamlock.net/easycast7-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTVplus.de" tvg-country="DE" tvg-language="German" tvg-logo="http://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png" group-title="DE Channels",DE: MyTVplus (Dresden)
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ntvEvent.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/9FPXcFY.jpg" group-title="DE Channels",DE: n-tv Event
+https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8
+#EXTINF:-1 tvg-id="naheTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XINB3Zf.png" group-title="DE Channels",DE: naheTV
+https://s.ok54.de/nahetv/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="NDREvent1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/BuirhUR.png" group-title="DE Channels",DE: NDR Event 1
+https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
+#EXTINF:-1 tvg-id="NDREvent2.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/BuirhUR.png" group-title="DE Channels",DE: NDR Event 2
+https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild110_v-contentxl.jpg" group-title="DE Channels",DE: NDR Fernsehen [Geo-blocked]
+https://ndrfs-lh.akamaihd.net/i/ndrfs_fs@430230/master.m3u8
+#EXTINF:-1 tvg-id="NDRHamburg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild100_v-contentxl.jpg" group-title="DE Channels",DE: NDR Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="NDRHamburg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild100_v-contentxl.jpg" group-title="DE Channels",DE: NDR Hamburg [Geo-blocked]
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 tvg-id="NDRInternational.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild108_v-contentxl.jpg" group-title="DE Channels",DE: NDR International [Geo-blocked]
+https://ndrfs-lh.akamaihd.net/i/ndrfs_int@430236/master.m3u8
+#EXTINF:-1 tvg-id="NDRMecklenburgVorpommern.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild102_v-contentxl.jpg" group-title="DE Channels",DE: NDR Mecklenburg-Vorpommern
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="NDRMecklenburgVorpommern.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild102_v-contentxl.jpg" group-title="DE Channels",DE: NDR Mecklenburg-Vorpommern [Geo-blocked]
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 tvg-id="NDRNiedersachsen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild104_v-contentxl.jpg" group-title="DE Channels",DE: NDR Niedersachsen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="NDRNiedersachsen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild104_v-contentxl.jpg" group-title="DE Channels",DE: NDR Niedersachsen [Geo-blocked]
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 tvg-id="NDRSchleswigHolstein.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild106_v-contentxl.jpg" group-title="DE Channels",DE: NDR Schleswig-Holstein
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="NDRSchleswigHolstein.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild106_v-contentxl.jpg" group-title="DE Channels",DE: NDR Schleswig-Holstein [Geo-blocked]
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 tvg-id="NDRWeltweiter.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild108_v-contentxl.jpg" group-title="DE Channels",DE: NDR Weltweiter [Geo-blocked]
+https://ndrfs-lh.akamaihd.net/i/ndrfs_ww@430235/master.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: Niederbayern TV [Not 24/7]
+https://stream03.stream.welocal.world/stream/nla/ngrp:nla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Noa4Hamburg.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Noa 4 Hamburg
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="Noa4Norderstedt.de" tvg-country="DE" tvg-language="German" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="DE Channels",DE: Noa 4 Norderstedt
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="NRT2.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: NRT 2 [Not 24/7]
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="DE Channels",DE: NRWision
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NRWISION.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: NRWISION
+https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="DE Channels",DE: NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="DE Channels",DE: NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="OberlausitzTV.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: Oberlausitz TV
+http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="oeins.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NHvYg7e.png" group-title="DE Channels",DE: oeins (Oldenburg)
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-id="OFTVOffenbach.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/BmJaDT3.jpg" group-title="DE Channels",DE: OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png" group-title="DE Channels",DE: OK Dessau [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png" group-title="DE Channels",DE: OK Dessau [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKFlensburg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/YNYsGYY.png" group-title="DE Channels",DE: OK Flensburg
+https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-id="OKGiessen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="DE Channels",DE: OK Gießen [Not 24/7]
+https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKaiserslautern.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SzGXrjb.png" group-title="DE Channels",DE: OK Kaiserslautern [Not 24/7]
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKassel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="DE Channels",DE: OK Kassel [Not 24/7]
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKiel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/A8rLufC.png" group-title="DE Channels",DE: OK Kiel
+https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-id="OKLudwigshafen.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png" group-title="DE Channels",DE: OK Ludwigshafen
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="DE Channels",DE: OK Magdeburg
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="DE Channels",DE: OK Magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="DE Channels",DE: OK Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png" group-title="DE Channels",DE: OK Merseburg-Querfurt
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png" group-title="DE Channels",DE: OK Merseburg-Querfurt
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinMain.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="DE Channels",DE: OK Rhein-Main [Not 24/7]
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinLokalWorms.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png" group-title="DE Channels",DE: OK RheinLokal (Worms)
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="DE Channels",DE: OK Salzwedel [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="DE Channels",DE: OK Salzwedel [Not 24/7]
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="DE Channels",DE: OK Salzwedel [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="DE Channels",DE: OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="DE Channels",DE: OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="DE Channels",DE: OK Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSuedwestpfalz.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png" group-title="DE Channels",DE: OK Suedwestpfalz
+https://s.ok54.de/okswp/test/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTrier.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png" group-title="DE Channels",DE: OK Trier
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png" group-title="DE Channels",DE: OK Weinstraße (Neustadt)
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png" group-title="DE Channels",DE: OK Wernigerode
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png" group-title="DE Channels",DE: OK Wernigerode
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="oldenburgeins.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png" group-title="DE Channels",DE: oldenburg eins
+https://oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="DE Channels",DE: Parlamentsfernsehen 1
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="DE Channels",DE: Parlamentsfernsehen 1 [Not 24/7]
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="DE Channels",DE: Parlamentsfernsehen 2
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="DE Channels",DE: Parlamentsfernsehen 2 [Not 24/7]
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Phoenix [Geo-blocked]
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-id="PunkteinsOberlausitz.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/Zb87dQQ.png" group-title="DE Channels",DE: Punkteins (Oberlausitz)
+https://5852afe96c9bb.streamlock.net/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:-1 tvg-id="PunktUM.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: PunktUM
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="PUNKTum.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png" group-title="DE Channels",DE: PUNKTum
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="PUNKTumFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="DE Channels",DE: PUNKTum Fernsehen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
+#EXTINF:-1 tvg-id="PunktumSdharz.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: Punktum S�dharz
+http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
+#EXTINF:-1 tvg-id="Radio21TV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="DE Channels",DE: Radio 21 TV
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="DE Channels",DE: Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Ran1.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: Ran 1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png" group-title="DE Channels",DE: RAN1
+http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
+#EXTINF:-1 tvg-id="RAN1.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png" group-title="DE Channels",DE: RAN1
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1Regionalfernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="http://www.ran1.de/img/ban1.png" group-title="DE Channels",DE: RAN1 Regionalfernsehen
+http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1Regionalfernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NUP8ZBb.png" group-title="DE Channels",DE: RAN1 Regionalfernsehen
+http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBW.de" tvg-country="DE" tvg-language="German" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="DE Channels",DE: RBW
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBW.de" tvg-country="DE" tvg-language="German" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="DE Channels",DE: RBW
+http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
+#EXTINF:-1 tvg-id="RBW.de" tvg-country="DE" tvg-language="German" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="DE Channels",DE: RBW
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/olVCZTJ.png" group-title="DE Channels",DE: Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVSchwaben.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/OFGHhRE.png" group-title="DE Channels",DE: Regio TV Schwaben
+https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/OFGHhRE.png" group-title="DE Channels",DE: Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png" group-title="DE Channels",DE: RFH
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFHHarz.de" tvg-country="DE" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/200px-RFH-Logo.svg.png" group-title="DE Channels",DE: RFH Harz
+http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
+#EXTINF:-1 tvg-id="RFHHarz.de" tvg-country="DE" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/200px-RFH-Logo.svg.png" group-title="DE Channels",DE: RFH Harz
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?ref=medienportal-sachsen-anhalt.de&seid=528347
+#EXTINF:-1 tvg-id="RFHTV.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: RFH TV
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFORosenheim.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="DE Channels",DE: RFO Rosenheim
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/G7W4K3K.png" group-title="DE Channels",DE: rheinmaintv
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/YBkBDSz.png" group-title="DE Channels",DE: rheinmaintv
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="DE Channels",DE: rheinmaintv
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+#EXTINF:-1 tvg-id="RNF.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="DE Channels",DE: RNF
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RockAntenne.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/eZKNvkT.png" group-title="DE Channels",DE: Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-id="RocklandTV.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="DE Channels",DE: Rockland TV
+http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+#EXTINF:-1 tvg-id="RocklandTV.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="DE Channels",DE: Rockland TV
+http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+#EXTINF:-1 tvg-id="RONTV.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/ZqHWb40.png" group-title="DE Channels",DE: RON TV
+https://ron-i.akamaihd.net/hls/live/523496/ron/master.m3u8
+#EXTINF:-1 tvg-id="RTLWest.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/i7245OO.png" group-title="DE Channels",DE: RTL West
+https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
+#EXTINF:-1 tvg-id="RWEErfurt.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/AMzEPGl.jpg" group-title="DE Channels",DE: RWE Erfurt
+https://stream.keyweb.org:8085/hls/rwetv.m3u8
+#EXTINF:-1 tvg-id="SA14dtirolTV.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: SÃ¼dtirol TV
+https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="DE Channels",DE: Saarland Fernsehen 1
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="DE Channels",DE: Saarland Fernsehen 2
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SanthoraShortFilm.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/0Pq7fdJ.jpg" group-title="DE Channels",DE: Santhora Short Film
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="SanthoraTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/kn1DHZq.gif" group-title="DE Channels",DE: Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Seenluft24.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="DE Channels",DE: Seenluft24
+https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8
+#EXTINF:-1 tvg-id="SonnenklarTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" group-title="DE Channels",DE: Sonnenklar.TV
+http://euvia-live.hls.adaptive.level3.net/ses/euvia/index.m3u8
+#EXTINF:-1 tvg-id="SonusFMAlemania.de" tvg-country="DE" tvg-language="" tvg-logo="" group-title="DE Channels",DE: Sonus FM Alemania [Not 24/7]
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="DE Channels",DE: Sophia TV
+https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="DE Channels",DE: Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png" group-title="DE Channels",DE: SR Fernsehen
+http://fs.live.sr.de/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png" group-title="DE Channels",DE: SR Fernsehen
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 tvg-id="Studio47.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/xCiU1TB.png" group-title="DE Channels",DE: Studio 47 [Not 24/7]
+https://5852afe96c9bb.streamlock.net/studio47-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="DE Channels",DE: SWR 3 Visual Radio
+https://swrswr3vrhls-i.akamaihd.net/hls/live/780818/vrswr3/master.m3u8
+#EXTINF:-1 tvg-id="Sylt1.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png" group-title="DE Channels",DE: Sylt1
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/sylt1_high1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: Tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="TeinsTV.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="DE Channels",DE: Teins TV
+http://live1.markenfunk.com/t1/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="teltOwkanal.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/05UB2YT.png" group-title="DE Channels",DE: teltOwkanal
+https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 tvg-id="TesasTV.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/xEGCX1f.png" group-title="DE Channels",DE: Tesas TV [Not 24/7]
+https://jola.live:16200/tesastv.m3u8
+#EXTINF:-1 tvg-id="TideTV.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="DE Channels",DE: Tide TV
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tiviTURK.de" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="DE Channels",DE: tiviTÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="DE Channels",DE: TV38 Südost-Niedersachen
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBayernLive.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/WyJLIzA.jpg" group-title="DE Channels",DE: TV Bayern Live [Not 24/7]
+https://s3.welocal.world/tvbayernlive/media/134371/videos/hls.m3u8
+#EXTINF:-1 tvg-id="TVHalle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png" group-title="DE Channels",DE: TV Halle
+http://58bd5b7a98e04.streamlock.net/medienasa-live/tvhalle_high/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHalle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/GUBVccx.png" group-title="DE Channels",DE: TV Halle
+http://62.113.210.250/medienasa-live/tvhalle_high/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHalle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png" group-title="DE Channels",DE: TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:tvhalle_high/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/lrLaILx.png" group-title="DE Channels",DE: TV Ingolstadt
+https://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMainfranken.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="DE Channels",DE: TV Mainfranken
+https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMainfranken.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="DE Channels",DE: TV Mainfranken [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOberfranken.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png" group-title="DE Channels",DE: TV Oberfranken
+https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: TVA [Not 24/7]
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAOstbayern.de" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png" group-title="DE Channels",DE: TVA Ostbayern
+https://stream02.stream.welocal.world/stream/tva/ngrp:tva.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVO.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: TVO [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Unserding.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="DE Channels",DE: Unserding
+https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
+#EXTINF:-1 tvg-id="WDRKoeln.de" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="DE Channels",DE: WDR Koeln
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 tvg-id="Welt.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: WELT [Geo-blocked]
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="DE Channels",DE: World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: ZDF [Geo-blocked]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: ZDFinfo [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="DE Channels",DE: ZDFneo [Geo-blocked]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+
+
+#EXTINF:-1 tvg-id="CNNInternationalGermany.us" tvg-country="DE" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="DE Channels",Samsung: DE: CNN International Germany
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.highview.com/fileadmin/Webdata/grafiken/highview/brands/lounge_deluxe_brand_logo_HD_neu.png" group-title="DE Channels",Samsung: DE: Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
+#EXTINF:-1 tvg-id="EuronewsDeutsch.fr" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="DE Channels",Samsung: DE: Euronews Deutsch
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="DE Channels",Samsung: DE: Fashion TV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="DE Channels",Samsung: DE: Fuel TV
+https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="DE Channels",Samsung: DE: Insight TV
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/YqF4usD.png" group-title="DE Channels",Samsung: DE: InWonder
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaGermany.es" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="DE Channels",Samsung: DE: Rakuten TV Drama Germany
+https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightGermany.es" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="DE Channels",Samsung: DE: Rakuten TV Spotlight Germany
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SofyTV.ch" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="DE Channels",Samsung: DE: Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-country="CA" tvg-language="" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="DE Channels",Samsung: DE: Stingray Karaoke
+https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayQelloConcerts.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="DE Channels",Samsung: DE: Stingray Qello Concerts
+https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeDeutschland.us" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="DE Channels",Samsung: DE: Tastemade Deutschland
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveGermany.us" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="DE Channels",Samsung: DE: The Pet Collective Germany
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXP.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="DE Channels",Samsung: DE: Travel XP
+https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Xite.nl" tvg-country="NL" tvg-language="" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="DE Channels",Samsung: DE: Xite
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ad9bda9fd87eb3a2717cce0/colorLogoPNG.png" group-title="DE Channels",Pluto TV: DE: Pluto TV Fight
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&deviceId=5ad9bda9fd87eb3a2717cce0&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="DE Channels",Pluto TV: DE: Pluto TV Fitness
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3b0b1ee4-3c26-4c24-8a7c-1b12f2e4e536&deviceId=5e8b0c92783b3f0007a4c7df&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5c8a6bc64dc7286c6afaf4ab/colorLogoPNG.png" group-title="DE Channels",Pluto TV: DE: Pluto TV Movies+ (CH)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8a6bc64dc7286c6afaf4ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=f747754f-ee3e-4968-9e8e-779da031bce9&deviceId=5c8a6bc64dc7286c6afaf4ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="DE Channels",Pluto TV: DE: Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&deviceId=5ad9bb941b95267e225e59c2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5d1ce51dbaca4afdb7abfe5f/colorLogoPNG.png" group-title="DE Channels",Pluto TV: DE: Pluto TV Surf
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8b0d10e186bf0007e2b100/colorLogoPNG.png" group-title="DE Channels",Pluto TV: DE: Pluto TV Yoga
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2c143e9d-0cd6-4d02-8b92-df3471ececef&deviceId=5e8b0d10e186bf0007e2b100&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="DE Channels",Pluto TV: DE: nick Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=fbbb3638-0714-11eb-aeab-0242ac110002&deviceId=5ede448d3d50590007a4419e&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5f3d2b57d6c60800074cb305/colorLogoPNG.png" group-title="DE Channels",Pluto TV: DE: nick Pluto TV+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2b57d6c60800074cb305/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=19a8ba6e-9713-4df0-83d9-93dd72c984f0&deviceId=5f3d2b57d6c60800074cb305&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL HD
+http://qqtv.nl:8080/glista/glista/15579
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 13TH STREET HD
+http://qqtv.nl:8080/glista/glista/15602
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARTE
+http://qqtv.nl:8080/glista/glista/15601
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL LIVING
+http://qqtv.nl:8080/glista/glista/15600
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAS ERSTE HD
+http://qqtv.nl:8080/glista/glista/15599
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISCOVERY HD
+http://qqtv.nl:8080/glista/glista/15590
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 2 HD
+http://qqtv.nl:8080/glista/glista/15588
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY JUNIOR
+http://qqtv.nl:8080/glista/glista/15595
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KIKA HD
+http://qqtv.nl:8080/glista/glista/15594
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV HD
+http://qqtv.nl:8080/glista/glista/15591
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEOGRAPHIC HD
+http://qqtv.nl:8080/glista/glista/15587
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NAT GEO WILD HD
+http://qqtv.nl:8080/glista/glista/15586
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL Nitro HD
+http://qqtv.nl:8080/glista/glista/15582
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO SIEBEN MAXX HD
+http://qqtv.nl:8080/glista/glista/15580
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL CRIME UHD
+http://qqtv.nl:8080/glista/glista/15576
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PASSION HD
+http://qqtv.nl:8080/glista/glista/15574
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 HD
+http://qqtv.nl:8080/glista/glista/15573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SIXX HD
+http://qqtv.nl:8080/glista/glista/15570
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC HD
+http://qqtv.nl:8080/glista/glista/15569
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA 24#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE:HD
+http://qqtv.nl:8080/glista/glista/15624
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION HD
+http://qqtv.nl:8080/glista/glista/15623
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA 1 HD
+http://qqtv.nl:8080/glista/glista/15621
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA HITS HD
+http://qqtv.nl:8080/glista/glista/15620
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FAMILY HD
+http://qqtv.nl:8080/glista/glista/15618
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY KRIMI HD
+http://qqtv.nl:8080/glista/glista/15614
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA COMEDY
+http://qqtv.nl:8080/glista/glista/15603
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: E! ENTERTAINMENT HD
+http://qqtv.nl:8080/glista/glista/15628
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SUPER RTL HD
+http://qqtv.nl:8080/glista/glista/15567
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SYFY
+http://qqtv.nl:8080/glista/glista/15566
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 GOLD HD
+http://qqtv.nl:8080/glista/glista/15565
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT COMEDY HD
+http://qqtv.nl:8080/glista/glista/15564
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT FILM HD
+http://qqtv.nl:8080/glista/glista/15563
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT SERIE HD
+http://qqtv.nl:8080/glista/glista/15562
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VOX HD
+http://qqtv.nl:8080/glista/glista/15561
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF HD
+http://qqtv.nl:8080/glista/glista/15560
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TLC HD
+http://qqtv.nl:8080/glista/glista/15559
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
+http://qqtv.nl:8080/glista/glista/318788
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN SPORT 1 HD
+http://qqtv.nl:8080/glista/glista/391223
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN SPORT 2 HD
+http://qqtv.nl:8080/glista/glista/391222
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 1 HD
+http://qqtv.nl:8080/glista/glista/15611
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 2 HD
+http://qqtv.nl:8080/glista/glista/15619
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 3 HD
+http://qqtv.nl:8080/glista/glista/335066
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 4 HD
+http://qqtv.nl:8080/glista/glista/335067
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELEKOM BUNDESLIGA 5 HD
+http://qqtv.nl:8080/glista/glista/335068
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 3
+http://qqtv.nl:8080/glista/glista/318792
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAS ERSTE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7122
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7123
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF NEO HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7124
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF INFO HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7125
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARTE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7126
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7127
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PLUS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7128
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7129
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL CRIME HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7130
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PASSION HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7131
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SIXX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7132
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PROSIEBEN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7133
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7134
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO 7 FUN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7135
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO 7 MAXX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7136
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 GOLD HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7137
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 EMOTIONS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7138
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VOX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7139
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PHOENIX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7141
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 DOKU HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL EINS CLASSICS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7143
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT COMEDY HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7144
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT FILM HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7145
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SYFY HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7146
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT SERIES HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7147
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 13TH STREET HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7148
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HEIMATKANAL TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7149
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KINO WELT TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7150
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7151
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CNBC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7152
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SERVUS TV HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7153
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELE 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7154
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIXE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7155
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DMAX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7156
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: JUNIOR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7157
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIXE SERIE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7158
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CRIME & INVESTIGATION HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7159
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: JUKEBOX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7160
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CLASSICA
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7161
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CHANNEL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7162
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DELUXE MUSIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7163
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISCOVERY CHANNEL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7164
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: E! ENTERTAINMENT HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7165
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HISTORY HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7166
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEOGRAPHIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7167
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEOGRAPHIC WILD HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7168
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TLC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7169
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL LIVING HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7170
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BOOMERANG HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7171
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SUPER RTL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7172
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KIKA HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7173
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY JUNIOR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7174
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RBB BELIN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7175
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NTV HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7176
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N24 DOKU
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7177
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AXN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7178
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: UNIVERSAL CHANNEL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7179
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ONE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7181
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TOGGO PLUS TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7182
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICKELODEON HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7183
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIMAL PLANET HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7184
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV WISSEN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7185
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WELT HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7186
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: FOX HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7187
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARD ALPHA
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7188
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TAGESCHAU HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7189
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL NITRO HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7190
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 KLASSIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7191
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICK JR. HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7192
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NDR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7193
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: EURONEWS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7194
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7195
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SWR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7196
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MDR HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7197
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORTDIGITAL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7198
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: COMEDY CENTRAL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7199
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: OBERPFALZ TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7200
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RAN 1TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7201
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RBW TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7202
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BADEN TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7203
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WDR TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7204
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DEUTSCHES MUSIK
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7205
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL GESCHICHTE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7206
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DOUNA TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7207
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TVA TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7208
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HR TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7209
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ONE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7211
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA SPECIAL HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7212
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA CLASSIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7213
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA BEST OF TV
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7214
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY 1
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7215
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA 1
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7217
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA  24
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7218
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FAMILY HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7219
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FUN HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7220
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ACTION
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7221
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7222
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY HITS
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7223
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY COMEDY
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7224
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY KRIMI HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7225
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY NOSTALGIE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7226
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA PREMIERE HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7230
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA PREMIERE +24
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7231
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SERIEN & SHOWS
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7232
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN BAR 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7259
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN BAR 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7260
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT NEWS HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7261
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7262
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7263
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7264
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7265
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7266
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 6 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7267
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7268
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 8 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7269
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 9 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7270
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT BUNDESLIGA 10 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7271
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7272
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7273
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7274
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7275
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7276
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 6 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7277
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7278
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 8 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7279
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 9 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7280
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 10 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7281
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7285
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AUTO MOTOR SPORT HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7286
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BBL SPORT 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7287
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BBL SPORT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7288
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD1
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7289
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD2
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7290
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD3
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7291
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD4
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7292
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD5
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7293
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD6
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7294
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD7
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7295
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD8
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7296
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD9
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7297
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NETFLIX DEUTSCHE HD10
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7298
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7299
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7300
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7301
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7302
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 5 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7303
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 6 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7304
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 7 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7305
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MAX SELECT 1 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7306
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MAX SELECT 2 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7307
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MAX SELECT 3 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7308
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MAX SELECT 4 HD
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/7309
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 4K ULTRA
+http://serivcestv.xyz:8080/3143631718254908/2598854265/91415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/35527
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/35526
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193370
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL TELEVISION
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193371
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193372
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL2
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193373
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL LIVING HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193374
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193375
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 MAXX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193376
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 FUN HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193377
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193378
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193379
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT1 GOLD HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193380
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 3SAT HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193381
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193382
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193383
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF INFO HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193384
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF NEO HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193385
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAS ERSTE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193386
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193387
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193388
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NDR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193389
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HR
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193390
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WELT HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193391
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193392
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 DOKU
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193393
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 CLASSICS HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193394
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BR FERNSEHEN HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193395
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ONE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193396
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SERVUS TV HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193397
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AXN HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193399
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: FOX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193400
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: E! ENTERTAINMENT HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193401
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193402
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT SERIE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193403
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PASSION HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193404
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL CRIME HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193405
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VOX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193406
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 13TH STREET HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193407
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SYFY HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193408
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193409
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193410
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HEIMATKANAL
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193411
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193412
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELE 5 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193413
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SIXX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193414
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZEE ONE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193416
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193417
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 3 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193418
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193420
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193421
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FAMILY HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193423
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193424
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193425
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA EMOTION
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193426
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA COMEDY
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193427
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193428
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193429
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY KRIMI
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193430
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SILVERLINE
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193431
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT FILM HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193432
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT COMEDY FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193433
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SONY CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193434
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: UNIVERSAL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193435
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193436
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193437
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 3 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193438
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 4 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193439
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 5 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193440
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 6 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193441
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 7 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193442
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 8 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193443
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT NEWS HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193445
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT AUSTRIA
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193446
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193447
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193448
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193449
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 1 BAR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193450
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 2 BAR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193451
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193452
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1  HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193453
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORTDIGITAL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193454
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AUTO MOTOR SPORT CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193455
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 1 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193459
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 2 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193461
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 3 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193462
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 4 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193463
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 5 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193464
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 6 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193465
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 7 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193466
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 8
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193467
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 9
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193468
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 3 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193469
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 4 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193470
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 5 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193471
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 6 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193472
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 7 HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193473
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DMAX HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193475
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEO WILD FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193476
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISCOVERY CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193477
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HISTORY CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193478
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIMAL PLANET HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193479
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARTE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193480
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BON GUSTO HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193481
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV WISSEN HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193482
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV GESCHICHTE FHD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193483
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SWR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193484
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N24 DOKU
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193485
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TLC HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193486
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WDR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193487
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DELUXE HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193488
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MTV HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193489
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VIVA/COMEDY CENTRAL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193490
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICKELODEON HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193492
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICK JR. HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193493
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CHANNEL HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193494
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CINEMAGIC HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193495
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY JUNIOR HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193496
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY XD HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193497
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CARTOON NETWORK HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193498
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BOOMERANG HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193499
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SUPER RTL
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193500
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: JUNIOR
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193501
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TOGGO PLUS
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193502
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KIKA HD
+http://serivcestv.xyz:8080/3143631718254908/2598854265/193503
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL 4K ULTRA
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/91415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35527
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35526
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193370
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL TELEVISION
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193371
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193372
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL2
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193373
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL LIVING HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193374
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193375
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 MAXX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193376
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: PRO7 FUN HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193377
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT 1 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193378
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193379
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SAT1 GOLD HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193380
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 3SAT HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193381
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193382
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193383
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF INFO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193384
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZDF NEO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193385
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAS ERSTE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193386
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193387
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N-TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193388
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NDR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193389
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HR
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193390
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WELT HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193391
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193392
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 DOKU
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193393
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KABEL 1 CLASSICS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193394
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BR FERNSEHEN HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193395
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ONE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193396
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SERVUS TV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193397
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AXN HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193399
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: FOX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193400
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: E! ENTERTAINMENT HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193401
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193402
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT SERIE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193403
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL PASSION HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193404
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: RTL CRIME HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193405
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VOX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193406
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: 13TH STREET HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193407
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SYFY HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193408
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193409
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NITRO
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193410
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HEIMATKANAL
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193411
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ROMANCE TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193412
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TELE 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193413
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SIXX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193414
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ZEE ONE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193416
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193417
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ORF 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193418
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193420
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193421
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA FAMILY HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193423
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193424
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA ACTION HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193425
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA EMOTION
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193426
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY CINEMA COMEDY
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193427
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193428
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY ATLANTIC HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193429
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY KRIMI
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193430
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SILVERLINE
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193431
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT FILM HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193432
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TNT COMEDY FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193433
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SONY CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193434
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: UNIVERSAL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193435
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193436
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193437
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193438
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193439
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193440
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 6 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193441
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 7 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193442
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SELECT 8 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193443
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT NEWS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193445
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT AUSTRIA
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193446
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193447
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 1
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193448
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193449
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 1 BAR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193450
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DAZN 2 BAR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193451
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193452
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORT 1  HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193453
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPORTDIGITAL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193454
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: AUTO MOTOR SPORT CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193455
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193459
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193461
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193462
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193463
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193464
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 6 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193465
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 7 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193466
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 8
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193467
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY BUNDESLIGA 9
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193468
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193469
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193470
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193471
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 6 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193472
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SKY SPORT 7 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193473
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DMAX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193475
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NATIONAL GEO WILD FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193476
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISCOVERY CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193477
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: HISTORY CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193478
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ANIMAL PLANET HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193479
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: ARTE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193480
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BON GUSTO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193481
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV WISSEN HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193482
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SPIEGEL TV GESCHICHTE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193483
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SWR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193484
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: N24 DOKU
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193485
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TLC HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193486
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: WDR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193487
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DELUXE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193488
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: MTV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193489
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: VIVA/COMEDY CENTRAL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193490
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICKELODEON HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193492
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: NICK JR. HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193493
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193494
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY CINEMAGIC HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193495
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY JUNIOR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193496
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: DISNEY XD HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193497
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: CARTOON NETWORK HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193498
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: BOOMERANG HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193499
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: SUPER RTL
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193500
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: JUNIOR
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193501
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: TOGGO PLUS
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193502
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DE Channels",HLS Cat: DE: KIKA HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/193503
+
+
+
+

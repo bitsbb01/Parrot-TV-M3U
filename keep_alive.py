@@ -1,13 +1,17 @@
 from flask import Flask
 from threading import Thread
+from service import Main
 
 app = Flask('')
 
-html = open('web/web.html', 'r').read()
-
 @app.route('/')
 def home():
-  return html
+  return "401 Unauthorized"
+  
+@app.route('/update/')
+def update():
+  Main()
+  return "200 OK"
 
 def  run():
   app.run(host='0.0.0.0',port=8080)
@@ -15,3 +19,6 @@ def  run():
 def keep_alive():
   t = Thread(target=run)
   t.start()
+
+keep_alive()
+

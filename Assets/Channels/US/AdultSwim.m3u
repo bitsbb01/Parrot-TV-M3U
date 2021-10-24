@@ -1,0 +1,35 @@
+
+
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="US Channels",AdultSwim: US: Adult Swim Aqua Teen Hunger Force [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimBlackJesus.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Black_Jesus_title_card.png" group-title="US Channels",AdultSwim: US: Adult Swim Black Jesus [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimChannel5.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sCRPkPk.jpg" group-title="US Channels",AdultSwim: US: Adult Swim Channel 5 [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jOTChgo.jpg" group-title="US Channels",AdultSwim: US: Adult Swim Dream Corp LLC [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimFishcam.us" tvg-country="US" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="US Channels",AdultSwim: US: Adult Swim Fishcam
+https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+#EXTINF:-1 tvg-id="AdultSwimFishcam.us" tvg-country="US" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="US Channels",AdultSwim: US: Adult Swim Fishcam
+https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
+#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="US Channels",AdultSwim: US: Adult Swim Infomercials [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VsAKoN6.jpg" group-title="US Channels",AdultSwim: US: Adult Swim Last Stream On The Left [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimMetalocalypse.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/N0pMBQ7.jpg" group-title="US Channels",AdultSwim: US: Adult Swim Metalocalypse [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tFks0c6.jpg" group-title="US Channels",AdultSwim: US: Adult Swim Off The Air [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimRickAndMorty.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vLzXFTa.jpg" group-title="US Channels",AdultSwim: US: Adult Swim Rick and Morty [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bTWIjIw.jpg" group-title="US Channels",AdultSwim: US: Adult Swim Robot Chicken [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zIjbwSa.jpg" group-title="US Channels",AdultSwim: US: Adult Swim Samurai Jack [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tqHQy32.jpg" group-title="US Channels",AdultSwim: US: Adult Swim The Eric Andre Show [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QQc2rh8.jpg" group-title="US Channels",AdultSwim: US: Adult Swim The Venture Bros [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yVZAI7F.png" group-title="US Channels",AdultSwim: US: Adult Swim Your Pretty Face Is Going To Hell [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+

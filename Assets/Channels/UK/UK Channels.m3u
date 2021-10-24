@@ -1,0 +1,2202 @@
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6f5Cf7/itv1.png" group-title="UK Channels" tvg-id="ITVLondon.uk",UK: ITV (302p)
+http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/km5yLHw/itv2.png" group-title="UK Channels" tvg-id="ITV2.uk",UK: ITV2 (432p)
+http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/km5yLHw/itv2.png" group-title="UK Channels" tvg-id="ITV2.uk",UK: ITV2 [Not 24/7]
+http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7fcRZ/itv3.png" group-title="UK Channels" tvg-id="ITV3.uk",UK: ITV3 (432p)
+http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12pm4Cc/itv4.png" group-title="UK Channels" tvg-id="ITV4.uk",UK: ITV4 (302p)
+http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="UK Channels" tvg-id="0",UK: Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlNMp0k.png" group-title="UK Channels" tvg-id="AriseNews.uk",UK: Arise News
+https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK Channels" tvg-id="BBCNews.uk",UK: BBC News
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK Channels" tvg-id="BBCNews.uk",UK: BBC News
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="UK Channels" tvg-id="BBCWorldNewsEurope.uk",UK: BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="UK Channels" tvg-id="BBCWorldNewsEurope.uk",UK: BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvBi1Ou.png" group-title="UK Channels" tvg-id="0",UK: Beano TV
+https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png" group-title="UK Channels" tvg-id="BoxHits.uk",UK: Box Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RdpLfr/BTS1.png" group-title="UK Channels" tvg-id="0",UK: BT Sport 1
+https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nwHx1dr/BTS2.jpg" group-title="UK Channels" tvg-id="0",UK: BT Sport 2
+https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="UK Channels" tvg-id="0",UK: Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK Channels" tvg-id="0",UK: Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yjIYUim.jpg" group-title="UK Channels" tvg-id="0",UK: Discover.Film
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6h10JDk.png"group-title="UK Channels" tvg-id="EdgeSport.uk",UK: EDGEsport
+https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
+
+#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c"group-title="UK Channels" tvg-id="EdgeSport.uk",UK: EDGEsport (STIRR)
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK Channels" tvg-id="EnglishClubTV.uk",UK: English Club TV
+http://ott-cdn.ucom.am/s37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIXSg4L.png" group-title="UK Channels" tvg-id="0",UK: FailArmy
+https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jUWffic.png" group-title="UK Channels" tvg-id="0",UK: Filmzie
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg"group-title="UK Channels" tvg-id="FreeSports.uk",UK: FreeSports
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="UK Channels" tvg-id="0",UK: FTF For the fans
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="UK Channels" tvg-id="0",UK: GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="UK Channels" tvg-id="0",UK: Gems TV (360p)
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="UK Channels" tvg-id="0",UK: Hala London
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="UK Channels" tvg-id="0",UK: Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azSptPw.png" group-title="UK Channels" tvg-id="JewelleryMaker.uk",UK: Jewelery Maker
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" group-title="UK Channels" tvg-id="0",UK: Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="UK Channels" tvg-id="0",UK: Supertoons TV
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="UK Channels" tvg-id="0",UK: Tastemade
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="UK Channels" tvg-id="0",UK: Tennis Channel (UK)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="UK Channels" tvg-id="TheBoxUK.uk",UK: The Box UK
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="UK Channels" tvg-id="0",UK: The Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="UK Channels" tvg-id="0",UK: Time Line
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="UK Channels" tvg-id="TJC.uk",UK: TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MWkm3no.png" group-title="UK Channels" tvg-id="0",UK: Truly
+https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="UK Channels" tvg-id="0",UK: V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnX0NGt.png" group-title="UK Channels" tvg-id="0",UK: William Hill BTV 1
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_tklzcakd_1_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnX0NGt.png" group-title="UK Channels" tvg-id="0",UK: William Hill BTV 2
+https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_3838s0ja_1_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="UK Channels" tvg-id="0",UK: Wonder
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="UK Channels" tvg-id="0",UK: Wonder
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="EDGESport.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjhf/EdgeSport_400x400.png" group-title="UK Channels",UK: EDGESport
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HardKnocks.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjRf/HardKnocks_490x490.png" group-title="UK Channels",UK: Hard Knocks [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+#EXTINF:-1 tvg-id="IGNTV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTVf/IGN_512x512.png" group-title="UK Channels",UK: IGN TV
+https://ign-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjdf/PAC12_720x720.png" group-title="UK Channels",UK: Pac12 Insider
+https://pac12-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SKITV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjlf/SkiTV_400x400.png" group-title="UK Channels",UK: SKI TV [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="UK Channels",UK: SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="UK Channels",UK: World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="UK Channels",UK: Bloomberg TV+
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="UK Channels",UK: Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="UK Channels",UK: CNN International UK
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK Channels",UK: Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dust.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="UK Channels",UK: Dust
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="UK Channels",UK: EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="UK Channels",UK: Euronews English
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEngland.fr" tvg-country="FR" tvg-language="" tvg-logo="" group-title="UK Channels",UK: Fashion TV (England)
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="UK Channels",UK: FilmStreams
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FTFForthefans.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="UK Channels",UK: FTF For the fans
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="UK Channels",UK: Fuel TV
+https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="UK Channels",UK: Gusto TV
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseandCountry.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="UK Channels",UK: Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="UK Channels",UK: Insight TV
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWild.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="UK Channels",UK: InWild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/YqF4usD.png" group-title="UK Channels",UK: InWonder
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="UK Channels",UK: MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK Channels",UK: PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetKnowledge.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/U8GADbT.jpg" group-title="UK Channels",UK: Planet Knowledge
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="UK Channels",UK: Players TV
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="UK Channels",UK: Qello Concerts by Stingray
+https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaUK.es" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="UK Channels",UK: Rakuten TV Drama UK
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightUK.es" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="UK Channels",UK: Rakuten TV Spotlight UK
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RealStories.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/TVfuBfJ.jpg" group-title="UK Channels",UK: Real Stories
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SofyTV.ch" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="UK Channels",UK: Sofy TV
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SparkTv.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vTGknv3.png" group-title="UK Channels",UK: Spark Tv
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsChannelNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ytimg.com/vi/2FtbPXeYTvo/maxresdefault.jpg" group-title="UK Channels",UK: Sports Channel Network
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="UK Channels",UK: Stingray Karaoke
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="UK Channels",UK: Tastemade
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="UK Channels",UK: Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannelUK.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="UK Channels",UK: Tennis Channel (UK)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveEngland.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="UK Channels",UK: The Pet Collective UK
+https://the-pet-collective-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TimeLine.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="UK Channels",UK: Time Line
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Toongoggles.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/8PEf3Vn.jpg" group-title="UK Channels",UK: Toongoggles
+https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXP.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="UK Channels",UK: Travel XP
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="UK Channels",UK: VENN
+https://venntv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK Channels",UK: Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Action FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37504
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Action HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68580
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Arena FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36195
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Arena HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68582
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Cricket FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37506
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Cricket HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68583
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports F1 FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37507
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports F1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68584
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports FootBall FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37508
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports FootBall HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68585
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS GOLF FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37509
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Golf HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68586
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Mainevent FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37510
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Mainevent HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68587
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Mix FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37511
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Mix HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68588
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports News FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36200
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports News HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68589
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Premier League FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36201
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Premier League HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68590
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Racing FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37513
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Racing HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68581
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 4SEVEN FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16955
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/18716
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC First FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16259
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC Entertainment HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16319
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EDEN FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/18427
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 1 FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16361
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16362
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 3 FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16363
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC-News-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36129
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky-News-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36194
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37441
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5 Star SD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37444
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ALIBI HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37445
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37446
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC TWO HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37447
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CARTOON NETWORK HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37449
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37450
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY CHANNEL HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37454
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY TURBO
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37455
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISNEY CHANNEL HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37456
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EDEN
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37458
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HISTORY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37461
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37462
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37466
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO WILD FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37467
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37468
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK JR
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37469
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PREMIER SPORTS 1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37471
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA PREMIERE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37483
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA SCI-FI & HORROR HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37484
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA THRILLER HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37486
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY NEWS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37487
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY TWO
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37489
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SYFY HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37495
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TLC HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37496
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TRAVEL CHANNEL
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37497
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: YESTERDAY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37499
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 3 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37642
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37643
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Channel 5 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37661
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky-Atlantic-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36192
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky1-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36203
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TG4-SD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36205
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Tiny-Pop
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36206
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: W HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36210
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Yesterday
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36211
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: S4C
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36184
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE2-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36183
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE ONE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36182
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Really
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Racing-UK-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36178
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Pop-Max
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36177
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Tiny Pop
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36176
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Paramount-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36174
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Nickelodeon
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36173
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Nick-Junior-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36171
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Nat-Geo-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36169
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV-Rocks
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36167
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV-Hits
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36164
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV-Classic
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36161
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36159
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36158
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Love Nature HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36157
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Home & Health
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36154
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: H2-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36153
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Drama
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36151
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: LFC TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36156
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DMAX
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36150
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Disney-XD-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36149
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Disney-Junior
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36148
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Discovery-Science
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36146
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Discovery-History
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36145
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CNN International
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36144
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CITV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36143
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Challenge
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36141
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS-Reality
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS-Drama
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36138
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Cartoonito
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36136
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Chelsea TV HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS-Justice
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36139
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BoxNation-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36135
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Boomerang
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36134
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Blaze
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36133
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Betfred-TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36132
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC-Scotland-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36131
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC-Parliament
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36130
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5Select
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36122
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5USA
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36123
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: AMC
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36124
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Animal-Planet-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36125
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: babytv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36127
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 92 News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38137
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: AajTak News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38138
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Aastha
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38139
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Abp News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Akaal Tv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: AL JAZEERA HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38143
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ALIBI HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38144
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Ary Family
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38145
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Ary World
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38147
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: B4u Music
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38149
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38150
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38151
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BLOOMBERG
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38154
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38157
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BOX OFFICE 10
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38158
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38159
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 3
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38160
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 4
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38161
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BOX OFFICE 5
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38162
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 6
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38163
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Brit Asia
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38167
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT / ESPN HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38168
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT EXTRA 3 HD (Live Match Only)
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38171
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS ACTION HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38173
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Channel 44
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38175
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 5 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38176
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Color TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38177
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Colors Rishtey Europe
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38179
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: COMEDY CENTRAL EXTRA HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: COMEDY CENTRAL HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38181
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CRIME AND INVESTIGATION HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38182
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DAVE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38183
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY SHED HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38184
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Duniya News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38185
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: E4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38186
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EIR SPORT 1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38187
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EIR SPORT 2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38188
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ELEVEN SPORTS HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38189
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EURONEWS HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38190
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FRANCE 24 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38194
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FREE SPORTS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38195
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Geo Tv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38198
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: GOLD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38199
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Hidayat Tv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38200
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: History Channel 1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38201
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HISTORY CHANNEL 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38202
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HORROR CHANNEL
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38204
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HORSE & COUNTRY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38205
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Hum Masala
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38206
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Hum Tv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38207
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: INVESTIGATION DISCOVERY HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38208
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38210
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV BE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38211
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: KTV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38213
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MAGIC TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38215
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MORE 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38216
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV DANCE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38217
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO WILD HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38218
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: News One PK
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38219
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK JR TOO
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38220
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PREMIER SPORTS 2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38225
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Ptc Punjabi
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38227
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Ptv News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38229
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: QUEST
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38230
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE NEWS HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38232
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE TWO HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38233
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ARTS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38245
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ATLANTIC
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38246
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA ACTION
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38247
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA COMEDY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38248
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA DRAMA
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38250
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA FAMILY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38251
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA GREATS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38252
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA HITS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38253
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA PREMIER
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38255
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA THRILLER
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38257
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY MOVIES COMEDY HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38258
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY MOVIES FAMILY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38260
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY MOVIES SCI-FI & HORROR HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38261
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MAX
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38265
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sony Max 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38266
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MOVIES
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38267
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SYFY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38269
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Talking Pictures
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38271
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UFC FIGHT night Pass
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38272
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UFC FIGHT Pass
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38273
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: VH1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38274
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: WATCH
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38275
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Zee TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38277
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Zing Music
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38278
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Eleven Sports 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38452
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Eleven Sports 3
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38453
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC Lifestyle
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38854
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 1 -3-
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38860
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38883
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Alibi
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40730
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Alibi FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40731
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40732
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Discovery History
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40735
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Discovery Science
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40736
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Fox
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40737
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Fox FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40738
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Lifetime
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40739
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MUTV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40744
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PDC DARTS 1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40745
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PDC DARTS 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40746
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Pick
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40747
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Pop
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40748
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Quest Red
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40750
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Cinema Select FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40752
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Crime FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40753
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY HISTORY FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40754
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Living
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40755
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Living HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40756
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TCM FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40757
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Universal HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40758
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UTV HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40759
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: VIRGIN MEDIA 1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40760
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: WWE Network 24
+http://live.iptvtotaal.com:8000/6234122498/8329556324/63434
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: WWE Channel FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/63435
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Fight Network
+http://live.iptvtotaal.com:8000/6234122498/8329556324/63436
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC 1 HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33779
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC 2 HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33778
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC 3 HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33777
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC 4 HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33776
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC NEW HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33775
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BBC_Alba
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33774
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_4_Seven_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33773
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_1_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33771
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_2_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33770
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_3_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33769
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_ESPN_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33768
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_Extra_1
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33767
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_Extra_2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33766
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_Extra_3
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33765
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_Extra_4
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33764
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_ITV_1
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33763
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_ITV_2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33762
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_ITV_3
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33761
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_ITV_4
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33760
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_UFC_FIGHT_PASS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33759
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Challenge
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33758
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_CBS_Action
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33757
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_CBS_REALITY
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33756
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Channel_4_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33755
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Channel_5_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33754
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Channel_5_Star
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33753
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Channel_5_USA
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33752
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Movies_Action&Adventure
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33751
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_MOVIES_CRIME_&_THRILLER
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33750
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_MOVIES_DRAMA
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33749
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Movies_Family
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33748
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Living_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33747
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Movies_Grates_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33746
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Movies_Premiere
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33745
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_MOVIES_SELECT
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33744
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_MOVIES_Hits
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33743
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Movies_SyFi-Horror
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33742
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_MOVIES_COMEDY
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33741
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_MOVIES_DISNEY_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33740
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Chelsea_TV
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33739
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Comedy_Central_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33738
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Comedy_Central_Extra
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33737
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Crime_&_Investigation
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33736
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_CBS_Drama
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33735
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_DISCOVERY_SCIENCE
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33734
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Eir_Sports_1
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33731
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Eir_Sports_2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33730
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_EURONEWS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33729
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Baby_TV
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33728
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Disney_Junior
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33727
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_DISNEY_CHANNEL_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33726
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_DRAMA
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33725
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_DMAX_UK
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33724
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Discovery_Shed
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33723
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_DISCOVERY_TURBO
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33722
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_FOX_SPORTS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33721
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Fox
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33720
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_DISCOVERY_HISTORY
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33719
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_DISCOVERY_INVESTIGATION
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33718
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Home
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33717
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Home_&_Health
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33716
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_MTV
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33715
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_MTV_Dance
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33714
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_MTV_Rocks
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33713
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_MTV_Hits
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33712
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_MTV_Classic
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33711
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_HORROR_CHANNEL
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33710
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_LFC_TV_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33709
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_France_24_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33708
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Premier_Sports_1_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33707
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_DISCOVERY_Channel_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33706
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_E!_Entertainment_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33705
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_NAT_GEO_WILD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33704
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_NAT._GEO._FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33703
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Celtic_FC_TV (Live for Matches)
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33702
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_news
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33701
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Action_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33700
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Action_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33699
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Mix_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33698
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Mix_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33697
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Arena_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33696
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Arena_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33695
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Cricket_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33694
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Cricket_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33693
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_SPORTS_GOLF_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33692
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_SPORTS_MAIN_EVENT_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33691
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Main_Event_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33690
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Premier_League_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33689
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Premier_League_FullHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33688
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Football_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33687
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Football_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33686
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_SPORTS_F1_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33685
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_SPORTS_F1_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33684
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Sports_Golf_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33683
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BoxNation_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33682
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Alibi
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33681
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Animal_Planet
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33680
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Dave
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33679
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_E4
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33678
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Film_4
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33677
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Gold
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33676
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_RTE_One_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33675
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_RTE_TWO_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33674
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Setanta_Sports_1
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33673
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_2
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33672
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_Arts_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33671
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_Atlantic_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33670
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SKY_NEWS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33669
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_One
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33668
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sky_MUTV_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33667
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Sony_Movies
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33666
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_EDEN
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33665
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Travel_Channel
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33664
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_True_Entertainment
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33663
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_True_Movies_1
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33662
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Universal
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33661
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_VIVA
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33660
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Watch
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33659
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_WWE_Network
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33658
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Yesterday
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33657
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_CBeebies_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33656
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_DISNEY_XD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33655
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Cartoon_Network_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33654
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_NICK_JUNIOR_Too
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33653
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_NICKTOONS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33652
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_RACING_UK
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33651
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_UTV_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33650
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Fine_Living
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33649
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Univision Deportes
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33648
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_TLC
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33647
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_FOX_NEWS
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33646
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_FOOD_NETWORK
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33645
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_QUEST
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33644
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Quest_Red
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33643
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Movies4Men
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33642
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_SYFY_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33641
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_TCM
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33640
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_History_Channel_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33639
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Hits
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33638
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BOX OFFICE
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33637
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_3_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33636
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_2_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33635
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_BT_Sport_1_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33634
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Tiny_Pop_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33633
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_Premier_Sports_2_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33632
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_La_Liga_Tv_FHD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33631
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UK_FREE_SPORTS_HD
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33630
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT EXTRA 1
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122666
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT EXTRA 2
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122667
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT EXTRA 3 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122668
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT EXTRA 4
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122669
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT EXTRA 5
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122670
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS 1 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122671
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS 2 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122672
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS 3 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122673
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS ESPN FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122674
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EIR SPORT 1
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122675
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EIR SPORT 2
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122676
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS ACTION FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122679
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS ARENA
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122680
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS BOX OFFICE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122681
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS CRICKET FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122682
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS F1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122683
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS FOOTBALL FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122684
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS GOLF HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122685
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS MAIN EVENT FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122686
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS MIX FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122687
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS NEWS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122688
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS PREMIER LEAGUE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/122689
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV1 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194603
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194604
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV2 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194605
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194606
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV3 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194607
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194608
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV4 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194609
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194610
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITVBE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194611
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITVBE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194612
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 4 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194613
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194614
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MORE4 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194615
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MORE4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194616
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Channel 5 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194617
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194618
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE ONE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194619
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE TWO FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194620
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5 USA HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194621
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE NORTHERN IRELAND FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194622
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE SCOTLAND FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194623
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC2 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194624
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE SCOTLAND HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194625
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194626
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194627
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC SCOTLAND HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194628
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC NEWS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194629
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC SCOTLAND FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194630
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC NEWS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194631
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ALBA HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194632
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ALBA GLASGOW HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194633
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE CHANNEL ISLANDS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194634
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE EAST EAST HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194635
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE MIDLANDS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194636
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE EAST WEST HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194637
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE EAST YORKSHIRE AND LINCOLNSHIRE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194638
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE NORH EAST AND CUMBRIA HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194639
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE NORTH WEST HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194640
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE NORTHERN IRELAND HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194641
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE OXFORD HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194642
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE SCOTLAND HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194643
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC RED BUTTON 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194644
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE SOUTH HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194645
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE SOUTH EAST HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194646
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE SOUTH WEST HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194647
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE WALES HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194648
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE WEST HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194649
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE WEST MIDLANDS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194650
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE YORK AND N MIDLANDS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194651
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC PARLIAMENT HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194652
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC SCOTLAND HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194653
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC TWO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194654
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC TWO NORTHERN IRELAND HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194655
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC TWO WALES HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194656
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC FOUR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194657
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: E4 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194658
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: E4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194659
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: E4 PLUS1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194660
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ONE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194662
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ONE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194663
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ARTS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194664
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ARTS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194665
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY WITNESS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194666
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY WITNESS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194667
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SYFY FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194668
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SYFY HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194669
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DMAX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194670
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS REALITY SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194671
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS JUSTICE SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194672
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS DRAMA SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194673
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: COMEDY CENTRAL FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194674
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: COMEDY CENTRAL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194675
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FOX FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194676
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FOX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194677
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: E! FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194678
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: E! HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194679
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PICK SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194680
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: YESTERDAY SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194681
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA PREMIERE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194683
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA PREMIERE SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194684
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA ACTION FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194685
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA ACTION SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194686
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA FAMILY FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194687
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA FAMILY SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194688
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA COMEDY FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194689
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA COMEDY SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194690
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA DRAMA FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194691
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA DRAMA SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194692
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA SCIFI FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194693
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA SCIFI SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194694
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA GREATS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194695
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA GREATS SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194696
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA HITS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194697
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA HITS SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194698
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ATLANTIC FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194699
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ATLANTIC SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194700
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA THRILLER FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194701
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA FEEL GOOD FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194702
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PARAMOUNT FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194703
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PARAMOUNT HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194704
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TCM FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194705
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TCM HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194706
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS NEWS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194708
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS MIX FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194709
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS NEWS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194710
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS MIX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194711
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS NEWS SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194712
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS MIX SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194713
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS ARENA FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194714
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS ARENA HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194715
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS ARENA SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194716
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS CRICKET FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194717
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS CRICKET HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194718
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS CRICKET SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194719
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS F1 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194720
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS F1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194721
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS F1 SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194722
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS FOOTBALL FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194723
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS FOOTBALL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194724
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS FOOTBALL SDD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194725
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS GOLF FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194726
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS GOLF HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194727
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS GOLF SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194728
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS MAIN EVENTS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194729
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS MAIN EVENTS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194730
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS MAIN EVENTS SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194731
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS NFL FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194732
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS NFL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194733
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS NFL SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194734
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS PREMIER LEAGUE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194735
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS PREMIER LEAGUE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194736
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS PREMIER LEAGUE SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194737
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS RACING FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194738
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS RACING HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194739
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS RACING SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194740
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PREMIER SPORTS 1 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194741
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PREMIER SPORTS 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194742
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PREMIER SPORTS 2 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194743
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PREMIER SPORTS 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194744
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RACING UK FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194745
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RACING UK HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194746
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT ESPN FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194751
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT ESPN SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194752
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 1 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194753
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194754
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 2 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194755
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194756
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 3 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194757
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194758
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS EXTRA 1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194759
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS EXTRA 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194760
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS EXTRA 3 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194761
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS EXTRA 4 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194762
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS EXTRA 5 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194763
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS EXTRA 6 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194764
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORTS EXTRA 7 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194765
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BOXNATION HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194766
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BOXNATION SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194767
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BOX HITS SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194768
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194770
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194771
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY SCIENCE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194772
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY HISTORY SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194773
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY HISTORY PLUS1 SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194774
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: INVESTIGATION DISCOVERY SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194775
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: INVESTIGATION DISCOVERY PLUS1 SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194776
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CRIME INV FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194777
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CRIME INV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194778
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY TURBO SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194779
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194780
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO WILD FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194781
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ANIMAL PLANET SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194782
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY HISTORY HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194783
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY HISTORY 2 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194784
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ALIBI FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194785
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ALIBI HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194786
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DAVE FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194787
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DAVE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194788
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: GOLD FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194789
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TRAVEL XP SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194790
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: LOVE WORLD FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194791
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FOOD NETWORK SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194792
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BET BLACKENTTV SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194794
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194795
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV CLASSIC SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194796
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV ROCKS
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194797
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV BASE SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194798
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV MUSIC SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194799
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISNEY XD HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194801
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISNEY JNR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194802
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISNEY CHANNEL HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194803
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CARTOON NETWORK FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194804
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CARTOON NETWORK HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194805
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CARTOONITO SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194806
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BABY TV SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194807
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MAGIC SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194808
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK JR FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194809
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Nick JR HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194810
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194811
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194812
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICKTOONS SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194813
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICKELODEON SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194814
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194815
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK JR. TOO SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194816
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK JR. SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194817
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK JR PLUS1 SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194818
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICKELODEON PLUS1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194819
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY NEWS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194821
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY NEWS HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194822
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC NEWS SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194823
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CNN FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194824
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BLOOMBERG FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194825
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 4MUSIC SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194827
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 4SEVEN FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194828
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5SELECT SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194829
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ALIBI SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194830
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: B4U MOVIES HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194831
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: B4U MUSIC HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194832
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BLAZE SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194833
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHALLENGE SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194834
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CLUBLAND TV SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194835
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EDEN FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194836
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: GEO TV SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194837
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: GOLD HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194838
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HORROR CHANNEL SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194839
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: KERRANG SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194840
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: KISS SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194841
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: LIFETIME FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194842
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NOW 70s SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194843
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NOW 80S SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194844
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NOW 90s XMAS SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194845
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: QUEST FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194846
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: QUEST HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194847
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: S4C FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194848
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: S4C SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194849
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY TV FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194850
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MAX FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194851
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY TV HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194852
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MAX HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194853
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY TV SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194854
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MOVIES SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194855
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MAX SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194856
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY CHANNEL SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194857
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY ACTION SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194858
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MAX SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194859
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MAX 2 SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194860
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY SAB S
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194861
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY CLASSIC PLUS1 SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194862
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MOVIES PLUS1 SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194863
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY CHANNEL PLUS1 SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194864
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY ACTION PLUS1 SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194865
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY CHANNEL SD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194866
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: STAR GOLD FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194867
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: STAR PLUS FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194868
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: STV FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194869
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: THE VAULT HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194870
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TLC FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194871
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UTV FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194872
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ZEE TV FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194873
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ZEE CINEMA FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/194874
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Action FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37504
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Action HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68580
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Arena FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36195
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Arena HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68582
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Cricket FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37506
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Cricket HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68583
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports F1 FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37507
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports F1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68584
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports FootBall FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37508
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports FootBall HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68585
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY SPORTS GOLF FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37509
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Golf HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68586
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Mainevent FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37510
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Mainevent HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68587
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Mix FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37511
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Mix HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68588
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports News FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36200
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports News HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68589
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Premier League FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36201
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Premier League HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68590
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Racing FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37513
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Sports Racing HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/68581
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 4SEVEN FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16955
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/18716
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC First FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16259
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC Entertainment HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16319
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EDEN FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/18427
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 1 FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16361
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16362
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT 3 FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/16363
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC-News-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36129
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky-News-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36194
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37441
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5 Star SD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37444
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ALIBI HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37445
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37446
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC TWO HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37447
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CARTOON NETWORK HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37449
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37450
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY CHANNEL HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37454
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY TURBO
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37455
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISNEY CHANNEL HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37456
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EDEN
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37458
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HISTORY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37461
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37462
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37466
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO WILD FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37467
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37468
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK JR
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37469
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PREMIER SPORTS 1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37471
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA PREMIERE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37483
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA SCI-FI & HORROR HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37484
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA THRILLER HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37486
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY NEWS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37487
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY TWO
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37489
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SYFY HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37495
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TLC HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37496
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TRAVEL CHANNEL
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37497
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: YESTERDAY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37499
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 3 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37642
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37643
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Channel 5 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/37661
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky-Atlantic-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36192
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky1-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36203
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TG4-SD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36205
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Tiny-Pop
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36206
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: W HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36210
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Yesterday
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36211
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: S4C
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36184
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE2-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36183
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE ONE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36182
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Really
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Racing-UK-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36178
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Pop-Max
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36177
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Tiny Pop
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36176
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Paramount-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36174
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Nickelodeon
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36173
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Nick-Junior-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36171
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Nat-Geo-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36169
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV-Rocks
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36167
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV-Hits
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36164
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV-Classic
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36161
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36159
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36158
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Love Nature HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36157
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Home & Health
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36154
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: H2-FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36153
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Drama
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36151
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: LFC TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36156
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DMAX
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36150
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Disney-XD-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36149
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Disney-Junior
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36148
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Discovery-Science
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36146
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Discovery-History
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36145
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CNN International
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36144
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CITV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36143
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Challenge
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36141
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS-Reality
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS-Drama
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36138
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Cartoonito
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36136
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Chelsea TV HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS-Justice
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36139
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BoxNation-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36135
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Boomerang
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36134
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Blaze
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36133
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Betfred-TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36132
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC-Scotland-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36131
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC-Parliament
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36130
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5Select
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36122
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5USA
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36123
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: AMC
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36124
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Animal-Planet-HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36125
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: babytv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/36127
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 92 News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38137
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: AajTak News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38138
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Aastha
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38139
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Abp News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Akaal Tv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: AL JAZEERA HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38143
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ALIBI HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38144
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Ary Family
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38145
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Ary World
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38147
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: B4u Music
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38149
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38150
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38151
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BLOOMBERG
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38154
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38157
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BOX OFFICE 10
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38158
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38159
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 3
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38160
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 4
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38161
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BOX OFFICE 5
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38162
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Box Office 6
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38163
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Brit Asia
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38167
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT / ESPN HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38168
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BT SPORT EXTRA 3 HD (Live Match Only)
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38171
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS ACTION HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38173
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Channel 44
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38175
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 5 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38176
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Color TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38177
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Colors Rishtey Europe
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38179
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: COMEDY CENTRAL EXTRA HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38180
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: COMEDY CENTRAL HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38181
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CRIME AND INVESTIGATION HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38182
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DAVE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38183
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY SHED HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38184
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Duniya News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38185
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: E4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38186
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EIR SPORT 1 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38187
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EIR SPORT 2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38188
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ELEVEN SPORTS HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38189
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EURONEWS HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38190
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FRANCE 24 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38194
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FREE SPORTS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38195
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Geo Tv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38198
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: GOLD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38199
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Hidayat Tv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38200
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: History Channel 1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38201
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HISTORY CHANNEL 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38202
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HORROR CHANNEL
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38204
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HORSE & COUNTRY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38205
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Hum Masala
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38206
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Hum Tv
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38207
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: INVESTIGATION DISCOVERY HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38208
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38210
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV BE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38211
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: KTV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38213
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MAGIC TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38215
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MORE 4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38216
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MTV DANCE HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38217
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO WILD HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38218
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: News One PK
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38219
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK JR TOO
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38220
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PREMIER SPORTS 2 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38225
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Ptc Punjabi
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38227
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Ptv News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38229
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: QUEST
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38230
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE NEWS HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38232
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RTE TWO HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38233
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ARTS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38245
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY ATLANTIC
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38246
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA ACTION
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38247
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA COMEDY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38248
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA DRAMA
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38250
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA FAMILY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38251
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA GREATS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38252
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA HITS
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38253
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA PREMIER
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38255
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY CINEMA THRILLER
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38257
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY MOVIES COMEDY HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38258
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY MOVIES FAMILY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38260
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY MOVIES SCI-FI & HORROR HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38261
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MAX
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38265
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sony Max 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38266
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SONY MOVIES
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38267
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SYFY
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38269
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Talking Pictures
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38271
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UFC FIGHT night Pass
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38272
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UFC FIGHT Pass
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38273
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: VH1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38274
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: WATCH
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38275
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Zee TV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38277
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Zing Music
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38278
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Eleven Sports 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38452
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Eleven Sports 3
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38453
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC Lifestyle
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38854
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 1 -3-
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38860
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky News
+http://live.iptvtotaal.com:8000/6234122498/8329556324/38883
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Alibi
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40730
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Alibi FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40731
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC4 HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40732
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Discovery History
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40735
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Discovery Science
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40736
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Fox
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40737
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Fox FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40738
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Lifetime
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40739
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MUTV
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40744
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PDC DARTS 1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40745
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PDC DARTS 2
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40746
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Pick
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40747
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Pop
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40748
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Quest Red
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40750
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Cinema Select FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40752
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Crime FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40753
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SKY HISTORY FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40754
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Living
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40755
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Sky Living HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40756
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TCM FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40757
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Universal HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40758
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UTV HD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40759
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: VIRGIN MEDIA 1
+http://live.iptvtotaal.com:8000/6234122498/8329556324/40760
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: WWE Network 24
+http://live.iptvtotaal.com:8000/6234122498/8329556324/63434
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: WWE Channel FHD
+http://live.iptvtotaal.com:8000/6234122498/8329556324/63435
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: Fight Network
+http://live.iptvtotaal.com:8000/6234122498/8329556324/63436
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85497
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV HD +
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85498
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 2
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85499
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 2 *
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85500
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 3
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85501
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 3 FHD
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85502
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 4
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85503
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 4 *
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85504
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85491
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ONE FHD
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85492
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC TWO
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85493
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC TWO FHD
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85494
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC THREE/CBeebies
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85495
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC FOUR/Cbeebies
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85496
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: VH1
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85505
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TLC
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85506
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV Be.
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85507
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CITV
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85508
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 4
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85509
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 4 FHD
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85510
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 5
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85511
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHANNEL 5 HD +
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85512
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV Be.
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85513
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC NEWS
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85514
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC NEWS HD
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85515
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CNN
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85517
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC FIRST
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85518
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: EDEN
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85519
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 4SEVEN
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85520
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5 STAR
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85521
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5USA
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85522
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: 5 SELECT
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85523
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DAVE
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85524
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MORE4
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85525
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: E4
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85526
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: E!
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85527
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: COMEDY CENTRAL
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85528
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: PICK
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85529
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ALIBI
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85530
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FOX
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85531
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: GOLD
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85532
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: REALLY
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85533
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS DRAMA
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85534
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CBS REALITY
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85535
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: SYFY
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85536
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: AMC
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85537
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TCM HD +
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85538
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: QUEST
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85539
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: YESTERDAY
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85540
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DRAMA
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85541
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CHALLENGE
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85542
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: UFC TV
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85543
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FILM4
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85544
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: TRAVEL CHANNEL
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85545
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HISTORY CHANNEL
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85546
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: FOOD NETWORK
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85547
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: HORSE & COUNTRY
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85548
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: CRIME & INVESTIGATION
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85549
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ANIMAL PLANET
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85550
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85551
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NAT GEO WILD
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85552
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY CHANNEL
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85553
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY SCIENCE
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85554
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY HISTORY
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85555
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISCOVERY SHED
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85556
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BBC ENTERTAINMENT
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85557
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BABY TV
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85558
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISNEY CHANNEL
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85559
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: DISNEY XD
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85560
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICKELODEON
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85561
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: NICK JR
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85562
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RACING UK
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85565
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: BOX NATION
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85566
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: RACING UK *
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85567
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: STAR SPORTS 1
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85569
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: STAR SPORTS 2
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85570
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: MUTV
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85571
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: ITV 4 +1
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85572
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK Channels",HLS Cat: UK: H2
+http://satlok.xyz:8000/abdtalha17/EmiWjLpB8Q/85573
+
+
+
+
+

@@ -1,0 +1,153 @@
+
+
+
+
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="US Channels",Samsung: US: Bloomberg Quicktake
+https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="US Channels",Samsung: US: Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="US Channels",Samsung: US: bon appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="US Channels",Samsung: US: Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q8_20210609T003452.png" group-title="US Channels",Samsung: US: Buzzr
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q8_20210609T003452.png" group-title="US Channels",Samsung: US: Buzzr
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="US Channels",Samsung: US: Cheddar News
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Circle.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1" group-title="US Channels",Samsung: US: Circle
+https://circle-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtv.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="US Channels",Samsung: US: CONtv [Not 24/7]
+https://contv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="US Channels",Samsung: US: Crime 360
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DangerTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4aTk45R.png" group-title="US Channels",Samsung: US: Danger TV
+https://dangertv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DegrassiTheNextGeneration.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mRBQKp3.png" group-title="US Channels",Samsung: US: Degrassi The Next Generation
+https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dust.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="US Channels",Samsung: US: Dust
+https://dust.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="US Channels",Samsung: US: EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="US Channels",Samsung: US: EDGEsport
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="US Channels",Samsung: US: EDGEsport (US)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="US Channels",Samsung: US: Estrella News
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ESTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/B3oElWL.jpg" group-title="US Channels",Samsung: US: ESTV
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="US Channels",Samsung: US: FailArmy
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="US Channels",Samsung: US: FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="US Channels",Samsung: US: Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FTF.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="US Channels",Samsung: US: FTF
+https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="US Channels",Samsung: US: Fuel TV
+https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="US Channels",Samsung: US: Gravitas Movies
+https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="US Channels",Samsung: US: Gusto TV
+https://gustotv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HollyWire.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vcrDETL.png" group-title="US Channels",Samsung: US: Holly Wire
+https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" group-title="US Channels",Samsung: US: HSN
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="IGN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ff62vtM.jpg" group-title="US Channels",Samsung: US: IGN
+https://ign-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="US Channels",Samsung: US: Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="US Channels",Samsung: US: Insight TV
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/gKhDcQY.png" group-title="US Channels",Samsung: US: InTrouble
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/YqF4usD.png" group-title="US Channels",Samsung: US: InWonder
+https://inwonder-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="US Channels",Samsung: US: Ion Plus
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="US Channels",Samsung: US: Law & Crime
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LivelyPlace.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n5lMm78.png" group-title="US Channels",Samsung: US: Lively Place
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MidnightPulp.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png" group-title="US Channels",Samsung: US: Midnight Pulp
+https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieMix.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qcgXbuC.png" group-title="US Channels",Samsung: US: MovieMix
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="US Channels",Samsung: US: MovieSphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="US Channels",Samsung: US: MyTime movie network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="US Channels",Samsung: US: Newsmax
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="US Channels",Samsung: US: Newsy
+https://newsy.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="US Channels",Samsung: US: Outside TV
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3lp7suq.png" group-title="US Channels",Samsung: US: Pac 12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="US Channels",Samsung: US: Players TV
+https://playerstv-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iJmj6zC.png" group-title="US Channels",Samsung: US: Power Nation
+https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iJmj6zC.png" group-title="US Channels",Samsung: US: Power Nation
+https://rtmtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUp.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Pursuit_Circle_190x190.png?raw=true" group-title="US Channels",Samsung: US: Pursuit Up
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Qubo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ki7zVmW.png" group-title="US Channels",Samsung: US: Qubo
+http://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="US Channels",Samsung: US: QVC
+https://qvc.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RiffTrax.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PZ9iGaO.png" group-title="US Channels",Samsung: US: RiffTrax
+https://rifftrax.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="US Channels",Samsung: US: Shout! Factory TV
+https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/46gdAeg.png" group-title="US Channels",Samsung: US: SportsGrid
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="US Channels",Samsung: US: Stadium
+https://stadium.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="US Channels",Stingray Naturescape
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayQello.ca" tvg-country="CA" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true" group-title="US Channels",Stingray Qello
+https://samsung.ott-channels.stingray.com/qello/master.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="US Channels",Samsung: US: Tastemade
+https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="US Channels",Samsung: US: Tastemade en Español
+https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TGJunior.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cZ4pGmk.png" group-title="US Channels",Samsung: US: TG Junior
+https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="US Channels",Samsung: US: The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="US Channels",Samsung: US: The Pet Collective
+https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TheYoungTurks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="US Channels",Samsung: US: The Young Turks (TYT)
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lbOPCEJ.png" group-title="US Channels",Samsung: US: This Old House
+https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="US Channels",Samsung: US: Toon Goggles
+https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="US Channels",Samsung: US: VENN
+https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6r2YHtv.png" group-title="US Channels",Samsung: US: Waypoint TV
+https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X23p0GB.png" group-title="US Channels",Samsung: US: Weather Nation
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="US Channels",Samsung: US: WeatherSpy
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="US Channels",Samsung: US: World Poker Tour
+https://world-poker-tour.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="US Channels",Samsung: US: Xplore
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303" group-title="US Channels",Samsung: US: Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="US Channels",Samsung: US: Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="US Channels",Samsung: US: Zoo Moo
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+

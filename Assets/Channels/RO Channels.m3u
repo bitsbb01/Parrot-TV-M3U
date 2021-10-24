@@ -1,0 +1,820 @@
+
+
+
+#EXTINF:-1 tvg-id="A7TV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="RO Channels",RO: A7TV
+https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1 tvg-id="AlephNews.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/MQ5PkKB.png" group-title="RO Channels",RO: Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="RO Channels",RO: Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="RO Channels",RO: Alfa Omega TV [Not 24/7]
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="RO Channels",RO: Antena 1
+https://iptv-all.lanesh4d0w.codes/romania/a1
+#EXTINF:-1 tvg-id="Antena3.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png" group-title="RO Channels",RO: Antena 3
+https://iptv-all.lanesh4d0w.codes/romania/a3
+#EXTINF:-1 tvg-id="AntenaComedy.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Antena Comedy (432p)
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Antena_Interna%C8%9Bional_%282016%29.png" group-title="RO Channels",RO: Antena International
+https://iptv-all.lanesh4d0w.codes/romania/ai
+#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="RO Channels",RO: Antena Stars
+https://iptv-all.lanesh4d0w.codes/romania/astars
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="RO Channels",RO: AntenaSport
+https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+#EXTINF:-1 tvg-id="B1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="RO Channels",RO: B1
+https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="RO Channels",RO: Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BxUibFh.png" group-title="RO Channels",RO: Canal33
+https://fms-https1.mediadirect.ro/live3/canal33.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Tyrzwr2.png" group-title="RO Channels",RO: Columna TV [Not 24/7]
+rtmp://columna1.arya.ro/live/columnatv1
+#EXTINF:-1 tvg-id="CooknPlay.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Cook%26Play.png" group-title="RO Channels",RO: Cook&Play
+https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CorneaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/cn89fLa.jpg" group-title="RO Channels",RO: Cornea TV [Not 24/7]
+http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Credo TV [Not 24/7]
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElitaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmbmx3y.png" group-title="RO Channels",RO: Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1 tvg-id="GTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" group-title="RO Channels",RO: GTV [Not 24/7]
+rtmp://gtv1.arya.ro:1935/live/gtv1.flv
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png" group-title="RO Channels",RO: Happy Channel [Not 24/7]
+https://iptv-all.lanesh4d0w.codes/romania/happy-channel
+#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="RO Channels",RO: Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="RO Channels",RO: Intermedia TV [Not 24/7]
+http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Kanal_D_Romania.png" group-title="RO Channels",RO: Kanal D
+https://stream1.kanald.ro/iphone/live.m3u8
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Kiss_TV_%282014-present%29.png" group-title="RO Channels",RO: Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="RO Channels",RO: Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="MEDIAREGIONAL.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: MEDIA REGIONAL
+http://83.103.150.198:8080
+#EXTINF:-1 tvg-id="Mireasa.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="RO Channels",RO: Mireasa
+https://iptv-all.lanesh4d0w.codes/romania/mireasa
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mooz.tv/site/img/mooz-dance.jpg" group-title="RO Channels",RO: MoozDance
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" group-title="RO Channels",RO: MoozHits
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-id="MoozRo.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mooz.tv/site/img/mooz-ro1.png" group-title="RO Channels",RO: MoozRo
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="RO Channels",RO: Naşul TV [Not 24/7]
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/DYO1tVZ.png" group-title="RO Channels",RO: Nova TV Brasov [Not 24/7]
+http://novapress.ro:1935/live/nova/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/oLuxC2P.png" group-title="RO Channels",RO: Prima TV [Not 24/7]
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:-1 tvg-id="Profitro.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" group-title="RO Channels",RO: Rapsodia TV
+rtmp://rapsodia1.arya.ro/live/rapsodiatv1
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/L0Givzu.png" group-title="RO Channels",RO: Realitatea FM (Studio)
+https://live.realitatea.net/livertmp/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/L0Givzu.png" group-title="RO Channels",RO: Realitatea Plus
+https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="RO Channels",RO: Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:-1 tvg-id="SangeorzTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qFE5PUx.png" group-title="RO Channels",RO: Sangeorz TV [Not 24/7]
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Speranta TV
+http://us200.streamkit.tv/edge/sperantatv_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="" group-title="RO Channels",RO: Speranta TV
+http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+#EXTINF:-1 tvg-id="Telestar1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="RO Channels",RO: Telestar1
+http://193.34.109.10:8090
+#EXTINF:-1 tvg-id="Telestar1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="RO Channels",RO: Telestar1 [Not 24/7]
+http://s1.streamnet.ro:8053/stream.flv
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="RO Channels",RO: TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="RO Channels",RO: TVR 1 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="RO Channels",RO: TVR 1 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png" group-title="RO Channels",RO: TVR 1 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr1_hd_live/tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png" group-title="RO Channels",RO: TVR 1 [Geo-blocked]
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/TxM5dwY.png" group-title="RO Channels",RO: TVR 2 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k6Qx4vl.png" group-title="RO Channels",RO: TVR 3 [Geo-blocked]
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRCluj.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/8DqsGHO.png" group-title="RO Channels",RO: TVR Cluj [Geo-blocked]
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/TVR_Ia%C8%99i_%282008%29.png" group-title="RO Channels",RO: TVR Iași [Geo-blocked]
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/TVR_T%C3%AErgu_Mure%C8%99_%282008%29.png" group-title="RO Channels",RO: TVR Târgu Mureș [Geo-blocked]
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TVR_Timi%C8%99oara.png" group-title="RO Channels",RO: TVR Timișoara [Geo-blocked]
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="ZURadioTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="RO Channels",RO: ZU Radio TV
+https://iptv-all.lanesh4d0w.codes/romania/zuradiotv
+#EXTINF:-1 tvg-id="ZUTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="RO Channels",RO: ZU TV
+https://iptv-all.lanesh4d0w.codes/romania/zutv
+
+
+
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AMC
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9989
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ALFA OMEGA TV
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55472
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ALEPH NEWS
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55486
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AGRO TV SD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55430
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AGRO TV
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9988
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: 1 Music Channel
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5383
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10069
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1 FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83319
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1 HD
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10068
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN HD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55406
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29832
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN ROMANIA
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10053
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN BLACK
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55484
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN BLACK
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10052
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AUTO MOTOR SPORT
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9946
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN WITH
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55448
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: BOOMERANG
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10011
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: BBC EARTH
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29805
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: B1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/9897
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Boomerang
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55416
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Boomerang
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5386
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Bucovina TV
+https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMA RATON
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55442
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CBS Reality HD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55427
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMARATON
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9992
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CRIME & INVESTIGATION
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29811
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Cinema Kids-Dublat
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55439
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Cinemax HD RO
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5390
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Cinemax 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5389
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Comedy Central
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29821
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISNEY CHANNEL
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10008
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY TURBO XTRA
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55432
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY SCIENCE
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9978
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY RO
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9979
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY CHANNEL
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9981
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Discovery science
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5403
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Discovery channel
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5401
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Discovery Science HD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55421
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Discovery
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55422
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Disney Channel
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55454
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Disney Channel
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5404
+#EXTINF:-1 tvg-country="RO" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" group-title="RO Channels",HLS Cat: RO: EST TV Neamt
+http://89.38.8.130:39435
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: EST TV
+https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: EPIC DRAMA
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29823
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILM NOW
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9997
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILMBOX EXTRA HD
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9999
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILMBOX PREMIUM
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/10000
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FINE LIVING
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55451
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FISHING & HUNTING
+http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9967
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5413
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 2 HD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83350
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FilmBox
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55490
+#EXTINF:-1 tvg-country="RO" tvg-logo="" group-title="RO Channels",HLS Cat: RO: Film Now HD
+http://super-iptv.net:2052/elmu986/BalkanIPTVclub/55411
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ROMANIA TV
+http://qqtv.nl:8080/glista/glista/14427
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 1 HD
+http://qqtv.nl:8080/glista/glista/14957
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 2 HD
+http://qqtv.nl:8080/glista/glista/14956
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 3 HD
+http://qqtv.nl:8080/glista/glista/14955
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1
+http://qqtv.nl:8080/glista/glista/14951
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 3
+http://qqtv.nl:8080/glista/glista/59138
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR Craiova
+http://qqtv.nl:8080/glista/glista/369517
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO TV HD
+http://qqtv.nl:8080/glista/glista/14953
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA STARS
+http://qqtv.nl:8080/glista/glista/14930
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NATIONAL GEOGRAPHIC 
+http://qqtv.nl:8080/glista/glista/14946
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMAX / MEGAMAX
+http://qqtv.nl:8080/glista/glista/14938
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 4 HD
+http://qqtv.nl:8080/glista/glista/14887
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: BOOMERANG
+http://qqtv.nl:8080/glista/glista/14906
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ETNO TV HD
+http://qqtv.nl:8080/glista/glista/14884
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANIMAL PLANET
+http://qqtv.nl:8080/glista/glista/14922
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT EXPLORER
+http://qqtv.nl:8080/glista/glista/14934
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR Tirgu-Mures
+http://qqtv.nl:8080/glista/glista/14883
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMAX 2
+http://qqtv.nl:8080/glista/glista/14893
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI 24 CRAIOVA
+http://qqtv.nl:8080/glista/glista/14914
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI WORLD
+http://qqtv.nl:8080/glista/glista/14920
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR Cluj HD
+http://qqtv.nl:8080/glista/glista/14911
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI ANIMAL WORLD
+http://qqtv.nl:8080/glista/glista/14863
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISNEY JUNIOR
+http://qqtv.nl:8080/glista/glista/14891
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISNEY CHANNEL
+http://qqtv.nl:8080/glista/glista/14892
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI LIFE
+http://qqtv.nl:8080/glista/glista/14862
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI WORLD
+http://qqtv.nl:8080/glista/glista/14861
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY CHANNEL
+http://qqtv.nl:8080/glista/glista/14875
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: KISS TV
+http://qqtv.nl:8080/glista/glista/14888
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: KANAL D TV
+http://qqtv.nl:8080/glista/glista/14889
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: B1 TV
+http://qqtv.nl:8080/glista/glista/329115
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 2 HD
+http://qqtv.nl:8080/glista/glista/14896
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 3 HD
+http://qqtv.nl:8080/glista/glista/14895
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 1 HD
+http://qqtv.nl:8080/glista/glista/14897
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR International (TVRi)
+http://qqtv.nl:8080/glista/glista/14858
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HISTORY CHANNEL
+http://qqtv.nl:8080/glista/glista/14859
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT HISTORY
+http://qqtv.nl:8080/glista/glista/14849
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT NATURE
+http://qqtv.nl:8080/glista/glista/14848
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NAT GEO WILD HD
+http://qqtv.nl:8080/glista/glista/14856
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NATIONAL TV
+http://qqtv.nl:8080/glista/glista/14857
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PARAMOUNT
+http://qqtv.nl:8080/glista/glista/14890
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: REALITATEA TV
+http://qqtv.nl:8080/glista/glista/14917
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ROMANIA TV
+http://qqtv.nl:8080/glista/glista/14918
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TARAF TV
+http://qqtv.nl:8080/glista/glista/14903
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 1 HD
+http://qqtv.nl:8080/glista/glista/14879
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 2 HD
+http://qqtv.nl:8080/glista/glista/14871
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 3 HD
+http://qqtv.nl:8080/glista/glista/14853
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORTS 1
+http://qqtv.nl:8080/glista/glista/14910
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORTS 2
+http://qqtv.nl:8080/glista/glista/14909
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORTS 3
+http://qqtv.nl:8080/glista/glista/14874
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORTS 4
+http://qqtv.nl:8080/glista/glista/14872
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO 2 HD (ACASA)
+http://qqtv.nl:8080/glista/glista/88279
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN BLACK HD
+http://qqtv.nl:8080/glista/glista/12303
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 1
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83323
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 2
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83324
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 3
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83325
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRIMA TV
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83326
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: KANAL D
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83310
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO TV INTERNATIONAL
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83311
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO TV
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83312
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO 2 FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83313
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO TV 2
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83314
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO GOLD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83315
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO X FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83317
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NATIONAL TV
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83318
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1 FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83319
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1 (2K HEVC)
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83320
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 3 FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83321
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA STARS FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83322
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: B1
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83327
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AMC
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83328
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83329
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN WHITE
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83330
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TLC
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83331
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TV 1000
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83332
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: UTV FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83333
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PROFIT.RO
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83334
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIVA UNIVERSAL
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83335
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HAPPY CHANNEL FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83336
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: KISS TV
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83337
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NICK JR.
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83338
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISNEY JUNIOR
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83339
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: MINIMAX ROMANIA HD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83340
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: E! ENTERTAINMENT
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83341
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HIT MUSIC CHANNEL
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83342
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: MUSIC CHANNEL
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83343
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: MTV ROMANIA
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83344
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI 24 HD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83345
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PAPRICA TV
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83346
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: BUCOVINA TV
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83347
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ROMANIA TV
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83348
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO HD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83349
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 2 HD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83350
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 3 FHD/SD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83351
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMAX 2
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83353
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN SPIN
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83354
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILMBOX PREMIUM
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83355
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: COMEDY CENTRAL
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83357
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILM NOW
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83358
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: EPIC DRAMA FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83359
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: BOLLYWOOD TV HD/SD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83360
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN BLACK
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83361
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMARATON FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83362
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINETHRONIX
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83363
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TNT
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83364
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NICKTOONS
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83365
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANIMAL PLANET FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83366
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY SCIENCE
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83367
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY CHANNEL FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83368
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI ANIMAL WORLD FHD/SD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83369
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI WORLD HD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83370
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI LIFE
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83371
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DTX
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83372
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HISTORY CHANNEL FHD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83373
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FISHING & HUNTING
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83374
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NAT GEO WILD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83375
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT HISTORY
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83376
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT EXPLORE
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83377
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TRAVEL MIX
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83378
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: INVESTIGATION DISCOVERY
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83379
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TARAF TV
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83380
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: EXTREME SPORT
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83381
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 1
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83383
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 2
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83384
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 3
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83385
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 4
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83386
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: LOOK SPORT
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83387
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: LOOK PLUS FHD/SD
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83388
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 1
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83389
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 2
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83390
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 3
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83391
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 4
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83392
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FIGHT BOX
+http://satlok.xyz:8000/NEZZ18/NEZZ1805/83393
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232914
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1 FHD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232915
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ALFA OMEGA TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232916
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN BLACK
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232917
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN WHITE HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232918
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 3
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232919
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENNA STARS
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232920
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232921
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN RO
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232922
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN WHITE
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232923
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMAX 2
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232925
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CREDO TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232926
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI 24
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232927
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI ANIMAL WORLD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232928
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI LIFE
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232930
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI WORLD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232931
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI 24 Craiova
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232932
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI WORLD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232933
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISNEY JUNIOR
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232934
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISNEY CHANNEL
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232935
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ETNIC TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232936
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FISHING AND HUNTING
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232937
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HAPPY CHANNEL
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232938
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 2
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232939
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 3
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232940
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO ROMANIA
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232941
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: KANAL D
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232942
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: MEGAMAX
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232943
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: MINIMAX
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232944
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: MUSIC CHANNEL RO
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232945
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NATIONAL GEO WILD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232946
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NATIONAL TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232947
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NICKELODEON
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232948
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRIMA TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232949
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232951
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: REALITATEA TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232952
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ROMANIA TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232953
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TARAF HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232954
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 1
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232955
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 2
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232956
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: B1 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232957
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: B1 TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232958
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ETNO TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232959
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FAVORIT TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232960
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILM CAFE
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232961
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HISTORY CHANNEL
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232962
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HIT MUSIC CHANNEL
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232963
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: LOOK SPORT PLUS
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232964
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: LOOK SPORT
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232965
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NATIONAL 24 PLUS
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232966
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NATIONAL GEOGRAPHIC
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232967
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232968
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO X
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232969
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: REALITATEA PLUS TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232970
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELE M1
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232971
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TRAVEL MIX
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232972
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TRAVEL MIX TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232973
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TV 1000
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232974
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TV 1000 HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232975
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TV PAPRIKA
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232976
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TV PUBLIKA
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232977
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR INTERNATIONAL
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: U TV
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232979
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT EXPLORE
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232980
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT HISTORY
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232981
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT NATURE
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232982
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 1
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232985
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 2
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232986
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 3
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 4
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232988
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 1 HD(On-Demand)
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232989
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 2 HD(On-Demand)
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232990
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 3 HD(On-Demand)
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232991
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 4 HD(On-Demand)
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/232992
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 1
+http://ruzgariptv.us:8000/mahmutali/5334711453/83323
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 2
+http://ruzgariptv.us:8000/mahmutali/5334711453/83324
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TVR 3
+http://ruzgariptv.us:8000/mahmutali/5334711453/83325
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRIMA TV
+http://ruzgariptv.us:8000/mahmutali/5334711453/83326
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: KANAL D
+http://ruzgariptv.us:8000/mahmutali/5334711453/83310
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO TV INTERNATIONAL
+http://ruzgariptv.us:8000/mahmutali/5334711453/83311
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO TV
+http://ruzgariptv.us:8000/mahmutali/5334711453/83312
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO 2 FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83313
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO TV 2
+http://ruzgariptv.us:8000/mahmutali/5334711453/83314
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO GOLD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83315
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PRO X FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83317
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NATIONAL TV
+http://ruzgariptv.us:8000/mahmutali/5334711453/83318
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1 FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83319
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 1 (2K HEVC)
+http://ruzgariptv.us:8000/mahmutali/5334711453/83320
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA 3 FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83321
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANTENA STARS FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83322
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: B1
+http://ruzgariptv.us:8000/mahmutali/5334711453/83327
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AMC
+http://ruzgariptv.us:8000/mahmutali/5334711453/83328
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN
+http://ruzgariptv.us:8000/mahmutali/5334711453/83329
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN WHITE
+http://ruzgariptv.us:8000/mahmutali/5334711453/83330
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TLC
+http://ruzgariptv.us:8000/mahmutali/5334711453/83331
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TV 1000
+http://ruzgariptv.us:8000/mahmutali/5334711453/83332
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: UTV FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83333
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PROFIT.RO
+http://ruzgariptv.us:8000/mahmutali/5334711453/83334
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIVA UNIVERSAL
+http://ruzgariptv.us:8000/mahmutali/5334711453/83335
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HAPPY CHANNEL FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83336
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: KISS TV
+http://ruzgariptv.us:8000/mahmutali/5334711453/83337
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NICK JR.
+http://ruzgariptv.us:8000/mahmutali/5334711453/83338
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISNEY JUNIOR
+http://ruzgariptv.us:8000/mahmutali/5334711453/83339
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: MINIMAX ROMANIA HD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83340
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: E! ENTERTAINMENT
+http://ruzgariptv.us:8000/mahmutali/5334711453/83341
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HIT MUSIC CHANNEL
+http://ruzgariptv.us:8000/mahmutali/5334711453/83342
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: MUSIC CHANNEL
+http://ruzgariptv.us:8000/mahmutali/5334711453/83343
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: MTV ROMANIA
+http://ruzgariptv.us:8000/mahmutali/5334711453/83344
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI 24 HD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83345
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: PAPRICA TV
+http://ruzgariptv.us:8000/mahmutali/5334711453/83346
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: BUCOVINA TV
+http://ruzgariptv.us:8000/mahmutali/5334711453/83347
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ROMANIA TV
+http://ruzgariptv.us:8000/mahmutali/5334711453/83348
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO HD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83349
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 2 HD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83350
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HBO 3 FHD/SD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83351
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMAX 2
+http://ruzgariptv.us:8000/mahmutali/5334711453/83353
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN SPIN
+http://ruzgariptv.us:8000/mahmutali/5334711453/83354
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILMBOX PREMIUM
+http://ruzgariptv.us:8000/mahmutali/5334711453/83355
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: COMEDY CENTRAL
+http://ruzgariptv.us:8000/mahmutali/5334711453/83357
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FILM NOW
+http://ruzgariptv.us:8000/mahmutali/5334711453/83358
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: EPIC DRAMA FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83359
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: BOLLYWOOD TV HD/SD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83360
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: AXN BLACK
+http://ruzgariptv.us:8000/mahmutali/5334711453/83361
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINEMARATON FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83362
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: CINETHRONIX
+http://ruzgariptv.us:8000/mahmutali/5334711453/83363
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TNT
+http://ruzgariptv.us:8000/mahmutali/5334711453/83364
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NICKTOONS
+http://ruzgariptv.us:8000/mahmutali/5334711453/83365
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: ANIMAL PLANET FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83366
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY SCIENCE
+http://ruzgariptv.us:8000/mahmutali/5334711453/83367
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DISCOVERY CHANNEL FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83368
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI ANIMAL WORLD FHD/SD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83369
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI WORLD HD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83370
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI LIFE
+http://ruzgariptv.us:8000/mahmutali/5334711453/83371
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DTX
+http://ruzgariptv.us:8000/mahmutali/5334711453/83372
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: HISTORY CHANNEL FHD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83373
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FISHING & HUNTING
+http://ruzgariptv.us:8000/mahmutali/5334711453/83374
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: NAT GEO WILD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83375
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT HISTORY
+http://ruzgariptv.us:8000/mahmutali/5334711453/83376
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: VIASAT EXPLORE
+http://ruzgariptv.us:8000/mahmutali/5334711453/83377
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TRAVEL MIX
+http://ruzgariptv.us:8000/mahmutali/5334711453/83378
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: INVESTIGATION DISCOVERY
+http://ruzgariptv.us:8000/mahmutali/5334711453/83379
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TARAF TV
+http://ruzgariptv.us:8000/mahmutali/5334711453/83380
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: EXTREME SPORT
+http://ruzgariptv.us:8000/mahmutali/5334711453/83381
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: EUROSPORT 1
+http://ruzgariptv.us:8000/mahmutali/5334711453/83382
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 1
+http://ruzgariptv.us:8000/mahmutali/5334711453/83383
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 2
+http://ruzgariptv.us:8000/mahmutali/5334711453/83384
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 3
+http://ruzgariptv.us:8000/mahmutali/5334711453/83385
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: DIGI SPORT 4
+http://ruzgariptv.us:8000/mahmutali/5334711453/83386
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: LOOK SPORT
+http://ruzgariptv.us:8000/mahmutali/5334711453/83387
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: LOOK PLUS FHD/SD
+http://ruzgariptv.us:8000/mahmutali/5334711453/83388
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 1
+http://ruzgariptv.us:8000/mahmutali/5334711453/83389
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 2
+http://ruzgariptv.us:8000/mahmutali/5334711453/83390
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 3
+http://ruzgariptv.us:8000/mahmutali/5334711453/83391
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: TELEKOM SPORT 4
+http://ruzgariptv.us:8000/mahmutali/5334711453/83392
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RO Channels",HLS Cat: RO: FIGHT BOX
+http://ruzgariptv.us:8000/mahmutali/5334711453/83393
+
+
+
